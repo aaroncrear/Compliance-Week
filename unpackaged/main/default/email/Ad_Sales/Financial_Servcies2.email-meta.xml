@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Financial Services Email List</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Financial Servcies</name>
+    <style>none</style>
+    <subject>Compliance Week Financial Services Email List</subject>
+    <textOnly>Hi {!Contact.FirstName},
+
+Over the last few years, Compliance Week has been developing an email list that reaches the financial services industry exclusively. I would like to see if your firm would be interested in using the list for lead generation purposes.
+
+The list is currently 30,000 and  reaches 100% US based financial services, banking, investment management and insurance firms.
+
+We have several types of emails to use depending on what you are promoting. One of the emails promotes a white paper and generates leads, the other promotes a webcast to drive registrations. The emails all have the same cost and distribution, just designed to promote different offerings. The emails:
+
+
+Thought Leadership Email – Email designed to promote a white paper and generate leads. The email is sent to 30,000 compliance executives in the financial services industry. The email is sent from ComplianceWeek.com on a TEMPLATE and contains the white paper title, description, sponsors logo, and URL link to the registration page. Compliance Week would collect all registration information and pass along all contact information for marketing. The cost of the email is $3,000.
+
+Event of the Week Email – Email designed to promote a third party event such as a webcast or conference that is sent to 30,000 compliance executives in the financial services industry. The email is sent from ComplianceWeek.com on a TEMPLATE and contains the event title, description, sponsors logo, and URL link to registration page. The cost of the email is $3,000.
+
+A sample of the template can be found by clicking here.
+
+If you are interested in a lead generation campaign, I would be happy to send along the companies and titles in the list.
+
+Please let me know if you have questions or interest. Thanks for your consideration.
+
+
+
+-Doug
+
+
+
+----------------------------------
+Doug Juenemann
+Advertising &amp; Events
+Compliance Week
+doug@complianceweek.com
+(617) 570 8610</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

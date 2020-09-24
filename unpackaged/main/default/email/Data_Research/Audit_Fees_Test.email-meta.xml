@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Test Audit Fees email</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>Data_Research</letterhead>
+    <name>Audit Fees Test</name>
+    <style>freeForm</style>
+    <subject>Testing Audit Fees Template</subject>
+    <textOnly>Dear {!Contact.FirstName}
+
+d;laksdjfa;lksdjfa;lskdfjaldksjfa;dsklfjja;sldkjfa;sdlkfja;sldkfj;sdklfjads
+
+$1000000000000.00000</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

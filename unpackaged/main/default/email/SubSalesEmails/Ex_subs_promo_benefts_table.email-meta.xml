@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>what you get and what you don&apos;t for ex-subs generic</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Ex subs promo benefts table</name>
+    <style>none</style>
+    <subject>What you get | What you&apos;re missing</subject>
+    <textOnly>Sure, you get limited updates and event announcements, but there&apos;s a whole lot you&apos;re missing by not subscribing:
+
+Free benefits:
+✓ Event of the Week alerts 
+✓ Thought Leadership downloads   
+✓ Live weekly CPE webcasts
+
+What you&apos;re missing by not subscribing: 
+✓ Unlimited access to award-winning subscriber-only content
+✓ Monthly print issue
+✓ Access to the digital edition archive
+✓ Dozens of On-Demand CPE Library webcasts
+✓ Discounts to Compliance Week events
+✓ My CW—pinning and sharing
+✓ Access to the Resource Center databases
+✓ Tuesday&apos;s Compliance Week eNewsletter
+✓ Weekend Edition&apos;s &quot;plain English&quot; digest
+
+Subscribe for less than $16 per week.
+
+&quot;Compliance Week does an outstanding job of distilling complex issues  into concise articles to meet my needs. It helps... in an era of over-communication via  e-mail and social media, I find Compliance Week to be an invaluable tool  that provides thoughtful insight on emerging issues.&quot;
+Vice President Internal Audit, RLI Corp.</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>User_Entered_Org__c</fullName>
+    <description>The name users enter when they sign up for trials or subscriptions online. This is used to add contacts to existing Organizations to avoid duplicates. If no matching existing Org, the add a new Org.</description>
+    <externalId>false</externalId>
+    <label>User Entered Org</label>
+    <length>120</length>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>true</trackHistory>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

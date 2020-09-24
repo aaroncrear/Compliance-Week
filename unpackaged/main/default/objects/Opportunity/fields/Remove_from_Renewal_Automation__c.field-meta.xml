@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Remove_from_Renewal_Automation__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>This cancels the Renewal Automated messaging being sent to the Contact.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>This cancels the Renewal Automated messaging being sent to the Contact.</inlineHelpText>
+    <label>Remove from Renewal Automation</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>true</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

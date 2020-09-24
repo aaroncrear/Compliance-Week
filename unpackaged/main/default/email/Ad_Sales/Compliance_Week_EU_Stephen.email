@@ -1,0 +1,119 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=us-ascii"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:1271087347;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-636945858 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:.75in;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l0:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:1.25in;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l0:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:1.75in;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l0:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:2.25in;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l0:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:2.75in;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l0:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:3.25in;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l0:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:3.75in;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l0:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:4.25in;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l0:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:4.75in;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=EN-US link="#0563C1" vlink="#954F72"><div class=WordSection1><p class=MsoNormal>Hi {!Contact.FirstName},<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal>I hope you are doing well. I wanted to reach out to {!Account.Name} with sponsorship details of our Compliance Week <b>Europe</b> conference this November. This email contains full details on the event. <o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><b>Compliance Week Europe 2020</b> has one mission: to help compliance, legal, audit and risk executives understand how they can build and manage their ethics &amp; compliance programs more effectively. We are developing an agenda focused on cutting-edge international topics, as well as new perspectives on the fundamental issues of regulatory compliance impacting our world today. Our speakers at this year&#8217;s event bring diverse experience and perspective to provide attendees with the tools they need to elevate their compliance programs. Attending the event will be 500 corporate legal, financial, audit, risk &amp; compliance executives. The event website can be found at <a href="https://events.complianceweek.com/cwe2020">https://events.complianceweek.com/cwe2020</a>. <o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal>The event will be hosted on the ON24 platform and will include live in session chat for the attendees, live polling, and post session zoom discussions which you can participate. We expect the registration list will contain well over 500 corporate financial, legal, audit, risk and compliance executives from <u>cross industry</u> public companies.<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal>As a presenting sponsor, {!Account.Name} would receive leadership of a panel session. The speaking role would be conducted via live video conference&nbsp;and should have at least one corporate compliance executive on the panel (we can help identify). Your role in the panel session would be to moderate and help shape the session content. The working agenda is attached (last page of the prospectus). For the next month we can add and customize sessions but as we get closer to the event the agenda will become finalized. The sponsorship package includes:<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><b><u>CW Europe Presenting Sponsorship:</u> $12,500<u><o:p></o:p></u></b></p><ul style='margin-top:0in' type=disc><li class=MsoNormal style='margin-left:.25in;mso-list:l0 level1 lfo1'>Moderating an agenda session, sponsor to work with Compliance Week events team on developing the session topic.<o:p></o:p></li><li class=MsoNormal style='margin-left:.25in;mso-list:l0 level1 lfo1'>Agenda session to be 50 minutes total, video-conference based, needs to be educational with no more than 5 minutes spent on products/services;<o:p></o:p></li><li class=MsoNormal style='margin-left:.25in;mso-list:l0 level1 lfo1'>Sponsor logo/branding to appear on all promotional materials;<o:p></o:p></li><li class=MsoNormal style='margin-left:.25in;mso-list:l0 level1 lfo1'>Access to full registration list post event, which includes full contact information like email address, phone number, mailing address. This list is only shared post event and is GDPR compliant;<o:p></o:p></li><li class=MsoNormal style='margin-left:.25in;mso-list:l0 level1 lfo1'>Two LinkedIn posts and three Twitter posts announcing sponsor participation, sessions details &amp; time, etc.;<o:p></o:p></li><li class=MsoNormal style='margin-left:.25in;mso-list:l0 level1 lfo1'>Two-time usage of our EU e-mail list, (list size is approximately 8,000)<o:p></o:p></li><li class=MsoNormal style='margin-left:.25in;mso-list:l0 level1 lfo1'>Includes ten conference passes<o:p></o:p></li></ul><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal>Attached are the companies and titles from the 2019 LIVE event (the virtual event would bring in 3x the registrations as the live event). <o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal>Please let me know if you have any questions, I would be happy to jump on a quick call next week. <o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal>All the best,<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><b>Stephen Morrell <o:p></o:p></b></p><p class=MsoNormal>Account Manager|Compliance Week <o:p></o:p></p><p class=MsoNormal><a href="mailto:Stephen.Morrell@complianceweek.com"><span lang=ES>Stephen.Morrell@complianceweek.com</span></a><span lang=ES><o:p></o:p></span></p><p class=MsoNormal><span lang=ES>M: 585-730-9387 O: (617) 570-8605<o:p></o:p></span></p><p class=MsoNormal><a href="https://www.linkedin.com/in/stephen-morrell-272587169/"><span lang=ES>https://www.linkedin.com/in/stephen-morrell-272587169/</span></a><span lang=ES><o:p></o:p></span></p><p class=MsoNormal><span lang=ES><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-left:.25in'><b><span style='mso-fareast-language:EN-GB'><a href="https://www.complianceweek.com/?utm_campaign=cw&amp;utm_medium=email&amp;utm_source=staff-sig">ComplianceWeek.com</a><br></span></b><i><span style='mso-fareast-language:EN-GB'>For well-informed chief compliance officers and audit executives<o:p></o:p></span></i></p><p class=MsoNormal style='mso-margin-top-alt:4.0pt;margin-right:0in;margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt'><b><span style='color:#1F3864;mso-fareast-language:EN-GB'><a href="https://events.complianceweek.com/mq2ExX?rt=e1Hx00dzT0G8J9Db9auYDQ&amp;RefId=staff-sig&amp;utm_campaign=tprm2020v&amp;utm_medium=referral&amp;utm_source=staff-sig">Compliance Week TPRM</a></span></b><span style='color:#1F3864;mso-fareast-language:EN-GB'><br></span><span style='mso-fareast-language:EN-GB'>September 17 | Virtual <span style='color:#1F3864'><o:p></o:p></span></span></p><p class=MsoNormal style='mso-margin-top-alt:4.0pt;margin-right:0in;margin-bottom:0in;margin-left:.25in;margin-bottom:.0001pt'><b><span style='color:#1F3864;mso-fareast-language:EN-GB'><a href="https://www.complianceweek.com/compliance-week-europe-2019-recap-video/28375.article?utm_campaign=cwe2020v&amp;utm_medium=referral&amp;utm_source=staffsig">Com

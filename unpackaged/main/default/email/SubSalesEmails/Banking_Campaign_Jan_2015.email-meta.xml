@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>January 2015 banking campaign- single to multi upgrade</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Banking Campaign Jan 2015</name>
+    <style>none</style>
+    <subject>Do you have a risk-management approach to compliance?</subject>
+    <textOnly>Hi {!Contact.FirstName},
+
+You saw what BofA did recently (see it here: www.complianceweek.com/bofamove), taking an overt risk-management approach by shifting compliance out of legal, avoiding regulatory fees and simplifying operations.
+
+Regulators are looking at your already complex compliance program.
+
+Keep access to resources and trends simple by making Compliance Week available to your whole team.
+
+Until Jan. 31st, we are offering a 3-5-user upgrade price of $2,999 (a $500 discount off our typical $3,499 rate).
+That means you can add up to 5 additional subscribers for just $2,999 ... less than $599 each.
+This is a substantial discount when compared to the $1,199 rate for a single-user license.
+Your single-user license would become part of the multi-user license, and it would run for one full year from the date of the upgrade.
+
+Interested? Let me know, and I can help get this set up right away.
+
+Cheers,</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

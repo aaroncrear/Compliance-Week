@@ -1,0 +1,19 @@
+<html dir="ltr">
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <p>Hi {!Contact.FirstName},</p>
+        <p>You saw <a target="_blank" href="http://www.complianceweek.com/blogs/the-filing-cabinet/bofa-moves-compliance-from-legal-to-risk-management#.VLVbOHtHXRg" xt="SPCLICK" name="boa article_1">what BofA did</a> recently, taking an overt risk-management approach by shifting compliance out of legal, avoiding regulatory fees and simplifying operations.</p>
+        <p>Regulators are looking at your already complex compliance program.</p>
+        <p>Keep access to resources and trends simple by making Compliance Week available to your whole team.</p>
+        <p>Until Jan. 31st, we are offering a 3-5-user upgrade price of $2,999 (a $500 discount off our typical $3,499 rate). <br />
+        That means you can add up to 5 additional subscribers for just $2,999 ... less than $599 each. <br />
+        This is a substantial discount when compared to the $1,199 rate for a single-user license. <br />
+        Your single-user license would become part of the multi-user license, and it would run for one full year from the date of the upgrade.  <br />
+        <br />
+        Interested? Let me know, and I can help get this set up right away.</p>
+        <p>Cheers,</p>
+        <p></p>
+    </body>
+</html>

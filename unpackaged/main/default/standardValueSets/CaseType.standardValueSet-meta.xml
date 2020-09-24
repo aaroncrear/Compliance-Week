@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>Account Access</fullName>
+        <default>false</default>
+        <label>Account Access</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Contact Update</fullName>
+        <default>false</default>
+        <label>Contact Update</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Magazine Delivery</fullName>
+        <default>false</default>
+        <label>Magazine Delivery</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Multi Transfer</fullName>
+        <default>false</default>
+        <label>Multi Transfer</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Newsletter Delivery</fullName>
+        <default>false</default>
+        <label>Newsletter Delivery</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Other Issue</fullName>
+        <default>false</default>
+        <label>Other Issue</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Unsubscribe</fullName>
+        <default>false</default>
+        <label>Unsubscribe</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Automation</fullName>
+        <default>false</default>
+        <label>Automation</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Custom apps/objects/fields</fullName>
+        <default>false</default>
+        <label>Custom apps/objects/fields</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Data Loads/Updates</fullName>
+        <default>false</default>
+        <label>Data Loads/Updates</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Integrations</fullName>
+        <default>false</default>
+        <label>Integrations</label>
+    </standardValue>
+    <standardValue>
+        <fullName>New User Setup</fullName>
+        <default>false</default>
+        <label>New User Setup</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Other</fullName>
+        <default>false</default>
+        <label>Other</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Reports/Dasboards</fullName>
+        <default>false</default>
+        <label>Reports/Dasboards</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Security/Sharing Settings</fullName>
+        <default>false</default>
+        <label>Security/Sharing Settings</label>
+    </standardValue>
+    <standardValue>
+        <fullName>UI/Layouts</fullName>
+        <default>false</default>
+        <label>UI/Layouts</label>
+    </standardValue>
+    <standardValue>
+        <fullName>User Support/Training</fullName>
+        <default>false</default>
+        <label>User Support/Training</label>
+    </standardValue>
+</StandardValueSet>

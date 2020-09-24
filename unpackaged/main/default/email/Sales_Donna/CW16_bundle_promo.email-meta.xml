@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>Compliance_Week</letterhead>
+    <name>CW16 bundle promo</name>
+    <style>freeForm</style>
+    <subject>CW Conference and Subscription Bundle</subject>
+    <textOnly>Hi {!Contact.FirstName}
+
+I hope you saw the promotional email we sent out about a HUGE discount for a single user subscription AND a pass to the annual CW conference in May.
+
+The total cost is $1,999 ($1194 savings!)
+
+Compliance Week 2016 is May 23-25, in Washington, D.C. check out the agenda here.
+
+An annual subscription to CW will keep you informed throughout the year. Attached is a quick reference guide to showcase what is included.
+
+If you&apos;d like to subscribe and attend the conference, just reply to this email and I can get you set up.
+
+This offer does expire at the end of February.
+
+Kind Regards,</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

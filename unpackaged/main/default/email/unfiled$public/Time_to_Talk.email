@@ -1,0 +1,15 @@
+Hi {!Contact.FirstName},
+
+May I ask for a few moments of your time for a brief phone conversation? 
+
+I work for Compliance Week, a subscription-based information service on corporate compliance and I noticed you currently don’t have access to our service.  We provide critical, independent guidance for financial, legal, risk, audit, and compliance executives at public companies. Thousands of these executives and the majority of Fortune 1000 companies rely on us to keep them well informed.
+
+Can we talk for 10 minutes this week to discuss how we can help {!Account.Name}? If there is a better time, or you feel I should speak with someone else, please let me know.
+
+Thanks!
+
+Donna
+
+Donna O'Neill
+Compliance Week
+Donna@complianceweek.com

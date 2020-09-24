@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Exchange --></label>
+        <name>Exchange__c</name>
+        <picklistValues>
+            <masterLabel>AMEX</masterLabel>
+            <translation><!-- AMEX --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NASDAQ</masterLabel>
+            <translation><!-- NASDAQ --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>NYSE</masterLabel>
+            <translation><!-- NYSE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>OBB</masterLabel>
+            <translation><!-- OBB --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

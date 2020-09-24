@@ -1,0 +1,7 @@
+Hi {!Contact.FirstName},
+
+Thanks so much for your patience and understanding.  I'm happy to report that the course is now scheduled for Wednesday, July 15 and Thursday, July 16th.  From 1-4 each day.
+
+Please feel free to call or email with any questions or concerns.  
+
+Thanks {!Contact.FirstName}!

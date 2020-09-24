@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Subscription_Renewal_Rate</fullName>
+    <active>true</active>
+    <errorConditionFormula>AND(
+ISBLANK(Renewal_Rate__c ), ISPICKVAL(Product2.Family,"Subscription"),
+Opportunity.Business_Unit__c = "Compliance Week"
+)</errorConditionFormula>
+    <errorDisplayField>Renewal_Rate__c</errorDisplayField>
+    <errorMessage>Renewal Rate is required for Subscription Sales.</errorMessage>
+</ValidationRule>

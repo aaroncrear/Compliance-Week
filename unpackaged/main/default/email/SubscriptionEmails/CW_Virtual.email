@@ -1,0 +1,10 @@
+Hi {!Contact.FirstName},
+
+I wanted to follow-up on my previous e-mails.
+
+I know you’re unsure about whether you’d like to renew for another year with Compliance Week. In addition to our thousands of articles, white papers and e-books, dozens of digital magazine issues, and weekly CPE Webcasts, I’d like to offer you free access to our CW2020 Conference Archive. This includes all sessions, keynotes, Excellence in Compliance Awards, and digital resources, from two days of programming providing up to 12 CPEs. 
+
+Please let me know if you’re interested. Your membership expires on {!Contact.Expiration_Date__c}.
+
+Kind Regards,
+Angela

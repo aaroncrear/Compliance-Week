@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Registration Pipeline Snapshot</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Registration Pipeline Snapshots</value>
+    </caseValues>
+    
+    
+    
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

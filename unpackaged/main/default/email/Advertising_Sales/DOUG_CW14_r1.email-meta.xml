@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>false</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>DOUG | CW14 r1</name>
+    <style>none</style>
+    <subject>Reaching Compliance Week 2014 attendees</subject>
+    <textOnly>Hi {!Contact.FirstName},
+
+With just seven weeks to go to our Annual Compliance Week Conference, we have a few remaining sponsorship options available. This represents a prime opportunity to reach 400-500 senior GRC professionals. The event runs May 19-21 at the Mayflower Hotel in Washington D.C.
+
+Let me know if you would like to discuss any of the programs listed below, as we would welcome the chance to partner with {!Account.Name} at the conference this year.
+
+Exclusive: Technology Center Sponsorship | $20,000 New this year, located in the Cabinet Room (on the main floor) the Technology Center will be open to all conference attendees throughout the three-day event.
+
+The exclusive sponsorship provides the following amenities for all delegates: Charging station, Cyber Café, wireless printer, computer, beverage station, and seated meeting space.
+
+Sponsor receives
+
+Signage at the entrance to the room and throughout the room;
+Recognition at the end of each session on screens in each meeting room;
+Two conference passes.
+
+
+Video Session with Matt Kelly | $7,500
+
+Customized 30-minute session, edited to a 2- to 3-minute video;
+Click here for samples from CW 2013 and CW 2012;
+Includes pre-taping call, taping, editing, and two conference passes.
+
+Exclusive: Wi-Fi Sponsorship | $6,000 Free Wi-Fi provided for all delegates during the three-day event, courtesy of sponsor.
+
+Password will be sponsor name;
+Card with Wi-Fi instructions given to all attendees at registration, and additional 100 printed for distribution;
+Signage with Wi-Fi instructions, and sponsor’s logo, at registration and in multiple locations;
+Recognition at the start of each session on screens in each meeting room and one conference pass.
+
+Exclusive: Event App Sponsor | $6,000 A large number of the 450-500 event delegates and speakers use our CW App to navigate the event. The CW App sponsor will receive:
+
+Welcome screen with sponsor logo;
+Logo placement on each App area: sessions, speakers, etc.;
+Card with CW App download instructions given at registration, and additional 100 printed for distribution;
+Recognition at the start of each session on screens in each meeting room;
+Sponsor signage provided throughout and one conference pass.
+
+Exclusive: Speaker Lounge Sponsor | $10,000
+
+TV provided in lounge with sponsor logo and messaging provided on loop;
+Food and beverage provided to speakers, courtesy of sponsor;
+Branding/signage in room;
+Sponsor material/collateral available, and two conference passes.
+
+In addition, I wanted to let you know that there’s still time to reserve a print ad in the May issue of the magazine. We consider this the year’s most important edition due to the bonus distribution to every attendee at the conference. We have a special rate of $5,332—that’s 25% off our open page rate. The deadline for space is April 10; materials are due April 15.
+
+Please let me know if you have interest or questions. Thanks for your consideration.
+
+
+-Doug
+
+
+
+Doug Juenemann doug.juenemann@complianceweek.com | (617) 570-8610 Compliance Week</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

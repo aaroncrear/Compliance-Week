@@ -1,0 +1,31 @@
+Hi {!Contact.FirstName}, sorry to hassle you here ... your Compliance Week subscription expired on {!Contact.Expiration_Date__c} and I wanted to let you know, and find out if you are going to renew.
+ 
+Can you let me know? I can re-activate the subscription immediately.
+
+To confirm your renewal, simply reply to this e-mail and write "I agree" -- and also whether you'd like to renew for one year ($1,199) or two years ($2,155 - a 10% discount).
+
+Your reply will confirm that you agree to the terms below. Then we will email you an invoice and process the order immediately while we wait for payment. (If you want to pay by credit card, let me know and I can call you for that info.)
+
+-----------------------------------------------------------------------------------
+ORDER CONFIRMATION: By replying to this e-mail and
+typing "I agree" in the body of your reply e-mail, you
+hereby agree to be bound by the following Compliance
+Week subscription order:
+
+Account: {!Account.Name}
+Subscriber: {!Contact.Name}
+Subscription Type: Single-User Renewal
+Price: $1,199 for one year OR $2,155 for two years
+Payment Due: {!Today} + 30 Days
+New Subscription Term Start Date: {!Today}
+Max. Users: 1
+Terms & Conditions: http://www.complianceweek.com/page/82
+
+You also agree to process this order for payment as soon
+as possible, and confirm that you are authorized to enter
+into this agreement in its entirety.
+
+IMPORTANT: Your reply with "I Agree" in the body of the e-mail is the legal equivalent of a signature on a contract, and you are bound upon our receipt of your "I Agree" reply. There are no cancellations, changes, or refunds upon our receipt of your "I Agree" reply.
+---------------------------------------------------------------------------------
+
+Let me know if you have any further questions or need anything else.

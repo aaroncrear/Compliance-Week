@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>false</available>
+    <description>Print</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Print Page Available - July</name>
+    <style>none</style>
+    <subject>Compliance Week July Print Edition - Inside Front Cover</subject>
+    <textOnly>Hi {!Contact.FirstName},
+
+We are working to close the July print edition of Compliance Week and have space available for a full page advertisement on the inside front cover.  This cover position is one of the most visible in the magazine, we typically charge a 20% premium. I’d like to see if {!Account.Name} would be interested in the position.
+
+Because it&apos;s late and we need to fill the position by EOD Friday this week, we&apos;d be willing to give a reduced rate and include complimentary online banner impressions.
+
+The rate card cost for the position is $7,150. I will reduce the cost to $5,500 and include 50,000 online banner impressions as added value. Materials for the print ad would be due by EOD Friday, June 15th.
+
+The edition will be heavy in stories from our May annual conference and on political risk management (trade, sanctions, etc). Stories in the edition to include:
+
+
+Trade war brewing between the US and EU
+EU to decide whether to fall in line with US sanctions on Iran
+How Trump sanctions are impacting Americans
+Q&amp;A with Mantech on export controls and global compliance
+China perspective: How will Trump’s China rules pan out
+Corruption challenges index &amp; graphic
+How CCOS need to  prepare for the risks they don’t know
+Experts spotlight trends in FCPA self-disclosures and enforcement
+White House throwing support behind AI
+Benchmark survey: Top compliance programs are data-driven
+Deputy Attorney General Rod Rosenstein: The value of compliance
+Creating culture from the ashes of scandal
+Accounting change drives new ideas about how to do business
+Self-disclosure can root out conflicts of interest
+Preventing and responding to harassment must involve both HR and compliance
+Risk assessments, paired with emerging tech, can supercharge compliance
+
+Please let me know soon if you are interested in this position, we’re approaching others.
+
+Thanks for your consideration.
+
+
+
+
+-Doug
+
+
+
+----------------------------------
+Doug Juenemann
+Advertising &amp; Events
+Compliance Week
+doug@complianceweek.com
+(617) 570 8610</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

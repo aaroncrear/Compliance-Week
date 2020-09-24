@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>email from Liz to TeamMate trials (post-trial)</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>TeamMate Trials follow up</name>
+    <style>none</style>
+    <subject>Checking in from Compliance Week</subject>
+    <textOnly>%%First Name%%,                     
+
+Hey! 
+It was a pleasure meeting you at TeamMate a couple weeks ago!                     
+
+Thanks for stopping by the booth and signing up for the free trial.
+I hope you had a chance to check out the site and play with some of the filters.  
+                     
+If you are interested in subscribing, let me know by Oct. 15th 
+(reply to this to this email for the $599 conference rate, for new subscribers only).                                          
+
+Do you have any questions about the site or benefits of beginning a subscription?  
+I look forward to staying in touch.                     
+
+Cheers,                     
+
+Liz Koch
+lkoch@complianceweek.com
+
+Senior Marketing Manager | Compliance Week
+77N. Washington St., Boston MA 02114
+617-570-8602 | www.complianceweek.com                 
+www.complianceweek.com</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Areas of Interest --></label>
+        <name>Areas_of_Interest__c</name>
+        <picklistValues>
+            <masterLabel>Accounting &amp; Auditing</masterLabel>
+            <translation><!-- Accounting &amp; Auditing --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Anti-Bribery</masterLabel>
+            <translation><!-- Anti-Bribery --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Boards &amp; Shareholders</masterLabel>
+            <translation><!-- Boards &amp; Shareholders --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ethics &amp; Codes</masterLabel>
+            <translation><!-- Ethics &amp; Codes --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Europe</masterLabel>
+            <translation><!-- Europe --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Internal Controls</masterLabel>
+            <translation><!-- Internal Controls --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Privacy</masterLabel>
+            <translation><!-- Privacy --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Regulatory Enforcement</masterLabel>
+            <translation><!-- Regulatory Enforcement --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Risk Management</masterLabel>
+            <translation><!-- Risk Management --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Rules &amp; Proposals</masterLabel>
+            <translation><!-- Rules &amp; Proposals --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Technology</masterLabel>
+            <translation><!-- Technology --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Report: Growth in personal liability for compliance executives</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Personal Liability 4-22-14 email</name>
+    <style>none</style>
+    <subject>Report: Growth in personal liability for compliance executives</subject>
+    <textOnly>Feeling isolated? Vulnerable even?
+
+Perhaps you should—53% of your peers expect their personal liability to increase in 2014.
+
+All signs point to 2014 being another challenging year for you and your company.
+That&apos;s why you need the right resources.
+
+Compliance Week is a go-to source for reports and benchmarks.
+Email me to begin your subscription for $799*.</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

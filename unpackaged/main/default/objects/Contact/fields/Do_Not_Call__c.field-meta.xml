@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Do_Not_Call__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>This Contact has asked not to be called again.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>This Contact has asked not to be called again.</inlineHelpText>
+    <label>Do Not Call</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <type>Checkbox</type>
+</CustomField>

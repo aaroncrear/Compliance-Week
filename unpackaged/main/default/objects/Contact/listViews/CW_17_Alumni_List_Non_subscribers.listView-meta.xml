@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CW_17_Alumni_List_Non_subscribers</fullName>
+    <booleanFilter>1 AND 2 AND 3</booleanFilter>
+    <columns>FULL_NAME</columns>
+    <columns>ACCOUNT.NAME</columns>
+    <columns>CONTACT.TITLE</columns>
+    <columns>CONTACT.PHONE1</columns>
+    <columns>CONTACT.EMAIL</columns>
+    <columns>CORE.USERS.ALIAS</columns>
+    <columns>CONTACT.LAST_ACTIVITY</columns>
+    <filterScope>Everything</filterScope>
+    <filters>
+        <field>Status_ACTUAL__c</field>
+        <operation>notEqual</operation>
+        <value>Active</value>
+    </filters>
+    <filters>
+        <field>Multi_Account__c</field>
+        <operation>notEqual</operation>
+        <value>Yes</value>
+    </filters>
+    <filters>
+        <field>CONTACT.LAST_ACTIVITY</field>
+        <operation>lessThan</operation>
+        <value>5/1/2017</value>
+    </filters>
+    <label>CW 17 Alumni List - Non subscribers 5/1</label>
+</ListView>

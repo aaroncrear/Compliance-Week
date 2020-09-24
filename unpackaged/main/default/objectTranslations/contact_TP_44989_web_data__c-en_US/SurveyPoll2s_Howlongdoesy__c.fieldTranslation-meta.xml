@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Survey: Poll #2 (s:How long does your --></label>
+        <name>SurveyPoll2s_Howlongdoesy__c</name>
+    </CustomFieldTranslation>

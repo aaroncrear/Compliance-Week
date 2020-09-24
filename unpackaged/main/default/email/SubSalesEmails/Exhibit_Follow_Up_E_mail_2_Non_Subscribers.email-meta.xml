@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Exhibit followup email for non-subs that visited the booth</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Exhibit Follow Up E-mail #2 (Non-Subscribers)</name>
+    <style>none</style>
+    <subject>Exclusive offers for attendees of the IIA&apos;s International Conference</subject>
+    <textOnly>Don’t miss your chance to join more than 50,000 professionals who rely on Compliance Week for GRC news, analysis, and resources.
+
+Hi {!Contact.FirstName},
+
+It was great seeing you at the IIA&apos;s International Conference last week! I bet your head is overflowing with new ideas from all the takeaways—I know mine is!
+
+I just wanted to follow up your visit with a reminder of Compliance Week subscription benefits and exclusive offers:
+
+50% off annual Single Subscription (a $599 value) + one free month ( %%HYPERLINK:protect_eu_mimecast_com_s_XDp0#SPCLICK#https://protect-eu.mimecast.com/s/XDp0BCvnKvDf6?domain=links.wilmington.mkt6689.com#%% )
+As the premiere information service on corporate governance, risk, and compliance[CK1] , give us a test drive with a free 10-Day Trial on our website or respond by [30 days from event] to this e-mail that you’re interested in starting your subscription today!
+
+€300 off registration for Compliance Week Europe 2016 ( %%HYPERLINK:Hyperlink_20160721_105630168#SPCLICK#http://conference.complianceweek.com/europe#%% )
+We’re bringing our thought leadership to attendees in Brussels, 7-8 November 2016. Attendees will experience thought-provoking speakers, innovative sessions, world-class networking, and much more. Use promotion code CWE16AUDIT during check out or share with a friend! Early-bird rates end 14 August.
+
+Contact Elizabeth Sucher (elizabeth.sucher@complianceweek.com) to maximize your budget and resources with Compliance Week.
+ 
+We look forward to hearing from you!
+
+Best Regards,
+
+
+This e-mail has been sent from Wilmington Compliance Week Inc, Parent company registered number 2158821. Registered Office: 6 - 14 Underwood Street, London, N1 7JQ.
+This e-mail and any attachments to it may be confidential and are intended solely for the use of the addressees. Any views expressed are solely those of the author and do not necessarily represent those of Wilmington Compliance Week. If you are not the intended recipient of this e-mail and its attachments please inform the sender but take no other action based upon them, nor must you copy or show them to anyone.
+A Wilmington Company</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

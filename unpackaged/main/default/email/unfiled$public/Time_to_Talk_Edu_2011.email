@@ -1,0 +1,12 @@
+<html>
+<font face="arial" color="black">
+<p>Dear {!Contact.FirstName},
+<p>May I ask for a few moments of your time for a brief phone conversation?</p>
+<p>I work for <a href="http://www.complianceweek.com">Compliance Week</a>, a subscription-based information service on corporate compliance. Thousands of financial, legal, risk, audit, and compliance executives and the majority of Fortune 1000 companies rely on us to keep them well informed. We also count many business schools as subscribers.</p>
+<p>We offer educators a 50% discount to our service: the regular one-year subscription price of $1,199 falls to $599. Additionally, we will send up to 10 copies of our monthly print magazine for use as a teaching resource.</p>
+<p>Can we talk for 10 minutes this week to discuss how we can bring Compliance Week to {!Account.Name}? If there is a better time, or you feel I should speak with someone else, please let me know.</p>
+<p>Thanks!</p>
+<p></p>
+<p>Donna O'Neill</br>
+Compliance Week</br>
+Donna@complianceweek.com</br>

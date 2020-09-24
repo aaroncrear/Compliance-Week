@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>Compliance_Week_Europe</letterhead>
+    <name>CWE19 TM05 - Alumni Early-Bird Rate Expiring</name>
+    <style>freeForm</style>
+    <subject>Register now: early-bird rates end 9 August 2019</subject>
+    <textOnly>Dear {!Contact.FirstName},
+
+Now in it&apos;s 7th year, Compliance Week Europe provides a forum for ethics and compliance officers to network with their peers and build and manage their programmes more effectively. This year’s conference will provide attendees with compliance education, an opportunity to share best practices with peers, and actionable insights to take back to their firms.
+
+Your peers in attendance last year represented companies such as Abercrombie &amp; Fitch, Boeing International, European Investment Bank, Hyundai, IKEA, Johnson &amp; Johnson, Microsoft, Salesforce, Serious Fraud Office, Swiss Re, Takeda Pharmaceuticals, TD Bank, Volvo, Whirlpool, and more.
+
+Join us again this year at special alumni pricing of €850 with code CWE19ALUMNI when registering. We look forward to seeing you in Amsterdam.
+
+Best regards,
+
+{!User.FirstName} {!User.LastName}
+{!User.Title}
+{!User.CompanyName}
+{!User.Email}
+{!User.Phone}
+
+Compliance Week Europe | 4-5 November 2019 | Amsterdam
+
+» Agenda  » Registration
+» Speakers  » Venue
+» Sponsorship  » Continuing Education</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

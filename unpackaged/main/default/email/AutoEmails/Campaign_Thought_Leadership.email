@@ -1,0 +1,3 @@
+{!CampaignMember.FirstName} {!CampaignMember.LastName} has downloaded a Thought Leadership whitepaper.
+
+https://wilmington.my.salesforce.com/{!CampaignMember.ContactId}

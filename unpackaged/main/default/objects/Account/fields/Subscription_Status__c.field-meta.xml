@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Subscription_Status__c</fullName>
+    <externalId>false</externalId>
+    <label>Subscription Status</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Current Customer - Single</fullName>
+                <color>#0B6FCE</color>
+                <default>false</default>
+                <label>Current Customer - Single</label>
+            </value>
+            <value>
+                <fullName>Current Customer - Multi</fullName>
+                <color>#78C953</color>
+                <default>false</default>
+                <label>Current Customer - Multi</label>
+            </value>
+            <value>
+                <fullName>Former Customer</fullName>
+                <color>#E27001</color>
+                <default>false</default>
+                <label>Former Customer</label>
+            </value>
+            <value>
+                <fullName>Prospect</fullName>
+                <color>#A845DC</color>
+                <default>true</default>
+                <label>Prospect</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

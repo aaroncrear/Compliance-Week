@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Rating__c</fullName>
+    <externalId>false</externalId>
+    <formula>IMAGE( CASE(  Ratings__c , 1, "/img/samples/stars_100.gif", 2, "/img/samples/stars_200.gif", 3, "/img/samples/stars_300.gif", 4, "/img/samples/stars_400.gif", 5, "/img/samples/stars_500.gif", "/img/samples/stars_000.gif"), "rating")</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <label>Rating</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

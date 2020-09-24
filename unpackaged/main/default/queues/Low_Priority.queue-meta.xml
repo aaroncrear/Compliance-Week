@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Queue xmlns="http://soap.sforce.com/2006/04/metadata">
+    <doesSendEmailToMembers>false</doesSendEmailToMembers>
+    <name>Low Priority Leads</name>
+    <queueMembers>
+        <roleAndSubordinates>
+            <roleAndSubordinate>Director_of_Subscription_Sales</roleAndSubordinate>
+            <roleAndSubordinate>Salesforce_Administrator</roleAndSubordinate>
+        </roleAndSubordinates>
+    </queueMembers>
+    <queueSobject>
+        <sobjectType>Lead</sobjectType>
+    </queueSobject>
+</Queue>

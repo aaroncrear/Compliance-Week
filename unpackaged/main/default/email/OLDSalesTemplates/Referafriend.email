@@ -1,0 +1,16 @@
+Dear {!Contact.FirstName}: 
+
+Thank you for your recent subscription to Compliance Week. I hope you are finding Compliance Week a valuable resource.
+
+I would like to offer you a free three-month subscription that you can give to one or two of your colleagues, in the hopes that you have found Compliance Week useful and informative and will want to share it with someone. 
+
+To set up their complimentary subscription, simply email me their contact details and we will give them free access to Compliance Week for three months and send them an introductory package that includes the most recent copy of our monthly print magazine.
+
+Thanks again for being a valued subscriber, and please let me know if there's anything else you need.
+
+Best regards,
+
+{!Account.OwnerFullName}
+{!Account.OwnerTitle}
+{!Account.OwnerPhone}
+{!Account.OwnerEmail}

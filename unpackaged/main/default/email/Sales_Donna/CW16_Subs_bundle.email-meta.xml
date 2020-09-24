@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Earn 19 CPE&apos;s and credit all year long / Subs/conf reg bundle offer Feb 2016</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>CW16 Subs bundle</name>
+    <style>none</style>
+    <subject>Earn 19 CPE credits in May ...and all year long (details inside)</subject>
+    <textOnly>Reply to this email to begin one year of unrestricted access to Compliance Week.
+
+When you purchase one year of Compliance Week, you will receive a discount code for the Compliance Week conference.*
+
+
+Need help with a group registration? Contact Eliza for assistance.
+
+
+
+*Limited time offer. Subscribe and register by Feb. 29, 2016, and receive a single conference registration and a  one-year subscription to Compliance Week. Offer valid for first-time single-user subscriptions only. No retroactive discounts or refunds will be given. Conference registration valued at $1,300 ($695 savings). One-year, single-user subscription valued at $1,199 ($600 savings). If you are interested in a multi-user license, please send your inquiry to Donna O&apos;Neill.</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

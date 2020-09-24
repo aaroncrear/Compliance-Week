@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Webcasts recently added to the CPE library</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>MULTI ENGAGE | New to the CPE Library</name>
+    <style>none</style>
+    <subject>Update: Webcasts added CPE Library</subject>
+    <textOnly>Dear {!Contact.FirstName},
+
+Catch up on what&apos;s happening on complianceweek.com with recent On-Demand CPE webcasts.
+
+Latest On-Demand CPE webcasts:
+Make Your Organization Investigation-Ready: Learn how to get ahead of Dodd-Frank and Other Regulatory Requests
+1 CPE Credit | Apr 2
+
+Record Retention Is Back in the Spotlight
+1 CPE Credit | Mar 26
+
+How to Tackle Social Accountability Risks in Third-Party Relationships
+1 CPE Credit | Mar 19
+
+See the full list:
+https://www.complianceweek.com/webcasts/on-demand-cpe
+
+
+That’s all for this update-- have a great week.</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

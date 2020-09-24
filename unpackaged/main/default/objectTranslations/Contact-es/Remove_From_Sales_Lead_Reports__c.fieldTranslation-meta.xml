@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Remove From Sales Lead Reports --></label>
+        <name>Remove_From_Sales_Lead_Reports__c</name>
+    </CustomFieldTranslation>

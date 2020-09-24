@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Mktg_Do_Not_Mail__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Flag that denotes whether the user has asked to be removed from our mailing list.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>✓ = Remove from Mailing List</inlineHelpText>
+    <label>Mktg | Do Not Mail</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <type>Checkbox</type>
+</CustomField>

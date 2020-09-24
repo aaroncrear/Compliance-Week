@@ -1,0 +1,26 @@
+<html dir="ltr">
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <p>Dear {!Contact.FirstName},</p>
+        <p>Thank you for subscribing to <a name="cw home" xt="SPCLICK" href="http://www.complianceweek.com/" target="_blank">Compliance Week</a>. Your account has been activated, and you now have access to all gated content. If you haven&rsquo;t established a password yet, click &ldquo;LOG IN&rdquo; in the topleft-hand corner of the site, choose &ldquo;Forgotten your password?&rdquo; in the resulting dialog box, enter your email address, and a link to reset your password will be sent to you.</p>
+        <p><img width="500" height="163" title="Log in to Compliance Week" alt="Log in to Compliance Week" src="http://www.complianceweek.com/sites/default/files/login%20screen.JPG" /></p>
+        <p><b>Selecting Weekly Emails</b> | You may elect to receive one or both of our two subscriber-only email newsletters, Compliance Week Tuesday Edition and Compliance Weekend. In addition, we currently offer three complimentary email services: Event of the Week, Thought Leadership of the Week and Compliance Week Europe. Selections may be made on the My CW page.</p>
+        <p><img width="500" height="142" alt="A choice of newsletters" src="http://www.complianceweek.com/sites/default/files/select%20newsletter%20preferences.JPG" title="A choice of newsletters" /></p>
+        <p><b>Subscriber Information</b> | Please ensure that the following details are correct. If you choose to receive our monthly print magazine, we will use the address on file to service it. Corrections may be made on the My Account page</p>
+        <p>{!Contact.FirstName} {!Contact.LastName}<br />
+        {!Contact.Title}<br />
+        {!Account.Name}<br />
+        {!Contact.MailingAddress}<br />
+        Email: {!Contact.Email}<br />
+        <br />
+        <b>Expiration Date: {!Contact.Expiration_Date__c}</b> | Please note that Compliance Week has an automatic renewal policy. You will receive an email notice approximately 60 days prior to the renewal date. The notice will let you know that your current subscription term is about to end and that your subscription will be renewed. If you do not wish to renew, you must notify us prior to your renewal date.</p>
+        <p>Thanks again! And remember, we&rsquo;re here to help. You can find answers to several common customer-service questions <a href="https://www.complianceweek.com/need-help">online</a>, or you may contact us at (888) 519-9200 or via <a href="mailto:info@complianceweek.com">email</a>.</p>
+        <p>Sincerely,</p>
+        <p>{!Contact.OwnerFullName}<br />
+        Compliance Week<br />
+        </p>
+        <p><b>Terms of Use</b> | When you sign in to the Compliance Week Website (http://www.complianceweek.com) for the first time using the above username and password, you are indicating that you agree to Compliance Week's &ldquo;Terms of Use,&lsquo; including our cancellation policy. Please refer to Compliance Week&rsquo;s <a target="_blank" href="http://www.complianceweek.com/terms-and-conditions" xt="SPCLICK" name="terms conditions_1">Terms and Conditions</a>.</p>
+    </body>
+</html>

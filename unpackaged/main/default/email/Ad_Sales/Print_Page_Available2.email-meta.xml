@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Print - Top Minds</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Print Page Available</name>
+    <style>none</style>
+    <subject>Compliance Week May Print Edition - Top Minds Special Edition &amp; eBook</subject>
+    <textOnly>Hi {!Contact.FirstName},
+
+This May, Compliance Week will release an edition with a special focus on our Top Minds award winners. The edition will appear in print, online, and will be distributed at our annual conference where the award winners will be introduced. I would like to approach {!Account.Name} with advertising in one of our most anticipated editions of the year.
+
+The Top Minds edition will highlight the twelve best and brightest governance, risk, ethics, and compliance professionals. The twelve award winners each participate in an in-depth interview with a Compliance Week columnist.  A four page spread on each award recipient will appear in the May print edition, the feature will be 48+ pages and will take up over half of the print edition.
+
+The electronic edition will be released as an eBook in late May. The eBook will be promoted to our entire active online database of  72,000 corporate financial, legal, audit, risk &amp; compliance executives at global public companies. The online promotion will generate registrations which we will share with the advertisers for marketing.
+
+The recipients of Top Minds Awards will include:
+
+
+Kim Yapchai, Chief Compliance Officer, Whirlpool
+Carrie J. DiSanto, Managing Director, ERM &amp; CCO, CME Group
+Bob Bowman, Director, Risk Management, Wendy’s
+Cindy Moehring, Sr VP and Chief Ethics &amp; Compliance Officer, Walmart
+Forrest Deegan, Chief Ethics &amp; Compliance Officer, Abercrombie &amp; Fitch
+Ben Bard, Vice President, Global Chief Compliance Officer, ADM
+David S. Huntley, Senior Executive Vice President &amp; CCO, AT&amp;T
+Indrani Franchini, Executive VP &amp; CCO, Alexion Pharmaceuticals
+Kathryn Murtaugh, Managing Director &amp; CCO, Harvard Management
+Jerry Kral, Chief Ethics and Compliance Officer, Brown-Forman Corp
+Cedric Dubar, Chief Ethics and Compliance Officer, Volvo Car
+Pedro Castro Nevares, Director of Legal Affairs, Torneos y Competencias
+
+Advertising in the edition includes the print ad in May, an ad in the eBook, and access to all registration information (from the online promotion). The costs to advertise:
+
+Half Page Advertisement - $4,250, includes access to all leads;
+Full page advertisement - $6,250, includes 25k online banner impressions and access to all leads.
+
+Materials for the special edition and eBook are due on Thursday, April 12th.
+
+Please let me know if you have questions or would like to see the 2016 &amp; 2017 Top Minds electronic editions (eBooks). Thanks for your consideration.
+
+
+
+
+-Doug
+
+
+
+----------------------------------
+Doug Juenemann
+Director, Advertising
+Compliance Week
+doug@complianceweek.com
+(617) 570 8610</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>Compliance_Week</letterhead>
+    <name>AdSales1</name>
+    <style>freeForm</style>
+    <subject>Compliance Week and {!Account.Name}</subject>
+    <textOnly>Hi {!Contact.FirstName},
+
+
+
+I wanted to reach out to you about partnering with Compliance Week for some of your advertising needs.
+
+
+
+In a nutshell, Compliance Week reaches governance, risk &amp; compliance executives at global public companies (primarily US based). Editorially, Compliance Week is relentlessly focused on helping our subscribers comprehend and comply with the constantly evolving global regulations and standards to which public companies must adhere. We focus on critical regulatory and compliance issues related to financial reporting, disclosure, regulatory enforcement, corporate governance, enterprise risk management, and related global issues, from CSR to XBRL.
+
+
+We have a number of online lead generation programs which you can use to generate a qualified and targeted lead list:
+
+
+Thought Leadership Email – Email designed to promote a white paper and generate leads. The email is sent to 52,000 corporate financial, legal, audit, risk &amp; compliance executives at US public companies. The email is sent from ComplianceWeek.com on a TEMPLATE and contains the white paper title, description, sponsors logo, and URL link to the registration page. Compliance Week would collect all registration information and pass along all contact information for marketing. The cost is $5,000 and on average generates 120 registrations per email.
+
+
+Event Email – Email designed to promote a third party event such as a webcast or conference that is sent to 52,000 corporate financial, legal, audit, risk &amp; compliance executives at US public companies. The email is sent from ComplianceWeek.com on a TEMPLATE and contains the event title, description, sponsors logo, and URL link to registration page. The cost is $5,000.
+
+
+
+Survey Email – Email designed to promote the taking of a survey.  The email is sent to 52,000 corporate financial, legal, audit, risk &amp; compliance executives at US public companies. The email would be sent on a ComplianceWeek.com template containing the title of the survey, description and a URL link to the survey page. The cost is $5,000.
+
+
+Webcast Sponsorship – Sponsor would have time for a 60 minute presentation to our audience which includes Q/A with the audience and Powerpoint presentation. The event would be moderated by Compliance Week Editor who would introduce speakers and ask the audiences questions the last few minutes of the event. We promote the event in our monthly print edition, in our weekly webcast emails and on our website. CPE credits are available to the attendees. The cost is $12,000 and on average generates 400 registrations per webcast. The webcast would be archived in our CPE library for a minimum of year.
+
+
+And we have branding opportunities in our monthly print edition and on our website homepage via online banners:
+
+
+Print Advertising – Compliance Week print edition is MONTHLY and reaches a 100% paid audience. From subscriber studies, we know the majority of our audience spends more time with the print edition than online, so for pure branding this is the best option. The cost for a full page advertisement is $7,150; the cost for a half page advertisement is $4,266. We can reduce the costs with frequency.
+
+
+Banner Advertisements – ROS 300x250 pixel banner or 728x90 pixel banner on our website homepage costs $3,000 for 25,000 impressions over a month. Animated Giffs/JPEG files accepted with a maximum file size of 40k. Flash and third party tags are accepted.
+
+
+Prestitial Banner (splash page) - Achieve high visibility with exclusive prestitial ads (A prestitial is a 640x480 pixel banner ad that displays on the full screen before a visitor views a content page). Your ad is the first and only thing our audience members see before being directed to complianceweek.com or the page they typed in to browse (even if bookmarked). The cost is $6,000 for 20,000 impressions. This runs once per day for each unique visitor.
+
+
+Newsletter Sponsorship: The online Newsletter Sponsorship is a weekly TEXT box at the top of our website and email newsletter. You can see an example at our website. The position receives 40,000 impressions per week. The cost is $2,000 per week.
+
+
+Please let me know if you have any questions or if you are interested in discussing any of these options further!
+
+
+
+Kind Regards,
+
+Julie Van Gelder</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

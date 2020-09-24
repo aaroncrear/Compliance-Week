@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>discount rate field specified</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>00. SINGLE DISCOUNTED AUTO-RENEW - @ 60 Days</name>
+    <style>none</style>
+    <subject>Your subscription to Compliance Week is set to renew</subject>
+    <type>text</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

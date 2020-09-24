@@ -1,0 +1,11 @@
+<html>
+<font face="arial" color="black">
+<p>Dear {!Lead.FirstName},</p>
+<p>I hope you're enjoying your trial subscription to Compliance Week. If you haven't done so already, I encourage you to review our <a href="https://www.complianceweek.com/webcasts/on-demand-cpe">On-Demand CPE Library</a>; browse our <a href="https://www.complianceweek.com/news">extensive news coverage, opinion, and podcasts</a>; and dive into the newly-improved <a href="
+https://www.complianceweek.com/resource-center">Research Center</a>. Note, your trial expires {!Lead.Expiration_Date__c}.</p>
+<p>A full subscription offers a host of benefits. Don't take our word for it&mdash;read the <a href="https://www.complianceweek.com/testimonials-from-compliance-week-subscribers">testimonials</a> of our subscribers! Single- and multi-user license agreements are available, and may be activated via a simple email agreement.</p>
+<p>Any questions, please let me know!</p>
+<p>Kind Regards,</p>
+<p>{!User.FirstName} {!User.LastName}</br>
+{!User.Title}, <a href="http://www.complianceweek.com">Compliance Week</a></br>
+T {!User.Phone} | F (617) 227-1815</p>

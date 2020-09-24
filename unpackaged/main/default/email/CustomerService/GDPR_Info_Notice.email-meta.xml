@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>GDPR Info Notice</name>
+    <style>none</style>
+    <subject>An Important Message About Your Privacy</subject>
+    <textOnly>Our Privacy Policy and You
+
+
+Since its launch in 2002, Compliance Week has become the premier governance, risk and compliance resource for both public and private companies worldwide, and the organizations that support them. Thousands of financial, legal, audit, risk and compliance executives visit our website, sign up for our newsletters, access our databases, read our magazine, and attend our live and virtual events.
+
+As a customer of Compliance Week, a previous customer, or someone who has inquired about or shown an interest in our products and services, we&apos;d like to continue to help you navigate the compliance landscape, by sending relevant information about our content, products, events, and the products and services of carefully selected partners.
+
+We’ve updated our Privacy Policy to support the latest changes to European data protection law. Your privacy is important to us and our commitment to data protection has not changed. The Privacy Policy has been reorganized to make it easier to read and addresses the new requirements. It outlines how we collect, use, share and protect your personal data.
+
+These changes are effective immediately. By using our services on or after May 24, 2018, you’ll be agreeing to the revisions. For more information, we encourage you to read the full text of the Privacy Policy. If you have any questions, please contact us.
+
+
+
+
+You are subscribed as %%EMAIL%%
+If you wish to change what you receive from Compliance week, or unsubscribe from all communications click here. For unsubscribe problems, please reply to this e-mail.
+
+You have the following rights with regards to your personal information
+Our legal basis for processing your data is legitimate interest. Please see our privacy policy for information on our data retention policy. You have the right to access, port, rectify, erase, restrict and object to the processing of your data. To contact our Data Protection Officer please email dataprotection@wilmingtonplc.com. You have the right to complain to the supervisory authority.
+
+© 2018 Wilmington Compliance Week
+129 Portland St Fl 6
+Boston, MA 02114-2014
+United States</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

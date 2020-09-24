@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Sent to renewals that paid $799 last year</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Single $799 Renewals</name>
+    <style>none</style>
+    <subject>Compliance Week Subscription Expiring {!Contact.Expiration_Date__c}</subject>
+    <type>text</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

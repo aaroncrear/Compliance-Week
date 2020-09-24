@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>CW20 Brochure Follow-up (DonnaO)</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>Compliance_Week</letterhead>
+    <name>Keynote Clicker</name>
+    <style>freeForm</style>
+    <subject>Thanks {!Contact.FirstName}, your invitation is enclosed</subject>
+    <textOnly>Hi {!Contact.FirstName},
+
+Thanks for recently downloading the 2019 Compliance Week conference brochure and please accept our invitation to complete registration.
+
+I’d be happy to answer any questions or provide more detail on the conference. Please see below a brief recap and my personal code for a $250 discount.
+
+Now in its 14th year – the Compliance Week Annual offers unparalleled opportunity for networking with peers and participation in discussions such as:
+
+Social Media, Rogue Employees, and the Importance of Information Barriers: A Conversation with Investor Relations
+
+Cybersecurity Investigations
+AML Compliance Challenges Amid the Rise of the Shell Company
+The Culture of Cool: The Compliance Challenges of a Speak Up Culture
+
+Lead by speakers such as: Chuck Senatore, Fidelity Investments, KC Turin, UPMC Insurance; Bob Bowman, Wendy’s; Bill Corson, Manulife, Grace Du Plaza, Farmer Mac, Lisa Glover-Gardin, Google, Pamela Panagian, Boston Scientific…and many more!
+
+Don’t wait – register today with code CW19DONNA for a $250 discount.
+
+We also have discounted group rates available – please inquire for rates.
+
+I hope to see you in DC at Compliance Week 2019!
+
+Best Regards,
+
+{!User.Name}
+{!User.Title}
+{!User.CompanyName}
+{!User.Email}
+{!User.Phone}
+Compliance Week 2019 | May 20-22 | Washington D.C.
+» Agenda
+» Registration
+» Speakers
+» Venue
+» Sponsorship opportunities
+» Continuing Education</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

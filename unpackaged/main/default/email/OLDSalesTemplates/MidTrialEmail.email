@@ -1,0 +1,139 @@
+<HTML><HEAD><TITLE>Compliance Week</TITLE>
+<link rel="stylesheet" type="text/css" href="http://www.complianceweek.com/css/style.css">
+</HEAD>
+<BODY link=#003399 leftMargin=3 topMargin=3>
+<TABLE cellSpacing=0 cellPadding=2 width=720 bgColor=#000000 border=0>
+  <TBODY>
+  <TR>
+    <TD>
+      <TABLE cellSpacing=0 cellPadding=2 width="100%" bgColor=#336699 
+        border=0><TBODY>
+        <TR>
+          <TD>
+            <TABLE cellSpacing=0 cellPadding=2 width="100%" bgColor=#ffffff 
+            border=0>
+              <TBODY>
+              <TR>
+                <TD vAlign=center align=middle width="100%"><A href="http://subscribe.complianceweek.com"><IMG 
+                  src="http://www.complianceweek.com/_images/uploads/logo/cwLogo.gif" border=0></A> </TD></TR>
+              <TR>
+                <TD align=middle>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+                    <TBODY>
+                    <TR>
+                      <TD><IMG height=2 src="http://www.complianceweek.com/images/330066.gif" 
+                        width="100%"></TD></TR>
+                    <TR>
+                      <TD align=middle bgColor=#336699>
+                        <TABLE cellPadding=2 width="100%" border=0>
+                          <TBODY>
+                          <TR>
+                            <TD align=middle><SPAN class=date><FONT 
+                              color=#ffffff><B>A Weekly Newsletter On Corporate 
+                              Governance, Risk And Compliance</B></FONT></SPAN> 
+                            </TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR>
+              <TR></TD>
+                <TD vAlign=top width="100%">
+                  <TABLE cellPadding=5 width="100%" border=0>
+                    <TBODY>
+                    <TR><!-- large news column here -->
+                      <TD vAlign=top width=185 bgcolor="#f9f9e9" height="100%"><SPAN 
+                        class=body><SPAN class=body>
+
+<center>
+<a href="http://subscribe.complianceweek.com"><img src="http://www.complianceweek.com/images/cw-mini.gif" border="0" 
+
+width="145" height="184"></a>
+</center>
+<p>&nbsp;
+                        <P>Dear {!Contact.FirstName}, 
+<p>
+I hope you are finding your trial access to Compliance Week useful and informative.
+<p>
+
+                        <P>As you can see from the comments at right, Compliance Week subscribers continue to benefit from our ongoing coverage of corporate governance, risk and compliance.
+<p>
+Tens of thousands of financial, legal and other executives at <a href="http://www.complianceweek.com/index.cfm?fuseaction=page.viewPage&pageID=163" style="text-decoration:underline">thousands of companies</a> rely on our news, analysis, searchable databases, and other resources to help them comprehend and comply with the latest regulations. 
+
+<p>
+If you subscribe by December 31, you can get a one-year, single-user subscription for $599, an unprecedented savings of $400.
+<p>
+To subscribe, call me at {!Account.OwnerPhone}.
+                        <P>
+
+                        <P>Thanks for considering, 
+                        <P>
+{!Account.OwnerFullName}<br>
+{!Account.OwnerTitle}<br>
+{!Account.OwnerPhone}<br>
+{!Account.OwnerEmail}
+</SPAN></P></SPAN></TD>
+                      <TD vAlign=top><IMG height="100%" 
+                        src="http://www.complianceweek.com/images/000000.gif" width=1> </TD>
+                      <TD vAlign=top>
+                        <TABLE cellPadding=5 border=0>
+                          <TBODY>
+                          <TR>
+                            <TD vAlign=top>
+                              <CENTER><SPAN class=newhead>“<A href="http://subscribe.complianceweek.com">For coverage at the 
+
+junction of accounting, governance, risk and corporate law,<br>I recommend Compliance Week</A>.” 
+                              <BR></SPAN><SPAN class=small><FONT color=maroon><B>Safeway</B></FONT> 
+                              <FONT color=#333333>(NYSE: SWY)<BR>Senior Vice President Finance and Control David F. 
+
+Bond</SPAN></FONT>
+                              <P><IMG src="http://www.complianceweek.com/images/spacer.gif" border=0> 
+<p>
+<SPAN class=newhead>“<A href="http://subscribe.complianceweek.com">No publication covers critical corporate governance issues 
+
+like Compliance Week</A>.” 
+                              <BR></SPAN><SPAN class=small><FONT color=maroon><B>Tyco International</B></FONT> 
+                              <FONT color=#333333>(NYSE: TYC)<BR>SVP Corporate Governance Eric Pillmore</SPAN></FONT>
+                              <P><IMG src="http://www.complianceweek.com/images/spacer.gif" border=0> 
+
+                              <P><SPAN class=newhead>“<A 
+                              href="http://subscribe.complianceweek.com">With Compliance Week, I am confident I'm getting the 
+
+most critical governance-related information, every week. It’s simply the most comprehensive and timely resource 
+
+available</A>.” <BR></SPAN><SPAN class=small><FONT color=maroon><B>Perot Systems </B></FONT><FONT color=#333333> (NYSE: 
+
+PER)<BR>Corporate Controller and Principal Accounting Officer Robert J. Kelly</SPAN></FONT>
+
+<!--
+                              <P><IMG src="http://www.complianceweek.com/images/spacer.gif" border=0> 
+                              <P><SPAN class=newhead>“<A href="http://subscribe.complianceweek.com">Compliance Week provides 
+
+the most complete and topical coverage of accounting, compliance and corporate governance issues of any currently available 
+
+periodical. A relevant read for all accounting and finance professionals</A>.” <BR></SPAN><SPAN class=small><FONT 
+
+color=maroon><B>Bausch & Lomb</B></FONT> <FONT color=#333333>(NYSE: BOL)<BR>Vice President Corporate Audit Services Michael 
+
+Greiner</SPAN></FONT>
+                              <P><IMG src="http://www.complianceweek.com/images/spacer.gif" border=0> 
+                              <P><SPAN class=newhead>“<A href="http://subscribe.complianceweek.com">Compliance Week is one of 
+
+the few resources that adequately bridges the complex financial and legal aspects of regulatory and securities compliance</A>.” 
+
+<BR></SPAN><SPAN class=small><FONT color=maroon><B>American Tower</B></FONT>
+				<FONT color=#333333> (NYSE: AMT)<BR>Chief Accounting Officer, SVP, and Controller Jean 
+
+Bua</SPAN></FONT-->
+
+                              <P><SPAN class=small><IMG src="http://www.complianceweek.com/images/right.gif" border=0> <A 
+
+href="http://testimonials.complianceweek.com">Click here to see more testimonials from paying subscribers</A> 
+                        
+<p>
+
+<a href="http://subscribe.complianceweek.com"><img src="http://www.complianceweek.com/images/free-version-promotion.gif" border="0"></a>
+
+</SPAN></P></CENTER></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD align=middle><SPAN class=small><FONT color=#ffffff>© Financial 
+            Media Holdings Group, Inc. All Rights Reserved.<BR>"Compliance 
+            Week" is a registered mark of Financial Media Holdings Group, Inc. 
+            </FONT></SPAN></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
+<P>
+</BODY></HTML>

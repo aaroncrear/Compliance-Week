@@ -1,0 +1,6 @@
+This contact record has been added to Silverpop's Master Suppression List, and consequently been flagged as "undeliverable" in SFDC.
+
+{!Contact.FirstName} {!Contact.LastName} | {!Contact.Email}
+{!Account.Name}
+
+https://wilmington.my.salesforce.com{!Contact.Id}

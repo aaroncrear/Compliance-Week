@@ -1,0 +1,31 @@
+<table border="0" cellpadding="5" width="550" cellspacing="5" height="400" >
+<tr valign="top" height="400" >
+<td tEditID="c1r1" style=" background-color:#FFFFFF; bEditID:r3st1; color:#000000; bLabel:main; font-size:12pt; font-family:arial;" aEditID="c1r1" locked="0" >
+<![CDATA[<p class="MsoNormal"><font size="2">Hi {!Contact.FirstName}, <o:p></o:p></font></p>
+
+<p class="MsoNormal"><o:p><font size="2">&nbsp;</font></o:p></p>
+
+<p class="MsoNormal"><font size="2">We are working to close the December
+edition of Compliance Week and have space for a full page ad on the outside
+back cover. The back cover is the most visible position in the magazine, we
+typically charge a 20% premium for the position.<o:p></o:p></font></p><p class="MsoNormal"><font size="2"><br></font></p>
+
+<p class="MsoNormal"><font size="2">I’d like to see if {!Account.Name}
+would be interested in the position. Because it's late, we'd waive the premium
+and include 25k online banner impressions at no additional cost. <o:p></o:p></font></p>
+
+<p class="MsoNormal"><o:p><font size="2">&nbsp;</font></o:p></p>
+
+<p class="MsoNormal"><font size="2"><b>Rate card for the position is
+$7,150 but I would reduce to $6,000.</b> It would generate nice print and online
+exposure for your firm. Materials for the print ad would be due next week
+Tuesday, November 15th.&nbsp;</font></p><p class="MsoNormal"><font size="2"><br></font></p><p class="MsoNormal"><font size="2">The print edition would reach subscribers the first week of December. <o:p></o:p></font></p><p class="MsoNormal"><font size="2"><br></font></p>
+
+<p class="MsoNormal"><font size="2">Please let me know soon if you
+have any interest, as we are approaching other companies as well.&nbsp;<o:p></o:p></font></p>
+
+<p class="MsoNormal"><o:p><font size="2">&nbsp;</font></o:p></p>
+
+<p class="MsoNormal"><font size="2">Thanks for your consideration.&nbsp;<o:p></o:p></font></p><p class="MsoNormal"><font size="2"><br></font></p><p class="MsoNormal"><font size="2">Julie Van Gelder</font></p><p class="MsoNormal"><font size="2">Advertising and Sponsorships</font></p><p class="MsoNormal"><font size="2">www.complianceweek.com</font></p>]]></td>
+</tr>
+</table>

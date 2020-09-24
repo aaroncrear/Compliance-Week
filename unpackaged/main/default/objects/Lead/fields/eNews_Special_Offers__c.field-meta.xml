@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>eNews_Special_Offers__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Never miss out again—we’ll deliver discounts to events, promotions for new subscribers, and must-have reports right to your inbox.</description>
+    <externalId>false</externalId>
+    <label>eNews Special Offers</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <type>Checkbox</type>
+</CustomField>

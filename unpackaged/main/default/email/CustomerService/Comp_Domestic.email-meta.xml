@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Comp | Domestic</name>
+    <style>none</style>
+    <subject>Your Complimentary Subscription to Compliance Week Starts Now</subject>
+    <textOnly>Trial Subscription Starts Now
+
+Dear {!Contact.FirstName},
+
+Welcome to Compliance Week, the world’s premier information service on corporate governance, risk and compliance. Every month, more than 60,000 professionals rely on us to help them comprehend and comply with the constantly evolving global regulations and standards to which public companies must adhere. We’re delighted you’ve joined them!
+
+We have set up online access for you at complianceweek.com. To ensure security of your account, we have not created a password for you. Please click the “Forgot Password?” link at the top of our website, paste your email address and click ”send“ to receive a temporary password.
+
+Your 10-day trial includes two weekly newsletters: Tuesday’s Compliance Week and Friday’s Compliance Week Weekend. You’ll also enjoy complete access to all subscriber-only content—designated with a key symbol—online. Highlights include a topic index of recent coverage; Disclosures: Compliance Week databases and spreadsheets; and an on-demand CPE webcast library.
+
+And for a monthly digest of compliance news, you&apos;ll receive our popular magazine, both online and in print. Like its paper-based brother, our digital edition supports sticky notes, PDF creation and bookmarking
+
+The next available print magazine will be mailed to:
+
+{!Contact.FirstName} {!Contact.LastName} {!Account.Name} {!Contact.MailingStreet} {!Contact.MailingCity}, {!Contact.MailingState} {!Contact.MailingPostalCode}
+
+Thanks again! And remember, we’re here to help. If you have any questions, please contact us at (888) 519-9200 or info@complianceweek.com.
+
+Compliance Week 77 N Washington St Fl 4 Boston, MA  02114-1908 (888) 519-9200 | Fax (800) 227-3775</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Yahoo_Presence__c</fullName>
+    <externalId>false</externalId>
+    <formula>IF(LEN( Yahoo_ID__c )=0,"", HYPERLINK("ymsgr:sendIM?" &amp;  Yahoo_ID__c , IMAGE("http://opi.yahoo.com/online?u=" &amp;  Yahoo_ID__c &amp; "&amp;m=g&amp;t=0", " ")))</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <label>Yahoo Presence</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

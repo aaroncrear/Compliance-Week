@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Data_Quality_Description__c</fullName>
+    <externalId>false</externalId>
+    <formula>IF( Data_Quality_Score__c =100,"All Lead Details Captured", "Missing: "&amp;IF( LEN( FirstName)=0,"First Name, ","")&amp;""&amp;IF(LEN(LastName)=0, "Last Name, ","")&amp;""&amp;IF( LEN(Company)=0, "Company, ","")&amp;""&amp;IF( LEN(Phone)=0, "Phone, ","")&amp;""&amp;IF( ISPICKVAL(Salutation,""), "Salutation, ","")&amp;""&amp;IF( ISPICKVAL(Rating,""), "Rating, ","")&amp;""&amp;IF( LEN(City)=0, "Complete Address, ","")&amp;""&amp;IF( LEN(Email)=0, "Email",""))</formula>
+    <label>Data Quality Description</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BusinessProcess xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Advertising</fullName>
+    <description>Steps associated with new advertising sales, renewals and upgrades.</description>
+    <isActive>true</isActive>
+    <values>
+        <fullName>Closed Lost</fullName>
+        <default>false</default>
+    </values>
+    <values>
+        <fullName>Closed Won</fullName>
+        <default>false</default>
+    </values>
+    <values>
+        <fullName>Inquiry</fullName>
+        <default>false</default>
+    </values>
+    <values>
+        <fullName>Paperwork sent</fullName>
+        <default>false</default>
+    </values>
+    <values>
+        <fullName>Proposal in Review</fullName>
+        <default>false</default>
+    </values>
+    <values>
+        <fullName>Under consideration</fullName>
+        <default>false</default>
+    </values>
+    <values>
+        <fullName>Verbal agreement</fullName>
+        <default>false</default>
+    </values>
+</BusinessProcess>

@@ -1,0 +1,6 @@
+<body>
+<p>{!Contact.FirstName},</p>
+<p>This week, a nameless banking executive tells of his visit to a newly acquired business unit. &#8220;The first sign of trouble was the gun in the Beauregard Room,&#8221; he said. &#8220;That’s really not something you should have in a bank.&#8221; Then he found the serious non-compliance problems.  <a href="http://www.complianceweek.com/another-true-tale-from-compliance-front-lines/article/319330/">Read more</a>.</p>
+<p>Packed with news, analysis, expert opinion&#8212;and real tales from the trenches&#8212;<a href="http://www.complianceweek.com/">Compliance Week</a> is the premier information source for thousands of GRC professionals. See for yourself by taking out a no-obligation free 10-day  trial subscription. Simply respond to this email with "sign me up" in the subject line to begin your free access today.</p>
+<p>{!User.FirstName} {!User.LastName}<br>
+Compliance Week</p></body>

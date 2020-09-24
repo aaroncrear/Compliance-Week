@@ -1,0 +1,68 @@
+<table border="0" cellpadding="5" width="550" cellspacing="5" height="400" >
+<tr valign="top" height="400" >
+<td tEditID="c1r1" style=" background-color:#FFFFFF; bEditID:r3st1; color:#000000; bLabel:main; font-size:12pt; font-family:arial;" aEditID="c1r1" locked="0" >
+<![CDATA[<p class="MsoNormal" style="font-size: 12pt;"><font face="Arial, sans-serif" style="">Hi {!Contact.FirstName},<o:p></o:p></font></p>
+
+<p class="MsoNormal" style="font-size: 12pt;"><span style="font-family: Arial, sans-serif; font-size: 12pt;">Thank you for being a
+Compliance Week subscriber! And we’d like to offer you an opportunity to
+upgrade your current membership and extend CW benefits to your team at (company
+name).&nbsp;</span></p>
+
+<p class="MsoNormal" style="font-size: 12pt;"><span style="font-family: Arial, sans-serif; font-size: 12pt;">And with any upgrade and as a Thank You from
+us, you'll receive FREE attendance to one of CW’s 2018 conferences –
+see details and conference line up below!</span></p>
+
+<p class="MsoNormal" style="font-size: 12pt;"><b><font face="Arial, sans-serif">&nbsp;</font></b><b style="font-family: Arial, sans-serif; font-size: 12pt;">Upgrade multi-user pricing options</b></p>
+
+<ul style="font-size: 12pt; margin-top: 0in;" type="disc">
+ <li class="MsoNormal"><font face="Arial, sans-serif"><b>$1000 OFF:</b> 5 user Corporate License<b>:
+     $2,499</b> (standard rate $3,499)</font></li><li class="MsoNormal"><font face="Arial, sans-serif"><b>$1000 OFF: </b>10
+     Seat Corporate License: <b>$2,999</b> (standard rate $3,999)<o:p></o:p></font></li>
+ <li class="MsoNormal"><font face="Arial, sans-serif"><b>50% off any other corporate option below</b>!</font></li><ul><li class="MsoNormal"><span style="font-family: Arial, sans-serif; text-indent: -0.25in; font-size: 12pt;">11-20 users
+$4,499 for one year or $7,599 for two years</span></li><li class="MsoNormal">21-50 users
+$5,499 for one year or $9,299 for two years</li></ul></ul><b style="font-size: 12pt;"><font face="Arial, sans-serif">Upgrade Reward for you: 1 Free delegate pass to any of the
+following conferences:</font></b><div style="font-size: 12pt;"><b style="font-size: 12pt; text-indent: 0.25in;"><font face="Arial, sans-serif">2018 Compliance Week
+Conference Schedule*</font></b></div><div style=""><ul style="font-size: 12pt;"><li><a href="http://events.complianceweek.com/events/gdpr-readiness-summit-c104-/event-summary-134455c2400c476f8a3ab64348f036be.aspx?_ga=2.165300415.1287841702.1502112987-809781192.1498145281" style="font-size: 12pt; font-family: Arial, sans-serif; text-indent: -0.25in;">GDPR
+Readiness Summit</a><span style="font-size: 12pt; font-family: Arial, sans-serif; text-indent: -0.25in;"> – December 4-5 2017, Standard Club, Chicago IL - </span><b style="font-size: 12pt; font-family: Arial, sans-serif; text-indent: -0.25in;"><i>closed</i></b></li><li><a href="http://events.complianceweek.com/events/3rd-annual-third-party-risk-management-oversight-summit-c106-/event-summary-d2f3800f8f1242938d4e0a92b107511a.aspx?dvce=1" style="font-size: 12pt; font-family: Arial, sans-serif; text-indent: -0.25in;">Third-Party
+Risk Management Summit (TPRM)</a><span style="font-size: 12pt; font-family: Arial, sans-serif; text-indent: -0.25in;"> - March 19-20, 2018, at the Westin Peachtree,
+Atlanta GA</span></li><li><b style="font-size: 12pt; font-family: Arial, sans-serif; text-indent: -0.25in;">AI, Technology &amp;
+Innovation</b><span style="font-size: 12pt; font-family: Arial, sans-serif; text-indent: -0.25in;"> –
+June 2018, Details/Location TBD</span></li><li><b style="font-size: 12pt; font-family: Arial, sans-serif; text-indent: -0.25in;">Sanctions Risk Management
+Symposium</b><span style="font-size: 12pt; font-family: Arial, sans-serif; text-indent: -0.25in;"> -
+Oct 2018, New York City</span></li><li><a href="http://events.complianceweek.com/events/compliance-week-europe/event-summary-6a241076e96f4ff9b46f39b397ecfbf6.aspx?_ga=2.135164337.1856283108.1505743347-1183718464.1475763363" style="font-size: 12pt; font-family: Arial, sans-serif; text-indent: -0.25in;">Compliance
+Week Europe 2018</a><span style="font-size: 12pt; font-family: Arial, sans-serif; text-indent: -0.25in;">, early Nov in Amsterdam – exact date/location TBD.</span></li><li>*all
+conference subject to change. CW Annual conference not included.</li></ul></div><div style="font-size: 12pt;">
+
+<p class="MsoNormal" style="font-size: 12pt;"><span style="font-family: Arial, sans-serif; font-size: 12pt;">If you’re interested in moving forward, have questions or would
+like to chat – please advise and we can either set up your account or determine
+best next steps.</span><span style="font-family: Arial, sans-serif; font-size: 12pt;">&nbsp;</span></p>
+
+<p style="font-size: 12pt; margin: 0in 0in 0.0001pt;"><font face="Arial, sans-serif">Thanks {!Contact.FirstName}
+– I look forward to hearing from you!</font></p>
+
+<p style="font-size: 12pt; margin: 0in 0in 0.0001pt;"><font face="Arial, sans-serif">Best regards,<o:p></o:p></font></p>
+
+<p style="font-size: 12pt; margin: 0in 0in 0.0001pt;"><font face="Arial, sans-serif">E-<o:p></o:p></font></p>
+
+<p style="font-size: 12pt; margin: 0in 0in 0.0001pt;"><font face="Arial, sans-serif">&nbsp;</font></p>
+
+<p class="MsoNormal" style="font-size: 12pt; background: white;"><font face="Arial, sans-serif"><b><span style="mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-fareast-theme-font:minor-fareast;color:#C00000;
+mso-no-proof:yes">Elizabeth Sucher</span></b><span style="mso-ascii-font-family:
+Calibri;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&quot;Times New Roman&quot;;
+mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+minor-latin;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi;
+color:#C00000;mso-no-proof:yes"><o:p></o:p></span></font></p>
+
+<p class="MsoNormal" style="font-size: 12pt; background: white;"><b><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-theme-font:
+minor-fareast;color:#44546A;mso-no-proof:yes"><font face="Arial, sans-serif">Compliance Week, Subscription
+Director<o:p></o:p></font></span></b></p>
+
+<p class="MsoNormal" style="font-size: 12pt; background: white;"><font face="Arial, sans-serif"><a href="mailto:Elizabeth.sucher@complianceweek.com"><span style="mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-fareast-theme-font:minor-fareast;mso-bidi-font-family:
+Arial;color:#0563C1;mso-no-proof:yes">Elizabeth.sucher@complianceweek.com</span></a><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-theme-font:minor-fareast;
+mso-bidi-font-family:Arial;color:#222222;mso-no-proof:yes"><o:p></o:p></span></font></p>
+
+<p class="MsoNormal" style="font-size: 12pt; background: white;"><font face="Arial, sans-serif" style=""><span style="color: rgb(34, 34, 34);">T&nbsp;</span><span style="color: rgb(34, 34, 34);">(617) 570-8605&nbsp;|&nbsp;</span><span style="color: rgb(34, 34, 34);">m&nbsp;</span><span style="color: rgb(34, 34, 34);">(617) 671-5531</span></font><span style="font-size: 12pt; font-family: arial; color: rgb(34, 34, 34);"><o:p></o:p></span></p></div>]]></td>
+</tr>
+</table>

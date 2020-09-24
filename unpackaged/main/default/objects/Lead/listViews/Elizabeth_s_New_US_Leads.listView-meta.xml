@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Elizabeth_s_New_US_Leads</fullName>
+    <columns>LEAD.STATUS</columns>
+    <columns>LEAD.FIRST_NAME</columns>
+    <columns>LEAD.LAST_NAME</columns>
+    <columns>LEAD.TITLE</columns>
+    <columns>LEAD.COMPANY</columns>
+    <columns>Account__c</columns>
+    <columns>LEAD.LEAD_SOURCE</columns>
+    <columns>Engagement_Priority_Score__c</columns>
+    <columns>User_Type__c</columns>
+    <columns>LEAD.LAST_ACTIVITY</columns>
+    <filterScope>Everything</filterScope>
+    <filters>
+        <field>CORE.USERS.FIRST_NAME</field>
+        <operation>equals</operation>
+        <value>Elizabeth</value>
+    </filters>
+    <filters>
+        <field>LEAD.CREATED_DATE</field>
+        <operation>greaterOrEqual</operation>
+        <value>12/1/2016 12:00 AM</value>
+    </filters>
+    <filters>
+        <field>LEAD.COUNTRY_CODE</field>
+        <operation>equals</operation>
+        <value>US</value>
+    </filters>
+    <label>Elizabeth's New US Leads</label>
+    <sharedTo>
+        <role>Director_of_Subscription_Sales</role>
+        <role>Salesforce_Administrator</role>
+    </sharedTo>
+</ListView>

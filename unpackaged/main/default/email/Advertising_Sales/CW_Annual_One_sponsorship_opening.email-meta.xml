@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>CW Annual</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>CW Annual - One sponsorship opening</name>
+    <style>none</style>
+    <subject>Compliance Week Annual Conferencee</subject>
+    <textOnly>Hi {!Contact.FirstName} -
+
+I hope all is well at {!Account.Name}.
+
+We are down to one open sponsorship position at our annual conference. I would like to see if {!Account.Name} would be interested.
+
+As a sponsor, you would have two speaking positions, one would be on a large room panel with the following session topics still available:
+
+Managing FCPA Audits on a Global Scale
+Getting a Stronger Grasp on Vendor Risks
+Developing the Right Strategy for GRC Implementation
+Building Effective Training Programs
+Smarter Risk Analysis in the Era of Big Data Analytics
+Moving From Compliance Programs to Enterprise Risk Management
+Assessing Your Risks in Anti-Trust
+
+The event will be held May 18 to 20, 2015, at the Mayflower Hotel, Washington DC. The event is designed to discuss the challenges of corporate compliance, offering insights on more effective compliance programs and financial reporting – including lessons learned. The event website is http://conference.complianceweek.com/cw-2015/home-cw2015.aspx.
+
+The event will have 12 Presenting Sponsors, each will have two speaking sessions, exhibit booth, access to all the leads, etc. The entire event is designed so that the sponsors are able to interact with an audience of 450+ senior executives at global public companies who are responsible for Corporate Governance, Risk Management &amp; Regulatory Compliance for their company. Benefits of sponsorship include:
+
+
+A feature presentation to approximately 80-100 executives;
+A break-out discussion to 15-20 executives following the feature presentation;
+Access to all registration information from attendees;
+Participation in a seated lunch and access to the event management team to plan a private dinner;
+Exhibit booth in the main hall;
+Full page ad in conference brochure;
+Opportunity to include educational/promotional materials with conference brochure;
+Four conference passes;
+Logo on all conference materials.
+
+The cost of sponsorship is $55,000.  A full description of the available sessions is listed below my signature at the bottom of this email.
+
+Please let me know if you have questions or would like to discuss. Thanks for your consideration.
+
+-Doug
+
+
+
+
+----------------------------
+Doug Juenemann
+Compliance Week
+Advertising &amp; Events
+77 North Washington St
+Boston, MA 02114
+617 570 8610
+doug@complianceweek.com
+
+Sessions at Compliance Week 2015 available for a sponsor:
+
+Managing FCPA Audits on a Global Scale
+Enforcing anti-corruption policies among employees and third parties is one of the foremost concerns for compliance departments. Learn how one company developed its FCPA audit process to assess and uncover bribery risks—from planning an audit, to collecting necessary data from numerous software systems, to analyzing that information and flagging FCPA concerns that merit more formal investigation. Bring plenty of questions for this granular look at a crucial compliance exercise.
+
+Getting a Stronger Grasp on Vendor Risks
+Poor oversight of vendors is an excellent way to increase corruption, sanctions, and tax risks, among other things. This session will review ways to move beyond mere assessment of vendor risks and implement better systems to manage those risks: how to collaborate with audit and business unit leaders; how to achieve a more continuous monitoring; how to respond quickly when a vendor&apos;s risks get too high. We will walk through the reporting that can help a CCO understand the whole picture of vendor risks and present that to other stakeholders in the organization.
+
+Developing the Right Strategy for GRC Implementation
+Oh, joy: the company has decided it needs an enterprise-wide GRC software system. Now what? This session will explore all the questions and considerations you need to answer. Remember, you are changing business processes as you automate GRC functions—so what input do you need from business unit leaders? What’s the working relationship between the CCO and the IT department? What’s the strategy to accommodate future growth? And, yes, war stories will be told.
+
+Building Effective Training Programs
+Successful compliance training programs work on three principles: they clearly connect regulatory requirements to your training curriculum, and stay current with changing regulation; they deliver compliance training as part of a broader learning program; and they use a structure where compliance, HR, and workforce development teams all work together for employee improvement. This session will offer specific examples from highly regulated businesses with complex compliance needs, showing how training can work efficiently and effectively.
+
+Smarter Risk Analysis in the Era of Big Data Analytics
+The volume of corporate data, and a company’s ability to analyze it all, are both exploding. This has profound implications for corporations trying to identify possible fraud, weak spots in supply chains, or evidence to support an investigation. This session will look at new ways to employ “big analytics” for sharper insight into risk areas, and it will consider the importance of improving analytic capabilities, as regulators do the same with their own computing firepower.
+
+Moving From Compliance Programs to Enterprise Risk Management
+The annual compliance risk assessment—and modifying your program to address weaknesses you find —is a good foundation for any company, but what then? How can you take the results of that exercise and build a stronger program of enterprise risk management, with useful data for senior executives and risk-management practices embedded into business units? This session will discuss how you can move forward from compliance assessments to ERM, in ways flexible enough to move with corporate strategy and measurable enough to let you see progress.
+
+Assessing Your Risks in Anti-Trust
+Antitrust compliance is a rapidly rising concern for chief compliance officers, and not just for one industry behemoth merging with another. How do you digest antitrust regulations globally, and the conflicting legal concepts behind them? How do you scrutinize your business model and processes for antitrust risks, and assemble an enterprise-wide sense of your exposure? This session will explore those questions, and how to apply previous anti-corruption compliance wisdom to this new field.</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

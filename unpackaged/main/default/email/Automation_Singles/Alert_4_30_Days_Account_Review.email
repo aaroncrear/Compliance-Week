@@ -1,0 +1,3 @@
+{!Subscription_NEW__c.Contact__c}’s subscription payment is overdue, and an overdue notice has been sent via email. Please review the account as the renewal opportunity will be Closed Lost.
+ 
+Opportunity Record | {!Opportunity.Link}

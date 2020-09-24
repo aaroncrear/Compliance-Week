@@ -1,0 +1,9 @@
+{!Opportunity.Name} @ {!Opportunity.Account}
+{!Opportunity.Type} | {!Product2.Name}
+{!Opportunity.Amount}
+
+Closed Date | {!Opportunity.CloseDate}
+Days Since Closed | {!Opportunity.Days_Since_Close_Date__c}
+Rep |  {!Opportunity.Sales_Rep_New__c}
+
+https://na5.salesforce.com/{!Opportunity.Id}

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Expired multi&apos;s and singles - active users</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>Compliance_Week</letterhead>
+    <name>CW.sub+2019conferencepass.v2</name>
+    <style>freeForm</style>
+    <subject>New 2019 subscriber options from CW!</subject>
+    <textOnly>Hi James,
+
+
+It’s nice to meet you! As a former subscriber and current user of Compliance Week, I was hoping to chat with you regarding some new membership options recently developed specifically for practitioners like yourself.
+
+We’ve heard recent feedback that it is highly preferable if CW subscription has conference attendance built right into a broader membership offering. To this end, please see the brand new packaging we’re rolling out now to help folks prep and plan for the new year ahead!
+
+With key accounting concerns, data privacy regulation, third-party risk and ongoing changing regulations, Compliance Week is here to help! Please review the options below and advise how we could best work with you and your team!
+
+5 Seat Multi User Subscription, &amp; 1 FREE conference pass to any Compliance Week event in 2019 - $2,999 (Regularly $3,499, plus registration fee)
+Single User Subscription &amp; 1 FREE conference pass to any Compliance Week event - $999 (Regularly $1,199, plus registration fee)
+
+*Offer available for new subscribers
+
+To activate your discounted rate &amp; secure free conference attendance, just respond to this email with an “I agree” and the option of your choice. You can sign-up for your conference of choice during the respective open registration period.
+
+Subscription benefits &amp; 2019 events schedule:
+
+The most pertinent in-depth expert analysis at your fingertips -news articles, blogs, and thought leadership geared towards specific topics of interest to you.
+On-Demand CPE Library - Webcast Forums, Whitepapers - Register for Live Webcasts or earn credits anytime at your convenience.
+Weekly Newsletters - Business intelligence with in-depth expert analysis every Tuesday, Wednesday and Thursday.
+Print Magazine - Delivered 6x per year and available in digital form.
+Comprehensive Archives, Corporate Documents, and Benchmarking Tools.
+Compliance Week Conferences 2019*
+
+New! Compliance Week West – March 11-12, 2019, San Francisco, Data Privacy, Data Analytics, and Big Data Summit
+4th Annual TPRM, Third Party Risk Management &amp; Oversight Summit, March 25-26, 2019, New York City
+
+Compliance Week Annual 2019, May 20-22, 2019, Washington D.C.
+Compliance Week Europe 2019, November 2019, Amsterdam
+
+*All conferences subject to change
+
+Join thousands of the world&apos;s leading compliance professionals who use Compliance Week analysis on a daily basis, including executives from Wal-Mart Stores Inc., Microsoft, Verizon, General Electric, Cardinal Health, Fannie Mae, Prudential Financial, Phillips 66, Anthem, Target, and many other Fortune 100 organizations.
+
+Thanks James – I look forward to connecting with you!
+
+Warm regards,
+
+E-
+
+Elizabeth Sucher
+Compliance Week, Subscription Director
+Elizabeth.sucher@complianceweek.com
+T (617) 570-8605 | m (617) 671-5531</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

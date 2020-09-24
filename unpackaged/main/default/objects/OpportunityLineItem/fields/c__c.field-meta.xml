@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>c__c</fullName>
+    <externalId>false</externalId>
+    <formula>CASE( 
+PricebookEntry.Product2.Min_Users__c ,1, "Single license",
+2,"Tier (1) allows up to 5 users", 
+  6, "Tier (2) up to 10 users", 
+  11,"Tier (3) up to 20 users",
+  21,"Tier (4) up to 50 users",
+  51,"Tier (5) up to 100 users",
+  101,"Tier (6) up to 150 users", 
+  151,"Tier (7) up to 200 users",
+  201,"Tier (8) up to 300 users",
+  301,"Unlimited",
+null)</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <inlineHelpText>Multi Tier Description</inlineHelpText>
+    <label>c</label>
+    <required>false</required>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>Public</fullName>
+        <default>false</default>
+        <label>Public</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Public Subsidiary</fullName>
+        <default>false</default>
+        <label>Public Subsidiary</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Private</fullName>
+        <default>false</default>
+        <label>Private</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Government</fullName>
+        <default>false</default>
+        <label>Government</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Nonprofit</fullName>
+        <default>false</default>
+        <label>Nonprofit</label>
+    </standardValue>
+    <standardValue>
+        <fullName>-- unknown --</fullName>
+        <default>false</default>
+        <label>-- unknown --</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Private Subsidary</fullName>
+        <default>false</default>
+        <label>Private Subsidary</label>
+    </standardValue>
+</StandardValueSet>

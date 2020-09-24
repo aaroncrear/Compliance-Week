@@ -1,0 +1,28 @@
+Hi {!Contact.FirstName},
+
+I hope you have enjoyed the holiday season and are excited for a successful 2017.  
+
+I have recently joined the subscription team at Compliance Week and want to thank you for being a past attendee of the Compliance Week annual conference as well as a loyal subscriber.
+
+As an alumni, I’d like to extend to you a personal invitation to join us again at Compliance Week 2017. In its 12th year, our three-day conference will bring together over 600 top decision makers in compliance, risk, and audit from corporations around the world. Included will be keynote speakers, concurrent panel discussions, and presentations, plus small-room “conversation” sessions to deliver high-quality content. 
+
+Conference details:
+When:  May 22-24, 2017
+Where: Mayflower Hotel
+             127 Connecticut Ave NW
+             Washington, D.C. 20036
+Register here: goo.gl/hKFYcM
+
+As a valued friend of Compliance Week, we are offering a discounted price of $1,395.  
+For Registration use Alumni code: CW17ALUMNI
+
+Please let me know if there is anything I can assist with regarding the conference or your subscription.  
+ 
+Thank you and best regards,
+
+{!User.FirstName} {!User.LastName}
+{!User.Title}
+{!User.CompanyName}
+{!User.Phone} (o)
+{!User.MobilePhone} (m)
+{!User.Email}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Old_Ad_Sales_Org_Contact__c</fullName>
+    <externalId>false</externalId>
+    <formula>IF(ISBLANK(Legacy_SalesforceID__c), FALSE, TRUE)</formula>
+    <label>Old Ad Sales Org Contact?</label>
+    <trackHistory>false</trackHistory>
+    <type>Checkbox</type>
+</CustomField>

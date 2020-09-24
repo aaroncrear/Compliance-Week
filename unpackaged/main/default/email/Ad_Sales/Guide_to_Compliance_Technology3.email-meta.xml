@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Guide</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Guide to Compliance &amp; Technology</name>
+    <style>none</style>
+    <subject>Compliance Week Guide to Compliance &amp; Technology</subject>
+    <textOnly>Hi {!Contact.FirstName} –
+
+
+This September, Compliance Week will release a Guide to Compliance Technology. I would like to approach {!Account.Name} with sponsorship and advertising details.
+
+
+The guide will be developed by Compliance Week’s editorial staff and contain actionable information for compliance professionals who might be navigating the complex waters of choosing a technology provider/solution. It will be vendor-agnostic, we are not going to evaluate products but rather lay out the right questions to ask and things to consider when choosing a vendor. The guide will be approximately 25 pages in length. It will appear in the September print edition and will be released online as an eBook.
+
+
+The edition will contain the following sections:
+
+
+Section introduction (2-page spread)
+
+How technology has changed the compliance regulatory landscape/why you need to invest in it if you haven’t already.
+
+Glossary of terms: Terminology/acronyms and definitions used in the business of compliance technology (RegTech, FinTech, SaaS, etc.).
+
+Mainbar: Compliance officer’s perspective. So you’ve made the decision to invest in compliance technology … where do you start? Here’s our how-to guide.
+
+Questions you need to ask vendors
+
+How to identify which functions could be made more efficient with technology
+
+Best way to pitch a technology solution to the board
+
+Best way to offboard old technology (or how to identify when technology is too old)
+
+What’s your backup plan if you’ve invested all of this money in software and it’s not working out the way you thought
+
+What risks are there in working with a third-party vendor (data privacy, cyber-security)
+
+Sidebar: Regulators’ perspective. Based on the DoJ’s “Evaluation of Corporate Compliance Programs” guidance issued in 2017, we’ll help you discern what data regulators expect you to have available when they come to you trying to evaluate your compliance program. We will talk to people at companies who have gone through this process with regulators.
+
+Mainbar: Finance and accounting. Benchmarking report from the Financial Executives Research Foundation reveals how evolving technology is rapidly enhancing the accounting and finance functions.
+
+Sidebar: Audit. How to better use analytics in internal audit. We’ll talk to internal audit consultants and deliver brand-agnostic best practices on the topic.
+
+Mainbar: Compliance analytics. We take a dive into the developing phenomenon of “compliance analytics,” which is essentially companies making better use of big data to 1) demonstrate to regulators that they’re going above and beyond in their compliance function to identify problems before they’re problems; and 2) as a way to better show ROI for a robust compliance program.
+
+Sidebar: Q&amp;A with a Director of Compliance Analytics.
+
+European perspective. Will look at the RegTech and FinTech environment. How has GDPR impact technology decisions for compliance practitioners? Are companies more free to innovate due to the so-called “regulatory sandboxes”?
+
+Guest column: The future of compliance and technology. A self-described compliance futurist shares his perspective on a glaring need he sees in corporate and regulatory compliance programs in all industries: the need for a technological transformation. He’ll also predict where we’ll be in 5-10 years, when AI will be more accessible.
+
+Sidebar: Why technology will never replace people for certain functions.
+
+Survey: Compliance and technology. Compliance Week will conduct a survey of compliance professionals, asking them 10-15 questions about the current state of technology within their compliance function, how big of a priority is it for them to upgrade their technology, the specific areas in which they are looking to upgrade their technology, how many have dabbled in compliance analytics or AI, and more. The results from this survey will be sprinkled throughout the guide and be a part of the post-publication webinar.
+
+
+An online eBook of the guide will reach our entire active online database of 65,000 corporate legal, financial, audit, risk &amp; compliance executives at global public companies. It will also be promoted on our website homepage for three weeks. The online promotion will generate approximately 350 registrations with all registration information shared with the sponsors.
+
+
+Advertising in the edition includes access to all registration information from online downloads (300 leads guaranteed). The costs to advertise in the edition:
+
+
+Half Page Advertisement - $4,500. Includes ad in September print edition, ad in the eBook, and access to all leads.
+
+Full page advertisement - $6,250. Includes ad in September print edition, ad in the eBook, 25,000 online banner impressions and access to all leads.
+
+White Paper -  $12,250 for three pages. Includes paper in September print edition, paper in the eBook, 25,000 online banner impressions and access to all leads.  Each additional page costs $3,000.
+
+
+We close the edition on Friday, August 24th. Materials are due on Wednesday, September 5th.
+
+
+Please let me know if you have questions or need anything else to make a decision.
+
+
+Thanks for your consideration.
+
+
+-Doug
+
+
+
+------------------------------------
+
+Doug Juenemann
+
+Director, Advertising &amp; Sponsorship Sales
+
+Compliance Week
+
+129 Portland Street, 6th Flr
+
+Boston, MA 02114
+
+Phone #: 617 570 -8610
+
+doug@complianceweek.com
+
+https://www.linkedin.com/in/doug-juenemann-3475a5b/</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

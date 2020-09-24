@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Active_singles_TX</fullName>
+    <booleanFilter>1 AND 2 AND 3</booleanFilter>
+    <columns>FULL_NAME</columns>
+    <columns>ACCOUNT.NAME</columns>
+    <columns>CONTACT.TITLE</columns>
+    <columns>CONTACT.PHONE1</columns>
+    <columns>CONTACT.EMAIL</columns>
+    <columns>CORE.USERS.ALIAS</columns>
+    <columns>CONTACT.ADDRESS2_CITY</columns>
+    <columns>CONTACT.ADDRESS2_STATE_CODE</columns>
+    <filterScope>Everything</filterScope>
+    <filters>
+        <field>User_Type__c</field>
+        <operation>equals</operation>
+        <value>Single</value>
+    </filters>
+    <filters>
+        <field>Expiration_Date__c</field>
+        <operation>greaterThan</operation>
+        <value>8/1/2017</value>
+    </filters>
+    <filters>
+        <field>CONTACT.ADDRESS2_STATE_CODE</field>
+        <operation>equals</operation>
+        <value>TX</value>
+    </filters>
+    <label>Active singles - TX</label>
+</ListView>

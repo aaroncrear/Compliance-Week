@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Email sent to subscriber after declining renewal.</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Renewal Closed Lost</name>
+    <style>none</style>
+    <subject>Sorry to see you leave. How can we improve?</subject>
+    <textOnly>Dear {!Opportunity.Primary_Subscription_Contact__c},
+
+We’re sorry that you won’t be renewing your membership to Compliance Week.
+
+We strive to be the best resource for governance, compliance, and risk management information and are always looking for ways to better serve our customers. Help us improve what we do by telling us why you’re leaving. If you have a moment, please participate in this short one-question survey
+
+Best regards,
+
+Angela Ruggiero
+Business Development Associate
+(617) 570-8608
+angela.ruggiero@complianceweek.com</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

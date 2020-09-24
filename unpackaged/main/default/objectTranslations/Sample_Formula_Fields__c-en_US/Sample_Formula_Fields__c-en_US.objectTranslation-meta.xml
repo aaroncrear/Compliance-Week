@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Sample Formula Field</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Sample Formula Fields</value>
+    </caseValues>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <layouts>
+        <layout>Sample Formula Field Layout</layout>
+        <sections>
+            <label><!-- Data --></label>
+            <section>Data</section>
+        </sections>
+        <sections>
+            <label><!-- Horizontal Bars --></label>
+            <section>Horizontal Bars</section>
+        </sections>
+        <sections>
+            <label><!-- Images from the Web --></label>
+            <section>Images from the Web</section>
+        </sections>
+        <sections>
+            <label><!-- Ratings --></label>
+            <section>Ratings</section>
+        </sections>
+        <sections>
+            <label><!-- Skype --></label>
+            <section>Skype</section>
+        </sections>
+        <sections>
+            <label><!-- Status Indicators --></label>
+            <section>Status Indicators</section>
+        </sections>
+        <sections>
+            <label><!-- Stock Charts --></label>
+            <section>Stock Charts</section>
+        </sections>
+        <sections>
+            <label><!-- Yahoo! IM --></label>
+            <section>Yahoo! IM</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

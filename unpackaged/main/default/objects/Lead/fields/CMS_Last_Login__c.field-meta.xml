@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CMS_Last_Login__c</fullName>
+    <description>This field shows the most recent date and time when the lead logged into their CMS user account.</description>
+    <externalId>false</externalId>
+    <label>CMS Last Login</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>true</trackHistory>
+    <type>DateTime</type>
+</CustomField>

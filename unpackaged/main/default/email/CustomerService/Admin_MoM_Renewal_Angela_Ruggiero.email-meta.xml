@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>customized with Angela&apos;s info</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Admin | MoM Renewal | Angela Ruggiero</name>
+    <style>none</style>
+    <subject>An Introduction to Compliance Week</subject>
+    <textOnly>Hi Everyone,
+
+I wanted to let you know the great news that {!Account.Name} has renewed their multi-user access license to Compliance Week for another year.
+
+If you are receiving this email, you are a member of this multi-user license, and will be able to access Compliance Week’s weekly electronic newsletters, monthly print magazine, industry-leading events, and a variety of interactive features and forums.
+
+Login Information
+
+To access subscriber-only content, please visit www.complianceweek.com. At the top left-hand corner of the home page, enter your email address and click “Forgotten your password?” A temporary password will be sent to you.
+
+Make sure to bookmark this page for easier access in the future: admin.complianceweek.com.
+It is worth making note of your credentials as you will need to use them to login throughout the year.
+
+Next Steps | If you would like to receive the following resources, click on the &quot;Profile&quot; option after clicking into “My CW” and scrolling down to “Account Preferences.”
+
+Compliance Week | A fresh edition of Compliance Week delivered via e-mail every Tuesday morning, relentlessly focused on the disclosure, reporting, and compliance requirements of our subscribers. The Tuesday newsletter delivers our very latest in-depth news, analysis, columns, research, and other resources.
+
+Compliance Weekend | Published every Friday, Compliance Weekend offers a quick, “plain English” review of the week&apos;s key developments. Highlighting some of Compliance Week&apos;s myriad real-time data offerings, from the latest investigations to the most recent auditor changes, Compliance Weekend ensures you haven&apos;t missed the week&apos;s most interesting regulatory developments.
+
+Finally, your company administrator will be able to help you with your account. 
+Should you have any additional questions, your Compliance Week representative is:
+Angela Ruggiero
+angela.ruggiero@complianceweek.com
+617-570-8608
+
+I hope you have the opportunity throughout the year to benefit from the full portfolio of business tools available through complianceweek.com and please do not hesitate to let me know if you have any questions.</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

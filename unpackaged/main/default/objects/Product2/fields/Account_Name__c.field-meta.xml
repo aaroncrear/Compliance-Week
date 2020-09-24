@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Account_Name__c</fullName>
+    <externalId>false</externalId>
+    <label>Account Name</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Display</fullName>
+                <default>false</default>
+                <label>Display</label>
+            </value>
+            <value>
+                <fullName>Inserts</fullName>
+                <default>false</default>
+                <label>Inserts</label>
+            </value>
+            <value>
+                <fullName>Whitepapers</fullName>
+                <default>false</default>
+                <label>Whitepapers</label>
+            </value>
+            <value>
+                <fullName>Supplements</fullName>
+                <default>false</default>
+                <label>Supplements</label>
+            </value>
+            <value>
+                <fullName>Reprints</fullName>
+                <default>false</default>
+                <label>Reprints</label>
+            </value>
+            <value>
+                <fullName>List Rentals</fullName>
+                <default>false</default>
+                <label>List Rentals</label>
+            </value>
+            <value>
+                <fullName>Reports/Survey</fullName>
+                <default>false</default>
+                <label>Reports/Survey</label>
+            </value>
+            <value>
+                <fullName>Key Word</fullName>
+                <default>false</default>
+                <label>Key Word</label>
+            </value>
+            <value>
+                <fullName>Banner</fullName>
+                <default>false</default>
+                <label>Banner</label>
+            </value>
+            <value>
+                <fullName>Direct Email</fullName>
+                <default>false</default>
+                <label>Direct Email</label>
+            </value>
+            <value>
+                <fullName>Directory Listing</fullName>
+                <default>false</default>
+                <label>Directory Listing</label>
+            </value>
+            <value>
+                <fullName>Job Listing</fullName>
+                <default>false</default>
+                <label>Job Listing</label>
+            </value>
+            <value>
+                <fullName>Newsletter Sponsorships</fullName>
+                <default>false</default>
+                <label>Newsletter Sponsorships</label>
+            </value>
+            <value>
+                <fullName>Webcast Sponsorships</fullName>
+                <default>false</default>
+                <label>Webcast Sponsorships</label>
+            </value>
+            <value>
+                <fullName>CPE Webcasts</fullName>
+                <default>false</default>
+                <label>CPE Webcasts</label>
+            </value>
+            <value>
+                <fullName>CPE Self Study</fullName>
+                <default>false</default>
+                <label>CPE Self Study</label>
+            </value>
+            <value>
+                <fullName>Event Listings</fullName>
+                <default>false</default>
+                <label>Event Listings</label>
+            </value>
+            <value>
+                <fullName>Event Newsletter Sponsorships</fullName>
+                <default>false</default>
+                <label>Event Newsletter Sponsorships</label>
+            </value>
+            <value>
+                <fullName>Event Sponsorship</fullName>
+                <default>false</default>
+                <label>Event Sponsorship</label>
+            </value>
+            <value>
+                <fullName>Other</fullName>
+                <default>false</default>
+                <label>Other</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

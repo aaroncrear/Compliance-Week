@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Can&apos;t Match --></label>
+        <name>Can_t_Match__c</name>
+    </CustomFieldTranslation>

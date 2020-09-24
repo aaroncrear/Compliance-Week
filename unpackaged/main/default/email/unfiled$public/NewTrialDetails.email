@@ -1,0 +1,6 @@
+{!Opportunity.Name}
+{!Opportunity.Account}
+
+Trial expires {!Opportunity.Term_End_Date__c}
+
+Salesforce Record: http://na5.salesforce.com/{!Opportunity.Id}

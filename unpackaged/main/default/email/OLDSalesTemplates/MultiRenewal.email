@@ -1,0 +1,18 @@
+Dear {!Contact.FirstName}:
+
+As I mentioned in my voicemail, your Compliance Week subscription is coming up for renewal. The expiration date is {!Contact.Expiration_Date__c}.
+
+We now have a tiered pricing structure, and based on the level of usage for {!Account.Name}, the one-year renewal price is $_______.
+
+If you want to renew, simply reply to this email and tell me whether you'd like to renew for one year, or save 15% and renew for 2 years $____________.
+
+Please feel free to contact me via email or call me directly at {!Account.OwnerPhone}.
+
+I'll make sure you and your colleagues don't miss another day of access to Compliance Week.
+
+Thanks, and best regards, 
+
+{!Account.OwnerFullName}
+{!Account.OwnerTitle}
+{!Account.OwnerPhone}
+{!Account.OwnerEmail}

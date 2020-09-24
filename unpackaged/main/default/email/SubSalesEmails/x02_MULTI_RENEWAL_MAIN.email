@@ -1,0 +1,35 @@
+Hi {!Contact.FirstName}, hope all is well with you.
+
+Wanted to let you know that your Compliance Week license is expiring on {!Contact.Expiration_Date__c}.
+
+To confirm your renewal, simply reply to this e-mail and write "I agree" -- and also whether you'd like to renew for one year ($3,999) or two years ($7,198). Your license fee won't be due until {!Contact.00N70000002Vvy1}.
+
+Your reply will confirm that you agree to the terms below. Then we will email you an invoice and process the order immediately while we wait for payment. (If you want to pay by credit card, you can call us at any time at (888) 519-9200 after you receive your invoice.)
+
+-----------------------------------------------------------------------------------
+ORDER CONFIRMATION: By replying to this e-mail and
+typing "I agree" in the body of your reply e-mail, you
+hereby agree to be bound by the following Compliance
+Week order:
+
+> Company: {!Account.Name}
+
+> License Type: Multi-User Renewal
+
+> Price: $3,999 for one year OR $7,198 for two years
+
+> Payment Due: {!Contact.00N70000002Vvy1}
+
+> New License Term Start Date: {!Contact.Expiration_Date__c}
+
+> Terms & Conditions:
+http://www.complianceweek.com/terms-and-conditions
+
+You also agree to process this order for payment as soon
+as possible, and confirm that you are authorized to enter
+into this agreement in its entirety.
+
+IMPORTANT: Your reply with "I Agree" in the body of the e-mail is the legal equivalent of a signature on a contract, and you are bound upon our receipt of your "I Agree" reply. There are no cancellations, changes, or refunds upon our receipt of your "I Agree" reply.
+---------------------------------------------------------------------------------
+
+Let me know if you have any further questions or need anything else.

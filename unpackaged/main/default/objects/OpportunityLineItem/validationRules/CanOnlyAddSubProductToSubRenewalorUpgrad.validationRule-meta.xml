@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CanOnlyAddSubProductToSubRenewalorUpgrad</fullName>
+    <active>true</active>
+    <description>Prevents user being able to add Advertising Products to Subscription Renewal or Upgrade Opportunities.</description>
+    <errorConditionFormula>AND(
+NOT(ISPICKVAL( Product2.Family ,"Subscriptions")),
+ISPICKVAL(Opportunity.Type, "Subscriptions"),
+(ISPICKVAL(Opportunity.Business_Type__c,"Renewal") || ISPICKVAL(Opportunity.Business_Type__c,"Renewal Upgrade") ||
+ISPICKVAL(Opportunity.Business_Type__c,"Upgrade")),
+Opportunity.Business_Unit__c = "Compliance Week"
+)</errorConditionFormula>
+    <errorMessage>You can only add subscription products to Subscription Renewals and Upgrades.</errorMessage>
+</ValidationRule>

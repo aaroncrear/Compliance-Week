@@ -1,0 +1,71 @@
+<html dir="ltr">
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <p style="text-align: center;"><span style="color: rgb(255, 255, 255);"><span style="font-family: Calibri;" /></span></p>
+        <p style="text-align: center;"><span style="color: rgb(255, 255, 255);"><span style="font-family: Calibri;" /></span></p>
+        <p style="text-align: center;"><span style="color: rgb(255, 255, 255);"><span style="font-family: Calibri;" /></span></p>
+        <table align="left" width="458" height="558" cellspacing="1" cellpadding="1" border="0">
+            <tbody>
+                <tr>
+                    <td valign="top"><img width="450" height="124" border="0" name="Cont_0" alt="" src="https://www.complianceweek.com/sites/default/files/CW%20header%20for%20trial%20follow%20up%20email.jpg" /></td>
+                </tr>
+                <tr>
+                    <td valign="top">
+                    <table width="200" cellspacing="1" cellpadding="1" border="0">
+                        <tbody>
+                            <tr>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <table align="center" width="399" height="104" cellspacing="1" cellpadding="1" border="0">
+                        <tbody>
+                            <tr>
+                                <td>
+                                <p><span style="color: rgb(128, 128, 128);"><span style="font-family: Calibri;">Hi {!Contact.FirstName}, </span></span></p>
+                                <p><span style="color: rgb(128, 128, 128);"><span style="font-family: Calibri;">Thank  you for setting up a 5-day trial with Compliance Week. I hope you found the  content useful. </span></span></p>
+                                <p><span style="color: rgb(128, 128, 128);"><span style="font-family: Calibri;">I&rsquo;d like to invite you to begin a license with this  special offer.</span></span></p>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <p><span style="color: rgb(128, 128, 128);"><span style="font-family: Calibri;" /></span></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top">
+                    <p style="text-align: center;"><img width="400" height="154" border="0" alt="" src="https://www.complianceweek.com/sites/default/files/trial%20follow%20up%20image%20v2%20license.png" /></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="top">
+                    <p><span style="color: rgb(128, 128, 128);"><span style="font-family: Calibri;" /></span></p>
+                    <table align="center" width="390" height="232" cellspacing="1" cellpadding="1" border="0">
+                        <tbody>
+                            <tr>
+                                <td>
+                                <p><span style="color: rgb(128, 128, 128);"><span style="font-family: Calibri;">You  can reply to this message or call me to set up your license.    </span></span></p>
+                                <p><span style="color: rgb(128, 128, 128);"><span style="font-family: Calibri;">Again, thank you for trying Compliance Week. We welcome your feedback and hope you'll join the CW community.</span></span></p>
+                                <p><span style="color: rgb(128, 128, 128);"><span style="font-family: Calibri;">If you have any questions, please do not  hesitate to contact me. </span></span></p>
+                                <p><span style="color: rgb(128, 128, 128);"><span style="font-family: Calibri;">Sincerely, </span></span><span style="color: rgb(51, 51, 0);"><span style="font-size: 20px;"><span style="font-family: Calibri;"><br />
+                                </span></span></span></p>
+                                <p><span style="color: rgb(51, 51, 0);"><span style="font-size: 20px;"><span style="font-family: Calibri;" /></span></span></p>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p style="text-align: center;"><span style="color: rgb(255, 255, 255);"><span style="font-family: Calibri;"></span></span></p>
+        <p style="text-align: center;"><span style="color: rgb(255, 255, 255);"><span style="font-family: Calibri;" /></span></p>
+        <div style="margin: 0px; text-align: center;">
+        <p><a target="_blank" xt="SPCLICK" name="cw home" href="https://www.complianceweek.com"><span style="display: none;" /></a><span style="color: rgb(158, 0, 51);"><span style="font-family: &quot;Calibri&quot;,&quot;sans-serif&quot;;"><span style="font-size: 18px;" /></span></span><span style="font-size: 16px;" /></p>
+        <span style="color: rgb(128, 128, 128);"><span style="font-family: Calibri;"><span style="font-size: 12px;" /></span><span style="font-family: Calibri;"><span style="font-size: 12px;" /></span></span>
+        <p style="text-align: center;"><span style="color: rgb(128, 128, 128);"><span style="font-family: Calibri;"><span style="font-size: 12px;" /></span></span></p>
+        </div>
+        <p></p>
+    </body>
+</html>

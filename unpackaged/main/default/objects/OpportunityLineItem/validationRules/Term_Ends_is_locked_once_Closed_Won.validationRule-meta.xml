@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Term_Ends_is_locked_once_Closed_Won</fullName>
+    <active>true</active>
+    <description>Term Ends can only be changed by an Administrator once an Opportunity has been Closed Won.</description>
+    <errorConditionFormula>OR( 
+AND( 
+ISPICKVAL( Opportunity.StageName, "Closed Won"), 
+$Profile.Name &lt;&gt; "System Administrator", 
+ISCHANGED(  Term_Ends__c  ) 
+))</errorConditionFormula>
+    <errorMessage>Term Ends can only be changed by an Administrator once an Opportunity has been Closed Won.</errorMessage>
+</ValidationRule>

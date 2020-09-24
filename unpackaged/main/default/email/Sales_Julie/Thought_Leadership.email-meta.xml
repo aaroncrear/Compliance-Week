@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>Compliance_Week</letterhead>
+    <name>Thought Leadership</name>
+    <style>freeForm</style>
+    <subject>About your White Paper</subject>
+    <textOnly>Hi {!Contact.FirstName},
+
+I noticed your recent White Paper ( ) and wanted to see if you would be interested in promoting it through Compliance Week&apos;s Thought Leadership Email.
+
+Compliance Week reaches 52k executives at global public companies who are responsible for regulatory compliance for their firm. Just over 20k are in financial services.
+
+Thought Leadership Email – Email designed to promote a white paper and generate leads. The email is sent to 52,000 corporate financial, legal, audit, and risk &amp; compliance executives at US public companies. The email is sent from complianceweek.com on a template and contains the white paper title, description, sponsors logo, and URL link to the registration page. Compliance Week would collect all registration information and pass along all contact information for marketing. The cost is $5,000 and on average generates 120 registrations per email.
+
+Please let me know if you are interested or if you have any questions!
+
+Kind Regards,
+
+Julie Van Gelder
+Advertising and Sponsorship Sales
+617-570-8612</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

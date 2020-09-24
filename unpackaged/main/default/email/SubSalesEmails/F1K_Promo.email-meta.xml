@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>F1K Promo</name>
+    <style>none</style>
+    <subject>Exciting changes coming to Compliance Week</subject>
+    <textOnly>Compliance Week
+
+Newsletters | Print Magazine | Databases | Events | Professional Development
+
+
+Dear {!Contact.FirstName},
+
+We are planning a host of improvements and enhanced content to Compliance Week—the leading information source on governance, risk and compliance—so what better time to subscribe for your organization?
+
+
+We hope to make your decision easier. For a limited time, we’re offering new subscribers an unlimited user license for just $2,999. That means your entire department can enjoy the benefits to Compliance Week—including access to a vast trove of GRC articles, dozens of CPE-earning opportunities, a monthly print magazine, and discounted registrations—for one low price.
+
+Benefit                                       Subscribers      Non-Subscribers
+Access to weekly articles        Included                  No Access
+A decade of archives                Included                 No Access
+Full access to all databases  Included                 No Access
+Monthly print magazine          Included                  $100/issue
+Thought Leadership Library      Free                       Free
+Webcasts                                   Earn CPEs             No CPEs
+eBooks and Special Reports     Included              Included
+2013 Annual Conference          $1,745                    $1,995
+Privacy &amp; Big Data Summit        $399                        $499
+
+And as you can see from the comments at left, Compliance Week subscribers rely on our news, analysis, searchable databases, and other resources to help them comprehend and comply with the latest regulations.
+
+I hope you&apos;ll join them as a Compliance Week subscriber and take advantage of our unprecedented introductory multi-user rate. Simply drop me a line and I&apos;ll be happy to sign you up.
+
+Thanks for considering, and best regards,
+
+Donna O&apos;Neill
+Compliance Week
+tel. (617) 570-8617
+donna@complianceweek.com
+
+“Compliance Week is an excellent and comprehensive resource for keeping up to date on evolving issues in corporate compliance.”
+Yahoo!
+Chief Ethics And Compliance Officer David Farrell
+
+“No publication covers critical corporate governance issues like Compliance Week.”
+Tyco International
+SVP Corporate Governance
+Eric Pillmore
+
+“For coverage at the junction of accounting, governance, risk and corporate law, I recommend Compliance Week.”
+Safeway
+Senior Vice President Finance and Control David F. Bond
+
+“Compliance Week is by far the number one resource for covering the intersecting areas of the compliance world—legal, ethics, accounting, governance, ERM—in a timely, user-friendly format. I highly recommend it.”
+Ford Motor Company
+Assistant General Counsel &amp; Director of Compliance
+Robert T. Biskup
+
+© Wilmington Group PLC. All Rights Reserved.</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

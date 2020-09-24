@@ -1,0 +1,22 @@
+Dear {!Contact.FirstName},
+
+Please note that our records indicate that payment for your subscription to Compliance Week is now 60 days past due.
+
+We show your current balance as {!Opportunity.Amount}, for the subscription you purchased on {!Opportunity.CloseDate}.
+
+If payment is not received within 10 days, your account will be suspended until full payment is received.
+
+Payment by credit card at this late date is strongly advised. To pay by credit card, or for any questions, call us at (888) 519-9200 between the hours of 9 a.m. and 5 p.m. EST.
+
+You may pay by check, made payable to "WCW Inc/Compliance Week" and mailed to:
+
+WCW Inc
+c/o Compliance Week
+129 Portland St. Fl 6
+Boston MA  02114
+
+If payment has been sent, please disregard this notice.
+
+Thanks and Best Regards,
+
+Compliance Week

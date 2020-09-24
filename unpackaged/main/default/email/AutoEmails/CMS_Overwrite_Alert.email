@@ -1,0 +1,7 @@
+Expire Field Update
+
+SFDC: {!Contact.Id}
+
+Email: {!Contact.Email}
+
+{!Contact.FirstName} {!Contact.LastName}

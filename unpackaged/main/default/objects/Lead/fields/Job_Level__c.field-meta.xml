@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Job_Level__c</fullName>
+    <externalId>false</externalId>
+    <label>Job Level</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Board Member, CEO or President</fullName>
+                <default>false</default>
+                <label>Board Member, CEO or President</label>
+            </value>
+            <value>
+                <fullName>C-Level Executive (CFO, CCO, CAO, etc.)</fullName>
+                <default>false</default>
+                <label>C-Level Executive (CFO, CCO, CAO, etc.)</label>
+            </value>
+            <value>
+                <fullName>Senior Management (VP, EVP, SVP, General Counsel)</fullName>
+                <default>false</default>
+                <label>Senior Management (VP, EVP, SVP, General Counsel)</label>
+            </value>
+            <value>
+                <fullName>Other Management (Controller, Director-Level)</fullName>
+                <default>false</default>
+                <label>Other Management (Controller, Director-Level)</label>
+            </value>
+            <value>
+                <fullName>Non-Management Staff</fullName>
+                <default>false</default>
+                <label>Non-Management Staff</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

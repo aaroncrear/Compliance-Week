@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Market_del__c</fullName>
+    <externalId>false</externalId>
+    <label>Market</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Accounting</fullName>
+                <default>false</default>
+                <label>Accounting</label>
+            </value>
+            <value>
+                <fullName>Agency</fullName>
+                <default>false</default>
+                <label>Agency</label>
+            </value>
+            <value>
+                <fullName>Consulting</fullName>
+                <default>false</default>
+                <label>Consulting</label>
+            </value>
+            <value>
+                <fullName>eLearning</fullName>
+                <default>false</default>
+                <label>eLearning</label>
+            </value>
+            <value>
+                <fullName>ERM</fullName>
+                <default>false</default>
+                <label>ERM</label>
+            </value>
+            <value>
+                <fullName>Legal</fullName>
+                <default>false</default>
+                <label>Legal</label>
+            </value>
+            <value>
+                <fullName>Software | Business Process Management</fullName>
+                <default>false</default>
+                <label>Software | Business Process Management</label>
+            </value>
+            <value>
+                <fullName>Software | eDiscovery</fullName>
+                <default>false</default>
+                <label>Software | eDiscovery</label>
+            </value>
+            <value>
+                <fullName>Software | Email Controls</fullName>
+                <default>false</default>
+                <label>Software | Email Controls</label>
+            </value>
+            <value>
+                <fullName>Software | Identity Management</fullName>
+                <default>false</default>
+                <label>Software | Identity Management</label>
+            </value>
+            <value>
+                <fullName>Software | Monitoring &amp; Control</fullName>
+                <default>false</default>
+                <label>Software | Monitoring &amp; Control</label>
+            </value>
+            <value>
+                <fullName>Software | Other</fullName>
+                <default>false</default>
+                <label>Software | Other</label>
+            </value>
+            <value>
+                <fullName>Software | PCI Compliance</fullName>
+                <default>false</default>
+                <label>Software | PCI Compliance</label>
+            </value>
+            <value>
+                <fullName>Software | Proxy Services</fullName>
+                <default>false</default>
+                <label>Software | Proxy Services</label>
+            </value>
+            <value>
+                <fullName>Software | Records Management</fullName>
+                <default>false</default>
+                <label>Software | Records Management</label>
+            </value>
+            <value>
+                <fullName>Software | Security</fullName>
+                <default>false</default>
+                <label>Software | Security</label>
+            </value>
+            <value>
+                <fullName>Software | Whistleblower</fullName>
+                <default>false</default>
+                <label>Software | Whistleblower</label>
+            </value>
+            <value>
+                <fullName>Software | XBRL</fullName>
+                <default>false</default>
+                <label>Software | XBRL</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

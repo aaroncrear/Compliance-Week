@@ -1,0 +1,2 @@
+<apex:page standardController="Opportunity" extensions="RedirectCreateEditAllOpliController" tabstyle="Opportunity" action="{!doRedirect}">
+</apex:page>

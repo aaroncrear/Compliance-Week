@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>eNews_Events__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Get notified about call for speakers, registration, agenda updates, and keynote speakers at our premier compliance events.</description>
+    <externalId>false</externalId>
+    <label>eNews Events</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <type>Checkbox</type>
+</CustomField>

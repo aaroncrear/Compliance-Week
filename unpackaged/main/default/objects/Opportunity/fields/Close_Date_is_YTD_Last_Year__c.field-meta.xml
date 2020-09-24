@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Close_Date_is_YTD_Last_Year__c</fullName>
+    <externalId>false</externalId>
+    <formula>IF(
+AND(
+YEAR(CloseDate)=YEAR(TODAY())-1,
+CloseDate&lt;=DATE(Year(TODAY())-1,Month(TODAY()), Day(TODAY()))
+),
+TRUE, FALSE)</formula>
+    <label>Close Date is YTD Last Year?</label>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

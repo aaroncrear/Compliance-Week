@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Welcome Single | New 2018</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Single | New 2018</name>
+    <style>none</style>
+    <subject>Your Compliance Week Subscription</subject>
+    <textOnly>Dear {!Contact.FirstName},
+
+Thank you for subscribing to Compliance Week. Your account has been activated, and you now have access to all gated content. You will be receiving an email to reset your password. Please click on the link to reset.
+
+Selecting Weekly Emails | You may elect to receive one or both of our two subscriber-only email newsletters, Compliance Week Tuesday Edition and Compliance Weekend. In addition, we currently offer three complimentary email services: Event of the Week, Thought Leadership of the Week and Compliance Week Europe. Selections may be made on the My CW page.
+
+Subscriber Information | Please ensure that the following details are correct. If you choose to receive our quarterly print magazine, we will use the address on file to service it. Corrections may be made on the My Account page
+
+{!Contact.FirstName} {!Contact.LastName}
+{!Contact.Title}
+{!Account.Name}
+{!Contact.MailingAddress}
+Email: {!Contact.Email}
+
+Expiration Date: {!Contact.Expiration_Date__c} | 
+
+Thanks again! And remember, we’re here to help. Please don&apos;t hesitate to call or email if you need any assistance.
+
+Sincerely,
+
+{!Contact.OwnerFullName}
+Compliance Week</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

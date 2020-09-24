@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Single | Renew</name>
+    <style>none</style>
+    <subject>Your Compliance Week Subscription</subject>
+    <textOnly>Dear {!Contact.FirstName},
+
+Thank you for renewing your subscription to Compliance Week. 
+
+Selecting Weekly Emails | You may elect to receive one or both of our two subscriber-only email newsletters, Compliance Week Tuesday Edition and Compliance Weekend. In addition, we currently offer three complimentary email services: Event of the Week, Thought Leadership of the Week and Compliance Week Europe. Selections may be made on the Profile page.
+
+Subscriber Information | Please ensure that the following details are correct. If you choose to receive our bimonthly print magazine, we will use the address on file to service it. Corrections may be made on the Profile page.
+
+{!Contact.FirstName} {!Contact.LastName} {!Contact.Title} {!Account.Name} {!Contact.MailingAddress} Email: {!Contact.Email}  Subscription Type: {!Opportunity.Transaction_Description__c} Expiration Date: {!Contact.Expiration_Date__c}
+
+Thanks again! And remember, we’re here to help. You may contact Customer Service at (888) 519-9200 or info@complianceweek.com
+
+Sincerely,
+
+Compliance Week http//:www.complianceweek.com/</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

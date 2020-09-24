@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Subscription Status --></label>
+        <name>Subscription_Status__c</name>
+        <picklistValues>
+            <masterLabel>Current Customer - Multi</masterLabel>
+            <translation><!-- Current Customer - Multi --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Current Customer - Single</masterLabel>
+            <translation><!-- Current Customer - Single --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Former Customer</masterLabel>
+            <translation><!-- Former Customer --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Prospect</masterLabel>
+            <translation><!-- Prospect --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

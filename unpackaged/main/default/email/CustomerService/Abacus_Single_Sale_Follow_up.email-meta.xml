@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>Compliance_Week</letterhead>
+    <name>Abacus Single Sale - Follow-up</name>
+    <style>freeForm</style>
+    <subject>Thank you &amp; Welcome to Compliance Week!</subject>
+    <textOnly>Hi {!Contact.FirstName},
+
+Thank you for recently signing up for your Compliance Week subscription.
+
+Please see below for a quick summary of benefits and a listing of our upcoming conferences. If have any questions or would like to explore membership for your team – please let me know.
+
+2019 Subscription summary &amp; events schedule:
+
+The most pertinent in-depth expert analysis at your fingertips -news articles, blogs, and thought leadership geared towards specific topics of interest to you.
+On-Demand CPE Library - Webcast Forums, Whitepapers - Register for Live Webcasts or earn credits anytime at your convenience.
+Weekly Newsletters - Business intelligence with in-depth expert analysis every Monday, Tuesday, Wednesday and Friday.
+Online Magazine - Delivered 6x per year, and available in digital form here.
+Comprehensive Archives, Corporate Documents, and Benchmarking Tools.
+
+Compliance Week 2018/2019 Conference Schedule* - – Subscribers receive preferred pricing &amp; perks (*conferences subject to change)
+- 4th Annual TPRM, Third Party Risk Management &amp; Oversight Summit, March 25-26, 2019, New York City - completed
+- Compliance Week Annual 2019, May 20-22, 2019 in Washington D.C. - completed
+- Compliance Week Europe 2019, 4-5 November 2019, Barbizon Palace Hotel in Amsterdam
+- New! TPRM, Third Party Risk Management &amp; Oversight Summit West, December 9-10 2019 in San Francisco
+- Compliance Week Annual 2020, May 18-20 2020 in Washington D.C. (website pending)
+
+Thanks {!Contact.FirstName} – I look forward to working with you this year!
+
+Warm regards,
+
+E-
+
+Elizabeth Sucher
+Compliance Week, Subscription Director
+Elizabeth.sucher@complianceweek.com
+T (617) 570-8605 | m (617) 671-5531</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

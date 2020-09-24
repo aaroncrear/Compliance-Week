@@ -1,0 +1,12 @@
+Dear {!Contact.FirstName},
+
+Thank you for applying for a trial subscription to Compliance Week. However, your company already has a multi-user subscription. Please contact your company administrator if you are interested in being included under the multi-user subscription. If your company's subscriber limit has not been met, the administrator can add you and provide access to our web content as well as our print magazine. 
+
+Admin name: {!Account.MultiSubscriber__c}
+
+Thank you again for your interest in Compliance Week.
+
+Best Regards,
+
+Compliance Week
+(888) 519-9200

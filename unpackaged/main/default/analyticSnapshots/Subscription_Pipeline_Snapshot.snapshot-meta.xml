@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AnalyticSnapshot xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Used for pipeline analytics based on reporting snapshots.</description>
+    <groupColumn>GRAND_SUMMARY</groupColumn>
+    <mappings>
+        <sourceField>JobName</sourceField>
+        <sourceType>snapshot</sourceType>
+        <targetField>Subscription_Pipeline_Snapshot__c.Name</targetField>
+    </mappings>
+    <mappings>
+        <aggregateType>Sum</aggregateType>
+        <sourceField>AMOUNT</sourceField>
+        <sourceType>summary</sourceType>
+        <targetField>Subscription_Pipeline_Snapshot__c.Amount__c</targetField>
+    </mappings>
+    <mappings>
+        <aggregateType>Sum</aggregateType>
+        <sourceField>EXP_AMOUNT</sourceField>
+        <sourceType>summary</sourceType>
+        <targetField>Subscription_Pipeline_Snapshot__c.Expected_Revenue__c</targetField>
+    </mappings>
+    <mappings>
+        <aggregateType>Sum</aggregateType>
+        <sourceField>Opportunity.Opportunities__c</sourceField>
+        <sourceType>summary</sourceType>
+        <targetField>Subscription_Pipeline_Snapshot__c.Number_of_Opportunities__c</targetField>
+    </mappings>
+    <name>Subscription Pipeline Snapshot</name>
+    <runningUser>a_crear@hat-trickconsulting.com</runningUser>
+    <sourceReport>Analytics/Subscription_Opportunity_Pipeline</sourceReport>
+    <targetObject>Subscription_Pipeline_Snapshot__c</targetObject>
+</AnalyticSnapshot>

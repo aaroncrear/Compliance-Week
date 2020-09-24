@@ -1,0 +1,22 @@
+Dear {!Contact.FirstName}:
+
+As you may know, your colleague, [INSERT NAME OF REFERRER HERE -- YOU'LL HAVE TO DO THIS MANUALLY], has signed you up for a free, 90-day trial subscription to Compliance Week.
+
+Your new trial account will be active until {!Contact.Expiration_Date__c}.
+
+To log in, go to http://www.complianceweek.com and use: 
+Username: {!Contact.00N3000000171ic} 
+Password: {!Contact.00N3000000171lG} 
+
+You will also be receiving a weekly newsletter every Tuesday, and have full access to all of our resources on our Web site, including a full range of searchable governance databases and other resources. I've attached a PDF that describes in detail everything you get with a Compliance Week subscription, including unsolicited testimonials from some of our subscribers. 
+
+When your trial subscription expires, I hope you'll join tens of thousands of financial, legal and other executives at thousands of companies who rely on our news, analysis, searchable databases, and other resources to help them comprehend and comply with the latest regulations.
+
+Please contact me with any questions, or to subscribe at our special rates for referred customers.
+
+Thanks, and best regards,
+
+{!Account.OwnerFullName}
+{!Account.OwnerTitle}
+{!Account.OwnerPhone}
+{!Account.OwnerEmail}

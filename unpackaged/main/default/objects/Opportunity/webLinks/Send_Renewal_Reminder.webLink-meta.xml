@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WebLink xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Send_Renewal_Reminder</fullName>
+    <availability>online</availability>
+    <displayType>button</displayType>
+    <linkType>javascript</linkType>
+    <masterLabel>Send Renewal Reminder</masterLabel>
+    <openType>onClickJavaScript</openType>
+    <protected>false</protected>
+    <url>{!REQUIRESCRIPT("/soap/ajax/10.0/connection.js")}
+{!REQUIRESCRIPT("/soap/ajax/10.0/apex.js")}
+var dush = "-";
+var msgError = "Opportunity must meet following criteria:\n\n \t\t" + 
+dush + " Product = Subscription \n \t\t" +
+dush + " Business Type = Renewal \n \t\t" +
+dush + " Opportunity is Open \n \t\t" +
+dush + " Sales Price greater than zero.";
+
+if('{!Opportunity.Business_Type__c}' == "Renewal" &amp;&amp; !('{!Opportunity.StageName}' == "Closed Won" || '{!Opportunity.StageName}' == "Closed Lost" || '{!Opportunity.StageName}' == "Closed")) {
+ var result = sforce.apex.execute("VisualforceEmailController","sendMail", {id:"{!Opportunity.Id}"});
+  if(result == 'fail'){
+    alert(msgError);
+  }else{
+    window.top.location.href = "/{!Opportunity.Id}";
+  }
+} else {
+ alert(msgError);
+}</url>
+</WebLink>

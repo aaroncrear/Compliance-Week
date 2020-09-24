@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Email sent @ 3 days into trial term</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Trial 2 | Mid-Term</name>
+    <style>none</style>
+    <subject>Using your trial subscription</subject>
+    <textOnly>Dear {!Contact.FirstName},
+
+I hope you&apos;re enjoying your trial subscription to Compliance Week. If you haven&apos;t done so already, I encourage you to review our On-Demand CPE library; browse our extensive news coverage, opinion, and podcasts; or dive into the newly-improved Research Center. Your trial expires {!Contact.Expiration_Date__c}.
+
+Website: http://www.complianceweek.com/
+
+A full subscription offers a host of benefits. Don&apos;t take our word for it -- read the testimonials of our subscribers! Single- and multi-user license agreements are available, and may be activated via a simple email agreement.
+
+Any questions, please let me know!
+
+Kind Regards,
+
+{!Contact.OwnerFullName}
+{!Contact.OwnerTitle}, Compliance Week
+T {!Contact.OwnerPhone} | F (617) 227-1815</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

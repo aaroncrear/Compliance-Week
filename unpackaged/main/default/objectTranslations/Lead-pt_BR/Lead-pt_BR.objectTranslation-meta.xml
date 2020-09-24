@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <layouts>
+        <layout>Advertising</layout>
+        <sections>
+            <label><!-- Company Information --></label>
+            <section>Company Information</section>
+        </sections>
+        <sections>
+            <label><!-- Notes --></label>
+            <section>Notes</section>
+        </sections>
+        <sections>
+            <label><!-- Useful Links --></label>
+            <section>Useful Links</section>
+        </sections>
+        <sections>
+            <label><!-- ZoomInfo --></label>
+            <section>ZoomInfo</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Master Layout</layout>
+        <sections>
+            <label><!-- Communications Preferences --></label>
+            <section>Communications Preferences</section>
+        </sections>
+        <sections>
+            <label><!-- Company Information --></label>
+            <section>Company Information</section>
+        </sections>
+        <sections>
+            <label><!-- Marketo Sales Insight --></label>
+            <section>Marketo Sales Insight</section>
+        </sections>
+        <sections>
+            <label><!-- Notes --></label>
+            <section>Notes</section>
+        </sections>
+        <sections>
+            <label><!-- Useful Links --></label>
+            <section>Useful Links</section>
+        </sections>
+        <sections>
+            <label><!-- ZoomInfo --></label>
+            <section>ZoomInfo</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>OnBrand24</layout>
+        <sections>
+            <label><!-- Company Information --></label>
+            <section>Company Information</section>
+        </sections>
+        <sections>
+            <label><!-- Qualification Questions --></label>
+            <section>Qualification Questions</section>
+        </sections>
+        <sections>
+            <label><!-- Subscription Information --></label>
+            <section>Subscription Information</section>
+        </sections>
+        <sections>
+            <label><!-- Useful Links --></label>
+            <section>Useful Links</section>
+        </sections>
+        <sections>
+            <label><!-- ZoomInfo --></label>
+            <section>ZoomInfo</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Subscriptions</layout>
+        <sections>
+            <label><!-- Company Information --></label>
+            <section>Company Information</section>
+        </sections>
+        <sections>
+            <label><!-- Email Selections --></label>
+            <section>Email Selections</section>
+        </sections>
+        <sections>
+            <label><!-- Marketo --></label>
+            <section>Marketo</section>
+        </sections>
+        <sections>
+            <label><!-- Qualification Questions --></label>
+            <section>Qualification Questions</section>
+        </sections>
+        <sections>
+            <label><!-- Subscription Information --></label>
+            <section>Subscription Information</section>
+        </sections>
+        <sections>
+            <label><!-- Useful Links --></label>
+            <section>Useful Links</section>
+        </sections>
+        <sections>
+            <label><!-- ZoomInfo Profile --></label>
+            <section>ZoomInfo Profile</section>
+        </sections>
+    </layouts>
+    <recordTypes>
+        <label><!-- Advertising --></label>
+        <name>Advertising</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Subscriptions --></label>
+        <name>Subscriptions</name>
+    </recordTypes>
+    <validationRules>
+        <errorMessage><!-- You must enter an Expiration Date, or specify that No Trial access is to be granted. --></errorMessage>
+        <name>Trial_expiry_date_or_specify_no_trial</name>
+    </validationRules>
+    <webLinks>
+        <label><!-- Account_Popup --></label>
+        <name>Account_Popup</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- LinkedIn_Profile_Lookup --></label>
+        <name>LinkedIn_Profile_Lookup</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Mass_Edit --></label>
+        <name>Mass_Edit</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Mass_Update --></label>
+        <name>Mass_Update</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- financialprofile --></label>
+        <name>financialprofile</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- map --></label>
+        <name>map</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- news --></label>
+        <name>news</name>
+    </webLinks>
+    <workflowTasks>
+        <name>New_MoM_Lead</name>
+        <subject><!-- New MoM Lead --></subject>
+    </workflowTasks>
+</CustomObjectTranslation>

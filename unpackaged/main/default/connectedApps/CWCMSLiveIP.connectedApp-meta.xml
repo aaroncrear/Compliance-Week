@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>Tim.lyster@complianceweek.com</contactEmail>
+    <label>CWGalaraDrupalProduction</label>
+    <oauthConfig>
+        <callbackUrl>https://www.complianceweek.com/salesforce/oauth_callback</callbackUrl>
+        <consumerKey>3MVG99OxTyEMCQ3g3MDOJznC4UQujfZs0_gJjfsIFNyZHBk2EfZ703_FySA0FIaEbLmys.V6.9gmXB7wd6gJL</consumerKey>
+        <isAdminApproved>false</isAdminApproved>
+        <scopes>Api</scopes>
+        <scopes>Web</scopes>
+        <scopes>Full</scopes>
+        <scopes>RefreshToken</scopes>
+    </oauthConfig>
+</ConnectedApp>

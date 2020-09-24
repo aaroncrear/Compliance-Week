@@ -1,0 +1,1276 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=utf-8"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoNoSpacing, li.MsoNoSpacing, div.MsoNoSpacing
+	{mso-style-priority:1;
+	mso-style-link:"No Spacing Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Calibri",sans-serif;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Calibri",sans-serif;}
+span.NoSpacingChar
+	{mso-style-name:"No Spacing Char";
+	mso-style-priority:1;
+	mso-style-link:"No Spacing";}
+span.EmailStyle21
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle22
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle23
+	{mso-style-type:personal;
+	font-family:"Arial",sans-serif;
+	color:windowtext;}
+span.EmailStyle24
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:#1F497D;}
+span.EmailStyle25
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle26
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle27
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle28
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle29
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle30
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle31
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle32
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle33
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle34
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle35
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle36
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle37
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle38
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle39
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle40
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle41
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle42
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle43
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle44
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle45
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle46
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle47
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle48
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle49
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle50
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle51
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle52
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle53
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle54
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle55
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle56
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle57
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle58
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle59
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle60
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle61
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle62
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle63
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle64
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle65
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle66
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle67
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle68
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle69
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle70
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle71
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle72
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle73
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle74
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle75
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle76
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle77
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle78
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle79
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle80
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle81
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle82
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle83
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle84
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle85
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle86
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle87
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle88
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle89
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle90
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle91
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle92
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle93
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle94
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle95
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle96
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle97
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle98
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle99
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle100
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle101
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle102
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle103
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle104
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle105
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle106
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle107
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle108
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle109
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle110
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle111
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle112
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle113
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle114
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle115
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle116
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle117
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle118
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle119
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle120
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle121
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle122
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle123
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle124
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle125
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle126
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle127
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle128
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle129
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle130
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle131
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle132
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle133
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle134
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle135
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle136
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle137
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle138
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle139
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle140
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle141
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle142
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle143
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle144
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle145
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle146
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle147
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle148
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle149
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle150
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle151
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle152
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle153
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle154
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle155
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle156
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle157
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle158
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle159
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle160
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle161
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle162
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle163
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle164
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle165
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle166
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle167
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle168
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle169
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle170
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle171
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle172
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle173
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle174
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle175
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle176
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle177
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle178
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle179
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle180
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle181
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle182
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle183
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle184
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle185
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle186
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle187
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:black;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none none;}
+span.EmailStyle188
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle189
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle190
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle191
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle192
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle193
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle194
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle195
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle196
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle197
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle198
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle199
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=EN-US link=blue vlink=purple><div class=WordSection1><p class=MsoNormal><span style='font-size:11.0pt'>This fall, Compliance Week will host our third annual event on Sanctions. I would like to approach </span>{!Account.Name} <span style='font-size:11.0pt'>with sponsorship. <o:p></o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;color:black'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;color:black'>The <b>2018 Sanctions Risk &amp; Export Compliance Conference</b> will be held on October 15-16, 2018, at the Princeton Club in NY. Attending the event will be approximately 100 to 150 corporate compliance, legal, audit, AML &amp; sanctions executives at global public companies. It will be a cross industry conference designed to show attendees how to mitigate risks and will bring many top experts to guide you on how to do your sanctions compliance job better. There will be a focus on the strategies and tools that compliance executives can use to do their job better. The 2018 website for the event can be found <a href="http://www.cvent.com/events/sanctionsalert-com-sanctions-risk-management-conference-c107-/event-summary-8ea2a71b90f64a73a74680551730491f.aspx?dvce=1">here</a>.</span><span style='font-size:11.0pt;color:#002060'> </span><span style='font-size:11.0pt'>Topics on the agenda include:<span style='color:#002060'><o:p></o:p></span></span></p><p class=MsoNormal><span style='font-size:11.0pt'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-left:.5in'><b><span style='font-size:10.0pt'>Keynote – Kelvin Ong, United Nations Sanctions Chief<o:p></o:p></span></b></p><p class=MsoNormal style='margin-left:.5in'><b><span style='font-size:10.0pt'>Stirring the PEP’s Nest: Applying Global Magnitsky Sanctions to Prevent Abuse and Corruption<o:p></o:p></span></b></p><p class=MsoNormal style='margin-left:.5in'><b><span style='font-size:10.0pt'>Government Panel: DOJ, NYDFS &amp; DoS Enforcement of Sanctions and Regulatory Priorities<o:p></o:p></span></b></p><p class=MsoNormal style='margin-left:.5in'><b><span style='font-size:10.0pt'>Sanctions Governance Framework: Driving Compliance Through a Global Organization<o:p></o:p></span></b></p><p class=MsoNormal style='margin-left:.5in'><b><span style='font-size:10.0pt;color:black'>List Matching: Best Practices for Screening and Alert Handling <o:p></o:p></span></b></p><p class=MsoNormal style='margin-left:.5in'><b><span style='font-size:10.0pt'>Case Study: Compliance with New Sanctions Targeting Terrorist Networks<o:p></o:p></span></b></p><p class=MsoNormal style='margin-left:.5in'><b><span style='font-size:10.0pt'>Use of AI and Emerging Tech in Your Sanctions Compliance Program&nbsp;&nbsp; <o:p></o:p></span></b></p><p class=MsoNormal style='margin-left:.5in'><b><span style='font-size:10.0pt;color:black'>How Sanctions Compliance Fits in with AML, Compliance and the Business<o:p></o:p></span></b></p><p class=MsoNormal style='margin-left:.5in'><b><span style='font-size:10.0pt'>Customer Due Diligence: Uncovering Shell Companies to Detect Hidden Beneficial Owners<o:p></o:p></span></b></p><p class=MsoNormal style='margin-left:.5in'><b><span style='font-size:10.0pt'>Performing Risk-Based Metrics in Auditing the OFAC/Sanctions Compliance Programs<o:p></o:p></span></b></p><p class=MsoNormal><span style='font-size:11.0pt;color:black'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;color:black'>We are looking for six presenting sponsors. Each will receive two speaking sessions, a booth, access to the full registration list, etc. The sponsorship package: <b><o:p></o:p></b></span></p><p class=MsoNormal><span style='font-size:11.0pt;color:black'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-left:.25in'><b><u><span style='font-size:11.0pt;color:blue'>Presenting Sponsorship: </span></u></b><b><u><span style='font-size:11.0pt;color:blue'>$12,000 (6 spots available)<o:p></o:p></span></u></b></p><p class=MsoNormal style='margin-left:.25in'><span style='font-size:11.0pt;color:blue'>-Speaking position on a general panel session; <o:p></o:p></span></p><p class=MsoNormal style='margin-left:.25in'><span style='font-size:11.0pt;color:blue'>-Leadership of a break out roundtable discussion;<o:p></o:p></span></p><p class=MsoNormal style='margin-left:.25in'><span style='font-size:11.0pt;color:blue'>-Exhibit display table;<o:p></o:p></span></p><p class=MsoNormal style='margin-left:.25in'><span style='font-size:11.0pt;color:blue'>-Access to the full registration list&nbsp;post event, pre event the companies and titles are shared;<o:p></o:p></span></p><p class=MsoNormal style='margin-left:.25in'><span style='font-size:11.0pt;color:blue'>-Recognition announcement in the morning and a thank you at the end of each day;<o:p></o:p></span></p><p class=MsoNormal style='margin-left:.25in'><span style='font-size:11.0pt;color:blue'>-Logo on all promotional material, recognition in social media;<o:p></o:p></span></p><p class=MsoNormal style='margin-left:.25in'><span style='font-size:11.0pt;color:blue'>-Two (2) conference passes. <o:p></o:p></span></p><p class=MsoNormal style='margin-left:.5in'><span style='font-size:11.0pt;color:black'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;color:black'>The event will be co-hosted by Compliance Week and Financial Research Associates (a sister company of Compliance Week who specializes in events) and will be held in cooperation with SanctionsAlert.com. &nbsp;<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;color:black'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;color:black'>Please let me know if you have questions or would like to discuss.</span><span style='font-size:11.0pt'> I am happy to send along the agenda if you are interested. <span style='color:black'>Thanks for your consideration. <o:p></o:p></span></span></p><p class=MsoNormal><span style='font-size:11.0pt;color:black'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;color:black'>-Doug<o:p></o:p></span></p><p class=MsoNormal><span style='color:black'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='color:black'>------------------------------------<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Times New Roman",serif;color:black'>Doug Juenemann<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Times New Roman",serif;color:black'>Director, Advertising &amp; Sponsorship Sales<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Times New Roman",serif;color:black'>Compliance Week<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Times New Roman",serif;color:black'>129 Portland Street, 6<sup>th</sup> Flr<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Times New Roman",serif;color:black'>Boston, MA 02114<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Times New Roman",serif;color:black'>Phone #: 617 570 -8610<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Times New Roman",serif;color:blue'><a href="mailto:doug@complianceweek.com">doug@complianceweek.com</a><o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Times New Roman",serif;color:blue'><a href="https://www.linkedin.com/in/doug-juenemann-3475a5b/">https://www.linkedin.com/in/doug-juenemann-3475a5b/</a><o:p></o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;color:black'><o:p>&nbsp;</o:p></span></p></div></body></html>

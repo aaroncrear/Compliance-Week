@@ -1,0 +1,248 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=utf-8"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p.MsoNoSpacing, li.MsoNoSpacing, div.MsoNoSpacing
+	{mso-style-priority:1;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Calibri",sans-serif;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+span.EmailStyle20
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.apple-converted-space
+	{mso-style-name:apple-converted-space;}
+span.EmailStyle22
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle23
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle24
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle25
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle26
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle28
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle29
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:7097488;
+	mso-list-template-ids:-648648246;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1
+	{mso-list-id:943809715;
+	mso-list-template-ids:-474206694;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=EN-US link="#0563C1" vlink="#954F72"><div class=WordSection1><p class=MsoNoSpacing>Hi {!Contact.FirstName} –<o:p></o:p></p><p class=MsoNormal><span style='font-size:11.0pt'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;color:black'>I wanted to reach out to </span><span style='font-size:11.0pt'>{!Account.Name} <span style='color:black'>to see if you would be interested in running a print advertisement on the <b>inside front cover</b> of our June print edition. The inside front cover is a premium position that usually </span>costs 20% over rate card. <span style='color:black'>Because materials are due in just over a week and we need to find someone for the position asap, I would be willing to give you a reduced rate and include online banners as added value. <o:p></o:p></span></span></p><p class=MsoNormal><span style='font-size:11.0pt;color:black'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt'>The rate card cost for the back cover position is $7,150. Because it’s late and we need materials by EOD Monday, June 8<sup>th</sup>, I’ll reduce the cost to $5,250 and include 40,000 online banner impressions. This is a $10,150 package you would be getting for $5,250. <o:p></o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt'>&nbsp;<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;color:black'>The June edition will be dedicated to honoring the winners of our<span class=apple-converted-space>&nbsp;</span><b><a href="https://www.complianceweek.com/events/excellence-in-compliance-awards">Excellence in Compliance Awards</a></b>. The awards section will include full-length feature stories of our <a href="https://www.complianceweek.com/excellence-in-compliance-awards/penman-an-eandc-pioneer-with-an-uncanny-ability-to-connect/28909.article">Lifetime Achievement Award winner</a>, our <a href="https://www.complianceweek.com/excellence-in-compliance-awards/josh-drew-led-by-example-in-getting-veon-through-dpa/28908.article">Compliance Comeback of the Year winner</a> (Joshua Drew of VEON), as well as the winner of our <a href="https://www.complianceweek.com/excellence-in-compliance-awards/holloways-bold-strategy-lands-him-cws-cco-of-the-year/28910.article">CCO of the Year</a> (Duane Holloway from U.S. Steel).<span class=apple-converted-space>&nbsp;</span>We’ll also be spotlighting the winners of our other 12 awards, including Mentor of the Year, Compliance Innovator of the Year, and honorees in specific areas of compliance like cyber-security, anti-corruption, third-party risk management, data privacy, and training. The edition will also contain several stories on the compliance officers’ high-profile role in the pandemic, including:<o:p></o:p></span></p><p class=MsoNormal style='caret-color: rgb(0, 0, 0);font-variant-caps: normal;orphans: auto;text-align:start;widows: auto;-webkit-text-size-adjust: auto;-webkit-text-stroke-width: 0px;word-spacing:0px'><span style='font-size:11.0pt;color:black'>&nbsp;<o:p></o:p></span></p><p class=MsoListParagraph><span style='font-size:11.0pt;color:black'><a href="https://www.complianceweek.com/surveys-and-benchmarking/coronavirus-will-raise-profile-of-compliance-moving-forward/28706.article">Coronavirus will raise profile of compliance moving forward</a><o:p></o:p></span></p><p class=MsoListParagraph><span style='font-size:11.0pt;color:black'><a href="https://www.complianceweek.com/risk-management/former-un-ambassador-powers-message-to-ccos-dont-be-silenced/28938.article">Former U.N. ambassador Samantha Power on increased importance of compliance</a><o:p></o:p></span></p><p class=MsoListParagraph><span style='font-size:11.0pt;color:black'><a href="https://www.complianceweek.com/ethics-and-culture/carnival-ceco-trying-to-right-the-ship-amid-two-storms/28944.article">Interview with Carnival CECO: How coronavirus changed the cruise industry</a><o:p></o:p></span></p><p class=MsoListParagraph><span style='font-size:11.0pt;color:black'><a href="https://www.complianceweek.com/opinion/surviving-and-thriving-leadership-in-a-time-of-unpredictable-change/28970.article">Surviving &amp; thriving: Leadership in a time of unpredictable change</a><o:p></o:p></span></p><p class=MsoListParagraph><span style='font-size:11.0pt;color:black'><a href="https://www.complianceweek.com/risk-management/flexible-approach-needed-in-return-from-coronavirus/28924.article">Flexible approach needed in return from coronavirus</a><o:p></o:p></span></p><p class=MsoNormal style='margin-left:.5in'><span style='font-size:11.0pt'>&nbsp;<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt'>Again, we’d need materials by Monday, June 8<sup>th</sup>. The print ad should be sent as a PDF and sized to 8.375 x 10.8125.” The online banners can run anytime, the banner specs:<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt'>&nbsp;<o:p></o:p></span></p><p class=MsoNormal style='margin-left:.5in'><b><span style='font-size:11.0pt;color:blue'><a href="https://protect-eu.mimecast.com/s/3jezCxGgpuxBRP5tg6fn3?domain=complianceweek.com">Banner Specs:</a></span></b><span style='font-size:11.0pt'><o:p></o:p></span></p><p class=MsoNormal style='margin-left:.5in'><span style='font-size:11.0pt;color:blue'>Banner size: 300x250 pixel</span><span style='font-size:11.0pt'><o:p></o:p></span></p><p class=MsoNormal style='margin-left:.5in'><span style='font-size:11.0pt;color:blue'>Initial Load: 150KB</span><span style='font-size:11.0pt'><o:p></o:p></span></p><p class=MsoNormal style='margin-left:.5in'><span style='font-size:11.0pt;color:blue'>Subload: 300KB</span><span style='font-size:11.0pt'><o:p></o:p></span></p><p class=MsoNormal style='margin-left:.5in'><span style='font-size:11.0pt;color:blue'>Ad Server: Google Ad Manager</span><span style='font-size:11.0pt'><o:p></o:p></span></p><p class=MsoNormal style='margin-left:.5in'><span style='font-size:11.0pt;color:blue'>Third Party Tags: Accepted, HTML5</span><span style='font-size:11.0pt'><o:p></o:p></span></p><p class=MsoNormal style='margin-left:.5in'><span style='font-size:11.0pt;color:blue'>Recommended file size: 40k</span><span style='font-size:11.0pt'><o:p></o:p></span></p><p class=MsoNormal style='margin-left:.5in'><span style='font-size:11.0pt;color:blue'>Max File size: 100k</span><span style='font-size:11.0pt'><o:p></o:p></span></p><p class=MsoNormal style='margin-left:.5in'><span style='font-size:11.0pt;color:blue'>Expandable: No</span><span style='font-size:11.0pt'><o:p></o:p></span></p><p class=MsoNormal style='margin-left:.5in'><span style='font-size:11.0pt;color:blue'>Animation Maximum: 30 seconds</span><span style='font-size:11.0pt'><o:p></o:p></span></p><p class=MsoNormal style='margin-left:.5in'><span style='font-size:11.0pt;color:blue'>Animation: 3 loops max </span><span style='font-size:11.0pt'><o:p></o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt'>&nbsp;<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt'>Please let me know if you have questions or interest. We are approaching others with the inside front cover position. <o:p></o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt'>&nbsp;<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt'>-Doug<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;color:black'>------------------------------------<o:p></o:p></span></p><p class=MsoNormal><b><span style='font-size:10.0pt;color:#9E0033'>Doug Juenemann<o:p></o:p></span></b></p><p class=MsoNormal><span style='font-size:10.0pt;color:#212121'>Director, Advertising &amp; Sponsorship Sales<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;color:#212121'>Compliance Week<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;color:#212121'>129 Portland St Fl 6, Boston, MA 02114<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;color:#212121'>617 570 -8610 | <a href="mailto:doug@complianceweek.com">doug@complianceweek.com</a><o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt'><a href="https://www.linkedin.com/in/doug-juenemann">https://www.linkedin.com/in/doug-juenemann</a><o:p></o:p></span></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><span style='font-size:11.0pt'><o:p>&nbsp;</o:p></span></p></div></body></html>

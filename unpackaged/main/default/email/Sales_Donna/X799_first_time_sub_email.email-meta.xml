@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Psst -- guess how much Chief Compliance Officers earn . . .</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>Compliance_Week</letterhead>
+    <name>$799 first time sub email</name>
+    <style>freeForm</style>
+    <subject>Psst -- guess how much Chief Compliance Officers earn . . .</subject>
+    <textOnly>{!Contact.FirstName}
+
+
+Recently we published an article chronicling the rising salaries and bonuses of compliance and risk management professionals at financial services firms. 
+
+Pay is rising for these jobs because they are getting more difficult. The regulatory tide and associated risk never seems to ebb.
+
+As a stakeholder in making sure bad things don’t happen to your company, we’re here to suggest a way to become acquainted with Compliance Week—we cover the industry as it changes.
+
+To help support your efforts, we’d like to extend to you a one-year subscription to Compliance Week.
+
+Reply to me before July 31st, 2019 and we’ll set you up with a one-year subscription for $799—with all the benefits of reliable and timely access to the latest news and in-depth coverage as you head into another year of staying ahead of intensive regulatory change.
+
+No code, no hoops to jump through, no extra steps on your to-do list.
+You’ll have complete access to all our online resources including current regulatory policy, CPE webcasts, discounted conference pricing, and more.
+
+
+Kindly,
+
+
+Donna O’Neill
+Compliance Week</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Deliverability__c</fullName>
+    <description>Pick list | "Active" ; "Undeliverable" ; "Unsubscribed" from Silverpop.</description>
+    <externalId>false</externalId>
+    <label>Deliverability</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Active</fullName>
+                <default>true</default>
+                <label>Active</label>
+            </value>
+            <value>
+                <fullName>Unsubscribed</fullName>
+                <default>false</default>
+                <label>Unsubscribed</label>
+            </value>
+            <value>
+                <fullName>Undeliverable</fullName>
+                <default>false</default>
+                <label>Undeliverable</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

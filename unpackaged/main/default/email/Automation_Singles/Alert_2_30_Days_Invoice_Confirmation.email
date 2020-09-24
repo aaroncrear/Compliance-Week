@@ -1,0 +1,3 @@
+{!Opportunity.Primary_Subscription_Contact__c}’s subscription at {!Account.Name} is expiring in 30 days. An invoice has been sent via email. Please call the subscriber to confirm receipt.
+ 
+{!Opportunity.Link}

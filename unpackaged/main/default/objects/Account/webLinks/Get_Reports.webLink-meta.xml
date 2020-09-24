@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WebLink xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Get_Reports</fullName>
+    <availability>online</availability>
+    <displayType>link</displayType>
+    <encodingKey>UTF-8</encodingKey>
+    <height>2000</height>
+    <linkType>url</linkType>
+    <openType>sidebar</openType>
+    <protected>false</protected>
+    <url>https://api.onesource.com/SForce/reportLookup.aspx?Company={!Account.Name}&amp;AcctID={!Account.Id}&amp;OSKeyID={!Account.OSKeyID__c}&amp;SFSessionID={!User.Session_ID}&amp;serverURL={!API.Partner_Server_URL_60}&amp;SForgID={!Organization.Id}&amp;SFUserID={!User.Id}</url>
+</WebLink>

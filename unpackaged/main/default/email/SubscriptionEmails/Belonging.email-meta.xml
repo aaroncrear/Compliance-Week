@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Belonging</name>
+    <style>none</style>
+    <subject>The benefits of belonging</subject>
+    <textOnly>{!Contact.FirstName}, the benefits of belonging to a compliance community—mutual support, professional development, personal networking, program benchmarking, sharing best practices—play an outsize role in the success of our Compliance Week events. So it seems only natural that we&apos;re extending those same benefits to your online experience.
+
+Introducing memberships, a cost-effective way to join our growing community that exists to support you in your role. Becoming a member allows unlimited access to carefully curated, award-winning content on topics most relevant to you; true-life best practices, tools, and research examples; a vast archive of articles, news stories, and in-depth reports; discounted conference admission; and on-demand CPE credits via streaming Webcasts.
+
+By cutting our single-user annual fee from $1,199 to $399, we aim to build a large, vibrant community of practitioners. Won&apos;t you join us?
+
+{!User.Name} Compliance Week</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

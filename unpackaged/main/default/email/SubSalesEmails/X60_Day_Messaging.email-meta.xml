@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Email automation for 60 days</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>60 Day Messaging</name>
+    <style>none</style>
+    <subject>Your Compliance Week Subscription Expires {!Contact.Expiration_Date__c}.</subject>
+    <textOnly>Hi {!Contact.FirstName},
+
+We wanted to remind you that your Compliance Week license is expiring on {!Contact.Expiration_Date__c}, so don’t let your subscription benefits expire.
+
+Renew your subscription and continue your access to industry leading news, free CPE credit, and discounts for registration to live events.
+
+Renewing is easy:
+
+STEP 1:	Reply to this e-mail and write &quot;I agree&quot;
+STEP 2:	Indicate whether you&apos;d like to renew for one year ($3,999) or two years ($7,198 - a 10% discount).
+STEP 3:	We&apos;ll e-mail you an invoice and process the order immediately while we wait for payment.
+ 
+ORDER CONFIRMATION: By replying to this e-mail and typing &quot;I agree&quot; in the body, you hereby agree to be bound by the following Compliance Week order:
+
+    Company: {!Account.Name}
+    License Type: Multi-User Renewal
+    Price: $3,999 for one year OR $7,198 for two years
+    Payment Due: {!Contact.00N70000002Vvy1}
+    New License Term Start Date: {!Contact.Expiration_Date__c}
+    Terms &amp; Conditions: http://www.complianceweek.com/terms-and-conditions
+    You also agree to process this order for payment as soon as possible, and confirm that you are authorized to enter into this agreement in its entirety
+
+
+IMPORTANT: Your reply with &quot;I Agree&quot; in the body of the e-mail is the legal equivalent of a signature on a contract, and you are bound upon our receipt of your &quot;I Agree&quot; reply. There are no cancellations, changes, or refunds upon our receipt of your &quot;I Agree&quot; reply.
+
+
+Thank you for your subscription and please lets us know if you have any questions!
+
+Best Regards,
+
+
+
+This e-mail has been sent from Wilmington Compliance Week Inc, Parent company registered number 2158821. Registered Office: 6 - 14 Underwood Street, London, N1 7JQ.
+This e-mail and any attachments to it may be confidential and are intended solely for the use of the addressees. Any views expressed are solely those of the author and do not necessarily represent those of Wilmington Compliance Week. If you are not the intended recipient of this e-mail and its attachments please inform the sender but take no other action based upon them, nor must you copy or show them to anyone.
+A Wilmington Company</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

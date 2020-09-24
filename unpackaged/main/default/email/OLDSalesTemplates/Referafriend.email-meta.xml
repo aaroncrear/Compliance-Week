@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Letter to new subs offering free 3-month sub</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Refer a friend</name>
+    <style>none</style>
+    <subject>Compliance Week Free 3-Month Subscription</subject>
+    <type>text</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

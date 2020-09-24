@@ -1,0 +1,4 @@
+Congratulations {!Opportunity.OwnerFirstName}! You have Closed Won a new Multi Opportunity with {!Account.Name}. Please update the Account MultiExpires field.
+
+Account Page | https://wilmington.my.salesforce.com/{!Account.Id}
+Opportunity Page | https://wilmington.my.salesforce.com/{!Opportunity.Id}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>eNews_Compliance_Week__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Keep tabs on the compliance, risk, and ethics content that matters most to you</description>
+    <externalId>false</externalId>
+    <label>eNews Weekly Digest</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <type>Checkbox</type>
+</CustomField>

@@ -1,0 +1,21 @@
+Dear {!Contact.FirstName},
+
+We have received payment for the following subscription:
+
+     Order Date: {!Opportunity.CloseDate}
+     Member: {!Contact.FirstName} {!Contact.LastName}
+     Company: {!Account.Name}
+     Term: {!Opportunity.Duration__c}
+     Cost: {!Opportunity.Amount}
+
+Payment Details:
+
+     Payment Date: {!Opportunity.Payment_1_Received__c}
+     Paid By: {!Opportunity.Payment_1_Method__c}
+     Check # / Last four digits of Credit Card: {!Opportunity.Payment_1_Reference__c}
+
+If you have any questions, please reach out to Angela Ruggiero at angela.ruggiero@complianceweek.com or (617) 570-8608.
+
+Thanks again,
+
+The Compliance Week Team

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Survey: IT and Reg:True of False: Con --></label>
+        <name>SurveyITandR_TrueofFalseC__c</name>
+    </CustomFieldTranslation>

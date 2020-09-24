@@ -1,0 +1,24 @@
+Dear {!Contact.FirstName},
+
+You recently registered for one of our Webcasts; I hope you found it useful and informative.  
+
+We are offering our Webcast registrants special Compliance Week subscription rates, and we've taken the liberty of setting you up with a free 30-day trial to help you evaluate everything Compliance Week has to offer.
+
+To log in, go to http://www.complianceweek.com and use: 
+
+Username: {!Contact.00N3000000171ic} 
+Password: {!Contact.00N3000000171lG} 
+
+I've also attached a PDF that describes everything you get with a subscription in more detail, along with testimonials from paying subscribers.
+
+I hope you'll join tens of thousands of financial, legal and other executives at thousands of companies who rely on our news, analysis, searchable databases, and other resources to help them comprehend and comply with the latest regulations.  
+
+If you have any questions, please feel free to email or call me at (888) 519-9200 x223. 
+
+Thanks for considering,
+
+Lori McMahon
+Subscription Sales Manager
+Compliance Week
+(888) 519-9200 ext. 223
+lori@complianceweek.com

@@ -1,0 +1,7 @@
+Hi {!Contact.FirstName}, sorry to hassle you here ... your Compliance Week subscription expired on {!Contact.Expiration_Date__c} and I wanted to let you know, and find out if you are going to renew.
+ 
+Can you let me know? I can re-activate the subscription immediately.
+
+Note that there was pretty significant usage coming from your account prior to the expiration, and in this environment, we're finding that our subscribers are relying on Compliance Week more than ever to stay abreast of all the regulatory changes happening now and in the very near future. Our extensive coverage, analysis, research databases and other tools are keeping subscribers up to date and assisting in projects as we head into an even-more-intensive regulatory environment (if that's even possible ;)
+
+Thanks for considering ... Standing by to help.

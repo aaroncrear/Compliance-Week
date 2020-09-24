@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>July 2014 Lapsed renewal personal outreach email</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Lapsed renewal email</name>
+    <style>none</style>
+    <subject>Compliance Week Subscription ({!Account.Id})</subject>
+    <textOnly>Hello {!Contact.FirstName},
+
+I was unable to reach you by phone, so I&apos;m emailing you with a special offer in the hope of involving you again in the Compliance Week community. As a former subscriber, I can offer you a 21% discount off our base rate. All subscriptions to Compliance Week include:
+
+&gt; Weekly subscriber-only newsletters providing unbiased, in-depth news and analysis (written by former regulators and practitioners) and full access to gated content on complianceweek.com.
+&gt; Available in print and (searchable) digital editions, the award-winning monthly  magazine features real-world approaches, best practices, perspective, research, and  shop talk.
+&gt; Unrestricted online access to free CPE Credits through our on-demand  Library of webcasts.
+&gt; Discounts for registration to live events, professional networking  opportunities, and access to thought leaders and facetime with federal regulators (rates are exclusive to subscribers).
+&gt; Independent and unbiased reporting. We do not offer services that could impact our ability to serve our subscribers. Period.
+
+Here are the rates we can offer you with this special promotion:
+
+$945.00 (normally $1,199.00) for one year or $1,699 for two years
+
+If you  respond to this e-mail, I can renew your subscription and email you a copy of the invoice.  Please don&apos;t hesitate to call me at my direct number 617.570.8617 with any questions.
+
+Best regards,
+
+Donna M.H. O&apos;Neill
+Compliance Week
+T (617) 570-8617 | F (800) 675-1887 | complianceweek.com
+
+
+Trial | Events | Get the App</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

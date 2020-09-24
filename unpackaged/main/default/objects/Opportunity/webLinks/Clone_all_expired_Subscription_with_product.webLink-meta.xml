@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WebLink xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Clone_all_expired_Subscription_with_product</fullName>
+    <availability>online</availability>
+    <displayType>button</displayType>
+    <linkType>javascript</linkType>
+    <masterLabel>Generate Multi Renewal Opp</masterLabel>
+    <openType>onClickJavaScript</openType>
+    <protected>false</protected>
+    <url>{!REQUIRESCRIPT("/soap/ajax/10.0/connection.js")} 
+{!REQUIRESCRIPT("/soap/ajax/10.0/apex.js")} 
+var result = sforce.apex.execute("BatchCloneOpportunity","cloneOpportunity", {id:""}); 
+if(result == true || result == 'true'){ 
+alert('Batch is running...'); 
+} 
+else {alert('Fail to run Batch or Batch is in process. Please check your data and try again later !');}</url>
+</WebLink>

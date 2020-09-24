@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Updating Mailing Addresses - April 2019</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>Compliance_Week</letterhead>
+    <name>Updating Mailing Address - April 2019</name>
+    <style>freeForm</style>
+    <subject>Updating your account address details</subject>
+    <textOnly>Hi {!Contact.FirstName}
+
+Thank you for being a Compliance Week subscriber. We’ve noticed that you’re signed up to receive the Compliance Week print magazine, however we don’t have your mailing address.
+
+Can you please email me your preferred mailing address so that we can update your record, and ensure delivery of the magazine?
+
+Additionally, this week you’ll receive notice of the relaunch of Compliance Week’s Website on Thursday, May 2. Rebuilt from the ground up, the platform will offer improved navigation, a clean design, faster load times, and a host of new features:
+
+Thank you,
+
+{!User.Name}
+{!User.Title}
+{!User.CompanyName}
+{!User.Email}
+{!User.Phone}</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

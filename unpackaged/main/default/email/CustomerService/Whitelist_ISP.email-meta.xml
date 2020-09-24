@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>To be sent to users who are missing their e-newsletters</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Whitelist ISP</name>
+    <style>none</style>
+    <subject>Why am I not receiving the weekly e-newsletter?</subject>
+    <textOnly>Dear {!Contact.FirstName},
+
+To guarantee you receive our newsletters, please contact your network administrator to add the following host addresses to your company&apos;s e-mail SPAM filter &quot;whitelist&quot;:
+
+ Host /
+ Address
+ 
+ mail6090.wilmington.mkt6689.com
+ 74.121.53.240
+
+ wilmington.mkt6689.com
+ 74.121.53.240
+
+
+You will only receive e-mail from Compliance Week through those servers.
+
+Best regards,
+Compliance Week</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

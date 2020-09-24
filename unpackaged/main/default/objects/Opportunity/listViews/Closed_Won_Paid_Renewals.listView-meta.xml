@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Closed_Won_Paid_Renewals</fullName>
+    <columns>OPPORTUNITY.NAME</columns>
+    <columns>ACCOUNT.NAME</columns>
+    <columns>OPPORTUNITY.AMOUNT</columns>
+    <columns>OPPORTUNITY.CLOSE_DATE</columns>
+    <columns>OPPORTUNITY.STAGE_NAME</columns>
+    <columns>CORE.USERS.ALIAS</columns>
+    <columns>Paid_Status__c</columns>
+    <columns>Remove_from_Billing_Emails__c</columns>
+    <filterScope>Everything</filterScope>
+    <filters>
+        <field>OPPORTUNITY.STAGE_NAME</field>
+        <operation>equals</operation>
+        <value>Closed Won</value>
+    </filters>
+    <filters>
+        <field>Paid_Status__c</field>
+        <operation>equals</operation>
+        <value>1</value>
+    </filters>
+    <filters>
+        <field>OPPORTUNITY.RECORDTYPE</field>
+        <operation>equals</operation>
+        <value>Opportunity.Subscriptions_Opportunity</value>
+    </filters>
+    <filters>
+        <field>Business_Type__c</field>
+        <operation>equals</operation>
+        <value>Renewal</value>
+    </filters>
+    <label>Closed Won Paid Renewals</label>
+    <sharedTo>
+        <role>Director_of_Marketing_and_Systems</role>
+        <role>Salesforce_Administrator</role>
+        <role>Super_System_Administrator</role>
+    </sharedTo>
+</ListView>

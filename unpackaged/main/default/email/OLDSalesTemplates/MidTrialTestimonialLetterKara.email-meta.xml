@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Sent to Trials by Sales</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Mid-Trial Testimonial Letter - Kara</name>
+    <style>none</style>
+    <subject>Compliance Week: What Subscribers Say About Us</subject>
+    <textOnly>COMPLIANCE WEEK: A Weekly Newsletter On Corporate Governance, Risk And Compliance
+
+Dear {!Contact.FirstName},
+
+I hope you are finding your trial access to Compliance Week useful and informative.
+
+As you can see from the comments below, Compliance Week subscribers continue to benefit from our ongoing coverage of corporate governance, risk and compliance.
+
+Tens of thousands of financial, legal and other executives at thousands of companies rely on our news, analysis, searchable databases, and other resources to help them comprehend and comply with the latest regulations.
+
+I hope you&apos;ll consider joining them. To subscribe, call me at (888) 519-9200 ext. 212.
+
+Thanks for considering,
+
+Kara Doherty
+Subscription Sales
+Compliance Week
+(888) 519-9200 ext. 212
+
+*** TESTIMONIALS FROM PAYING SUBSCRIBERS ***
+
+“For coverage at the junction of accounting, governance, risk and corporate law, I recommend Compliance Week.”
+Safeway (NYSE: SWY)
+Senior Vice President Finance and Control David F. Bond
+
+“No publication covers critical corporate governance issues like Compliance Week.”
+Tyco International (NYSE: TYC)
+SVP Corporate Governance Eric Pillmore
+
+“With Compliance Week, I am confident I&apos;m getting the most critical governance-related information, every week. It’s simply the most comprehensive and timely resource available.”
+Perot Systems (NYSE: PER)
+Corporate Controller and Principal Accounting Officer Robert J. Kelly
+
+“Compliance Week provides the most complete and topical coverage of accounting, compliance and corporate governance issues of any currently available periodical. A relevant read for all accounting and finance professionals.”
+Bausch &amp; Lomb (NYSE: BOL)
+Vice President Corporate Audit Services Michael Greiner
+
+“Compliance Week is one of the few resources that adequately bridges the complex financial and legal aspects of regulatory and securities compliance.”
+American Tower (NYSE: AMT)
+Chief Accounting Officer, SVP, and Controller Jean Bua
+
+To see more testimonials from paying subscribers, please visit: http://testimonials.complianceweek.com</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

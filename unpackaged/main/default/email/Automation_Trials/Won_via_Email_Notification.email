@@ -1,0 +1,6 @@
+{!OpportunityLineItem.Contact__c} of {!OpportunityLineItem.Account_text__c} has accepted their renewal.
+
+{!OpportunityLineItem.View_Opportunity__c}
+Sold: {!OpportunityLineItem.Product_Name__c}
+Stage: Closed Won
+Sale Value: {!OpportunityLineItem.UnitPrice}

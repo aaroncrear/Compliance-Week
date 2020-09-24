@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Email sent to subscriber after a Closed Won Subscription.</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Subscription Closed Won</name>
+    <style>none</style>
+    <subject>Welcome to Compliance Week</subject>
+    <textOnly>Dear {!Opportunity.Primary_Subscription_Contact__c},
+
+Thank you for joining Compliance Week. As a valued member, you have access to:
+
+News &amp; Analysis -- Hundreds of articles and weekly updates featuring real-world best practices, opinion, and research;
+
+Professional Development -- World class conferences and unrestricted on-demand webcast &amp; CPE library;
+
+Benchmarking Tools &amp; Research Library.
+
+Please contact me for information about your benefits, or Angela Ruggiero for customer service questions or to make a payment.
+
+Your feedback and advice is important, and we&apos;d like to better understand what you value most about Compliance Week. If you have a moment, please participate in this short two-question survey.
+
+Thank you and best regards,
+
+Angela Ruggiero
+Business Development
+(617) 570-8605
+angela.ruggiero@complianceweek.com</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

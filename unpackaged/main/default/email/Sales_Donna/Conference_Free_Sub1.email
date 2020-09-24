@@ -1,0 +1,35 @@
+<html dir="ltr">
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <p>Dear {!Contact.FirstName},</p>
+        <p>Thank you for signing up for the Compliance Week Annual Conference! We are very pleased to inform you that a complimentary subscription to   <a name="cw home" xt="SPCLICK" href="http://www.complianceweek.com/" target="_blank">Compliance Week</a> for 1 year has been activated. You now have access to all gated content. This includes:</p>
+<ul>
+<li>Three weekly email newsletters</li>
+<li>Monthly print magazine available in both print and digital format</li>
+<li>24/7 access to our Web site, which includes articles, columns, guidance, 10 years' of archives, and more</li>
+<li>Research databases</li>
+<li>Digital library of our print editions with over two years of publications</li>
+<li>Free CPE credit from our on-demand library and Webcasts</li>
+<li>Expert commentary from exclusive writers</li> 
+<li>Our Resource Exchange, with checklists, surveys, and other tools used by peers at other subscribing companies</li>
+<li>My CW: This tool houses any articles, blogs, white papers, etc. that are of interest to the user. </li>
+<li>And much more.</li>
+</ul>
+ <p>If you haven&rsquo;t established a password yet, click &ldquo;LOG IN&rdquo; in the topleft-hand corner of the site, choose &ldquo;Forgotten your password?&rdquo; in the resulting dialog box, enter your email address, and a link to reset your password will be sent to you.</p>
+        <p><img width="500" height="163" title="Log in to Compliance Week" alt="Log in to Compliance Week" src="http://www.complianceweek.com/sites/default/files/login%20screen.JPG" /></p>
+        <p><b>Selecting Weekly Emails</b> | You may elect to receive one or both of our two subscriber-only email newsletters, Compliance Week Tuesday Edition and Compliance Weekend. In addition, we currently offer three complimentary email services: Event of the Week, Thought Leadership of the Week and Compliance Week Europe. Selections may be made on the My CW page.</p>
+        <p><img width="500" height="142" alt="A choice of newsletters" src="http://www.complianceweek.com/sites/default/files/select%20newsletter%20preferences.JPG" title="A choice of newsletters" /></p>
+        <p><b>Subscriber Information</b> | Please ensure that the following details are correct. If you choose to receive our monthly print magazine, we will use the address on file to service it. Corrections may be made on the My Account page</p>
+        <p>{!Contact.FirstName} {!Contact.LastName}<br />
+        {!Contact.Title}<br />
+        {!Account.Name}<br />
+        {!Contact.MailingAddress}<br />
+        Email: {!Contact.Email}<br />
+        <br />
+        Expiration Date: {!Contact.Expiration_Date__c}</p>
+        <p>Thanks again! And remember, we&rsquo;re here to help. You can find answers to several common customer-service questions online, or you may contact us at (888) 519-9200 or via <a href="mailto:info@complianceweek.com">email</a>.</p>
+        <p>Sincerely,</p>
+        <p>Compliance Week<br />
+        http://www.complianceweek.com/</p>

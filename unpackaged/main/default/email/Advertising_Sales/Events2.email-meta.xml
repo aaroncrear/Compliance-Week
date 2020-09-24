@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>CW Europe - Sessions Available</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Events</name>
+    <style>none</style>
+    <subject>Compliance Week International Events</subject>
+    <textOnly>Hi {!Contact.FirstName},
+
+Compliance Week has two international events which we’ll host this fall. I’d like to see if {!Account.Name} would be interested in sponsorship.
+
+Our European event will be held in October in Brussels, and our Middle Eastern event in Dubai in November. Here is a brief outline of each event:
+
+
+Compliance Week Europe 2015 - October 26 &amp; 27 in Brussels. Conference designed to help legal, audit, risk &amp; compliance executives understand how to build and manage their compliance and risk programs more effectively. Topics to be discussed include anti-corruption laws and enforcement, conducting a corporate internal investigation, due diligence, data privacy, crafting a code of conduct, whistleblowing, creating an ethical culture, etc. Approximately 150 to 175 executives from global public companies will be in attendance.  The cost for Presenting Sponsorship is $22,400 USD and includes two speaking positions, an exhibit display table, access to all leads for marketing and branding. The event website is: http://conference.complianceweek.com/cw-europe/home-cw-europe.aspx.
+
+Compliance Week Dubai 2015 - November 17th, 2015, at the Jumeirah Emirates Towers. The event is a one day conference designed to discuss the risk &amp; compliance problems that all large multinational organizations face when doing business in the Middle East. It will have a sharp focus to the solutions that compliance executives have found.  The content will be ‘industry agnostic’ and will focus more on the leadership and strategy of developing a strong corporate compliance function. It will cover issue such as corporate investigations, accounting fraud, testing internal controls, and similar operational issues. Attending the event will be 120 to 150 cross-industry compliance executives with a large percentage from the financial services industry. The cost for Presenting Sponsorship is $17,400 USD and includes two speaking positions, an exhibit display table, access to all leads for marketing and branding. The event website is: http://conference.complianceweek.com/cw-dubai/home-dubai.aspx
+
+Please let me know if you would like to schedule a call to discuss or receive full details on either event, thanks for your consideration.
+
+
+
+
+-Doug
+
+
+
+----------------------------------
+Doug Juenemann
+Advertising &amp; Events
+Compliance Week
+djuenemann@complianceweek.com
+(617) 570 8610</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

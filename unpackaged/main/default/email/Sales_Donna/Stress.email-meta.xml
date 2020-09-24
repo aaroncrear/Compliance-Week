@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Topical | Stress</name>
+    <style>none</style>
+    <subject>Compliance and Stress</subject>
+    <textOnly>{!Contact.FirstName}
+
+I thought you&apos;d find this of interest. According to a recent study on stress, an increase in public attention on corporate integrity has resulted in loss of sleep for compliance officers. The survey found that 58 percent of the survey respondents say they often wake up in the middle of the night worrying about job-related stress. The study also reported 58 percent of respondents are either in an adversarial situation at work or are isolated from their coworkers in other departments.
+
+That&apos;s why Compliance Week is such a critical resource for those working in compliance, governance, risk, and ethics. When you subscribe, you&apos;ll join a growing community of corporate executives that have come to rely on our independence, credibility and comprehensive coverage of compliance-related news.
+
+And for this week only, we&apos;re offering a one-year single-user subscription for just $799 -- that&apos;s $400 off the regular price or $500 off of the tier of your choice for a multi user license. I hope you join us. Just respond to this email with &quot;I agree&quot; and we&apos;ll start your subscription today.
+
+Feeling less stressed?</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

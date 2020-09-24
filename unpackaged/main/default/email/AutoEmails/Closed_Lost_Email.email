@@ -1,0 +1,5 @@
+The following opportunity is Closed Lost :(
+
+https://wilmington.my.salesforce.com/{!Opportunity.Id}
+
+Invoice: {!Opportunity.Invoice__c}

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Compliance Week Webcast Forum - GDPR</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Webcast Foum - Day of Webcasts</name>
+    <style>none</style>
+    <subject>Compliance Week Webcast Forum on GDPR</subject>
+    <textOnly>Hi {!Contact.FirstName},
+
+In mid/late April, Compliance Week will host a webcast forum on GDPR. The event is being designed to help our subscribers with understanding of the new law itself, the risks it seeks to address, and the technology needed to comply. I would like to approach your firm with sponsorship.
+
+The event will be held on Thursday, April 19th, 2018, and will have 4-5 sponsors. Current reserved topics on the agenda will discuss:
+
+
+2 Months to Go: What are the Risks of Non-Compliance with the GDPR?
+The EU GDPR presents compliance challenges for organizations across the globe. With the compliance clock ticking, companies have to prioritize where to invest their efforts and resources in the run up to potential enforcement actions from May 25, 2018, onwards. Attend this webinar to learn about:
+-Governing and developing policies: Setting up or enhancing existing policies to address the requirements of GDPR;
+-Establishing legal procedures: Develop procedures for managing customer data privacy and security;
+-Defining data retention and security: Understanding, defining, and documenting an approach to information security.
+
+Is It Too Late To Be GDPR Compliant?
+Some organizations have taken extreme measures to be GDPR compliant, however they realize that they will need to find significant efficiencies moving forward to reduce costs and increase reliability. On the other hand, other organizations have just started their GDPR journey, while even some have not started at all. Where are you on your journey to becoming GDPR compliant? Have you just started and feel completely overwhelmed? Have you taken more extreme measures and realize that what you’ve done isn’t scalable and you’re looking for ways to reduce costs and increase efficiencies? Are you somewhere in between? Hear from experts on how regardless of where you are in your journey to GDPR compliance, there are definitive strategies and tactics that you can execute to not only become compliant in the near term, but also to create a roadmap to compliance that is scalable, efficient, and cost-effective in the long term.
+
+As a sponsor, you would receive a 60 minute webcast speaking position that would be scheduled as part of the agenda. This speaking position would include a Q&amp;A with the audience and power point presentation. The event would be moderated by a Compliance Week Editor who would introduce speakers and ask the audiences questions the last few minutes of the event.  Additional benefits include logo on all promotional materials and access to the full registration list. The event would be promoted in our March print edition, in our weekly webcast emails and on our website homepage. CPE credits are available to the attendees.  The total cost of sponsorship is $11,000 and 500 registrations are guaranteed.  The event will be promoted to:
+
+More than 72,000 corporate financial, legal, audit, risk &amp; compliance executives from global public companies;
+The average size company does over $6B per year in revenue and has over 6,000 employees;
+85% work for a US based company, 72% have international operations;
+44% manage or are involved with data privacy laws and breach disclosure.
+
+Please let me know if you have questions or interest in sponsorship. Thanks for your consideration.
+
+
+-Doug
+
+
+
+
+
+----------------------------------
+Doug Juenemann
+Director, Advertising
+Compliance Week
+dout@complianceweek.com
+(617) 570 8610</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

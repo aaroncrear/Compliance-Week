@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Subscription_Type__c</fullName>
+    <externalId>false</externalId>
+    <formula>IF( ISPICKVAL(PricebookEntry.Product2.Family, "Subscriptions") &amp;&amp; PricebookEntry.Product2.Min_Users__c = 1, "Single", 
+
+IF(ISPICKVAL(PricebookEntry.Product2.Family, "Subscriptions") &amp;&amp; PricebookEntry.Product2.Min_Users__c &gt; 1, "Multi",null)
+)</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <label>Subscription Type</label>
+    <required>false</required>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

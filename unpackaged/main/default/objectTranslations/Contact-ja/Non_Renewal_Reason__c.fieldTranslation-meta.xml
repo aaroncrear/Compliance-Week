@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Renewal Status --></label>
+        <name>Non_Renewal_Reason__c</name>
+        <picklistValues>
+            <masterLabel>Agreed to Renew</masterLabel>
+            <translation><!-- Agreed to Renew --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Budget (Too Expensive)</masterLabel>
+            <translation><!-- Budget (Too Expensive) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Changed Positions, CW No Longer Relevant</masterLabel>
+            <translation><!-- Changed Positions, CW No Longer Relevant --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Company Went Private</masterLabel>
+            <translation><!-- Company Went Private --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Company out of Business</masterLabel>
+            <translation><!-- Company out of Business --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Get Information Elsewhere</masterLabel>
+            <translation><!-- Get Information Elsewhere --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Negotiating</masterLabel>
+            <translation><!-- Negotiating --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>No Longer At Company</masterLabel>
+            <translation><!-- No Longer At Company --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>No Reason Given</masterLabel>
+            <translation><!-- No Reason Given --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>No Response Yet</masterLabel>
+            <translation><!-- No Response Yet --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>No Time To Read/Use</masterLabel>
+            <translation><!-- No Time To Read/Use --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Not Valuable</masterLabel>
+            <translation><!-- Not Valuable --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other</masterLabel>
+            <translation><!-- Other --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Renewed as Single</masterLabel>
+            <translation><!-- Renewed as Single --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Upgraded To Multi</masterLabel>
+            <translation><!-- Upgraded To Multi --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

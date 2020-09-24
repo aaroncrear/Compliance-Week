@@ -1,0 +1,83 @@
+<!doctype html>
+<html>
+<head>
+	<title>Payment Overdue</title>
+</head>
+<body>
+<table border="0" cellpadding="0" cellspacing="0" style="width: 620px;">
+	<tbody>
+		<tr>
+			<td><img align="middle" border="0" height="60.28" name="Cont_0" src="https://www.complianceweek.com/sites/default/files/CW_logo.jpg" style="float: left;" width="315" /><br />
+			<span style="font-size:13px;"></span><br />
+			&nbsp;
+			<div style="text-align: center;"><span style="font-size:13px;"><br />
+			&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; </span></div>
+			</td>
+			<td style="vertical-align: top;"><br />
+			<a href="https://www.complianceweek.com/my-cw" name="Hyperlink_20180306_143941198" target="_blank" xt="SPCLICK">My Account</a> | <a href="https://www.complianceweek.com/contact-compliance-week" name="Hyperlink_20180306_143914953" target="_blank" xt="SPCLICK">Contact Us</a> | <a href="https://www.complianceweek.com/terms-and-conditions" name="Hyperlink_20180306_143841936" target="_blank" xt="SPCLICK">Terms &amp; Conditions</a><br />
+			<span style="color:#008080;"><span style="font-size: 11px;">Log-In Required</span></span></td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td style="text-align: center;"><br />
+			<a href="mailto:elizabeth.sucher@complianceweek.com?subject=Query%20regarding%20two-year%20subscription" name="Hyperlink_20180305_181331474" target="_blank" xt="SPEMAIL"><img align="middle" border="0" name="Cont_1" src="https://www.complianceweek.com/sites/default/files/two-year.jpg" style="float: right;" /></a><br />
+			&nbsp;</td>
+		</tr>
+	</tbody>
+</table>
+
+<div style="text-align: center;"><span style="font-size:24px;"><span style="font-family: tahoma, geneva, sans-serif;"><br />
+<strong><span style="font-size:28px;"><span style="font-family: trebuchet\ ms, helvetica, sans-serif;">Past Due Notice<span class="Underline" style="text-decoration:underline;"><span style="color: rgb(255, 0, 0);"></span></span></span></span></strong></span></span></div>
+&nbsp;<br />
+<br />
+Dear {!Opportunity.Primary_Subscription_Contact__c},<br />
+<br />
+Thank you for letting us know that you intend to renew your subscription to Compliance Week. Our records indicate that payment for your subscription to Compliance Week is now 7 days past due. Maybe you&rsquo;ve made arrangements to get this invoice paid. Please contact us immediately to update your account or to let us know how we can help.<br />
+<br />
+As a reminder, you can submit your payment online.<br />
+<br />
+<img border="0" height="65" src="https://www.complianceweek.com/sites/default/files/pay_now.jpg" width="148" /><br />
+<br />
+Alternatively, checks can be made out to <strong>Wilmington Compliance Week</strong> and mailed to Accounts Receivable at the address below.<br />
+<br />
+Angela Ruggiero<br />
+Business Development Associate<br />
+(617) 570-8608<br />
+angela.ruggiero@complianceweek.com<br />
+&nbsp;
+<table border="1" cellpadding="5" cellspacing="0" height="175" width="640">
+	<tbody>
+		<tr>
+			<td style="background-color: rgb(0, 0, 0); white-space: nowrap; width: 260px;"><strong><span style="color:#FFFFFF;">Subscription Details</span></strong></td>
+			<td colspan="3" rowspan="1" style="background-color: rgb(255, 0, 0); white-space: nowrap; width: 250px; text-align: center; border-color: rgb(255, 0, 0);"><strong><span style="color:#FFFFFF;">Payment Methods</span></strong></td>
+		</tr>
+		<tr>
+			<td style="vertical-align: top; width: 260px; border-color: rgb(0, 0, 0);"><br />
+			<em>Type:</em> {!Opportunity.Single_Multi__c}-User<br />
+			<em>Term:</em> {!Opportunity.Subscription_Starts__c}&ndash;{!Opportunity.Subscription_Expires__c}<br />
+			<em>Amount:</em> {!Opportunity.Amount}<br />
+			<em>Invoice:</em> {!Opportunity.Invoice__c}</td>
+			<td style="vertical-align: top; width: 80px; border-color: rgb(0, 0, 0);">
+			<div style="text-align: center;"><span style="color:#A9A9A9;">Online</span></div>
+
+			<div style="text-align: center;"><a href="http://E-STORE LINK" name="Hyperlink_20180307_153724280" target="_blank" xt="SPCLICK"><img border="0" height="33.14" name="Cont_0" src="https://www.complianceweek.com/sites/default/files/pay_now.jpg" width="75" /></a></div>
+			</td>
+			<td style="vertical-align: top; width: 180px; border-color: rgb(0, 0, 0);"><span style="color:#A9A9A9;">Mail Order</span><br />
+			Accounts Payable<br />
+			Compliance Week<br />
+			129 Portland St Fl 6<br />
+			Boston MA 02114-2014</td>
+			<td style="vertical-align: top; width: 110px; border-color: rgb(0, 0, 0);"><span style="color:#A9A9A9;">Call</span><br />
+			(617) 570-8608</td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;
+
+<div style="text-align: right;">
+<div style="text-align: left;">&nbsp;</div>
+
+<div style="text-align: left;">&nbsp;</div>
+</div>
+</body>
+</html>

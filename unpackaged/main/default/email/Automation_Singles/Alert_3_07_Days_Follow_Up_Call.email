@@ -1,0 +1,3 @@
+{!Contact.Name}’s subscription payment is overdue, and an overdue notice has been sent via email. Please call the subscriber to confirm receipt.
+ 
+Opportunity Record | {!Opportunity.Link}

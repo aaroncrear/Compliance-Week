@@ -1,0 +1,17 @@
+Hi {!Contact.FirstName},
+
+Wanted to follow-up again to see if we can help get you registered for Compliance Week 2020, May 18-20 in Washington D.C.  Many of your peers will be in attendance, and as a returning alumni, you have  special discounted pricing of $1,495.  
+
+Register here: https://web.cvent.com/event
+(For Registration use Alumni code: CW20ALUMNI_DO)
+
+Please let me know if there is anything I can assist with regarding the conference.  
+ 
+Thank you and best regards,
+
+{!User.FirstName} {!User.LastName}
+{!User.Title}
+{!User.CompanyName}
+{!User.Phone} (o)
+{!User.MobilePhone} (m)
+{!User.Email}

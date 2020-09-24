@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Months_Remaining_From_Specific_Date__c</fullName>
+    <externalId>false</externalId>
+    <formula>if((ROUND(Term_Length__c -(( Date(2010,1,21) - Term_Start_Month__c )/30.41667),0)&gt; Term_Length__c ), Term_Length__c ,(ROUND(Term_Length__c -(( Date(2010,1,21) - Term_Start_Month__c )/30.41667),0)))</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <label>Months Remaining From Specific Date</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>0</scale>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Number</type>
+    <unique>false</unique>
+</CustomField>

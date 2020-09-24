@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Intro &amp; CCO Awards Survey</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>Compliance_Week</letterhead>
+    <name>Intro &amp; CCO Awards Survey</name>
+    <style>freeForm</style>
+    <subject>CW Intros &amp; Feedback Request</subject>
+    <textOnly>Hi {!Contact.FirstName} –
+
+It’s nice to meet you, and please note that I’ll be your new contact here at Compliance Week for all matters related to advertising and sponsorship. Over the past five years, I’ve had the good fortune to be part of the CW subscription team, and now look forward to bringing our audience to work for you over the coming months.
+
+To kick things off, I wonder perhaps – if you’d be willing to lend us feedback on a new venture CW is considering?
+
+In 2020, we’re evaluating the launch of a Chief Compliance Officer Awards Gala that would expand the existing Compliance Week Top Minds Awards. The mission of the Gala would be to honor and celebrate top compliance professionals from across all industries and categories.
+
+We would love to have feedback from {!Account.Name} on the potential for this event as we value our partnership. If you can, please take two minutes and complete this survey. We would greatly appreciate your feedback.
+
+Thanks in advance.
+
+E-
+
+Elizabeth Sucher
+
+Compliance Week, Subscription Director
+
+Elizabeth.sucher@complianceweek.com
+
+T (617) 570-8605 | m (617) 671-5531</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

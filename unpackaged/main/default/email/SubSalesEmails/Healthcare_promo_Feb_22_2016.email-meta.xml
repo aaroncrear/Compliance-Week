@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Healthcare promo / article and RISE Summit discount / add your signature</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Healthcare promo Feb 22 2016</name>
+    <style>none</style>
+    <subject>Compliance lessons in the healthcare sector</subject>
+    <textOnly>Dear {!Contact.FirstName},
+
+“Typically, you don’t find out exactly what the government wants until after the fact. It’s always good to keep an eye out to see what the government is requiring of similarly situated entities.”
+-Sarah Crotts, Wall Babcock
+
+What can you learn from this? News and analysis, like this recent article about compliance lessons in the healthcare sector keep you one step ahead: https://www.complianceweek.com/news/news-article/compliance-lessons-in-the-healthcare-sector
+
+Additionally, we bring you closer to the industry with discounts to events like the RISE Summit, the most comprehensive learning event for provider group senior leaders. Learn more here: https://www.frallc.com/events/rise/Overview.aspx
+
+Reply to this email to begin one year of unrestricted access to Compliance Week articles for $799.
+
+BONUS: Receive a 15% registration discount to the 10th Annual RISE Summit with your subscription package.*
+
+Drop me a note; I&apos;m happy to help get you started.
+
+Regards,
+
+
+
+
+
+*Limited time offer. Subscribe for $799 by March 15, 2016, and receive a discount 15% registration discount code to the 10th Annual RISE Summit with your one-year subscription. Offer valid for first-time single-user subscriptions only. No retroactive discounts or refunds will be given. If you are interested in a multi-user license, please send your inquiry to Donna O&apos;Neill.</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

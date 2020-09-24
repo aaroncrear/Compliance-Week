@@ -1,0 +1,50 @@
+<table border="0" cellpadding="5" width="550" cellspacing="5" height="400" >
+<tr valign="top" height="400" >
+<td tEditID="c1r1" style=" background-color:#FFFFFF; bEditID:r3st1; color:#000000; bLabel:main; font-size:12pt; font-family:arial;" aEditID="c1r1" locked="0" >
+<![CDATA[<p>Dear {!Contact.FirstName},</p><p><br></p>
+<p>Now in it's 7th year, <a href="http://events.complianceweek.com/events/compliance-week-europe-2019/event-summary-732be925fd794687a25a8bea1f982846.aspx?dvce=1">Compliance Week Europe</a>
+ provides a forum for ethics and compliance officers to network with 
+their peers and build and manage their programmes more effectively. This
+ year’s conference will provide attendees with compliance education, an 
+opportunity to share best practices with peers, and actionable insights 
+to take back to their firms.</p><p><br></p>
+<p>Your peers in attendance last year represented companies such as
+Abercrombie &amp; Fitch, Boeing International, European Investment Bank,
+ Hyundai, IKEA, Johnson &amp; Johnson, Microsoft, Salesforce, Serious 
+Fraud Office, Swiss Re, Takeda Pharmaceuticals, TD Bank, Volvo, 
+Whirlpool, and more.</p><p><br></p>
+<p>Join us again this year at special alumni pricing of €850 with code 
+<b>CWE19ALUMNI</b> when registering. We look forward to seeing you in 
+Amsterdam.</p><p><br></p>
+
+<p>Best regards,</p>
+<br>{!User.FirstName} {!User.LastName}<br>
+{!User.Title}<br>
+{!User.CompanyName}<br>
+{!User.Email}<br>
+{!User.Phone}<div><p>&nbsp;</p>
+<hr>
+<p style="text-align: center;">&nbsp;<strong>Compliance Week Europe</strong>&nbsp;| 4-5 November 2019 | Amsterdam</p>
+<hr>
+<table style="height: 84px; float: left; width: 541px;">
+<tbody>
+<tr>
+<td style="text-align: left; width: 159px;">&nbsp;</td>
+<td style="text-align: left; width: 201.967px;">»&nbsp;<a title="Compliance Week Europe Agenda" href="http://events.complianceweek.com/events/compliance-week-europe-2019/agenda-732be925fd794687a25a8bea1f982846.aspx?dvce=1">Agenda</a></td>
+<td style="text-align: left; width: 320.033px;">»&nbsp;<a title="Compliance Week Registration" href="http://events.complianceweek.com/d/jbqgdj/4W">Registration</a></td>
+</tr>
+<tr>
+<td style="text-align: left; width: 159px;">&nbsp;</td>
+<td style="text-align: left; width: 201.967px;">»&nbsp;Speakers</td>
+<td style="text-align: left; width: 320.033px;">»&nbsp;<a title="Compliance Week Venue" href="http://events.complianceweek.com/events/compliance-week-europe-2019/location-732be925fd794687a25a8bea1f982846.aspx?dvce=1">Venue</a></td>
+</tr>
+<tr>
+<td style="text-align: left; width: 159px;">&nbsp;</td>
+<td style="text-align: left; width: 201.967px;">»&nbsp;<a title="Compliance Week Sponsorship" href="http://events.complianceweek.com/events/compliance-week-europe-2019/custom-21-732be925fd794687a25a8bea1f982846.aspx?dvce=1">Sponsorship</a></td>
+<td style="text-align: left; width: 320.033px;">»&nbsp;<a title="Compliance Week CEU" href="http://events.complianceweek.com/events/compliance-week-europe-2019/custom-17-732be925fd794687a25a8bea1f982846.aspx?dvce=1">Continuing Education</a></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p></div><table style="height: 84px; float: left; width: 541px;"><tbody><tr><td style="text-align: left; width: 261.883px;"><br></td><td style="text-align: left; width: 176.117px;"><br></td><td style="text-align: left; width: 247px;"><br></td></tr><tr><td style="text-align: left; width: 261.883px;"><br></td><td style="text-align: left; width: 176.117px;"><br></td><td style="text-align: left; width: 247px;"><br></td></tr><tr><td style="text-align: left; width: 261.883px;"><br></td><td style="text-align: left; width: 176.117px;"><br></td><td style="text-align: left; width: 247px;"><br></td></tr></tbody></table>]]></td>
+</tr>
+</table>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CWWest19_CAProspects_feb2019</fullName>
+    <columns>FULL_NAME</columns>
+    <columns>LEAD.TITLE</columns>
+    <columns>LEAD.COMPANY</columns>
+    <columns>LEAD.STATE_CODE</columns>
+    <columns>LEAD.EMAIL</columns>
+    <columns>LEAD.CREATED_DATE</columns>
+    <filterScope>Everything</filterScope>
+    <filters>
+        <field>LEAD.STATE_CODE</field>
+        <operation>equals</operation>
+        <value>CA,WA,OR,AZ</value>
+    </filters>
+    <filters>
+        <field>LEAD.TITLE</field>
+        <operation>contains</operation>
+        <value>cyber,privacy,data,CISCO</value>
+    </filters>
+    <filters>
+        <field>LEAD.TITLE</field>
+        <operation>notContain</operation>
+        <value>student,sales,business development,partner,attorney,assistant,professor</value>
+    </filters>
+    <filters>
+        <field>LEAD.EMAIL</field>
+        <operation>notContain</operation>
+        <value>adobe,expedia</value>
+    </filters>
+    <filters>
+        <field>LEAD.CREATED_DATE</field>
+        <operation>greaterOrEqual</operation>
+        <value>1/1/2017 12:00 AM</value>
+    </filters>
+    <label>CWWest19 - CAProspects - feb2019</label>
+</ListView>

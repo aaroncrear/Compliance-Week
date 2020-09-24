@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+<head>
+	<title>Your subscription</title>
+</head>
+<body>
+<table border="0" cellpadding="0" cellspacing="0" style="width: 600px;">
+	<tbody>
+		<tr>
+			<td><img align="middle" border="0" height="57.41" name="Cont_0" src="https://d2l6535doef9z7.cloudfront.net/CMS/s3/wcw-library/web/e/e/f/print_logotaglinecaps_122660.png?w=250&amp;h=250&amp;mode=max" width="244" height="38" name="Cont_0" align="middle" border="0" /><br />
+			<span style="font-size:13px;"></span><br />
+			&nbsp;
+			<div style="text-align: center;"><span style="font-size:13px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; </span></div>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td style="text-align: center;"><a href="https://www.complianceweek.com/my-cw" name="Hyperlink_20180305_163223218" target="_blank" xt="SPCLICK">My Account</a> | <a href="https://www.complianceweek.com/terms-and-conditions" name="Hyperlink_20180305_181214439" target="_blank" xt="SPCLICK">Terms &amp; Conditions</a>
+			<div style="text-align: left;"><span style="font-size:11px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style="color:#A9A9A9;">Log-In Required</span></span></div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div><br />
+<br />
+Dear {!Opportunity.Primary_Subscription_Contact__c},<br />
+&nbsp;<br />
+Thank you for joining us! As a delegate to a Compliance Week live event, you are automatically enrolled as a Compliance Week member, with unlimited access to complianceweek.com, including:</div>
+
+<ul>
+	<li>News &amp; Analysis&mdash;Hundreds of articles and weekly updates featuring real-world best practices, opinion, and research;</li>
+	<li>Professional Development&mdash;World class conferences and unrestricted on-demand webcast &amp; CPE library;</li>
+	<li>Benchmarking Tools &amp; Research Library.</li>
+</ul>
+
+<div>I will be activating your new user account and will be in touch as soon as it's ready. And of course you may contact me at any time for additional information about your benefits, log-in issues or general customer service questions.<br />
+<br />
+Thank you and best regards,<br />
+<br />
+Angela Ruggiero<br />
+Business Development Associate<br />
+(617) 570-8605<br />
+angela.ruggiero@complianceweek.com<br />
+&nbsp;</div>
+</body>
+</html>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Process_Credit_Card__c</fullName>
+    <externalId>false</externalId>
+    <formula>Hyperlink("http://complianceweek.com/contact/sf_dsp_form_credit_card.cfm?CardHoldersName="&amp;Name,"Process Credit Card")</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <label>Process Credit Card</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

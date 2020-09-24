@@ -1,0 +1,8 @@
+An email sent to the following Fresh Del Monte group member was marked 'undeliverable.'  
+
+{!Contact.FirstName} {!Contact.LastName}
+{!Contact.Title}
+{!Contact.MailingStreet}
+{!Contact.MailingCity}, {!Contact.MailingStateCode}
+{!Contact.MailingCountry}
+{!Contact.Email} | Ref: {!Contact.Id}

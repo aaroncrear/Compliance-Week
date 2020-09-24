@@ -1,0 +1,27 @@
+Hi {!Contact.FirstName},
+
+I wanted to reach out and thank you again for your recent trial subscription registration to Compliance Week.  As a member of the CW Subscription team, I work closely with our premier subscriber and multi-user accounts.  Based on the information provided in your registration profile, I think you are a potential great fit for a multi-user subscription to Compliance Week.
+ 
+A single seat user subscription is $1,199 annually, and the multi seat option allows for a significant savings per user.  For example, a one year subscription for up to 10 users would be $3,999 (as low as $399 per user).
+
+Join Microsoft, Ernst & Young, and Time Warner and allow your team or organization to experience the many advantages of a CW Subscription:
+-Three weekly email newsletters
+-Monthly print magazine
+-24/7 access to our Web site, which includes articles, columns, guidance, 8 years' of archives, and more
+-Research databases
+-Free CPE credit from our on-demand library and Webcasts
+-Expert commentary from exclusive writers like Tammy Whitehouse, Tom Fox and others
+-Our Resource Exchange, with checklists, surveys, and other tools used by peers at other subscribing companies
+-My CW: This tool houses any articles, blogs, white papers, etc. that are of interest to the user
+-Discounts to events including Compliance Week 2017 (goo.gl/hKFYcM )
+ 
+Please let me know if you have questions and I would be happy to discuss further on a quick call.
+ 
+Best regards,
+
+{!User.Name}
+{!User.Title}
+{!User.CompanyName}
+{!User.Phone} (o)
+{!User.MobilePhone} (m)
+{!User.Email}

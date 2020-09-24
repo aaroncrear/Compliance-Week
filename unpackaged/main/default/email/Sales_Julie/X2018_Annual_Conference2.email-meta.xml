@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Compliance Week Annual</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>2018 Annual Conference</name>
+    <style>none</style>
+    <subject>Compliance Week 2018 Annual Conference - Presenting Sponsorship</subject>
+    <textOnly>Hi {!Contact.FirstName},
+
+The 13th Annual Compliance Week Conference will be held this May in Washington, DC. I would like to approach {!Account.Name} with sponsorship.
+
+The Compliance Week 2018 Annual Conference will be held May 21 to 23, 2018, at the Mayflower Hotel, Washington DC. The conference is a peer-to-peer event that spotlights compliance leaders and their programs. The event is designed to help senior compliance executives from global public companies understand how to build and manage their compliance and risk programs more effectively. Keynote speakers include representatives from the U.S. Securities and Exchange Commission and the U.S. Department of Justice, Fortune 500 CEOs, academic thought leaders, and more. It is the event for corporate compliance and ethics, legal, and audit officers.
+
+For vendors and service providers, Presenting Sponsorship is the only option to include a speaking role. As a presenting sponsor,  {!Account.Name} would receive TWO speaking roles. One session would be a large room panel with about 100 execs. The other speaking role would be a leadership of a boardroom style discussion with 15-20 execs.  You would also receive branding, the full lead list, participation in a seated lunch, etc.   Sponsorship includes:
+
+Presenting Sponsorship - Cost: $55,000
+-Participation in large room panel session (approx. 100 attendees)
+-Leadership of small room conversation (12-15 attendees)
+-Exhibit booth in main hall (promenade)
+-Full attendee List
+-Media exposure and branding
+-Participation in welcome reception
+-Access to event management team to plan a dinner
+-Participation in a seated lunch, ability to pick who sits at your lunch table
+-Opportunity to distribute promotional materials to attendees
+-Full page advertisement in brochure
+-Four conferences passes, plus passes for all speakers
+
+
+There are a few additional sponsorship options, such as an exhibit booth, lanyards, gift bags, etc. Please let  me know if you  would like to receive additional information. I would be happy to send along a full outline of presenting sponsorship benefits, a list of other sponsorship options, and the attendee list and brochure from the 2017 event.
+
+Thanks for your consideration.
+
+
+-Doug
+
+
+
+
+
+----------------------------------
+Doug Juenemann
+Director, Advertising
+Compliance Week
+dout@complianceweek.com
+(617) 570 8610</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

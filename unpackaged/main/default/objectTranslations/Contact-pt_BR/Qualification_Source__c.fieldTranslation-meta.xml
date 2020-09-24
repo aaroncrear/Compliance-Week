@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Qualification Source --></label>
+        <name>Qualification_Source__c</name>
+        <picklistValues>
+            <masterLabel>Direct Request From Company (Member of Multi)</masterLabel>
+            <translation><!-- Direct Request From Company (Member of Multi) --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Email</masterLabel>
+            <translation><!-- Email --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fax</masterLabel>
+            <translation><!-- Fax --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mail</masterLabel>
+            <translation><!-- Mail --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Other</masterLabel>
+            <translation><!-- Other --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Paid Subscription</masterLabel>
+            <translation><!-- Paid Subscription --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Personal Direct Request</masterLabel>
+            <translation><!-- Personal Direct Request --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Phone</masterLabel>
+            <translation><!-- Phone --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Profile Update</masterLabel>
+            <translation><!-- Profile Update --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Trial</masterLabel>
+            <translation><!-- Trial --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

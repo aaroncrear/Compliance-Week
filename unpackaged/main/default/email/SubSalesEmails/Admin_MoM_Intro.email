@@ -1,0 +1,28 @@
+<html dir="ltr">
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <p>Hello,</p>
+        <p>I wanted to let you know the great news that {!Account.Name} has a new multi-user access license to Compliance Week, an information service on corporate governance, risk and compliance.</p>
+        <p>If you are receiving this email, you are a member of this multi-user license, and will be able to access Compliance Week&rsquo;s weekly electronic newsletters, monthly print magazine, industry-leading events, and a variety of interactive features and forums.</p>
+        <p><b>Login Information</b></p>
+        <p>To access subscriber-only content, please visit www.complianceweek.com. At the top left-hand corner of the home page, enter your email address and click &ldquo;Forgotten your password?&rdquo; A temporary password will be sent to you.</p>
+        <p><a target="_blank" href="http://www.complianceweek.com/" name="login" xt="SPCLICK"><img width="320" height="116" border="0" style="border: none; display:block" alt="Log-In Panel" src="http://www.complianceweek.com/sites/default/files/login%20screen_1.JPG" title="Log-In Panel" /></a></p>
+        <p>Make sure to bookmark this page for easier access in the future: complianceweek.com.  <br />
+        It is worth making note of your credentials, as you will need to use them to login throughout the year.</p>
+        <p><b>Next Steps </b>|&lt;&gt;If you would like to receive the following resources, click on the &quot;Profile&quot; option after clicking into &ldquo;My CW&rdquo; and scrolling down to &ldquo;Account Preferences.&rdquo;</p>
+        <p><img width="320" height="98" border="0" src="http://www.complianceweek.com/sites/default/files/my%20profile.png" alt="" /></p>
+        <ul>
+            <li><b>Compliance Week</b> | A fresh edition of Compliance Week delivered via e-mail every Tuesday morning, relentlessly focused on the disclosure, reporting, and compliance requirements of our subscribers. The Tuesday newsletter delivers our very latest in-depth news, analysis, columns, research, and other resources.</li>
+            <li><b>Compliance Weekend</b> | Published every Friday, Compliance Weekend offers a quick, &ldquo;plain English&rdquo; review of the week's key developments. Highlighting some of Compliance Week's myriad real-time data offerings, from the latest investigations to the most recent auditor changes, Compliance Weekend ensures you haven't missed the week's most interesting regulatory developments.</li>
+        </ul>
+ <p style="text-align: left;"><br />
+        Finally, your company administrator will be able to help you with your account.<br />
+        Should you have any additional questions, your Compliance Week representative is:<br />
+        Angela Ruggiero<br />
+        <a xt="SPEMAIL" name="donnaoneillcomplianceweekcom" target="_blank" href="mailto:angela.ruggiero@complianceweek.com">angela.ruggiero@complianceweek.com</a><br />
+        617-570-8608</span></span></p>
+        <p>I hope you have the opportunity throughout the year to benefit from the full portfolio of business tools available through complianceweek.com and please do not hesitate to let me know if you have any questions.</p>
+    </body>
+</html>

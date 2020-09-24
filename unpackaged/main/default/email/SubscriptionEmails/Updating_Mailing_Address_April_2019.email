@@ -1,0 +1,46 @@
+<table border="0" cellpadding="5" width="550" cellspacing="5" height="400" >
+<tr valign="top" height="400" >
+<td tEditID="c1r1" style=" background-color:#FFFFFF; bEditID:r3st1; color:#000000; bLabel:main; font-size:12pt; font-family:arial;" aEditID="c1r1" locked="0" >
+<![CDATA[<p class="MsoNormal" style="margin-bottom:0in;margin-bottom:.0001pt;line-height:
+normal"></p><p class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+minor-latin;color:black;background:white">Hi {!Contact.FirstName}<span class="apple-converted-space">&nbsp;</span></span><span style="mso-bidi-font-family:
+Calibri;mso-bidi-theme-font:minor-latin;color:black"><br>
+<br>
+<span style="background:white">Thank you for being a Compliance Week subscriber.
+We’ve noticed that you’re signed up to receive the Compliance Week print magazine, however we don’t have
+your mailing address. <o:p></o:p></span></span></p><p class="MsoNormal"><span style="mso-bidi-font-family:
+Calibri;mso-bidi-theme-font:minor-latin;color:black"><span style="background:white"><br></span></span></p>
+
+<p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black;
+background:white">Can you please email me your preferred mailing address so
+that we can update your record, and ensure delivery of the magazine?<o:p></o:p></span></b></p>
+
+<p class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+minor-latin;color:black;background:white"><br></span></p><p class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+minor-latin;color:black;background:white">Additionally, this week you’ll
+receive notice of the relaunch of the Compliance Week’s Website on <b style="mso-bidi-font-weight:normal">Thursday, May 2</b>. Rebuilt from the
+ground up, the platform will offer improved navigation, a clean design, faster
+load times, and a host of new features.</span><o:p></o:p></p><p class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+minor-latin;color:black;background:white"><br></span></p><p class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+minor-latin;color:black;background:white">Thank you and please advise back with any questions.</span></p>
+
+<p class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+minor-latin;color:black;background:white"><br></span></p><p class="MsoNormal"><span style="background-color: rgb(255, 255, 255);">Best regards,</span></p>
+
+<p class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+minor-latin;color:black;background:white"><br></span></p><p class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+minor-latin;color:black;background:white">{!User.Name}<o:p></o:p></span></p>
+
+<p class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+minor-latin;color:black;background:white">{!User.Title}<o:p></o:p></span></p>
+
+<p class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+minor-latin;color:black;background:white">{!User.CompanyName}<o:p></o:p></span></p>
+
+<p class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+minor-latin;color:black;background:white">{!User.Email}<o:p></o:p></span></p>
+
+<p class="MsoNormal"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:
+minor-latin;color:black;background:white">{!User.Phone}</span></p><p></p>]]></td>
+</tr>
+</table>

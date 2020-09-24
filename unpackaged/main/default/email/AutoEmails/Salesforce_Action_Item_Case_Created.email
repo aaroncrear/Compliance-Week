@@ -1,0 +1,9 @@
+Description: {!Case.Description}
+
+Reason: {!Case.Reason}
+
+Priority: {!Case.Priority}
+
+Due Date: {!Case.Desired_Due_Date__c}
+
+Submitted By: {!Case.Submitted_By__c}

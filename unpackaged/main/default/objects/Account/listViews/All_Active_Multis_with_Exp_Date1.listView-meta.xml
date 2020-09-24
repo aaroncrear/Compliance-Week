@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>All_Active_Multis_with_Exp_Date1</fullName>
+    <booleanFilter>1</booleanFilter>
+    <columns>ACCOUNT.NAME</columns>
+    <columns>User_Limit__c</columns>
+    <columns>MultiExpires__c</columns>
+    <columns>ACCOUNT.LAST_ACTIVITY</columns>
+    <filterScope>Everything</filterScope>
+    <filters>
+        <field>MultiExpires__c</field>
+        <operation>greaterOrEqual</operation>
+        <value>TODAY</value>
+    </filters>
+    <label>All Active Multis with Exp. Date</label>
+</ListView>

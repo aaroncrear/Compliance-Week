@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Print</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Print Page Available</name>
+    <style>none</style>
+    <subject>Compliance Week May Print Edition - Top Minds Special Edition &amp; eBook</subject>
+    <textOnly>Hi {!Contact.FirstName},
+
+The May print edition of Compliance will contain a special feature on our Top Minds award winners. The back cover of the edition is available for a full page advertisement. This back page position is the most visible position in the magazine. I would like to see if {!Account.Name} would be interested in running a full page advertisement in the position.
+
+The Top Minds edition will highlight the twelve best and brightest governance, risk, ethics, and compliance professionals. The twelve award winners each participate in an in-depth interview and a four page spread on each award recipient will appear in the edition. You can find additional information on Top Minds on our website at https://www.complianceweek.com/top-minds-2018#.Wt4pOn8h1cs.
+
+In addition to reaching our full print subscriber base, an eBook of the edition will be delivered to our entire active online database of 72,000. And the edition will be handed out at our May annual conference. This is the most visible edition of the year.
+
+As an advertiser in the Top Minds edition, your firm would receive the back page advertisement in the print and online edition (eBook), plus the leads from the online promotion (300 leads guaranteed). The cost for a full page advertisement on the back cover is $6,250. I can include 25,000 online banner impressions.
+
+Materials for the edition are due this Thursday, April 26th, by EOD.
+
+Please let me know if you have questions or interest. Thanks for your consideration.
+
+-Doug
+
+
+
+----------------------------------
+Doug Juenemann
+Director, Advertising
+Compliance Week
+doug@complianceweek.com
+(617) 570 8610</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

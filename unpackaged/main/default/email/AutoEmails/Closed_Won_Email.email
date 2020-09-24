@@ -1,0 +1,9 @@
+Account | {!Opportunity.Account}
+{!Opportunity.Type} | {!Opportunity.Business_Type__c}
+{!Product2.Name}
+Sale Value | {!Opportunity.Amount}
+
+Close Date | {!Opportunity.CloseDate}
+Rep | {!Opportunity.Sales_Rep_New__c}
+
+Opportunity | {!Opportunity.Link}

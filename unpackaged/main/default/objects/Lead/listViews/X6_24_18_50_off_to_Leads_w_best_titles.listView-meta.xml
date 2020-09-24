@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>X6_24_18_50_off_to_Leads_w_best_titles</fullName>
+    <booleanFilter>1 AND 2 AND 3 AND 4 AND 5 AND 6 AND 7 AND 8 AND 9 AND 10</booleanFilter>
+    <columns>FULL_NAME</columns>
+    <columns>LEAD.COMPANY</columns>
+    <columns>LEAD.STATE_CODE</columns>
+    <columns>LEAD.EMAIL</columns>
+    <columns>LEAD.STATUS</columns>
+    <columns>LEAD.CREATED_DATE</columns>
+    <columns>CORE.USERS.ALIAS</columns>
+    <columns>LEAD.UNREAD</columns>
+    <filterScope>Everything</filterScope>
+    <filters>
+        <field>LEAD.EMAIL_OPT_OUT</field>
+        <operation>notEqual</operation>
+        <value>1</value>
+    </filters>
+    <filters>
+        <field>Multi_Account__c</field>
+        <operation>notEqual</operation>
+        <value>Yes</value>
+    </filters>
+    <filters>
+        <field>LEAD.TITLE</field>
+        <operation>notContain</operation>
+        <value>analyst,coordinator,assistant,student,PR,prof,admin,sales,marketing</value>
+    </filters>
+    <filters>
+        <field>LEAD.TITLE</field>
+        <operation>notContain</operation>
+        <value>product development,public</value>
+    </filters>
+    <filters>
+        <field>LEAD.TITLE</field>
+        <operation>equals</operation>
+        <value>compliance,CCO,general counsel,CFO,chief,internal,audit,officer</value>
+    </filters>
+    <filters>
+        <field>LEAD.COMPANY</field>
+        <operation>notContain</operation>
+        <value>deloitte,EY,KPMG,pwc,navex,rane,compliance week,wilmington,mitratech</value>
+    </filters>
+    <filters>
+        <field>Account__c</field>
+        <operation>notContain</operation>
+        <value>deloitte,EY,KPMG,pwc,navex,rane,compliance week,wilmington,mitratech</value>
+    </filters>
+    <filters>
+        <field>LEAD.COUNTRY_CODE</field>
+        <operation>equals</operation>
+        <value>US</value>
+    </filters>
+    <filters>
+        <field>LEAD.EMAIL</field>
+        <operation>notContain</operation>
+        <value>edu</value>
+    </filters>
+    <label>6.24.18 - 50% off to Leads w/best titles</label>
+</ListView>

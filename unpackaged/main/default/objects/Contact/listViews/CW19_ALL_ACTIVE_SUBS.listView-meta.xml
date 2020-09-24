@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CW19_ALL_ACTIVE_SUBS</fullName>
+    <booleanFilter>(1 OR 3) AND 2</booleanFilter>
+    <columns>FULL_NAME</columns>
+    <columns>ACCOUNT.NAME</columns>
+    <columns>CONTACT.PHONE1</columns>
+    <columns>CONTACT.EMAIL</columns>
+    <columns>CONTACT.TITLE</columns>
+    <columns>CORE.USERS.ALIAS</columns>
+    <filterScope>Everything</filterScope>
+    <filters>
+        <field>User_Type__c</field>
+        <operation>equals</operation>
+        <value>Multi</value>
+    </filters>
+    <filters>
+        <field>User_Type__c</field>
+        <operation>equals</operation>
+        <value>Member of Multi-User Subscription</value>
+    </filters>
+    <label>CW19 ALL ACTIVE SUBS</label>
+</ListView>

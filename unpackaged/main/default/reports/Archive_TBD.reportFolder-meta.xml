@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportFolder xmlns="http://soap.sforce.com/2006/04/metadata">
+    <accessType>Shared</accessType>
+    <name>.Archive - TBD</name>
+    <publicFolderAccess>ReadOnly</publicFolderAccess>
+    <sharedTo>
+        <roleAndSubordinates>Salesforce_Administrator</roleAndSubordinates>
+        <roleAndSubordinates>Super_System_Administrator</roleAndSubordinates>
+    </sharedTo>
+</ReportFolder>

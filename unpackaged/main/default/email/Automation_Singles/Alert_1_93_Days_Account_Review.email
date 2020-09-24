@@ -1,0 +1,5 @@
+Angela,
+
+A renewal opportunity is scheduled to be created for {!Opportunity.Primary_Subscription_Contact__c} at {!Opportunity.Account} in 3 days. Please review the record and make any changes as appropriate.
+
+https://wilmington--timlyster.cs70.my.salesforce.com/{!Contact.Id}

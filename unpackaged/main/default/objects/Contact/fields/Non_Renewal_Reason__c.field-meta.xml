@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Non_Renewal_Reason__c</fullName>
+    <externalId>false</externalId>
+    <label>Renewal Status</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>true</trackHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Agreed to Renew</fullName>
+                <default>false</default>
+                <label>Agreed to Renew</label>
+            </value>
+            <value>
+                <fullName>Negotiating</fullName>
+                <default>false</default>
+                <label>Negotiating</label>
+            </value>
+            <value>
+                <fullName>No Response Yet</fullName>
+                <default>false</default>
+                <label>No Response Yet</label>
+            </value>
+            <value>
+                <fullName>Budget (Too Expensive)</fullName>
+                <default>false</default>
+                <label>Budget (Too Expensive)</label>
+            </value>
+            <value>
+                <fullName>Changed Positions, CW No Longer Relevant</fullName>
+                <default>false</default>
+                <label>Changed Positions, CW No Longer Relevant</label>
+            </value>
+            <value>
+                <fullName>Get Information Elsewhere</fullName>
+                <default>false</default>
+                <label>Get Information Elsewhere</label>
+            </value>
+            <value>
+                <fullName>No Longer At Company</fullName>
+                <default>false</default>
+                <label>No Longer At Company</label>
+            </value>
+            <value>
+                <fullName>No Reason Given</fullName>
+                <default>false</default>
+                <label>No Reason Given</label>
+            </value>
+            <value>
+                <fullName>No Time To Read/Use</fullName>
+                <default>false</default>
+                <label>No Time To Read/Use</label>
+            </value>
+            <value>
+                <fullName>Not Valuable</fullName>
+                <default>false</default>
+                <label>Not Valuable</label>
+            </value>
+            <value>
+                <fullName>Upgraded To Multi</fullName>
+                <default>false</default>
+                <label>Upgraded To Multi</label>
+            </value>
+            <value>
+                <fullName>Company Went Private</fullName>
+                <default>false</default>
+                <label>Company Went Private</label>
+            </value>
+            <value>
+                <fullName>Company out of Business</fullName>
+                <default>false</default>
+                <label>Company out of Business</label>
+            </value>
+            <value>
+                <fullName>Renewed as Single</fullName>
+                <default>false</default>
+                <label>Renewed as Single</label>
+            </value>
+            <value>
+                <fullName>Other</fullName>
+                <default>false</default>
+                <label>Other</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

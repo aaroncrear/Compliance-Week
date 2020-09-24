@@ -1,0 +1,25 @@
+<body>
+<p>Dear {!Contact.FirstName},</p>
+<p>Thank you for renewing your subscription to Compliance Week.  We strive to be the leading GRC resource, and your subscription is a great vote of confidence.</p>  Attached please find your invoice.
+<p><b>Selecting Weekly Emails</b> | You may elect to receive one or both of our two subscriber-only email newsletters, Compliance Week Tuesday Edition and Compliance Weekend. In addition, we currently offer three complimentary email services: Event of the Week, Thought Leadership of the Week and Compliance Week Europe. Selections may be made on the Profile page.</p>
+
+<p><b>Subscriber Information</b> | Please ensure that the following details are correct. If you choose to receive our bimonthly print magazine, we will use the address on file to service it. Corrections may be made on the Profile page.</p>
+<p>{!Contact.FirstName} {!Contact.LastName}</br>
+{!Contact.Title}</br>
+{!Account.Name}</br>
+{!Contact.MailingAddress}</br>
+Email: {!Contact.Email}</br>
+</br>
+Expiration Date: {!Contact.Expiration_Date__c}</br>
+</p>
+<p>Thanks again! And remember, we are here to help.
+
+You may contact Customer Service at (888) 519-9200 or via email at info@complianceweek.com.
+
+<p>Sincerely,</p>
+<p>Angela Ruggiero</br>
+      Compliance Week</br>
+http//:www.complianceweek.com/</p>
+
+</body>
+</html>

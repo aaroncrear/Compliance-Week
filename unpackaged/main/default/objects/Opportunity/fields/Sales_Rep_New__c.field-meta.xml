@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Sales_Rep_New__c</fullName>
+    <description>New field to replace the old Lookup field ... so that we can maintain former reps as the salesperson without having to keep them as a User.</description>
+    <externalId>false</externalId>
+    <label>Sales Rep</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Doug Juenemann</fullName>
+                <default>false</default>
+                <label>Doug Juenemann</label>
+            </value>
+            <value>
+                <fullName>Elizabeth Sucher</fullName>
+                <default>false</default>
+                <label>Elizabeth Sucher</label>
+            </value>
+            <value>
+                <fullName>Michelle Totilo</fullName>
+                <default>false</default>
+                <label>Michelle Totilo</label>
+            </value>
+            <value>
+                <fullName>Donna Rice</fullName>
+                <default>false</default>
+                <label>Donna Rice</label>
+            </value>
+            <value>
+                <fullName>Patrick Romano</fullName>
+                <default>false</default>
+                <label>Patrick Romano</label>
+            </value>
+            <value>
+                <fullName>Chris Goldsholl</fullName>
+                <default>false</default>
+                <label>Chris Goldsholl</label>
+            </value>
+            <value>
+                <fullName>Chris MacDonald</fullName>
+                <default>false</default>
+                <label>Chris MacDonald</label>
+            </value>
+            <value>
+                <fullName>Donna O'Neill</fullName>
+                <default>false</default>
+                <label>Donna O'Neill</label>
+            </value>
+            <value>
+                <fullName>Justine Healy</fullName>
+                <default>false</default>
+                <label>Justine Healy</label>
+            </value>
+            <value>
+                <fullName>Angela Ruggiero</fullName>
+                <default>false</default>
+                <label>Angela Ruggiero</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

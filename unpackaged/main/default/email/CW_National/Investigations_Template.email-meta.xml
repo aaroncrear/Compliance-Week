@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Investigations Class</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>Compliance_Week</letterhead>
+    <name>Investigations Template</name>
+    <style>freeForm</style>
+    <subject>{!Contact.FirstName}, Will you be attending?</subject>
+    <textOnly>Hi {!Contact.FirstName},
+
+Only a few early bird seats still available.  Take advantage of our Early Bird Special and save $100.  Offer valid until January 31st.
+
+Will you be attending Compliance Week&apos;s Investigations Class? 
+Compliance Week has partnered with Clear Law Institute to bring you a one-day seminar on The Science of Workplace Investigations.  Taught by the former U.S. Department of Justice attorney Michael Johnson, you will learn how to apply scientifically validated methods to interview witnesses and assess credibility in workplace investigations.  
+ 
+Our agenda is crafted to provide practical insights and best-practices.
+ 
+In this hands on seminar you will learn:
+ 
+*How to utilize the &quot;Cognitive Interview,&quot; which is the most widely researched interviewing technique in the world
+*How to apply research-based methods for detecting signs of deception and truthfulness
+*The legal requirements for workplace investigations
+*A 6-step process for writing clear and concise investigative reports
+
+
+This course has been approved for 7 CLE/CPE credits.  Details below:
+
+ 
+
+When: Tuesday, March 10, 2020
+
+Where: Suffolk University, Boston MA
+
+Hours: 9 am to 4 pm EST
+
+Lunch on your own from 12 to 1 pm EST
+
+Networking Cocktail hour at 4 pm
+
+Cost: $799.00
+
+Take advantage of our Early Bird Special and save $100.  Offer valid until January 31st.  Join the conversation &amp; register here; we have a limited amount of space available.
+
+
+Please feel free to call or email with any questions.Thanks {!Contact.FirstName}, I look forward to seeing you in Boston!
+ 
+Best Regards,
+ 
+Donna</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

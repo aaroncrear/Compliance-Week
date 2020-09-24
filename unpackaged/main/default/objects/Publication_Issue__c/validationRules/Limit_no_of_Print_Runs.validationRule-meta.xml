@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Limit_no_of_Print_Runs</fullName>
+    <active>true</active>
+    <errorConditionFormula>No_of_Domestic_Runs__c &gt; 1 ||  
+No_of_International_Runs__c &gt; 1</errorConditionFormula>
+    <errorMessage>Each Issue can only have a single Print Run of each Type.</errorMessage>
+</ValidationRule>

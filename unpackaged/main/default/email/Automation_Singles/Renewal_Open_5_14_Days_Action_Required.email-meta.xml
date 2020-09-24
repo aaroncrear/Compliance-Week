@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Subscription payment overdue notice #2</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Renewal Open 5 @ +14 Days: Action Required</name>
+    <style>none</style>
+    <subject>Important | Your payment is 14 days overdue</subject>
+    <textOnly>My Account | Contact Us | Terms &amp; Conditions
+Log-In Required
+
+
+Attention: Action Required
+
+
+
+Dear {!Opportunity.Primary_Subscription_Contact__c},
+
+We have not received payment of {!Opportunity.Amount} for your Compliance Week membership, and your invoice is 14 days past due. To reactivate your account, please make arrangements as soon as possible.
+
+Angela Ruggiero
+Business Development Associate
+(617) 570-8608
+angela.ruggiero@complianceweek.com
+
+Subscription Details  Payment Methods
+
+Type: {!Opportunity.Single_Multi__c}-User
+Term: {!Opportunity.Subscription_Starts__c}–{!Opportunity.Subscription_Expires__c}
+Amount: {!Opportunity.Amount}
+Invoice: {!Opportunity.Invoice__c}
+Online
+Log-In
+Mail Order
+Accounts Payable
+Compliance Week
+129 Portland St Fl 6
+Boston MA 02114-2014  Call
+(617) 570-8608</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

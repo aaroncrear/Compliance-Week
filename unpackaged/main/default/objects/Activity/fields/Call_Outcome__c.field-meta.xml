@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Call_Outcome__c</fullName>
+    <externalId>false</externalId>
+    <label>Call Outcome</label>
+    <required>false</required>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Had Conversation</fullName>
+                <default>true</default>
+                <label>Had Conversation</label>
+            </value>
+            <value>
+                <fullName>Left Voicemail</fullName>
+                <default>false</default>
+                <label>Left Voicemail</label>
+            </value>
+            <value>
+                <fullName>Not Interested</fullName>
+                <default>false</default>
+                <label>Not Interested</label>
+            </value>
+            <value>
+                <fullName>Gate Keeper</fullName>
+                <default>false</default>
+                <label>Gate Keeper</label>
+            </value>
+            <value>
+                <fullName>Bad Number</fullName>
+                <default>false</default>
+                <label>Bad Number</label>
+            </value>
+            <value>
+                <fullName>No Longer at the Company</fullName>
+                <default>false</default>
+                <label>No Longer at the Company</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

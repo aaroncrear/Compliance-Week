@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>expired multi extra free month offer</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Expired Multis</name>
+    <style>none</style>
+    <subject>Compliance Week: Re-Subscribe at a steep discount</subject>
+    <type>text</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

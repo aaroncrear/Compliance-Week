@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>999 for 3</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>Compliance_Week</letterhead>
+    <name>999 for 3</name>
+    <style>freeForm</style>
+    <subject>Your CW Trifecta for $999</subject>
+    <textOnly>Hello {!Contact.FirstName},
+
+
+Receive All 3 for $999 for 3 Days Only!
+
+
+Compliance Week Subscription – Single User ($1,199 Value)
+
+The most pertinent in-depth expert analysis at their fingertips: news articles, blogs, and thought leadership geared towards specific topics of interest to you
+
+The power of a global business resource: take advantage of our extensive on-demand CPE library, live webcast forums, whitepapers, e-books
+
+Intelligence necessary to enhance their compliance strategy: insightful reports, corporate documents, and benchmarking tools to navigate issues faced by responsible compliance professionals worldwide
+
+
+1 Delegate Pass to ONE of the following events ($1,595 Value)
+
+ü GDPR Readiness Summit – December 4-5 2017, Standard Club, Chicago IL
+
+ü Third-Party Risk Management Summit - March 19-20, 2018, Westin Peachtree, Atlanta GA
+
+ü AI, Technology &amp; Innovation – June 2018, Location TBD
+
+ü Sanctions/Anti Money Laundering back to back events – Oct 2018, New York NY
+
+*All events subject to change
+
+
+$800 Discount
+
+Compliance Week 2018 Annual Conference
+
+May 21-23 2018, The Mayflower Hotel, Washington D.C.
+
+
+*Offer available for New Subscribers only and Expires November 30, 2017
+
+
+Let’s get your access started today!
+
+
+Best Regards,
+
+
+{!User.Name}
+
+{!User.Title}
+
+{!User.CompanyName}
+
+{!User.Phone}
+
+{!User.Email}</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

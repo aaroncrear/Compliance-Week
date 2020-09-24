@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WebLink xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Create_Invoice</fullName>
+    <availability>online</availability>
+    <description>Used to generate invoice that is emailed to the user.</description>
+    <displayType>button</displayType>
+    <encodingKey>UTF-8</encodingKey>
+    <hasMenubar>false</hasMenubar>
+    <hasScrollbars>true</hasScrollbars>
+    <hasToolbar>false</hasToolbar>
+    <height>600</height>
+    <isResizable>true</isResizable>
+    <linkType>url</linkType>
+    <masterLabel>Create Invoice</masterLabel>
+    <openType>newWindow</openType>
+    <position>none</position>
+    <protected>false</protected>
+    <showsLocation>false</showsLocation>
+    <showsStatus>false</showsStatus>
+    <url>https://wilmington.my.salesforce.com/mail/mmchoose.jsp?id={!Contact.Id}&amp;1={!Contact.FirstName}+ ' '{!Contact.LastName}&amp;retURL=https://wilmington.lightning.force.com/lightning/r/Contact/{!CASESAFEID(Contact.Id)}/view?0.source=alohaHeader</url>
+</WebLink>

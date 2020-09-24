@@ -1,0 +1,7 @@
+{!Opportunity.Account}
+{!Opportunity.Name}
+{!Opportunity.Type} | {!Product2.RecordType}
+{!Opportunity.Amount}
+{!Opportunity.CloseDate}
+{!Opportunity.Payment_Method__c}
+https://na5.salesforce.com/{!Opportunity.Id}

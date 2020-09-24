@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>March 14-18 Open House promo</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>March &apos;16 Open House</name>
+    <style>none</style>
+    <subject>Open house this week (March 14-18)</subject>
+    <textOnly>THIS WEEK (March 14-18) WE&apos;RE SMASHING THE PAYWALL!
+www.complianceweek.com
+
+Typically available only with a subscription, you can read, save, share, and earn CPE without restriction. 
+
+Throughout this week, enjoy full access to the trends, opinion and analysis (like the articles from Friday&apos;s newsletter).
+
+Not sure where to start?
+✓ Create a My CW account and save articles for later. (https://www.complianceweek.com/my-cw)
+✓ Access the On-Demand CPE Library and earn continuing education credit.
+(https://www.complianceweek.com/webcasts/on-demand-cpe)
+
+Need help? 
+Contact us at info@complianceweek.com
+Call us at 617-570-8617
+Visit us at https://www.complianceweek.com/need-help
+
+If you are interested in a multi-user license, please send your inquiry to Donna.oneill@complianceweek.com.</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

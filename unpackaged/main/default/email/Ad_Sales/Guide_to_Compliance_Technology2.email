@@ -1,0 +1,243 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=utf-8"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Calibri",sans-serif;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+span.EmailStyle19
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle20
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle21
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle22
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle23
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle24
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle25
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle26
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle27
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:1047870768;
+	mso-list-template-ids:1506325776;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Times New Roman";}
+@list l0:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1
+	{mso-list-id:1492066976;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1936243690 -1067258472 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l1:level1
+	{mso-level-start-at:76;
+	mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;
+	mso-fareast-font-family:Calibri;
+	mso-bidi-font-family:"Times New Roman";}
+@list l1:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l1:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l1:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l1:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l1:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l1:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l1:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l1:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=EN-US link="#0563C1" vlink="#954F72"><div class=WordSection1><p class=MsoNormal><span style='font-size:11.0pt'>Hi {!Contact.FirstName} – <o:p></o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;color:black'>This September, Compliance Week will release a <b>Guide to Compliance Technology</b>. I would like to approach </span><span style='font-size:11.0pt'>{!Account.Name} <span style='color:black'>with sponsorship and advertising details. <o:p></o:p></span></span></p><p class=MsoNormal><span style='font-size:11.0pt;color:black'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;color:black'>The guide will be developed by Compliance Week’s editorial staff and contain a</span><span style='font-size:11.0pt'>ctionable information for compliance professionals who might be navigating the complex waters of choosing a technology provider/solution. It will be vendor-agnostic, we are not going to evaluate products but rather lay out the right questions to ask and things to consider when choosing a vendor. The guide will be approximately 25 pages in length. It will appear in the September print edition and will be released online as an eBook. The edition will contain the following sections:<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt'><o:p>&nbsp;</o:p></span></p><ul style='margin-top:0in' type=disc><li class=MsoNormal style='mso-list:l1 level1 lfo3'><b><span style='font-size:11.0pt'>Section introduction (2-page spread)<o:p></o:p></span></b></li><ul style='margin-top:0in' type=circle><li class=MsoNormal style='mso-list:l1 level2 lfo3'><span style='font-size:11.0pt'>How technology has changed the compliance regulatory landscape/why you need to invest in it if you haven’t already. <b><o:p></o:p></b></span></li><li class=MsoNormal style='mso-list:l1 level2 lfo3'><span style='font-size:11.0pt'>Glossary of terms: Terminology/acronyms and definitions used in the business of compliance technology (RegTech, FinTech, SaaS, etc.). <o:p></o:p></span></li></ul><li class=MsoNormal style='mso-list:l1 level1 lfo3'><b><span style='font-size:11.0pt'>Mainbar: Compliance officer’s perspective. </span></b><span style='font-size:11.0pt'>So you’ve made the decision to invest in compliance technology … where do you start? Here’s our how-to guide.<o:p></o:p></span></li><ul style='margin-top:0in' type=circle><li class=MsoNormal style='mso-list:l1 level2 lfo3'><span style='font-size:11.0pt'>Questions you need to ask vendors <o:p></o:p></span></li><li class=MsoNormal style='mso-list:l1 level2 lfo3'><span style='font-size:11.0pt'>How to identify which functions could be made more efficient with technology<o:p></o:p></span></li><li class=MsoNormal style='mso-list:l1 level2 lfo3'><span style='font-size:11.0pt'>Best way to pitch a technology solution to the board<o:p></o:p></span></li><li class=MsoNormal style='mso-list:l1 level2 lfo3'><span style='font-size:11.0pt'>Best way to offboard old technology (or how to identify when technology is too old)<o:p></o:p></span></li><li class=MsoNormal style='mso-list:l1 level2 lfo3'><span style='font-size:11.0pt'>What’s your backup plan if you’ve invested all of this money in software and it’s not working out the way you thought<o:p></o:p></span></li><li class=MsoNormal style='mso-list:l1 level2 lfo3'><span style='font-size:11.0pt'>What risks are there in working with a third-party vendor (data privacy, cyber-security) &nbsp;<o:p></o:p></span></li></ul><li class=MsoNormal style='mso-list:l1 level1 lfo3'><b><span style='font-size:11.0pt'>Sidebar: Regulators’ perspective.</span></b><span style='font-size:11.0pt'> Based on the DoJ’s “Evaluation of Corporate Compliance Programs” guidance issued in 2017, we’ll help you discern what data regulators expect you to have available when they come to you trying to evaluate your compliance program. We will talk to people at companies who have gone through this process with regulators. <o:p></o:p></span></li><li class=MsoNormal style='mso-list:l1 level1 lfo3'><b><span style='font-size:11.0pt'>Mainbar: Finance and accounting.</span></b><span style='font-size:11.0pt'> Benchmarking report from <span style='background:white'>the Financial Executives Research Foundation reveals how evolving technology is rapidly enhancing the accounting and finance functions.</span><o:p></o:p></span></li><li class=MsoNormal style='color:black;mso-list:l1 level1 lfo3'><b><span style='font-size:11.0pt;color:windowtext'>Sidebar: Audit.</span></b><span style='font-size:11.0pt;color:windowtext'> </span><span style='font-size:11.0pt'>How to better use analytics in internal audit. We’ll talk to internal audit consultants and deliver brand-agnostic best practices on the topic.</span><o:p></o:p></li><li class=MsoNormal style='mso-list:l1 level1 lfo3'><b><span style='font-size:11.0pt'>Mainbar: Compliance analytics.</span></b><span style='font-size:11.0pt'> We take a dive into the developing phenomenon of “compliance analytics,” which is essentially companies making better use of big data to 1) demonstrate to regulators that they’re going above and beyond in their compliance function to identify problems before they’re problems; and 2) as a way to better show ROI for a robust compliance program. <o:p></o:p></span></li><li class=MsoNormal style='mso-list:l1 level1 lfo3'><b><span style='font-size:11.0pt'>Sidebar: Q&amp;A with a Director of Compliance Analytics.<o:p></o:p></span></b></li><li class=MsoNormal style='mso-list:l1 level1 lfo3'><b><span style='font-size:11.0pt'>European perspective.</span></b><span style='font-size:11.0pt'> Will look at the RegTech and FinTech environment. How has GDPR impact technology decisions for compliance practitioners? Are companies more free to innovate due to the so-called “regulatory sandboxes”? &nbsp;&nbsp;<o:p></o:p></span></li><li class=MsoNormal style='mso-list:l1 level1 lfo3'><b><span style='font-size:11.0pt'>Guest column: The future of compliance and technology. </span></b><span style='font-size:11.0pt'>A self-described compliance futurist shares his perspective on a glaring need he sees in corporate and regulatory compliance programs in all industries: the need for a technological transformation. He’ll also predict where we’ll be in 5-10 years, when AI will be more accessible.<b><o:p></o:p></b></span></li><li class=MsoNormal style='mso-list:l1 level1 lfo3'><b><span style='font-size:11.0pt'>Sidebar: Why technology will never replace people for certain functions. <o:p></o:p></span></b></li><li class=MsoNormal style='mso-list:l1 level1 lfo3'><b><span style='font-size:11.0pt'>Survey: Compliance and technology. &nbsp;</span></b><span style='font-size:11.0pt'>Compliance Week will conduct a survey of compliance professionals, asking them 10-15 questions about the current state of technology within their compliance function, how big of a priority is it for them to upgrade their technology, the specific areas in which they are looking to upgrade their technology, how many have dabbled in compliance analytics or AI, and more. The results from this survey will be sprinkled throughout the guide and be a part of the post-publication webinar. &nbsp;<b><o:p></o:p></b></span></li></ul><p class=MsoNormal><span style='font-size:11.0pt'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;color:black'>An online eBook of the guide will reach our entire active online database of 65,000 corporate legal, financial, audit, risk &amp; compliance executives at global public companies. It will also be promoted on our website homepage for three weeks. The online promotion will generate approximately 350 registrations with all registration information shared with the sponsors. <o:p></o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;color:black'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;color:black'>Advertising in the edition includes access to all registration information from online downloads <b>(300 leads guaranteed). </b>The costs to advertise in the edition:<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;color:black'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal style='margin-left:.5in'><b><span style='font-size:11.0pt;color:blue'>Half Page Advertisement</span></b><span style='font-size:11.0pt;color:blue'> - $4,500. Includes ad in September print edition, ad in the eBook, and access to all leads. <o:p></o:p></span></p><p class=MsoNormal style='margin-left:.5in'><b><span style='font-size:11.0pt;color:blue'>Full page advertisement</span></b><span style='font-size:11.0pt;color:blue'> - $6,250. Includes ad in September print edition, ad in the eBook, 25,000 online banner impressions and access to all leads. <o:p></o:p></span></p><p class=MsoNormal style='margin-left:.5in'><b><span style='font-size:11.0pt;color:blue'>White Paper</span></b><span style='font-size:11.0pt;color:blue'> - &nbsp;$12,250 for three pages. Includes paper in September print edition, paper in the eBook, 25,000 online banner impressions and access to all leads. &nbsp;Each additional page costs $3,000. <o:p></o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;color:black'>&nbsp;<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;color:black'>We close the edition on Friday, August 24<sup>th</sup>. Materials are due on Wednesday, September 5<sup>th</sup>. <o:p></o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;color:black'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;color:black'>Please let me know if you have questions or need anything else to make a decision. <o:p></o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;color:black'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;color:black'>Thanks for your consideration.<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;color:black'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt;color:black'>-Doug<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt'><o:p>&nbsp;</o:p></span></p><div><p class=MsoNormal><span style='font-size:11.0pt;color:black'>------------------------------------<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Times New Roman",serif;color:black'>Doug Juenemann<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Times New Roman",serif;color:black'>Director, Advertising &amp; Sponsorship Sales<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Times New Roman",serif;color:black'>Compliance Week<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Times New Roman",serif;color:black'>129 Portland Street, 6<sup>th</sup> Flr<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Times New Roman",serif;color:black'>Boston, MA 02114<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Times New Roman",serif;color:black'>Phone #: 617 570 -8610<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Times New Roman",serif;color:blue'><a href="mailto:doug@complianceweek.com"><span style='color:blue'>doug@complianceweek.com</span></a><o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Times New Roman",serif;color:blue'><a href="https://www.linkedin.com/in/doug-juenemann-3475a5b/"><span style='color:blue'>https://www.linkedin.com/in/doug-juenemann-3475a5b/</span></a><o:p></o:p></span></p></div><p class=MsoNormal><span style='font-size:11.0pt'><o:p>&nbsp;</o:p></span></p></div></body></html>

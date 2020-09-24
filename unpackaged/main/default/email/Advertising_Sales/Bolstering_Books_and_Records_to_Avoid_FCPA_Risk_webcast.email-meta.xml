@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Bolstering Books and Records to Avoid FCPA Risk webcast</name>
+    <style>none</style>
+    <subject>Sponsor needed for webcast: Bolstering Books and Records to Avoid FCPA Risk</subject>
+    <type>text</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

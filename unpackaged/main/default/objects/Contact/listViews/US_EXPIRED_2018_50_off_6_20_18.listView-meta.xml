@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>US_EXPIRED_2018_50_off_6_20_18</fullName>
+    <booleanFilter>1 AND 2 AND 3 AND 4 AND 5 AND 6 AND 7 AND 8 AND 9 AND 10</booleanFilter>
+    <columns>FULL_NAME</columns>
+    <columns>ACCOUNT.NAME</columns>
+    <columns>CONTACT.TITLE</columns>
+    <columns>CONTACT.PHONE1</columns>
+    <columns>CONTACT.EMAIL</columns>
+    <filterScope>Everything</filterScope>
+    <filters>
+        <field>Expiration_Date__c</field>
+        <operation>lessThan</operation>
+        <value>2/1/2018</value>
+    </filters>
+    <filters>
+        <field>CONTACT.EMAIL_OPT_OUT</field>
+        <operation>equals</operation>
+        <value>0</value>
+    </filters>
+    <filters>
+        <field>Deliverability__c</field>
+        <operation>equals</operation>
+        <value>Active</value>
+    </filters>
+    <filters>
+        <field>Status_ACTUAL__c</field>
+        <operation>equals</operation>
+        <value>Expired</value>
+    </filters>
+    <filters>
+        <field>CONTACT.TITLE</field>
+        <operation>notContain</operation>
+        <value>analyst,coordinator,assistant,student,PR,prof,admin,sales,marketing</value>
+    </filters>
+    <filters>
+        <field>CONTACT.TITLE</field>
+        <operation>notContain</operation>
+        <value>product development</value>
+    </filters>
+    <filters>
+        <field>CONTACT.TITLE</field>
+        <operation>contains</operation>
+        <value>compliance,CCO,general counsel,CFO,chief,internal,audit,officer</value>
+    </filters>
+    <filters>
+        <field>Opportunity__c</field>
+        <operation>notEqual</operation>
+        <value>WON</value>
+    </filters>
+    <filters>
+        <field>ACCOUNT.NAME</field>
+        <operation>notContain</operation>
+        <value>,deloitte,EY,KPMG,pwc,navex,rane,compliance week,wilmington,mitratech</value>
+    </filters>
+    <label>US EXPIRED - 2018 50% off - 6.20.18</label>
+</ListView>

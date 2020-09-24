@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>Data Research</fullName>
+        <default>false</default>
+        <label>Data Research</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Event</fullName>
+        <default>false</default>
+        <label>Event</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Online</fullName>
+        <default>false</default>
+        <label>Online</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Print</fullName>
+        <default>false</default>
+        <label>Print</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Subscriptions</fullName>
+        <default>false</default>
+        <label>Subscriptions</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Registrations</fullName>
+        <default>false</default>
+        <label>Registrations</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Reports &amp; Reprints</fullName>
+        <default>false</default>
+        <label>Reports &amp; Reprints</label>
+    </standardValue>
+</StandardValueSet>

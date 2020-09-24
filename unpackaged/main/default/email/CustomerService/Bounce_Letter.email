@@ -1,0 +1,20 @@
+<p>Dear {!Contact.FirstName},<p>
+<p>We recently noticed that the Compliance Week newsletters to which you have subscribed are being returned "undelivered." To guarantee you receive the newsletters you have selected, please contact your network administrator to add the following host addresses to your company's e-mail SPAM filter "whitelist:"</p>
+<p>
+<table>
+  <tr>
+    <td>Host
+    <td>Address
+  </tr>
+  <tr>
+    <td>mail6090.wilmington.mkt6689.com
+    <td>74.121.53.240
+  </tr>
+  <tr>
+    <td>wilmington.mkt6689.com 
+    <td>74.121.53.240
+  </tr>
+</table>
+<p>You will only receive e-newsletters from Compliance Week through those servers.</p>
+<p>Best regards,</br>
+Compliance Week</p>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>false</available>
+    <description>Money laundering at all-time high on management&apos;s agenda</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Money Laundering 4-8-14</name>
+    <style>none</style>
+    <subject>Money laundering at all-time high on management&apos;s agenda</subject>
+    <textOnly>Anti-money laundering concerns have climbed to an all-time 
+high for senior management,and regulatory fines are now running in the 
+billions of dollars, according to a recent study of AML professionals.
+
+http://www.complianceweek.com/money-laundering-hits-all-time-high-on-managements-agenda-kpmg-survey-says/article/341027/
+
+----------------------------------------------------------------------
+
+Compliance Week regularly takes the pulse of the industry,
+providing insight to directly support your program&apos;s efforts.
+
+----------------------------------------------------------------------
+Access benchmark coverage like this—begin your 
+subscription for just $799*. 
+
+----------------------------------------------------------------------</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

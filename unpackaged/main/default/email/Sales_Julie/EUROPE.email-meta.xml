@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>Compliance_Week</letterhead>
+    <name>EUROPE</name>
+    <style>freeForm</style>
+    <subject>CW Europe 2017</subject>
+    <textOnly>Hi {!Contact.FirstName},
+
+
+I wanted to see if {!Account.Name} would be interested in sponsoring Compliance Week&apos; upcoming Annual European event in Amsterdam. See below for the details.
+
+
+
+Compliance Week Europe 2017 will be held at the Amsterdam Marriott on November 13-14, 2017. The event has one mission: to help compliance, audit, legal, and risk executives understand how they can build and manage their ethics &amp; compliance programs more effectively. The sessions include keynote presentations by government regulators, panel discussions with fellow corporate compliance officers and small workshops where attendees can discuss issues in an intimate boardroom style setting.  Attending the event will be 125-150 corporate legal, financial, audit, risk &amp; compliance executives at global public companies.
+
+The event website is events.complianceweek.com/cwe.
+
+
+Topics discussed at the event include
+
+Internal investigations
+Building and testing systems of internal control
+Whistleblower hotlines, and how to encourage their use
+Privacy and cyber-security
+Financial reporting
+Cooperating with regulatory authorities
+Effective compliance training programs
+Building compliance programs in emerging markets
+Working with boards or audit committees
+
+The sponsorship package:
+
+
+Presenting Sponsorship: 18,400
+
+Leadership of one large-room session: Sponsor will work closely with Compliance Week team to ensure the session is consistent with others, and appropriately addresses agenda topics
+
+Small room discussion: Leadership of a boardroom style conversation (up to 15 attendees)
+
+Attendee list: Complete list of all attendees’ email and postal address information post event
+
+Booth space: 6 foot table (1.8M), power cord, event Wi-Fi, 2 chairs and a trash bin
+
+Media exposure: Sponsors receive prominent exposure (logo/branding/signage) on all event promotion and in venue signage
+
+Passes: Four conference registrations
+
+
+Attached are additional details. Please let me know if you have questions or need anything else. Thanks for your consideration.
+
+
+Julie Van Gelder, Advertising and Sponsorships
+
+129 Portland St Fl 6, Boston, MA 02114
+
+T +1 (617) 570-8612| complianceweek.com
+
+LinkedIn | Events</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

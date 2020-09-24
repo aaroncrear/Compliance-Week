@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>Compliance_Week</letterhead>
+    <name>TPRM 3rd Annual</name>
+    <style>freeForm</style>
+    <subject>3rd Annual TPRM Event</subject>
+    <textOnly>Hi {!Contact.FirstName},
+
+Compliance Week is going to host an event on Third Party Risk Management in NY in March. I would like to see if {!Account.Name} would be interested in sponsorship.
+
+As a sponsor, {!Account.Name}could lead a session that we already have on our agenda or we could customize a new session. Here is an outline of the sponsorship package:
+
+Presenting Sponsorship: $15,000
+Panel speaking role
+Exhibit display table
+Full page ad and 250 word firm profile in electronic brochure
+Logo and hyperlink on website, listed on signage and sponsor slide
+Attendee list 30 days prior (then weekly thru the event)
+4 conference passes plus 2 speaker passes
+
+Please let me know if you have questions or would like to discuss.
+
+Julie Van Gelder, Advertising and Sponsorships
+
+129 Portland St Fl 6, Boston, MA 02114
+
+T +1 (617) 570-8612| complianceweek.com
+
+LinkedIn | Events</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

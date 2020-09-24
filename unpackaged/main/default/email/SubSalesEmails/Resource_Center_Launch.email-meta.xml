@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>email introducing the resource center</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Resource Center Launch</name>
+    <style>none</style>
+    <subject>Subscriber exclusive: Introducing the Resource Center</subject>
+    <textOnly>Corporate bylaws, codes of ethics, governance guidelines, and more
+
+Introducing  the Compliance Week Resource Center, an exclusive subscriber benefit.
+
+» Search and download thousands of documents such as corporate bylaws, governance guidelines, and codes of ethics.
+
+» Also access past conference presentations, handouts, slide decks, and other items from CW events.
+
+How do I get into the Resource Center?
+
+Click here for the quick guide or follow the steps below:
+
+Log in to complianceweek.com and select &apos;Resource Center&apos; from the navigation bar.
+Click this button:   Browse, search, and share—and save items for later:
+
+We know you continually improve your compliance program.
+We continually support your efforts.</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

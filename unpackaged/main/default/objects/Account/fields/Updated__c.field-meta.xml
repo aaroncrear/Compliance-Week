@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Updated__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Temp field to show if an account has been updated (i.e. employees, ownership, rev).</description>
+    <externalId>false</externalId>
+    <label>Updated</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <type>Checkbox</type>
+</CustomField>

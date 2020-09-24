@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Payment_1_Portal__c</fullName>
+    <externalId>false</externalId>
+    <label>Payment 1 Portal</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>ADvance</fullName>
+                <default>false</default>
+                <label>ADvance</label>
+            </value>
+            <value>
+                <fullName>Authorize.Net</fullName>
+                <default>false</default>
+                <label>Authorize.Net</label>
+            </value>
+            <value>
+                <fullName>Cvent</fullName>
+                <default>false</default>
+                <label>Cvent</label>
+            </value>
+            <value>
+                <fullName>CyberSource</fullName>
+                <default>false</default>
+                <label>CyberSource</label>
+            </value>
+            <value>
+                <fullName>Banking</fullName>
+                <default>false</default>
+                <label>Banking</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CW18_NON_SUBS_ATTENDEES_BUNDLE_JUNE_31</fullName>
+    <columns>FULL_NAME</columns>
+    <columns>LEAD.COMPANY</columns>
+    <columns>LEAD.TITLE</columns>
+    <columns>LEAD.EMAIL</columns>
+    <columns>LEAD.PHONE</columns>
+    <columns>LEAD.STATE_CODE</columns>
+    <columns>LEAD.STATUS</columns>
+    <columns>LEAD.CREATED_DATE</columns>
+    <columns>User_Type__c</columns>
+    <filterScope>Everything</filterScope>
+    <filters>
+        <field>User_Type__c</field>
+        <operation>notContain</operation>
+        <value>MULTI</value>
+    </filters>
+    <filters>
+        <field>User_Type__c</field>
+        <operation>notContain</operation>
+        <value>Member</value>
+    </filters>
+    <filters>
+        <field>User_Type__c</field>
+        <operation>notContain</operation>
+        <value>single</value>
+    </filters>
+    <label>CW18 NON SUBS ATTENDEES  BUNDLE JUNE !3</label>
+</ListView>

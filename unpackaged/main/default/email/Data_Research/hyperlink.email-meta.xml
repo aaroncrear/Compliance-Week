@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>hyperlink for auditor evaluation report</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>Data_Research</letterhead>
+    <name>hyperlink</name>
+    <style>formalLetter</style>
+    <subject>year end email w/hyperlink</subject>
+    <textOnly>https://www.complianceweek.com/thought-leadership/white-paper/auditor-evaluation-report-peer-benchmarking-auditor-profile-and-risk#.VjKBjLerSUkAuditor Evaluation Report</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Top 5 articles from Q1 of 2015</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>MULTI ENGAGE | Top 5 reads of Q1</name>
+    <style>none</style>
+    <subject>Top 5 reads from Q1 of 2015</subject>
+    <textOnly>Dear {!Contact.FirstName},
+
+Catch up on what&apos;s happening on complianceweek.com with the top GRC reads from the first quarter of 2015:
+
+Where Internal Audit Can Help in Cyber-Security (Feb 24)
+https://www.complianceweek.com/news/news-article/where-internal-audit-can-help-in-cyber-security#.VTaF5ZNRrd4
+
+Six Compliance Events to Watch in 2015 (Jan 4)
+https://www.complianceweek.com/blogs/the-big-picture/six-compliance-events-to-watch-in-2015#.VTaF6pNRrd5
+
+Dueling Thresholds Emerge on Going-Concern Warnings (Feb 18)
+https://www.complianceweek.com/news/news-article/dueling-thresholds-emerge-on-going-concern-warnings#.VTaF7JNRrd4
+
+Preparing for Pay Rules, Privacy, and a New Congress (Jan 6)
+https://www.complianceweek.com/news/news-article/preparing-for-pay-rules-privacy-and-a-new-congress
+
+Latest GRC Survey Shows Disconnect on Risk (Mar 3)
+https://www.complianceweek.com/blogs/accounting-auditing-update/latest-grc-survey-shows-disconnect-on-risk#.VTaF9JNRrd5
+
+That’s all for this update-- have a great week.</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

@@ -1,0 +1,13 @@
+Dear {!Contact.FirstName},
+
+Thank you for being a subscriber to a Compliance Week email newsletter. We've recently noticed that emails we send you are bouncing back to us. This means you are missing out on great content every week! To guarantee you receive our newsletters, please ask your network administrator to add the following host addresses to your company's e-mail spam filter "whitelist:"
+
+Host 					                Address
+mail6090.wilmington.mkt6689.com 	74.121.53.240
+wilmington.mkt6689.com          		74.121.53.240
+
+You will only receive e-mail from Compliance Week through those servers.
+
+Best regards,
+
+Compliance Week

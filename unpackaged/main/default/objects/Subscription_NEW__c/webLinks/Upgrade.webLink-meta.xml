@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WebLink xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Upgrade</fullName>
+    <availability>online</availability>
+    <displayType>button</displayType>
+    <linkType>javascript</linkType>
+    <masterLabel>Upgrade</masterLabel>
+    <openType>onClickJavaScript</openType>
+    <protected>false</protected>
+    <url>{!REQUIRESCRIPT("/soap/ajax/10.0/connection.js")}
+{!REQUIRESCRIPT("/soap/ajax/10.0/apex.js")}
+//window.setTimeout(window.open('/'+'006'+'/e'), 2000);
+try{
+var result = sforce.apex.execute("CreateUpgradeOpportunity","CreateUpgradeOpportunity", {id:"{!Subscription_NEW__c.Id}"});
+if(result != 'false'){
+window.location.reload();
+window.setTimeout(window.open('/apex/AddProducts?isnew=true&amp;oppid='+result),20000);
+}else{
+   alert('A renewal Opportunity already exists, amend the products to capture an upgrade.');
+}
+}catch(e){
+alert(e);
+}</url>
+</WebLink>

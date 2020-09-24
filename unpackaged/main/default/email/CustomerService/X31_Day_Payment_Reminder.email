@@ -1,0 +1,21 @@
+Dear {!Contact.FirstName},
+
+Please note that our records indicate that payment for your subscription to Compliance Week is now past due.
+
+We show your current balance as {!Opportunity.Amount} for the subscription you purchased on {!Opportunity.CloseDate}.
+
+You may pay by check, made payable to "WCW Inc/Compliance Week" and mailed to:
+
+WCW Inc
+c/o Compliance Week
+129 Portland St. Fl 6,
+Boston, MA 02114
+
+
+Or, you may call (888) 519-9200 to pay by credit card. You may also call this number if you have any questions.
+
+If payment has been sent, please disregard this notice.
+
+Thanks and Best Regards,
+
+Compliance Week

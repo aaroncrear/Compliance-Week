@@ -1,0 +1,5 @@
+Hi {!Contact.FirstName},
+
+I hope you have enjoyed the holiday season and are excited for a successful 2017.  As part of Compliance Week’s continued commitment to the user experience of its subscribers, I am excited to join the CW team as Major Accounts Sales Executive.  I will be working closely with our premier subscriber accounts to ensure maximum benefit from subscription.
+ 
+I know you have received some email notifications in the recent months, but wanted to remind you that your current subscription will expire this month on {!Opportunity.CloseDate}.  We hope to continue our relationship with {!Opportunity.Account}  and renew your Multi-user subscription.

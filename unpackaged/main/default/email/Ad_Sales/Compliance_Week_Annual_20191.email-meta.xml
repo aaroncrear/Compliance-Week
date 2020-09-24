@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Compliance Week Annual 2019</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Compliance Week Annual 2019</name>
+    <style>none</style>
+    <subject>Compliance Week 2019 Annual Conference - Sponsorship Options</subject>
+    <textOnly>Hi {!Contact.FirstName},
+
+
+Now in its 14th year, Compliance Week 2019 will be held on May 20-22, 2019 at the Mayflower Hotel, Washington DC. I would like to approach {!Account.Name} with sponsorship options.
+
+
+The annual conference has been recognized as the premier peer-to-peer compliance event to spotlight compliance leaders and their programs. It is designed to help senior compliance executives understand how to build and manage their compliance and risk programs more effectively. The 500 attendees in attendance – corporate compliance, legal, audit &amp; risk executives – attend to network, collaborate, exchange ideas and share best practices to mitigate and build value within their company. Our sessions are highly interactive with Q&amp;A, and roundtables discussions are practitioner-only workshops. The agenda for 2019 is in the works now, and we expect to have an outline in November. We do know that our event will focus on emerging trends with multiple sessions on:
+
+
+Regulatory &amp; Enforcement Updates
+
+Third Party Risk and Due Diligence
+
+Anti-Bribery/Anti-Corruption
+
+Cybersecurity/Cyber-Fraud
+
+Compliance Training &amp; Communications
+
+Program Effectiveness
+
+Regulatory Change Management
+
+Monitoring &amp; Auditing
+
+Data Privacy &amp; Protection
+
+Reporting to your Board
+
+
+For sponsors, a Presenting Sponsorship is the only option that includes a speaking role. As a presenting sponsor, your firm receives TWO speaking roles. One session would be a large room panel where your principal leads the panel discussion. The other speaking role would be a leadership of a boardroom-style discussion with 12-15 execs.  You receive branding, an exhibit booth, and the complete registrant list with full contact information for each participant for your marketing purposes.  The Presenting Sponsorship package includes:
+
+
+Full Presenting Sponsorship (limited to 12) Cost: $55,000
+
+Speaking role on large room panel session with 75-100 executives in room. Session has one moderator and 2-3 panelists
+Leadership of a roundtable discussion with 15-20 attendees in room
+6x10 exhibit booth in main hall, includes power cord, event Wi-Fi and chairs
+Full attendee list post event (Includes name, title, company, email, phone and all postal info)
+Media exposure and branding on all promotional materials (logo included on all printed materials, link and logo online)
+In Event App, presenting sponsors logo and firm profile included. Ability to provide links to promotional material
+Access to event management team to plan and an offsite/evening event
+Seat drop of thought leadership material in large room panel session and roundtable/case study
+Advertisement in program guide and on event App
+Six complimentary conference passes (including speakers), reduced rate to buy additional pass at $950 (50% off)
+Email blast to CW full Thought Leadership list of 65,000
+
+
+Please let me know if you are interested in receiving additional information, I would be happy to send along a full list of sponsorship options and the prior year registration list. The sooner you sign on to sponsor, the more likely you will have the opportunity to propose a session topic to our conference team and help shape the agenda.
+
+
+Thanks for your consideration.
+
+
+-Doug
+
+
+
+
+------------------------------------
+
+Doug Juenemann
+
+Director, Advertising &amp; Sponsorship Sales
+
+Compliance Week
+
+129 Portland Street, 6th Flr
+
+Boston, MA 02114
+
+Phone #: 617 570 -8610
+
+doug@complianceweek.com
+
+https://www.linkedin.com/in/doug-juenemann-3475a5b/</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

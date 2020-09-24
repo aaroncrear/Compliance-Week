@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Webcast Series</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>ICFR Webcast Series</name>
+    <style>none</style>
+    <subject>Compliance Week Webcast Series - Internal Conrol over Financial Reporting</subject>
+    <textOnly>Hi {!Contact.FirstName},
+
+This fall, Compliance Week will host a webcast series on internal control over financial reporting. I would like to see if {!Account.Name} would be interested in sponsorship.
+
+The webcast series is designed to help audit and compliance executives understand the current state of their segregation of duties (SoD) and sensitive access (SA) controls for financial reporting, including how to define SoD and SA rules so those gaps can be closed, and how to implement effective SoD and SA control systems using GRC or business software. Here is a brief outline of each webcast:
+
+
+Webcast 1: Documenting Your SoD and SA Controls and Weaknesses
+
+Review of SoD and SA controls, importance to SOX compliance and good ICFR
+How trends in cloud computing, shared services, new COSO framework are putting SoD and SA under new scrutiny
+Integrating “Principle of Least Privilege” approach to SoD and SA controls testing
+Examples of how to test SoD and SA controls in several common business processes, to uncover weaknesses or gaps in SA controls
+Risk of SoD weaknesses in the IT application environment
+
+Webcast 2: Implementing Better SoD and SA for ICFR
+
+Short review of Webcast 1
+What candidates for SA rules look like
+What candidates for SoD rules look like
+Assigning capabilities under new rules
+Testing, documenting
+Dealing with unhappy humans
+
+The target audience will be compliance and audit executives across all industries with responsibility for internal control over financial reporting, SOX compliance, financial compliance, corporate accounting, anti-fraud programs, etc. Compliance Week will promote the webcasts in our monthly print edition, in our weekly webcast emails, and on our website. CPE credits are available to the attendees. The event will be pre-recorded and will play live in late October or early November.
+
+The cost of sponsorship of the series is $22,000. The event should generate approximately 600 registrations, and all contact information from registrations will be shared with the one exclusive sponsor. http://www.complianceweek.com/webcasts/section/1799/.
+
+All attendees to the webcasts will receive a complimentary PDF copy of our in-depth (58 page) report, Segregation of Duties and Sensitive Access: Leveraging System-Enforced Controls, which will be given to the attendees as a gift from the sponsor. The regular cost for a printed copy of the report will be $69.95.
+
+Please let me know if you have questions or are interested in sponsorship. Thanks for your consideration.
+
+
+
+
+-Doug
+
+
+
+
+----------------------------------
+Doug Juenemann
+Advertising Sales
+Compliance Week
+77 N Washington St.
+Boston, MA 02114
+djuenemann@complianceweek.com
+(617) 570 8610</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>E-Mktg | Trends</name>
+    <style>none</style>
+    <subject>Breaking | Top 10 Global Compliance Trends in 2013</subject>
+    <textOnly>Dear {!Contact.FirstName},
+
+Neil Baker, Compliance Week&apos;s London correspondent, predicts that &quot;with Dodd-Frank Act rulemaking nearly complete, 2013 might be a slightly quieter year for regulatory change in the U.S. . . Not so for Europe and other global regions. Global regulators, accounting standard setters, and foreign enforcement agencies have a full pipeline of new initiatives, many of which will affect U.S. businesses. Here are 10 developments to watch on the global compliance front in the coming year.&quot;
+
+Keep informed and stay current! Subscribe to Compliance Week and ride the cutting edge of compliance news and analysis.
+
+Compliance Week The leading information service on corporate governance, risk, and compliance.Take our video tour.
+
+Donna</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

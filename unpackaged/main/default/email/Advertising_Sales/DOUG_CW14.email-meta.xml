@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>false</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>Compliance_Week</letterhead>
+    <name>DOUG | CW14</name>
+    <style>freeForm</style>
+    <subject>Reaching Compliance Week 2014 attendees</subject>
+    <textOnly>Hi {!Contact.FirstName},
+
+Just checking in regarding our 9th Annual Compliance Week Conference, we still have a few sponsorship options available and I thought you might be interested. The conference is on May 19-21 at the Mayflower Hotel in Washington D.C.
+
+
+
+Take a look below and let me know if you would like to discuss any of these, as we would welcome the chance to have {!Account.Name} working with us at the conference this year.
+
+
+
+
+Technology Center Sponsorship | $,20,000
+
+Exclusive -- new this year, located in the Cabinet Room (on the main floor) this center will be open to all conference attendees throughout the 3 day event.
+
+The sponsorship provides the following amenities for all delegates: Charging station, Cyber Café, wireless printer, computer, beverage station, and seated meeting space.
+
+
+
+Sponsor receives:
+
+Signage at the entrance to the room and throughout the room;
+Recognition at the end of each session on screens in each meeting room;
+Two conference passes.
+
+Video Session with Matt Kelly | $7,500
+
+Customized 30-minute session, edited to 2- to 3-minute video
+Click here for samples from CW 2013 and CW 2012
+Includes pre-taping call, taping, editing, and two conference passes.
+
+Wi-Fi Sponsorship (exclusive)
+
+Free Wi-Fi to be provided for all delegates during the 3 day event, courtesy of sponsor.
+
+-Password will be sponsor name
+
+-Card with Wi-Fi instructions given to all at registration, and additional 100 printed for distribution
+
+-Signage with Wi-Fi Instructions, and Sponsors Logo, at Registration and in multiple locations
+
+-Recognition at the start of each session on screens in each meeting room and 1 conference pass.
+
+Cost: $6,000
+
+
+Event App Sponsor (exclusive)
+
+A large number of the 450-500 event delegates and speakers use our event app to navigate the event. The App Sponsor will receive:
+
+-Welcome screen with Sponsor logo
+
+-Logo placement on each App area: sessions, speakers, etc.
+
+-Card with App download instructions given at registration, and additional 100 printed for distribution
+
+-Recognition at the start of each session on screens in each meeting room
+
+- Sponsor signage provided throughout and 1 conference pass.
+
+Cost: $6,000
+
+
+Speaker Lounge Sponsor (exclusive)
+
+-TV provided in lounge with Sponsor Logo and messaging provided on loop
+
+-Food &amp; Beverage provided to speakers, courtesy of Sponsor
+
+-Branding/signage in room
+
+-Sponsor material/collateral available, and 2 conference passes.
+
+Cost: $10,000
+
+
+
+In addition, I wanted to let you know that can still get a print ad in the May issue of the magazine. We consider this the most important edition of the year due to the bonus distribution to every attendee at the conference. We have a special rate of $5,332 -- 25% off our open page rate. The deadline for space is April 10; materials are due April 15.
+
+
+Let me know how I can help, and many thanks.
+
+
+Best,
+
+
+Doug Juenneman</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

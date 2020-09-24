@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>recapture_rule_30_Days</fullName>
+    <active>false</active>
+    <errorConditionFormula>TODAY() &lt; ( Expiration_Date__c  + 30) &amp;&amp; Recaptured__c = TRUE</errorConditionFormula>
+    <errorDisplayField>Recaptured__c</errorDisplayField>
+    <errorMessage>Subscriptions are classified as recaptured when Expiration Date was more than 30 days ago.</errorMessage>
+</ValidationRule>

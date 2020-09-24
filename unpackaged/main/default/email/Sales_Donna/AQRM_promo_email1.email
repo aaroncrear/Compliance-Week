@@ -1,0 +1,44 @@
+<html dir="ltr">
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <p><span style="color: rgb(128, 128, 128);">{!Contact.FirstName},<br />
+        <br />
+        I work for Compliance Week, the leading information service on corporate compliance. As {!Account.Name} currently doesn&rsquo;t have access to our service, I invite you to join and receive a custom Accounting Quality + Risk Matrix (AQRM) report by Audit Analytics. This due diligence report has a $500 value, and it is available as a complimentary benefit for a limited time.&nbsp; <br />
+        <br />
+        Compliance Week provides critical, independent guidance for financial, legal, risk, audit, and compliance executives at public companies such as Goldman Sachs, the Dun &amp; Bradstreet Corp., NYSE, and Visa.&nbsp;&nbsp; <br />
+        <br />
+        Activate your license today, and your AQRM report will be delivered within 10 days &hellip; Simply reply to this e-mail to begin your subscription for $999.&nbsp; <br />
+        <br />
+        Still not sure? I&rsquo;d be happy to share with you a sample AQRM report, or you can sign up for a free 10-day no-obligation trial.&nbsp; <br />
+        <br />
+        Please feel free to call or e-mail with any questions.<br />
+        <br />
+        Thanks!<br />
+        </span></p>
+        <p><span style="color: rgb(128, 128, 128);" /></p>
+        <p></p>
+        <p><span style="color: rgb(128, 128, 128);" /></p>
+        <p><span style="font-family: Calibri;"><em><br />
+        </em></span></p>
+        <p></p>
+        <p></p>
+        <p><span style="color: rgb(128, 128, 128);"><span style="font-family: Calibri;"><br />
+        </span></span><image001.jpg></image001.jpg></p>
+        <p><span style="color: rgb(128, 128, 128);" /></p>
+        <p><image001.jpg></image001.jpg></p>
+        <p><span style="color: rgb(128, 128, 128);" /></p>
+        <p><image001.jpg><span style="font-family: Calibri;">     <em><br />
+        </em></span></image001.jpg></p>
+        <p></p>
+        <p></p>
+        <p><image001.jpg><image002.jpg><span style="color: rgb(128, 128, 128);"><span style="font-family: Calibri;">     <br />
+        </span></span></image002.jpg></image001.jpg></p>
+        <p></p>
+        <p><image001.jpg><image002.jpg><image003.jpg><span style="color: rgb(128, 128, 128);"><span style="font-family: Calibri;"> <br />
+        </span></span></image003.jpg></image002.jpg></image001.jpg></p>
+        <p></p>
+        <p></p>
+    </body>
+</html>

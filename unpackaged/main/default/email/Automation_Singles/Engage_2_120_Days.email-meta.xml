@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Engagement outreach 8 months before expire</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Engage 2 @ 120 Days</name>
+    <style>none</style>
+    <subject>Reminder: Log in to complianceweek.com</subject>
+    <textOnly>Dear {!Opportunity.Primary_Subscription_Contact__c},
+
+Have you logged into your account recently at complianceweek.com? Much of the content available online is only accessible to paying members. Our featured coverage includes expert commentary and analysis, comprehensive news coverage, and practical hands-on advice to operationalize compliance into day-to-day business activities.
+
+To sign on to member-only content, click on the Sign In link in the right-hand corner of all pages.
+
+If you have specific questions about your membership or need assistance setting-up your online access, feel free to contact me either via phone at (617) 570-8608 or email.
+
+Best regards,
+
+Angela Ruggiero
+Business Development Associate
+(617) 570-8608
+angela.ruggiero@complianceweek.com</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

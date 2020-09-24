@@ -1,0 +1,7 @@
+The Opportunity below is Closed Won; the renewal was accepted via email. 
+
+Opportunity: {!Opportunity.Name}
+Account: {!Opportunity.Account}
+Sale value: {!Opportunity.Amount}
+
+View Opportunity: {!Opportunity.Link}

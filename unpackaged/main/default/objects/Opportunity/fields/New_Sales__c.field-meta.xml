@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>New_Sales__c</fullName>
+    <externalId>false</externalId>
+    <formula>IF( Recovery__c ,Amount,IF(ISPICKVAL(Type ,"CW: Single New"), Amount ,IF(ISPICKVAL(Type ,"CW: Multi New"), Amount ,IF(ISPICKVAL(Type ,"CW: Upgrade"), Amount ,0))))</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <label>New/Recovery Sales</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>0</scale>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Currency</type>
+</CustomField>

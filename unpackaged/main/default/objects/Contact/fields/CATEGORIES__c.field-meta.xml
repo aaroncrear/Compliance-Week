@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CATEGORIES__c</fullName>
+    <externalId>false</externalId>
+    <label>Categories</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <type>MultiselectPicklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Accounting</fullName>
+                <default>false</default>
+                <label>Accounting</label>
+            </value>
+            <value>
+                <fullName>Agency Contact</fullName>
+                <default>false</default>
+                <label>Agency Contact</label>
+            </value>
+            <value>
+                <fullName>AML</fullName>
+                <default>false</default>
+                <label>AML</label>
+            </value>
+            <value>
+                <fullName>Artificial Intelligence</fullName>
+                <default>false</default>
+                <label>Artificial Intelligence</label>
+            </value>
+            <value>
+                <fullName>ASIA</fullName>
+                <default>false</default>
+                <label>ASIA</label>
+            </value>
+            <value>
+                <fullName>Board/Governance</fullName>
+                <default>false</default>
+                <label>Board/Governance</label>
+            </value>
+            <value>
+                <fullName>Cloud Computing</fullName>
+                <default>false</default>
+                <label>Cloud Computing</label>
+            </value>
+            <value>
+                <fullName>Competitor</fullName>
+                <default>false</default>
+                <label>Competitor</label>
+            </value>
+            <value>
+                <fullName>Conflict Minerals</fullName>
+                <default>false</default>
+                <label>Conflict Minerals</label>
+            </value>
+            <value>
+                <fullName>Consulting - Advisory</fullName>
+                <default>false</default>
+                <label>Consulting - Advisory</label>
+            </value>
+            <value>
+                <fullName>Controls Monitoring</fullName>
+                <default>false</default>
+                <label>Controls Monitoring</label>
+            </value>
+            <value>
+                <fullName>Doug</fullName>
+                <default>false</default>
+                <label>Doug</label>
+            </value>
+            <value>
+                <fullName>eDiscovery</fullName>
+                <default>false</default>
+                <label>eDiscovery</label>
+            </value>
+            <value>
+                <fullName>ERM</fullName>
+                <default>false</default>
+                <label>ERM</label>
+            </value>
+            <value>
+                <fullName>Ethics</fullName>
+                <default>false</default>
+                <label>Ethics</label>
+            </value>
+            <value>
+                <fullName>Events</fullName>
+                <default>false</default>
+                <label>Events</label>
+            </value>
+            <value>
+                <fullName>Executive Compensation</fullName>
+                <default>false</default>
+                <label>Executive Compensation</label>
+            </value>
+            <value>
+                <fullName>Executive Education</fullName>
+                <default>false</default>
+                <label>Executive Education</label>
+            </value>
+            <value>
+                <fullName>FCPA</fullName>
+                <default>false</default>
+                <label>FCPA</label>
+            </value>
+            <value>
+                <fullName>Financial Services</fullName>
+                <default>false</default>
+                <label>Financial Services</label>
+            </value>
+            <value>
+                <fullName>Fraud</fullName>
+                <default>false</default>
+                <label>Fraud</label>
+            </value>
+            <value>
+                <fullName>GDPR</fullName>
+                <default>false</default>
+                <label>GDPR</label>
+            </value>
+            <value>
+                <fullName>Healthcare</fullName>
+                <default>false</default>
+                <label>Healthcare</label>
+            </value>
+            <value>
+                <fullName>IFRS</fullName>
+                <default>false</default>
+                <label>IFRS</label>
+            </value>
+            <value>
+                <fullName>International Mktg</fullName>
+                <default>false</default>
+                <label>International Mktg</label>
+            </value>
+            <value>
+                <fullName>Internet of Things</fullName>
+                <default>false</default>
+                <label>Internet of Things</label>
+            </value>
+            <value>
+                <fullName>IT Compliance</fullName>
+                <default>false</default>
+                <label>IT Compliance</label>
+            </value>
+            <value>
+                <fullName>Law Firm</fullName>
+                <default>false</default>
+                <label>Law Firm</label>
+            </value>
+            <value>
+                <fullName>Marketing - Consulting</fullName>
+                <default>false</default>
+                <label>Marketing - Consulting</label>
+            </value>
+            <value>
+                <fullName>Marketing - Technology</fullName>
+                <default>false</default>
+                <label>Marketing - Technology</label>
+            </value>
+            <value>
+                <fullName>Partner</fullName>
+                <default>false</default>
+                <label>Partner</label>
+            </value>
+            <value>
+                <fullName>PCI Compliance</fullName>
+                <default>false</default>
+                <label>PCI Compliance</label>
+            </value>
+            <value>
+                <fullName>Personal Liability</fullName>
+                <default>false</default>
+                <label>Personal Liability</label>
+            </value>
+            <value>
+                <fullName>Pharma/Life Sciences</fullName>
+                <default>false</default>
+                <label>Pharma/Life Sciences</label>
+            </value>
+            <value>
+                <fullName>Policy Management</fullName>
+                <default>false</default>
+                <label>Policy Management</label>
+            </value>
+            <value>
+                <fullName>Primary Marketing Contact</fullName>
+                <default>false</default>
+                <label>Primary Marketing Contact</label>
+            </value>
+            <value>
+                <fullName>Print</fullName>
+                <default>false</default>
+                <label>Print</label>
+            </value>
+            <value>
+                <fullName>Reprint</fullName>
+                <default>false</default>
+                <label>Reprint</label>
+            </value>
+            <value>
+                <fullName>Revenue Recognition</fullName>
+                <default>false</default>
+                <label>Revenue Recognition</label>
+            </value>
+            <value>
+                <fullName>Sanctions</fullName>
+                <default>false</default>
+                <label>Sanctions</label>
+            </value>
+            <value>
+                <fullName>Social Media</fullName>
+                <default>false</default>
+                <label>Social Media</label>
+            </value>
+            <value>
+                <fullName>Software - Database</fullName>
+                <default>false</default>
+                <label>Software - Database</label>
+            </value>
+            <value>
+                <fullName>Software - Document Management</fullName>
+                <default>false</default>
+                <label>Software - Document Management</label>
+            </value>
+            <value>
+                <fullName>Software - Internal Controls</fullName>
+                <default>false</default>
+                <label>Software - Internal Controls</label>
+            </value>
+            <value>
+                <fullName>Software - Records Mgmt</fullName>
+                <default>false</default>
+                <label>Software - Records Mgmt</label>
+            </value>
+            <value>
+                <fullName>Software - Security</fullName>
+                <default>false</default>
+                <label>Software - Security</label>
+            </value>
+            <value>
+                <fullName>Spreadsheet Controls</fullName>
+                <default>false</default>
+                <label>Spreadsheet Controls</label>
+            </value>
+            <value>
+                <fullName>Staffing</fullName>
+                <default>false</default>
+                <label>Staffing</label>
+            </value>
+            <value>
+                <fullName>Taxes</fullName>
+                <default>false</default>
+                <label>Taxes</label>
+            </value>
+            <value>
+                <fullName>TPRM</fullName>
+                <default>false</default>
+                <label>TPRM</label>
+            </value>
+            <value>
+                <fullName>Training</fullName>
+                <default>false</default>
+                <label>Training</label>
+            </value>
+            <value>
+                <fullName>Valuation - FAS157</fullName>
+                <default>false</default>
+                <label>Valuation - FAS157</label>
+            </value>
+            <value>
+                <fullName>XBRL</fullName>
+                <default>false</default>
+                <label>XBRL</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+    <visibleLines>10</visibleLines>
+</CustomField>

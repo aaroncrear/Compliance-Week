@@ -1,0 +1,11 @@
+Dear {!Contact.FirstName},
+ 
+Thank you for subscribing to Compliance Week, the premier resource for Governance, Risk Management and Compliance. Your subscription will automatically renew on {!Contact.Expiration_Date__c}. 
+
+You will continue to enjoy access to complianceweek.com for the next 12 months. Your subscription includes:  Compliance Week newsletters, access to free CPE credits from our on demand library, digital editions of the print magazine archives, as well as our bi-monthly print magazine.  
+ 
+You will be emailed an invoice for {!Contact.00N50000001Q2kb} on your expiration date. If you do not wish to renew, please respond to Angela Ruggiero at 617-570-8608 or angela.ruggiero@complianceweek.com prior to  {!Contact.Expiration_Date__c}. 
+
+Thank you for your continuing support.
+ 
+Compliance Week

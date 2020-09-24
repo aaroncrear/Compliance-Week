@@ -1,0 +1,26 @@
+{!Contact.FirstName} {!Contact.LastName} 
+{!Contact.Title}
+{!Account.Name}
+{!Contact.MailingAddress}
+{!Contact.MailingCity} {!Contact.MailingState}{!Contact.MailingPostalCode 
+
+Dear {!Contact.FirstName},
+
+Thanks for your interest in Compliance Week.
+
+Enclosed are two of our recent monthly issues, along with other materials you might find useful. I also hope you have been able to log into the Web site to review our comprehensive resources. As I hope you have come to see, the online service provides invaluable coverage, analysis, databases, research, and guidance you simply can’t get anywhere else.
+
+Please also see the enclosed testimonials package for endorsements of Compliance Week from your peers. We’d love to have you join 20,000+ other executives as a Compliance Week subscriber.
+
+Call or email with questions or to subscribe (my card is attached).
+
+I hope you will consider subscribing to Compliance Week.
+
+Regards,
+
+
+
+Chuck Mattia
+Compliance Week
+(617) 570-8601
+Chuck.Mattia@ComplianceWeek.com

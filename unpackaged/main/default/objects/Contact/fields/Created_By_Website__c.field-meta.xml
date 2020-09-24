@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Created_By_Website__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Used by the Event Manager to cull bogus insertUsers.</description>
+    <externalId>false</externalId>
+    <label>Created by Website</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <type>Checkbox</type>
+</CustomField>

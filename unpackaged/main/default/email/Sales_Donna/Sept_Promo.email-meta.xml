@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>SCCE 2015</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Oct Promo</name>
+    <style>none</style>
+    <subject>GRC Survey Says…</subject>
+    <textOnly>: GRC Survey Says…
+
+Dear {!Contact.FirstName},
+
+….GRC Survey Shows Disconnect on Risk. New evidence is emerging from yet another survey to show chief audit executives and audit committees are not on the same page in their view of the highest priority areas for internal audit attention.
+
+Why not raise the bar and give your company the edge by subscribing to all of the latest GRC news and information at your fingertips in one easy to access location.
+
+As a “thank you” for stopping by the Compliance Week booth at the IIA/GRC Conference in Phoenix we would like to offer you a special rate of 50% off of a one year license or $500 off of a multi user license.  Subscribe today by simply responding to this email. We will set up your license and email you a copy of the invoice.
+
+(This offer expires on Wednesday, September 30th.)
+
+
+Best regards,
+
+Donna O&apos;Neill
+
+Compliance Week | (617) 570-8617</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

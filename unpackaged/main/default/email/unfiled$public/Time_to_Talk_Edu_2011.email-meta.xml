@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Time to Talk Edu 2011</name>
+    <style>none</style>
+    <subject>Can we set a time to talk this week?</subject>
+    <textOnly>Dear {!Contact.FirstName},
+
+May I ask for a few moments of your time for a brief phone conversation?
+
+I work for Compliance Week, a subscription-based information service on corporate compliance. Thousands of financial, legal, risk, audit, and compliance executives and the majority of Fortune 1000 companies rely on us to keep them well informed. We also count many business schools as subscribers.
+
+We offer educators a 50% discount to our service: the regular one-year subscription price of $1,199 falls to $599. Additionally we will send up to 10 copies of our monthly print magazine for use as a teaching resource.
+
+Can we talk for 10 minutes this week to discuss how we can bring Compliance Week to {!Account.Name}? If there is a better time, or you feel I should speak with someone else, please let me know.
+
+Thanks!
+
+Donna O&apos;Neill
+Compliance Week
+Donna@complianceweek.com</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

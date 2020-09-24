@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>My_AL_CCO_Zoom</fullName>
+    <columns>FULL_NAME</columns>
+    <columns>LEAD.COMPANY</columns>
+    <columns>LEAD.STATE_CODE</columns>
+    <columns>LEAD.COUNTRY_CODE</columns>
+    <columns>LEAD.PHONE</columns>
+    <columns>LEAD.UNREAD</columns>
+    <columns>LEAD.LEAD_SOURCE</columns>
+    <columns>LEAD.CREATED_DATE</columns>
+    <filterScope>Mine</filterScope>
+    <filters>
+        <field>LEAD.TITLE</field>
+        <operation>equals</operation>
+        <value>Chief Compliance Officer</value>
+    </filters>
+    <filters>
+        <field>LEAD.STATE_CODE</field>
+        <operation>equals</operation>
+        <value>AL</value>
+    </filters>
+    <label>My AL CCO Zoom</label>
+</ListView>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Aug 2015 print editorial</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Aug 2015 print editorial</name>
+    <style>none</style>
+    <subject>Aug 2015 editorial</subject>
+    <type>text</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

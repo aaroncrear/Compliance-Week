@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Temp --></label>
+        <name>Temp__c</name>
+        <picklistValues>
+            <masterLabel>CW13</masterLabel>
+            <translation><!-- CW13 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CW14</masterLabel>
+            <translation><!-- CW14 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CW15</masterLabel>
+            <translation><!-- CW15 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CW16</masterLabel>
+            <translation><!-- CW16 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CWE13</masterLabel>
+            <translation><!-- CWE13 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CWE14</masterLabel>
+            <translation><!-- CWE14 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CWE15</masterLabel>
+            <translation><!-- CWE15 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>CWE16</masterLabel>
+            <translation><!-- CWE16 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GDPR_E</masterLabel>
+            <translation><!-- GDPR_E --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GDPR_EW1</masterLabel>
+            <translation><!-- GDPR_EW1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GDPR_EW1W2</masterLabel>
+            <translation><!-- GDPR_EW1W2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GDPR_EW2</masterLabel>
+            <translation><!-- GDPR_EW2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GDPR_G</masterLabel>
+            <translation><!-- GDPR_G --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GDPR_GE</masterLabel>
+            <translation><!-- GDPR_GE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GDPR_GEW1</masterLabel>
+            <translation><!-- GDPR_GEW1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GDPR_GEW1W2</masterLabel>
+            <translation><!-- GDPR_GEW1W2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GDPR_GEW2</masterLabel>
+            <translation><!-- GDPR_GEW2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GDPR_GW1</masterLabel>
+            <translation><!-- GDPR_GW1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GDPR_GW2</masterLabel>
+            <translation><!-- GDPR_GW2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GDPR_S</masterLabel>
+            <translation><!-- GDPR_S --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GDPR_SE</masterLabel>
+            <translation><!-- GDPR_SE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GDPR_SEW1</masterLabel>
+            <translation><!-- GDPR_SEW1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GDPR_SEW1W2</masterLabel>
+            <translation><!-- GDPR_SEW1W2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GDPR_SG</masterLabel>
+            <translation><!-- GDPR_SG --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GDPR_SGE</masterLabel>
+            <translation><!-- GDPR_SGE --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GDPR_SGEW1</masterLabel>
+            <translation><!-- GDPR_SGEW1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GDPR_SGEW1W2</masterLabel>
+            <translation><!-- GDPR_SGEW1W2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GDPR_SGEW2</masterLabel>
+            <translation><!-- GDPR_SGEW2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GDPR_SW1</masterLabel>
+            <translation><!-- GDPR_SW1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GDPR_SW1W2</masterLabel>
+            <translation><!-- GDPR_SW1W2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GDPR_SW2</masterLabel>
+            <translation><!-- GDPR_SW2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GDPR_W1</masterLabel>
+            <translation><!-- GDPR_W1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GDPR_W1W2</masterLabel>
+            <translation><!-- GDPR_W1W2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GDPR_W2</masterLabel>
+            <translation><!-- GDPR_W2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TL</masterLabel>
+            <translation><!-- TL --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

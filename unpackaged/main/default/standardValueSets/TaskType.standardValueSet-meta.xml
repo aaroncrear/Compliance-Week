@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>Sub | Call</fullName>
+        <default>false</default>
+        <label>Sub | Call</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Sub | Email</fullName>
+        <default>false</default>
+        <label>Sub | Email</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Sub | Meeting</fullName>
+        <default>false</default>
+        <label>Sub | Meeting</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Sub | Other</fullName>
+        <default>false</default>
+        <label>Sub | Other</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Event | Call</fullName>
+        <default>false</default>
+        <label>Event | Call</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Event | Email</fullName>
+        <default>false</default>
+        <label>Event | Email</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Event | Meeting</fullName>
+        <default>false</default>
+        <label>Event | Meeting</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Event | Other</fullName>
+        <default>false</default>
+        <label>Event | Other</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Adv | Call</fullName>
+        <default>false</default>
+        <label>Adv | Call</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Adv | Email</fullName>
+        <default>false</default>
+        <label>Adv | Email</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Adv | Meeting</fullName>
+        <default>false</default>
+        <label>Adv | Meeting</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Data | Call</fullName>
+        <default>false</default>
+        <label>Data | Call</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Data | Email</fullName>
+        <default>false</default>
+        <label>Data | Email</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Data | Meeting</fullName>
+        <default>false</default>
+        <label>Data | Meeting</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Data | Other</fullName>
+        <default>false</default>
+        <label>Data | Other</label>
+    </standardValue>
+</StandardValueSet>

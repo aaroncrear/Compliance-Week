@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Email sent @ TalkPoint lead creation</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>Compliance_Week</letterhead>
+    <name>Webcast | 1 Intro</name>
+    <style>freeForm</style>
+    <subject>There&apos;s more to Compliance Week . . .</subject>
+    <textOnly>So, what else can we offer you?
+
+Hi {!Lead.FirstName}, thanks for signing up for {!Webcasts_Attendee_Data__c.Event_Title__c}. The webcast for which you&apos;ve registered is just one resource among thousands of must-read articles, expert opinion, blog posts, podcasts, videos, CPE-earning opportunities, and bench-marking tools on the Compliance Week website.
+
+Want to learn more? Simply sign up for a no-risk, no-commitment 10-day trial.
+
+https://www.complianceweek.com/subscribe
+
+You&apos;ll gain full access to the site to determine for yourself why more than 10,000 professionals, from companies large and small, consider us the leading information source in the corporate governance, risk, and compliance spaces.
+
+Best regards,
+
+{!Contact.OwnerFullName}
+Compliance Week
+{!Contact.OwnerPhone} | {!Contact.OwnerEmail}
+www.complianceweek.com
+
+Wilmington Compliance Week | 77 N Washington St Fl 4 Boston MA  02114-1908 | Fax +1 617 227-4093
+Need assistance? Check our Help Page or contact me directly. Your trial ends {!Contact.Expiration_Date__c}.</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

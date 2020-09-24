@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Registrations_Opportunity</fullName>
+    <active>true</active>
+    <businessProcess>Registrations</businessProcess>
+    <label>Registrations Opportunity</label>
+    <picklistValues>
+        <picklist>Approval_Process__c</picklist>
+        <values>
+            <fullName>Approval Process - Immediate</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Approval Process - Less than 1 month</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Approval Process - More than 1 month</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>No Approval Process</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Business_Type__c</picklist>
+        <values>
+            <fullName>New Business</fullName>
+            <default>true</default>
+        </values>
+        <values>
+            <fullName>Repeat Business</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>CW_Interest__c</picklist>
+        <values>
+            <fullName>Articles</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>CW Conferences</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Other</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Thought Leadership</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Webcasts</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>CW_Record_Type__c</picklist>
+        <values>
+            <fullName>Subscriptions</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Duration__c</picklist>
+        <values>
+            <fullName>N%2FA</fullName>
+            <default>true</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>ForecastCategoryName</picklist>
+        <values>
+            <fullName>Best Case</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Closed</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Commit</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Omitted</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Pipeline</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Interested_Colleagues__c</picklist>
+        <values>
+            <fullName>Maybe</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>No</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Yes 11-20 team members</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Yes 2-5 team members</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Yes 20%2B team members</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Yes 6-10 team members</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>LeadSource</picklist>
+        <values>
+            <fullName>Citation %7C CW</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Compliance Week Trial Request</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Event %7C CW</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Event %7C External</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Event %7C Webcast</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Form 4 SEC Filing</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Jigsaw</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Lead Grabber</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>List Acquisition</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Prior Prospect</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Referral</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Social Media</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Website Registration</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Lost_Reason__c</picklist>
+        <values>
+            <fullName>Lost on Price</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Lost to Competitor</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>No Longer in Role</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Opportunity Expired</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Schedule Conflict</fullName>
+            <default>true</default>
+        </values>
+        <values>
+            <fullName>Travel Freeze</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Write Off</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Origination__c</picklist>
+        <values>
+            <fullName>N%2FA</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Payment_1_Portal__c</picklist>
+        <values>
+            <fullName>ADvance</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Authorize%2ENet</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Cvent</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>CyberSource</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Payment_2_Portal__c</picklist>
+        <values>
+            <fullName>ADvance</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Authorize%2ENet</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Cvent</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>CyberSource</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Payment_Method__c</picklist>
+        <values>
+            <fullName>Amex</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Check</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Credit Card</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Wire</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Sales_Rep_New__c</picklist>
+        <values>
+            <fullName>Chris MacDonald</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Donna O%27Neill</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Elizabeth Sucher</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Justine Healy</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Patrick Romano</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Single_Multi__c</picklist>
+        <values>
+            <fullName>Multi</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Single</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Type</picklist>
+        <values>
+            <fullName>Event</fullName>
+            <default>true</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>User_Limit__c</picklist>
+        <values>
+            <fullName>1</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>10</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>100</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>150</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>20</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>200</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>300</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>5</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>50</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Unlimited</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+</RecordType>

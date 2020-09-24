@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>LD_TP_Web_Data_44989__c</fullName>
+    <externalId>false</externalId>
+    <label>Lead TP Webcast Data 44989</label>
+    <referenceTo>Lead_TP_Web_Data__c</referenceTo>
+    <relationshipLabel>Lead TP Webcast Data 44989</relationshipLabel>
+    <relationshipName>LD_TP_Web_Data_44989</relationshipName>
+    <relationshipOrder>0</relationshipOrder>
+    <reparentableMasterDetail>false</reparentableMasterDetail>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>MasterDetail</type>
+    <writeRequiresMasterRead>false</writeRequiresMasterRead>
+</CustomField>

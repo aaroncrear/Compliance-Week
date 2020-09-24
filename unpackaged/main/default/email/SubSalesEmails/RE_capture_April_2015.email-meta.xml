@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>what you get email for expired subs, $599 special until April 15, 2015</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>RE-capture April 2015</name>
+    <style>none</style>
+    <subject>What you&apos;re missing</subject>
+    <textOnly>We miss you in the Compliance community.
+
+I just received approval to extend a one-year special subscription to you at 50% off the regular rate. As a former subscriber, take advantage of this special offer for $599.
+
+Let me know by April 15, 2015—I&apos;d be happy to help get your subscription started again.
+
+Free benefits
+✓ Thought Leadership downloads 
+✓ Event of the Week alerts  
+✓ Live weekly CPE webcasts 
+
+Subscriber benefits
+✓ Unlimited access to award-winning subscriber-only content
+✓ Monthly print issue
+✓ Access to the digital edition archive
+✓ Dozens of On-Demand CPE Library webcasts
+✓ Discounts to Compliance Week events
+✓ My CW—pinning and sharing
+✓ Access to the Resource Center databases
+✓ Tuesday&apos;s Compliance Week eNewsletter
+✓ Weekend Edition&apos;s &quot;plain English&quot; digest</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

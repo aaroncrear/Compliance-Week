@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>Compliance_Week</letterhead>
+    <name>Compliance Week Europe 2016 - Save Euros!</name>
+    <style>freeForm</style>
+    <subject>Compliance Week Europe 2016 - You&apos;re invited!</subject>
+    <textOnly>Greetings {!Contact.FirstName},
+
+I was unable to reach you by phone today but did leave a voicemail message. I wanted to extend a personal invitation for you or a colleague, to join us at the upcoming Compliance Week Europe conference, 7-8 November 2016 .  Please, see your pre-approved discount code below.
+
+Further discounts may be available if you care to contact me.
+
+This year there is also a new certification workshop on 9 November, for which Attendees are eligible to receive 14 CPD credits.
+
+As in past years, it will be held at the Crowne Plaza in Brussels, and the speaker line-up and agenda is shaping up nicely.  
+
+A sample of key sessions are:
+•             Identifying fraud in your organisation
+•             ISO 19600 and compliance audits
+•             CCO accountability
+•             Conducting internal investigations
+•             Defining &amp; managing conflicts of interest
+•             Intersection of CSR and compliance
+•             Supply chain risk
+
+WORKSHOP (9 November)
+
+This year you will have the opportunity to register for a half-day workshop on 9 November to complete either the ICA Specialist Certificate in Corporate Governance or the ICA Specialist Certificate in Managing Sanctions Risk
+
+Please see below for a link to register.
+
+Register Now, and use the discount code CWEBROAD for €200 off individual registration.
+
+Please feel free to contact me with any questions.
+
+Best regards,
+
+Maggie Stokes
+maggie.stokes@complianceweek.com
+Tel. +44 (0)1822 813054
+Wilmington Compliance Week Inc.
+A division of WILMINGTON PLC</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

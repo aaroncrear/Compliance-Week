@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>This word document details the steps to be taken to address the most common customer-service issues related to the Deeson CMS.</description>
+    <internalUseOnly>true</internalUseOnly>
+    <name>CMS Processes</name>
+    <public>false</public>
+</Document>

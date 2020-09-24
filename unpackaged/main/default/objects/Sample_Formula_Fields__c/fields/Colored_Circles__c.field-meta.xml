@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Colored_Circles__c</fullName>
+    <externalId>false</externalId>
+    <formula>IMAGE( CASE( Ratings__c , 1, "/img/samples/rating1.gif", 2, "/img/samples/rating2.gif", 3, "/img/samples/rating3.gif", 4, "/img/samples/rating4.gif", 5, "/img/samples/rating5.gif", "/s.gif"), "rating")</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <label>Colored Circles</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

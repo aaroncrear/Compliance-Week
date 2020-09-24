@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Corporate Closed-Won 2019</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>Compliance_Week</letterhead>
+    <name>Corporate Closed-Won 2019</name>
+    <style>freeForm</style>
+    <subject>CW Membership Renewal &amp; Invoice</subject>
+    <textOnly>Dear {!Contact.FirstName}
+
+Thank you for confirming the renewal of your Compliance Week Corporate Membership.
+
+Your account is now reactivated, and your invoice is attached and due {!Contact.00N70000002Vvy1}. I’ve also attached a refresh of instructions to activate and access the CW Membership portal where you can easily add and remove members, and verify usage.
+
+See below for the benefits of subscription and please advise with any questions.
+
+2019 Subscription summary &amp; events schedule:
+
+The most pertinent in-depth expert analysis at your fingertips -news articles, blogs, and thought leadership geared towards specific topics of interest to you.
+On-Demand CPE Library - Webcast Forums, Whitepapers - Register for Live Webcasts or earn credits anytime at your convenience.
+Weekly Newsletters - Business intelligence with in-depth expert analysis every Monday, Tuesday, Wednesday and Friday.
+Online Magazine - Delivered 6x per year, and available in digital form here.
+Comprehensive Archives, Corporate Documents, and Benchmarking Tools.
+Compliance Week 2018/2019 Conference Schedule* - – Subscribers receive preferred pricing &amp; perks (*conferences subject to change)
+
+4th Annual TPRM, Third Party Risk Management &amp; Oversight Summit, March 25-26, 2019, New York City - completed
+Compliance Week Annual 2019, May 20-22, 2019 in Washington D.C. - completed
+Compliance Week Europe 2019, 4-5 November 2019, Barbizon Palace Hotel in Amsterdam
+New! TPRM, Third Party Risk Management &amp; Oversight Summit West, December 9-10 2019 in San Francisco
+Compliance Week Annual 2020, May 18-20 2020 in Washington D.C.
+
+I look forward to working with you this year!
+
+Best,
+Angela
+
+Angela Ruggiero
+
+Compliance Week, Customer Success Manager
+
+angela.ruggiero@complianceweek.com
+
+Direct (617) 570-8608</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

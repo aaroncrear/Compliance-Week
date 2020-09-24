@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>tim.lyster@complianceweek.com</contactEmail>
+    <contactPhone>(617) 570-8600</contactPhone>
+    <label>Evergage</label>
+    <logoUrl>https://wilmington--c.na33.content.force.com/servlet/servlet.ImageServer?id=01539000002FkNI&amp;oid=00D300000006FzL</logoUrl>
+    <oauthConfig>
+        <callbackUrl>https://complianceweek.evergage.com/apptegic.server.gwt/oauth.html</callbackUrl>
+        <consumerKey>3MVG99OxTyEMCQ3g3MDOJznC4Ua2V608Qdte7H0YHKkp1HqBor3c5ZGfQ5JemrbS_dyAoduS9tCWkDon.Q.hx</consumerKey>
+        <isAdminApproved>false</isAdminApproved>
+        <scopes>Basic</scopes>
+        <scopes>Api</scopes>
+        <scopes>RefreshToken</scopes>
+    </oauthConfig>
+</ConnectedApp>

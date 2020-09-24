@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Email sent @ 4 days into trial term</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Trial L4 | Expiring</name>
+    <style>none</style>
+    <subject>Your Compliance Week access is expiring</subject>
+    <type>text</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

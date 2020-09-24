@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Approval_Process__c</fullName>
+    <externalId>false</externalId>
+    <inlineHelpText>What is the process for (or how do your or your group go about) registering for professional memberships and subscriptions?</inlineHelpText>
+    <label>Approval Process</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>No Approval Process</fullName>
+                <default>false</default>
+                <label>No Approval Process</label>
+            </value>
+            <value>
+                <fullName>Approval Process - Immediate</fullName>
+                <default>false</default>
+                <label>Approval Process - Immediate</label>
+            </value>
+            <value>
+                <fullName>Approval Process - Less than 1 month</fullName>
+                <default>false</default>
+                <label>Approval Process - Less than 1 month</label>
+            </value>
+            <value>
+                <fullName>Approval Process - More than 1 month</fullName>
+                <default>false</default>
+                <label>Approval Process - More than 1 month</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

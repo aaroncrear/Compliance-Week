@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Coffee cup promo for expired subs</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Ex-subs promo price of a cup of coffee</name>
+    <style>none</style>
+    <subject>For less than your daily cup of coffee ...</subject>
+    <textOnly>Subscribe for less than $2.90 a day.</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

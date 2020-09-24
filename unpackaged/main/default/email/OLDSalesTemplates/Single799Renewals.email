@@ -1,0 +1,18 @@
+Dear {!Contact.FirstName}:
+
+As I mentioned on the phone, your Compliance Week subscription will be expiring on {!Contact.Expiration_Date__c}. I hope you have found your subscription useful and informative, and have utilized all the resources Compliance Week provides for our subscribers.
+
+I wanted to make sure your subscription is renewed and to make it easy for you. To renew today, simply reply to this email and tell me whether you'd like to renew for one year for $999 or take advantage of our two year special running this month.  You can renew for two years for only $1398 (a savings of $600).   This offer ends February 29th.
+
+We will process your renewal immediately and you'll be all set for another year (or two) from the day you are currently set to expire.
+
+We also offer multi-user subscriptions at significant savings, so if this is something you are interested in let me know and I will send you that information.
+
+Please feel free to contact me via email or call me directly at {!Account.OwnerPhone}.
+
+Thanks, and best regards,
+
+{!Account.OwnerFullName}
+{!Account.OwnerTitle}
+{!Account.OwnerPhone}
+{!Account.OwnerEmail}

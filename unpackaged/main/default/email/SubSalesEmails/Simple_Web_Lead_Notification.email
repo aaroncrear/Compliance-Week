@@ -1,0 +1,8 @@
+New Lead created via website - Compliance Week Trial Request
+
+Name: {!Lead.Name}
+Company: {!Lead.Company}
+Created Date / Time: {!Lead.CreatedDate}
+
+View Lead:
+{!Lead.Link}

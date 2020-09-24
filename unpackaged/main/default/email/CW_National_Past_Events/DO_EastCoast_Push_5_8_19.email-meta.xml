@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>DO-EastCoast Push - 5.8.19</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>Compliance_Week</letterhead>
+    <name>DO-EastCoast Push - 5.8.19</name>
+    <style>freeForm</style>
+    <subject>600+ Compliance leaders converge in 10 days, are you in?</subject>
+    <textOnly>Hi {!Contact.FirstName},
+
+Why attend Compliance Week 2019? Let us count the ways. Draw energy from the collective wisdom of 600+ compliance professionals, ask questions of our distinguished panelists, hear directly from regulators, and earn up to 19 CPE credits (and CLE).
+
+T O P I C S
+» SEC Update and Hot Topics
+» Anti-Bribery &amp; Corruption
+» AML and Sanctions
+» Embedding Ethics &amp; Compliance Program
+» Data Privacy and Protection
+» Cross-Border Investigations
+» The Next Generation of Compliance
+
+S P E A K E R S
+» Vice President and Chief Ethics and Compliance Officer, 3M Company
+» Global Compliance Officer, Alstom
+» Director, Global Sanctions &amp; Anti-Corruption, Fidelity Investments
+» Chief Ethics &amp; Compliance Officer, Kimberly-Clark
+» Vice President and Associate General Counsel, Salesforce
+» Chief Ethics &amp; Compliance Officer, Tenneco
+» Chief Compliance and Ethics Officer, Volvo Cars
+
+Join us and use code: CCO-VIP when registering for special pricing of $1,595* (an $800 savings).
+
+Thanks {!Contact.FirstName}, I look forward to seeing you in DC!
+
+Best Regards,
+
+Donna
+
+{!User.Name}
+{!User.Title}
+{!User.CompanyName}
+{!User.Email}
+{!User.Phone}
+
+*offer for new registrants only, not to be used in conjunction with other discount codes. Group rates don&apos;t apply.
+
+Compliance Week 2019 | May 20-22 | Washington D.C.</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <layouts>
+        <layout>Account Layout</layout>
+        <sections>
+            <label><!-- Account Information --></label>
+            <section>Account Information</section>
+        </sections>
+        <sections>
+            <label><!-- Additional Information --></label>
+            <section>Additional Information</section>
+        </sections>
+        <sections>
+            <label><!-- Address Information --></label>
+            <section>Address Information</section>
+        </sections>
+        <sections>
+            <label><!-- Customer Summary --></label>
+            <section>Customer Summary</section>
+        </sections>
+        <sections>
+            <label><!-- Demographic Information --></label>
+            <section>Demographic Information</section>
+        </sections>
+        <sections>
+            <label><!-- Description Information --></label>
+            <section>Description Information</section>
+        </sections>
+        <sections>
+            <label><!-- Subscriber Details --></label>
+            <section>Subscriber Details</section>
+        </sections>
+        <sections>
+            <label><!-- System Information --></label>
+            <section>System Information</section>
+        </sections>
+        <sections>
+            <label><!-- Useful Links --></label>
+            <section>Useful Links</section>
+        </sections>
+        <sections>
+            <label><!-- ZoomInfo --></label>
+            <section>ZoomInfo</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Advertising Sales</layout>
+        <sections>
+            <label><!-- Account Information --></label>
+            <section>Account Information</section>
+        </sections>
+        <sections>
+            <label><!-- Demographic Information --></label>
+            <section>Demographic Information</section>
+        </sections>
+        <sections>
+            <label><!-- Description Information --></label>
+            <section>Description Information</section>
+        </sections>
+        <sections>
+            <label><!-- System Information --></label>
+            <section>System Information</section>
+        </sections>
+        <sections>
+            <label><!-- Useful Links --></label>
+            <section>Useful Links</section>
+        </sections>
+        <sections>
+            <label><!-- ZoomInfo --></label>
+            <section>ZoomInfo</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Subscription Sales</layout>
+        <sections>
+            <label><!-- Account Information --></label>
+            <section>Account Information</section>
+        </sections>
+        <sections>
+            <label><!-- Active Subscribers --></label>
+            <section>Active Subscribers</section>
+        </sections>
+        <sections>
+            <label><!-- Address Information --></label>
+            <section>Address Information</section>
+        </sections>
+        <sections>
+            <label><!-- Customer Summary --></label>
+            <section>Customer Summary</section>
+        </sections>
+        <sections>
+            <label><!-- Demographic Information --></label>
+            <section>Demographic Information</section>
+        </sections>
+        <sections>
+            <label><!-- Description Information --></label>
+            <section>Description Information</section>
+        </sections>
+        <sections>
+            <label><!-- Scout --></label>
+            <section>Scout</section>
+        </sections>
+        <sections>
+            <label><!-- Subscriber Details --></label>
+            <section>Subscriber Details</section>
+        </sections>
+        <sections>
+            <label><!-- System Information --></label>
+            <section>System Information</section>
+        </sections>
+        <sections>
+            <label><!-- Useful Links --></label>
+            <section>Useful Links</section>
+        </sections>
+        <sections>
+            <label><!-- ZoomInfo --></label>
+            <section>ZoomInfo</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>TeleMarketing Sales</layout>
+        <sections>
+            <label><!-- Account Information --></label>
+            <section>Account Information</section>
+        </sections>
+        <sections>
+            <label><!-- Address Information --></label>
+            <section>Address Information</section>
+        </sections>
+        <sections>
+            <label><!-- Demographic Information --></label>
+            <section>Demographic Information</section>
+        </sections>
+        <sections>
+            <label><!-- Description Information --></label>
+            <section>Description Information</section>
+        </sections>
+        <sections>
+            <label><!-- Multi --></label>
+            <section>Multi</section>
+        </sections>
+        <sections>
+            <label><!-- Scout --></label>
+            <section>Scout</section>
+        </sections>
+        <sections>
+            <label><!-- System Information --></label>
+            <section>System Information</section>
+        </sections>
+        <sections>
+            <label><!-- Useful Links --></label>
+            <section>Useful Links</section>
+        </sections>
+    </layouts>
+    <webLinks>
+        <label><!-- Count_Active_Members --></label>
+        <name>Count_Active_Members</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- GetReports --></label>
+        <name>GetReports</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Get_Reports --></label>
+        <name>Get_Reports</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Mass_Edit --></label>
+        <name>Mass_Edit</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Mass_Update --></label>
+        <name>Mass_Update</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Reset_IPs --></label>
+        <name>Reset_IPs</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- UpdateAccountInformation --></label>
+        <name>UpdateAccountInformation</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- UpdateContacts --></label>
+        <name>UpdateContacts</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Update_Account_Information --></label>
+        <name>Update_Account_Information</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- Update_Contacts --></label>
+        <name>Update_Contacts</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- financialprofile --></label>
+        <name>financialprofile</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- map --></label>
+        <name>map</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- news --></label>
+        <name>news</name>
+    </webLinks>
+</CustomObjectTranslation>

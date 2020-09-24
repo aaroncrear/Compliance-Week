@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Email sent to Multi notifying of expiration.</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Renewal Multi #1 @ –90 Days: Notification</name>
+    <style>none</style>
+    <subject>Your Compliance Week corporate membership is expiring</subject>
+    <textOnly>Dear {!Opportunity.Primary_Subscription_Contact__c},
+
+We would like to thank you for your continued support. We truly value you as a member of the Compliance Week community.  Your involvement is extremely important to us and very much appreciated.
+
+We wanted to take this time to remind you that your membership to Compliance Week will expire on {!Opportunity.CloseDate}. In addition to unlimited access to ComplianceWeek.com, here’s a reminder of the exclusive benefits provided to you as a corporate member:
+
+Print and digital magazine;
+Quarterly data-centric research &amp; case studies;
+Preferred consideration for event speaking;
+Quarterly premium-members-only webcasts;
+Branded reprints.
+
+As an additional bonus, we have included one free admission to our annual Compliance Week conference, now in its 15th year.
+We welcome all comments and suggestions. Your feedback helps us create a better experience for you and all of the members of the Compliance Week community.
+
+Thank you!
+
+Angela Ruggiero
+Compliance Week
+
+
+Accounts Payable
+Compliance Week
+129 Portland St Fl 6
+Boston MA 02114-2014
+Call (617) 570-8608</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

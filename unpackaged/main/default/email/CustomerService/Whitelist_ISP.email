@@ -1,0 +1,21 @@
+<p>Dear {!Contact.FirstName},<p>
+<p>To guarantee you receive our newsletters, please ask your network administrator to add the following host addresses to your company's e-mail SPAM filter "whitelist:"</p>
+<p>
+<table>
+  <tr>
+    <td>Host
+    <td>Address
+  </tr>
+  <tr>
+    <td>mail6090.wilmington.mkt6689.com
+    <td>74.121.53.240
+  </tr>
+  <tr>
+    <td>wilmington.mkt6689.com
+    <td>74.121.53.240
+  </tr>
+  </tr>
+</table>
+<p>You will only receive e-mail from Compliance Week through those servers.</p>
+<p>Best regards,</br>
+Compliance Week</p>

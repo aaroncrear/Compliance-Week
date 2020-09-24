@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Renewal_Close_Date_cant_exceed_create120</fullName>
+    <active>true</active>
+    <description>Prevents renewal Opportunities' Close Date being set more than 180 days after the Opportunity was created, i.e 90 days after the subscription expires.</description>
+    <errorConditionFormula>AND(
+ISPICKVAL(Business_Type__c, "Renewal"),
+Business_Unit__c = "Compliance Week",
+CloseDate  &gt; (DATEVALUE(CreatedDate) + 360),
+ISPICKVAL(Type,"Subscription") 
+)</errorConditionFormula>
+    <errorDisplayField>CloseDate</errorDisplayField>
+    <errorMessage>A renewal Opportunity closes within 360 of a subscription expiring.</errorMessage>
+</ValidationRule>

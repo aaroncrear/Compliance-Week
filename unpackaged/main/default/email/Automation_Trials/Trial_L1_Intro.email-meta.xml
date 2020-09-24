@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Email sent @ first day of trial term</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>Compliance_Week</letterhead>
+    <name>Trial L1 | Intro</name>
+    <style>freeForm</style>
+    <subject>Welcome to Compliance Week</subject>
+    <textOnly>Hi {!Contact.FirstName},
+
+Thanks for signing up for a free 5-day Compliance Week trial. Your trial will expire on {!Contact.Expiration_Date__c}.
+
+I hope you take the time to review all our resources, including our articles, databases, columns, blogs, and other critical information. If you have any questions, don’t hesitate to call me. I will be following up with you later in the week to see how things are going with your trial.
+
+And when you’re ready to subscribe for a full year, you’ll get full access to everything we offer, including:
+
+&gt;&gt; Weekly email newsletters;
+&gt;&gt; Bi-monthly print and digital magazine;
+&gt;&gt; 24/7 access to our Web site, which includes articles, columns, guidance, and 13 years of archives;
+&gt;&gt; Free CPE credit from our on-demand library as well as attending our webcasts;
+&gt;&gt; Expert commentary from exclusive writers;
+&gt;&gt; Our Resource Center, with codes of ethics, corporate bylaws, governance guidelines and other tools used by peers at other subscribing companies;
+&gt;&gt; and much more.
+
+Best regards,
+
+{!Contact.OwnerFullName}
+Compliance Week
+{!Contact.OwnerEmail}
+T {!Contact.OwnerPhone}
+www.complianceweek.com
+
+
+Wilmington Compliance Week | 129 Portland St Fl 6 Boston MA  02114-2014| Fax +1 617 227-1815</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

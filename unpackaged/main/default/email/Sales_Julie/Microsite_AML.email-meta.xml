@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>Compliance_Week</letterhead>
+    <name>Microsite rev rec</name>
+    <style>freeForm</style>
+    <subject>Compliance Week Microsite on Revenue Recognition</subject>
+    <textOnly>Hi {!Contact.FirstName},
+
+
+
+In December, Compliance Week is going to launch a micro-site on AML. I’d like to see if {!Account.Name}  would be interested in sponsorship.
+
+
+The Compliance Week AML Micro-site will be a web page where readers can go as a resource for information. The micro-site&apos;s landing page would have its own domain name (www.complianceweek.com/revrec). The micro-site would be populated by Compliance Week editorial on rev rec, industry information and sponsors white papers, case studies, research, webcasts, branding, etc. The layout consists of a rotating lead image, an intro blurb, and tabbed content – the page is fully customizable as each element is optional and can be moved around the page. The cost is $25,000 to launch and is all inclusive for four months. Each additional month would be priced at $3,000. A sample micro-site with no sponsor can be found at here.
+
+
+The package:
+
+
+Micro-site Cost
+
+$25,000 to launch and is all inclusive for four months
+
+$3,000 per month to maintain beyond four months
+
+
+Site starts/populated with:
+
+Sponsor blog posts (not password protected)
+
+The blog posts are written by sponsor and are hosted by Compliance Week on our website
+
+Compliance Week editorial on rev rec (password protected for the users)
+
+Sponsor white papers, surveys, case studies, research, etc. (users to download on CW registration page, leads captured and provided to sponsor)
+
+Links to sponsor webcasts/videos/podcasts
+
+Industry resources, surveys, bench-marking data, etc.
+
+1 Podcast, 5-7 minutes, created by Compliance Week with sponsor guest speaker, no lead generated (hosted in iTunes)
+
+Sponsor branding/banner advertisements on micro-site
+
+
+Compliance Week to drive traffic to Micro-site via:
+
+Monthly email blasts to our entire active database of 52,000. At $5k per email blast, this is a $20,000 value
+
+100,000 online banner impressions over four months. At $3k per 25k impressions, this is a $12k value
+
+Link on website homepage in blue navigation bar. CW website homepage receives 150k page views per month with 40k unique visitors
+
+Social Media: One post per month to 8,000 LinkedIn followers, 4 tweets per month to 19,000 Twitter followers
+
+
+If you have guidance and resources on revenue recognition, this would be a unique way to promote it, generate leads and awareness for your firm.
+
+
+Please let me know if you have questions or would like to set up a time to chat on the phone.</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

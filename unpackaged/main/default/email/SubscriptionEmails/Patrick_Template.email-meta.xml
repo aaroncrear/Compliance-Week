@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>false</available>
+    <description>Patrick Template created by Katie O</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Patrick Template</name>
+    <style>none</style>
+    <subject>Test</subject>
+    <textOnly>Compliance Week 2018
+
+Learn and earn 20+ credits*
+Attendance certificates are issued to all attendees seeking continuing education credits for a variety of professional accreditations including CCEP, CPE, CLE, CFE, LPEC, CIA, and more.
+SAVE $300—REGISTER TODAY
+We have the most cutting-edge topics:
+
+A Fireside Chat with Volkswagen: Lessons Learned and the Path Forward
+Ethics &amp; Compliance and the Board of Directors
+Applications of AI and Machine Learning to Compliance
+Managing Conflict Through Disclosure
+How to Operationalize GDPR Compliance
+Challenges in Measuring Culture
+International Sanctions and Trade Compliance Best Practices
+Data Breaches and Crisis Management Planning
+Building a World-Class Communications and Training Program
+and more!
+
+REGISTER NOW
+Extended early-bird—ends Jan 31.
+Ensure you have a seat at this must-attend session! Know someone who should be there? Forward this e-mail.
+*Certification boards have final authority on the acceptance of individual course credit.
+Compliance Week 2018 | May 21-23 | Washington, D.C.
+
+THANK YOU TO OUR GENEROUS SPONSORS
+
+You are subscribed as %%EMAIL%%
+To unsubscribe from promotional messages please click here.
+For unsubscribe problems, please reply to this e-mail.
+
+All Compliance Week promotional emails are sent from the domain &quot;mail.complianceweek.com&quot;.
+When configuring e-mail or spam filter rules, please use this domain name.
+
+© 2018 Wilmington Compliance Week | 129 Portland St Fl 6 | Boston, MA 02114-1908</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

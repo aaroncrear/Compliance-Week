@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?><AutoResponseRules xmlns="http://soap.sforce.com/2006/04/metadata">
+    <autoResponseRule>
+        <fullName>Business Hour Auto-Response</fullName>
+        <active>true</active>
+        <ruleEntry>
+            <formula>AND(  RecordType.Name = "Subscriptions", ISPICKVAL(LeadSource,"Compliance Week Trial Request"), ISPICKVAL(Business_Unit__c, "Compliance Week") )</formula>
+            <senderEmail>donna.oneill@complianceweek.com</senderEmail>
+            <senderName>Donna O'Neill</senderName>
+            <template>unfiled$public/CW_Web_to_Lead_Response</template>
+        </ruleEntry>
+    </autoResponseRule>
+    <autoResponseRule>
+        <fullName>Wilmington Group</fullName>
+        <active>false</active>
+    </autoResponseRule>
+</AutoResponseRules>

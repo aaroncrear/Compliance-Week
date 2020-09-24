@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>CW19 - KGH.Keynote</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>Compliance_Week</letterhead>
+    <name>CW19 - KGH.Keynote</name>
+    <style>freeForm</style>
+    <subject>Are you a Wildly Effective Compliance Officer?</subject>
+    <textOnly>Hi {!Contact.FirstName},
+
+Join us at the 14th Annual Compliance Week Conference, to hear from keynote speaker Kristy Grant-Hart.
+
+Kristy will share the qualities that the most effective compliance professionals have in common. She&apos;ll also provide insight and guidance on methods by which you can supercharge your relationships with internal stakeholders. Refresh the perception of your role and learn the strategies necessary to become a true “compliance superhero.”
+
+Learn more about the exciting agenda that we have planned for this year&apos;s event, review what CEUs will be available, and bring a colleague to D.C. to join the conversation.
+
+Don’t wait. Register Now with code CW19DONNA for a $250 discount.
+
+We look forward to seeing you again at Compliance Week 2019!
+
+Best regards,
+
+{!User.Name}
+{!User.Title}
+{!User.CompanyName}
+{!User.Email}
+{!User.Phone}
+
+*offer valid only for new registrations.May not be combined with any other promotion.
+
+Compliance Week 2019 | May 20-22 | Washington D.C.</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

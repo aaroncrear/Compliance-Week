@@ -1,0 +1,56 @@
+<html dir="ltr">
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <div><span style="color: rgb(255, 255, 255);"><span style="font-size: 0px;"><span style="font-family: Arial;">Welcome to Compliance Week</span></span></span></div>
+        <p style="text-align: left;"></p>
+        <table width="600" border="1" cellspacing="0" cellpadding="9">
+            <tbody>
+                <tr>
+                    <td>
+                    <p style="text-align: center;"><img border="0" src="http://media.complianceweek.com/images/2014/01/31/email_header_logo_compliancewe_544251.gif" alt="" /></p>
+                    <p>Dear {!Contact.FirstName},</p>
+                    <p>As the internal administrator of {!Account.Name}&rsquo;s account, you are able to add new users and delete old ones from your account; update contact information for the account users and yourself; and subscribe or remove users from email distribution lists. If there is someone else in your company who handles the maintenance of your subscription, please let us know and we can change the designated administrator on the account.</p>
+              <p>To change a user's account, follow these steps:
+<ol>
+  <li>Log on to Compliance Week as normal;</li>
+  <li>Click on <b>My CW</b></li>
+  <li>Select the &ldquo;Subscription Admin&rdquo; tab;</li>
+  <li>Click &ldquo;update user profile&rdquo; of the user account you wish to edit;</li>
+  <li>Change the desired fields (note, asterisked fields are required);</li>
+  <li>Click the &ldquo;Update Details&rdquo; button.</li>
+</ol></p>
+                    <p>Please be aware that your account's user limit is {!Account.User_Limit__c}. If you wish to add additional users, please contact us via phone at (888) 519-9200 or via <a xt="SPEMAIL" name="add or remove users from multi account" target="_blank" href="mailto:info@complianceweek.com?subject=I%27d%20like%20to%20%20add%2Fremove%20users%20from%20my%20Multi%20account">email</a>.</p>
+<p>To guarantee you receive our newsletters, please ask your network administrator to add the following host addresses to your company's e-mail SPAM filter "whitelist:"</p>
+<p>
+<table>
+  <tr>
+    <td>Host
+    <td>Address
+  </tr>
+  <tr>
+    <td>mail6090.wilmington.mkt6689.com
+    <td>74.121.53.240
+  </tr>
+  <tr>
+    <td>wilmington.mkt6689.com
+    <td>74.121.53.240
+  </tr>
+  </tr>
+</table>
+<p>You will only receive e-mail from Compliance Week through those servers.</p>
+
+                    <p>Let us know if you have any questions. And remember, we're here to help.</p>
+                    <p>Regards,<br />
+                    Compliance Week</p>
+                    <p></p>
+                    <p><b>Forgot password? |</b> Click &ldquo;Login&rdquo; in the top left-hand corner of the site, choose &ldquo;Forgot your password?&rdquo; in the resulting dialog box, enter your email address, and a new password will be sent to you.</p>
+                    <p><b>Terms of Use</b> | When you sign in to the <a href="http://www.complianceweek.com/">Compliance Week</a> Website for the first time using the above username and password, you are indicating that you agree to Compliance Week's <a name="terms conditions_1" xt="SPCLICK" href="http://www.complianceweek.com/terms-and-conditions" target="_blank">Terms of Use</a>.</p>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p></p>
+    </body>
+</html>

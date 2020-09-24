@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Categories --></label>
+        <name>CATEGORIES__c</name>
+        <picklistValues>
+            <masterLabel>AML</masterLabel>
+            <translation><!-- AML --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ASIA</masterLabel>
+            <translation><!-- ASIA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Accounting</masterLabel>
+            <translation><!-- Accounting --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Agency Contact</masterLabel>
+            <translation><!-- Agency Contact --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Artificial Intelligence</masterLabel>
+            <translation><!-- Artificial Intelligence --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Board/Governance</masterLabel>
+            <translation><!-- Board/Governance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Cloud Computing</masterLabel>
+            <translation><!-- Cloud Computing --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Competitor</masterLabel>
+            <translation><!-- Competitor --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Conflict Minerals</masterLabel>
+            <translation><!-- Conflict Minerals --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Consulting - Advisory</masterLabel>
+            <translation><!-- Consulting - Advisory --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Controls Monitoring</masterLabel>
+            <translation><!-- Controls Monitoring --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Doug</masterLabel>
+            <translation><!-- Doug --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ERM</masterLabel>
+            <translation><!-- ERM --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Ethics</masterLabel>
+            <translation><!-- Ethics --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Events</masterLabel>
+            <translation><!-- Events --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Executive Compensation</masterLabel>
+            <translation><!-- Executive Compensation --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Executive Education</masterLabel>
+            <translation><!-- Executive Education --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>FCPA</masterLabel>
+            <translation><!-- FCPA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Financial Services</masterLabel>
+            <translation><!-- Financial Services --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fraud</masterLabel>
+            <translation><!-- Fraud --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>GDPR</masterLabel>
+            <translation><!-- GDPR --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Healthcare</masterLabel>
+            <translation><!-- Healthcare --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>IFRS</masterLabel>
+            <translation><!-- IFRS --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>IT Compliance</masterLabel>
+            <translation><!-- IT Compliance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>International Mktg</masterLabel>
+            <translation><!-- International Mktg --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Internet of Things</masterLabel>
+            <translation><!-- Internet of Things --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Law Firm</masterLabel>
+            <translation><!-- Law Firm --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Marketing - Consulting</masterLabel>
+            <translation><!-- Marketing - Consulting --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Marketing - Technology</masterLabel>
+            <translation><!-- Marketing - Technology --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>PCI Compliance</masterLabel>
+            <translation><!-- PCI Compliance --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Partner</masterLabel>
+            <translation><!-- Partner --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Personal Liability</masterLabel>
+            <translation><!-- Personal Liability --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pharma/Life Sciences</masterLabel>
+            <translation><!-- Pharma/Life Sciences --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Policy Management</masterLabel>
+            <translation><!-- Policy Management --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Primary Marketing Contact</masterLabel>
+            <translation><!-- Primary Marketing Contact --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Print</masterLabel>
+            <translation><!-- Print --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Reprint</masterLabel>
+            <translation><!-- Reprint --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Revenue Recognition</masterLabel>
+            <translation><!-- Revenue Recognition --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Sanctions</masterLabel>
+            <translation><!-- Sanctions --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Social Media</masterLabel>
+            <translation><!-- Social Media --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Software - Database</masterLabel>
+            <translation><!-- Software - Database --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Software - Document Management</masterLabel>
+            <translation><!-- Software - Document Management --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Software - Internal Controls</masterLabel>
+            <translation><!-- Software - Internal Controls --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Software - Records Mgmt</masterLabel>
+            <translation><!-- Software - Records Mgmt --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Software - Security</masterLabel>
+            <translation><!-- Software - Security --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Spreadsheet Controls</masterLabel>
+            <translation><!-- Spreadsheet Controls --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Staffing</masterLabel>
+            <translation><!-- Staffing --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>TPRM</masterLabel>
+            <translation><!-- TPRM --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Taxes</masterLabel>
+            <translation><!-- Taxes --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Training</masterLabel>
+            <translation><!-- Training --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Valuation - FAS157</masterLabel>
+            <translation><!-- Valuation - FAS157 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>XBRL</masterLabel>
+            <translation><!-- XBRL --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>eDiscovery</masterLabel>
+            <translation><!-- eDiscovery --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

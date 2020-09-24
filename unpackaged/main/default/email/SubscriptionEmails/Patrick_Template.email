@@ -1,0 +1,674 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Compliance Week 2018</title>
+	<link href='http://fonts.googleapis.com/css?family=Roboto:400,700' rel='stylesheet' type='text/css'>
+	<style type="text/css">.ReadMsgBody {
+            width: 100%;
+            background-color: #F2F2F2;
+        }
+        
+        .ExternalClass {
+            width: 100%;
+            background-color: #F2F2F2;
+        }
+        
+        body {
+            width: 100%;
+            background-color: #F2F2F2;
+            margin: 0;
+            padding: 0;
+            -webkit-font-smoothing: antialiased;
+            font-family: 'Roboto', Helvetica, Arial, sans-serif
+        }
+        
+        table {
+            border-collapse: collapse;
+        }
+        
+		.bold{font-weight:700;margin:30px 0 5px 0}
+		.center{text-align:center}
+		.hero-spread{
+			display:inline-table;
+			width:550PX;
+			max-height:240px;
+			border-radius: 0;
+			background-color:#ffffff;
+			background-image:linear-gradient(45deg 22%,#3ae3ff,#1db3f7 95%)}
+		.hero-spread-title{
+			padding-top:0px;
+			padding-left:0px;
+			padding-bottom:0px;
+			padding-right:0px;
+			vertical-align:top}
+		.hero-spread-image{
+			width:30%;
+			min-width:150px;
+			vertical-align:bottom;
+			line-height:0}
+		.hero-header{
+			color:#fff;
+			font-family:Helvetica,HelveticaNeue,Arial,sans-serif;
+			font-size:26px;font-weight:700;
+			font-style:normal;
+			font-stretch:normal;
+			letter-spacing:normal;
+			padding-bottom:0px}
+		.hero-header-link{
+			border:0;
+			padding:0;
+			margin:0}
+		.hero-subheader{
+			color:#fff;
+			font-size:20px;
+			font-weight:300;
+			position:absolute;
+			top:130px;
+			padding-left:50px;
+			opacity:.8;
+			width:47%}
+		.hero-new-label{
+			color:#c0f9fd;
+			font-family:Helvetica;
+			font-size:14px;
+			font-weight:700;
+			font-style:normal;
+			font-stretch:normal;
+			letter-spacing:normal;
+			padding-bottom:7px}
+		img{border:none}
+		.hero-background{
+			width:100%;
+			height:240px;
+			background-size:cover;
+			border-radius:0px 0px 0 0;
+			background-color:#0bf}
+		.email-container{
+			margin:0 auto;
+			width:100%;
+			max-width:600px}
+		.brand-logo-cell{
+			text-align:center;
+			padding-bottom:15px;
+			padding-top:15px}
+		.brand-logo-link{
+			text-decoration:none;
+			border-style:none;
+			color:#fff;
+			padding-right:10px;
+			border-width:0}
+		.brand-logo-img{
+			padding-top:5px;
+			height:25px}
+		.card-cell{
+			padding:0;
+			border:none;
+			margin:0}
+		.spacer-cell{
+			height:20px}
+		.card{
+			background-color:#fff;
+			border:0;
+			border-collapse:collapse;
+			border-radius:20px;
+			box-shadow:0 2px 10px 5px rgba(0,0,0,.05);
+			padding:0;width:100%}
+		.card-img-cell{
+			margin:0;padding:0;
+			border-radius:20px 20px 0 0;
+			position:relative}
+		.card-img{
+			margin:0;
+			padding:0;
+			width:100%;
+			height:auto}
+		.card-content{
+			border-spacing:0;
+			font-family:sans-serif;
+			color:#333;
+			-webkit-border-radius:0 0 10px 10px;
+			border-radius:0 0 10px 10px;
+			padding:30px 50px 40px 50px;
+			font-family:Helvetica;font-size:14px;
+			font-weight:400;font-style:normal;
+			font-stretch:normal;;
+			letter-spacing:normal;color:#6d6d6d}
+		.card-content-header{
+			font-family:Helvetica;
+			font-size:22px;
+			font-weight:700;
+			font-style:normal;
+			font-stretch:normal;
+			letter-spacing:normal;
+			color:#4c4c4c;
+			padding-bottom:4px}
+		.two-col{
+			display:inline-table;
+			width:49%}
+		.three-col{
+			display:inline-table;
+			width:32%;
+			vertical-align:top}
+		.footer-cell-left,.footer-cell-right{
+			padding-top:20px;
+			padding-bottom:20px;
+			vertical-align:top}
+		.footer-text,.footer-text a{
+			color:#a7a7a7;
+			font-size:13px;
+			margin:0 0 0 20px}
+		.green-btn{color:#fff;
+			display:inline-block;
+			font-weight:700;
+			font-size:15px;
+			text-align:center;
+			background:#7ac70c;
+			border-radius:40px;
+			padding:11px 25px;
+			min-width:200px;
+			text-decoration:none}
+		.white-btn{
+			color:#1cb0f6;
+			display:inline-block;
+			font-family:Helvetica,HelveticaNeue,Arial,sans-serif;
+			font-size:13px;
+			font-weight:700;
+			font-style:normal;
+			font-stretch:normal;
+			letter-spacing:normal;
+			text-align:center;
+			background:#fff;
+			border-radius:40px;
+			padding:11px 25px;
+			min-width:200px;
+			text-decoration:none}
+		.blue-btn{color:#1cb0f6;
+			display:inline-block;
+			font-family:Helvetica,HelveticaNeue,Arial,sans-serif;
+			font-size:14px;
+			font-weight:700;
+			font-style:normal;
+			font-stretch:normal;
+			letter-spacing:.3px;
+			text-align:center;
+			color:#fff;
+			text-align:center;
+			background:#44c1f8;
+			border-radius:40px;
+			padding:11px 25px;
+			min-width:200px;
+			text-decoration:none;
+			margin-top:15px}
+		.orange-btn{
+			color:#fff;
+			display:inline-block;
+			font-weight:700;
+			font-size:15px;
+			text-align:center;
+			background:#f7a400;
+			border-radius:40px;
+			padding:11px 25px;
+			min-width:200px;
+			text-decoration:none}
+		.img-center{
+			display:block;
+			margin:0 auto}
+		.club-title{
+			font-family:Helvetica;
+			font-size:14px;
+			font-weight:700;
+			font-style:normal;
+			font-stretch:normal;
+			letter-spacing:normal;
+			color:#4c4c4c;
+			padding-bottom:6px}
+		.club-description{
+			font-family:Helvetica;
+			font-size:14px;
+			font-weight:400;
+			font-style:normal;
+			font-stretch:normal;
+			letter-spacing:normal;
+			color:#6d6d6d}
+		.club-logo{
+			height:70px;
+			padding-right:24px}
+		.club-align{
+			vertical-align:top;
+			padding-bottom:25px;
+			font-family:Helvetica;
+			font-size:14px;
+			font-weight:400;
+			font-style:normal;
+			font-stretch:normal;
+			letter-spacing:normal;
+			color:#6d6d6d}
+		.text-align-center{
+			text-align:center}
+		.table-row-spacing{
+			padding-bottom:25px}
+		.vspacer{
+			height:30px}
+		.debug{
+			border-style:solid;
+			border-color:#e0a;
+			border-width:1px}
+		@media screen and (max-width:550px),screen and (max-device-width:414px){
+			.email-container{
+				padding:10px!important}
+			h1{
+				font-size:20px!important;
+				line-height:26px!important;
+				margin:0 0 15px 0!important}
+			h2{
+				font-size:18px!important;
+				line-height:22px!important;
+				margin:0 0 15px 0!important}
+			.hero-spread-title{
+				padding:32px!important}
+			.hero-header,.hero-subheader{
+				font-family:HelveticaNeue;
+				font-size:26px;
+				font-weight:700;
+				font-style:normal;
+				font-stretch:normal;
+				letter-spacing:normal}
+			.hero-header{
+				font-size:22px!important;
+				font-weight:700!important;
+				top:30px!important}
+			.hero-subheader{
+				font-size:15px!important;
+				top:90px!important}
+			.hero-background{
+				height:150px!important}
+			.hide-on-mobile{
+				display:none}
+			.card-content{
+				padding:20px!important}
+			.green-btn{
+				width:100%!important;
+				box-sizing:border-box!important}
+			.three-col,.two-col{
+				width:100%!important;
+				margin-top:10px!important;
+				margin-bottom:10px!important}
+			.footer-cell-left,.footer-cell-right{
+				padding:15px 0 0 0!important}
+			.footer-cell-right{
+				text-align:right!important;
+				width:65px!important}
+			.footer-text,.footer-text a{
+				color:#a7a7a7!important;
+				font-size:13px!important;
+				margin:0!important}
+			.club-logo{
+				height:50px;
+				padding-right:20px}
+			.vspacer{
+				height:20px}
+		  .responsive-table {
+    display: block;
+    width: 100% !important;
+  }
+   
+  .responsive-image {
+    height: auto;
+    max-width: 100% !important;
+  }
+        }
+        
+        @media only screen and (max-width: 479px) {
+            body[yahoo] .deviceWidth {
+                width: 280px!important;
+                padding: 0;
+            }
+            body[yahoo] .center {
+                text-align: center!important;
+            }
+            td[class=menumobile] {
+                text-align: center!important;
+                padding: 21px 20px!important;
+            }
+            td[class=socialmobile] {
+                text-align: center!important;
+                padding: 1px 65px 1px 10px!important;
+            }
+            td[class=mobiletext] {
+                font-size: 20px!important;
+            }
+            img[class=mobileout] {
+                display: none!important;
+            }
+.ExternalClass,.ExternalClass a,.ExternalClass span,.ExternalClass b,.ExternalClass br,.ExternalClass p,.ExternalClass div{
+      			line-height:inherit;
+      		}
+      		.tpl-content{
+      			padding:0 !important;
+      		}
+      		.cke_show_borders{
+      			background:#e4e4e4 !important;
+      		}
+      		.tpl-repeatmovewrap>.tpl-repeatmove{
+      			top:-15px !important;
+      		}
+      	@media only screen and (max-width:500px){
+      		table[class=flexible]{
+      			width:100% !important;
+      		}
+      
+      }	@media only screen and (max-width:500px){
+      		table[class=table-center]{
+      			float:none !important;
+      			margin:0 auto !important;
+      		}
+      
+      }	@media only screen and (max-width:500px){
+      		*[class=hide]{
+      			display:none !important;
+      			width:0 !important;
+      			height:0 !important;
+      			padding:0 !important;
+      			font-size:0 !important;
+      			line-height:0 !important;
+      		}
+      
+      }	@media only screen and (max-width:500px){
+      		span[class=db]{
+      			display:block !important;
+      		}
+      
+      }	@media only screen and (max-width:500px){
+      		td[class=img-box] img,td[class=img-flex1] img,td[class=img-flex] img{
+      			width:100% !important;
+      			height:auto !important;
+      		}
+      
+      }	@media only screen and (max-width:500px){
+      		td[class=aligncenter]{
+      			text-align:center !important;
+      		}
+      
+      }	@media only screen and (max-width:500px){
+      		td[class=alignleft]{
+      			text-align:left !important;
+      		}
+      
+      }	@media only screen and (max-width:500px){
+      		tr[class=table-holder]{
+      			display:table !important;
+      			width:100% !important;
+      		}
+      
+      }	@media only screen and (max-width:500px){
+      		th[class=tcap]{
+      			display:table-caption !important;
+      			width:100% !important;
+      		}
+      
+      }	@media only screen and (max-width:500px){
+      		th[class=thead]{
+      			display:table-header-group !important;
+      			width:100% !important;
+      		}
+      
+      }	@media only screen and (max-width:500px){
+      		th[class=trow]{
+      			display:table-row !important;
+      			width:100% !important;
+      		}
+      
+      }	@media only screen and (max-width:500px){
+      		th[class=tfoot]{
+      			display:table-footer-group !important;
+      			width:100% !important;
+      		}
+      
+      }	@media only screen and (max-width:500px){
+      		th[class=flex]{
+      			display:block !important;
+      			width:100% !important;
+      		}
+      
+      }	@media only screen and (max-width:500px){
+      		td[class=header]{
+      			padding:0 0 20px !important;
+      			background:none !important;
+      			height:auto !important;
+      		}
+      
+      }	@media only screen and (max-width:500px){
+      		td[class=title]{
+      			padding:0 0 5px !important;
+      			font-size:22px !important;
+      			line-height:22px !important;
+      			letter-spacing:2px;
+      		}
+      
+      }	@media only screen and (max-width:500px){
+      		td[class=title-box]{
+      			font-size:23px !important;
+      			line-height:26px !important;
+      		}
+      
+      }	@media only screen and (max-width:500px){
+      		td[class=txt-block]{
+      			padding:0 0 20px !important;
+      		}
+      
+      }	@media only screen and (max-width:500px){
+      		td[class=indent-null]{
+      			padding:0 !important;
+      		}
+      
+      }	@media only screen and (max-width:500px){
+      		td[class=wrapper]{
+      			padding:29px 10px !important;
+      		}
+      
+      }	@media only screen and (max-width:500px){
+      		td[class=txt-block]{
+      			padding:0 0 44px !important;
+      			font-size:13px !important;
+      			line-height:15px !important;
+      			text-align:center !important;
+      		}
+      
+      }	@media only screen and (max-width:500px){
+      		td[class=font-style]{
+      			font-size:18px !important;
+      			line-height:18px !important;
+      		}
+      
+      }	@media only screen and (max-width:500px){
+      		td[class=title-holder]{
+      			padding:0 0 30px !important;
+      			font-size:42px !important;
+      			line-height:38px !important;
+      		}
+      
+      }	@media only screen and (max-width:500px){
+      		td[class=title-line]{
+      			padding:0 0 32px !important;
+      			font-size:26px !important;
+      			line-height:34px !important;
+      		}
+      
+      }	@media only screen and (max-width:500px){
+      		td[class=img-box]{
+      			padding:0 0 15px !important;
+      		}
+      
+      }	@media only screen and (max-width:500px){
+      		td[class=img-box] img{
+      			max-width:178px !important;
+      		}
+      
+      }	@media only screen and (max-width:500px){
+      		td[class=img-flex1]{
+      			padding:0 0 9px !important;
+      		}
+      
+      }	@media only screen and (max-width:500px){
+      		td[class=img-flex1] img{
+      			max-width:243px !important;
+      		}
+      
+      }	@media only screen and (max-width:500px){
+      		td[class=btn-indent]{
+      			padding:0 0 67px !important;
+      		}
+      
+      }	@media only screen and (max-width:500px){
+      		td[class=indent-block]{
+      			padding:0 0 33px !important;
+      		}
+      
+      }	@media only screen and (max-width:500px){
+      		td[class=indent-holder]{
+      			padding:0 8px !important;
+      		}
+      
+      }	@media only screen and (max-width:500px){
+      		td[class=footer-holder]{
+      			padding:0 0 24px !important;
+      		}
+      
+      }	@media only screen and (max-width:500px){
+      		td[class=footer-text]{
+      			line-height:14px !important;
+      		}
+      
+      }	@media only screen and (max-width:500px){
+      		td[class=height-42]{
+      			height:42px !important;
+      		}
+      
+      }	@media only screen and (max-width:500px){
+      		table[class=center] *{
+      			text-align:center !important;
+      		}
+      
+      }
+	</style>
+</head>
+<body leftmargin="0" marginheight="0" marginwidth="0" style="font-family: 'Roboto', Helvetica, Arial, sans-serif" topmargin="0" yahoo="fix"><span style="font-family:arial,helvetica,sans-serif;"><!-- preheader --></span> <span style="font-family:arial,helvetica,sans-serif;"><!-- preheader --><!-- image and text --><!-- image and text --><!-- 3 images and text --><!-- 3 images and text --><!-- paragraph --><!-- paragraph --><!-- spacer --><!-- spacer --><!-- image --><!-- image --><!-- image and text --></span> <span style="font-family:arial,helvetica,sans-serif;"><!-- image and text --><!-- 2 images and text --></span> <!--[if (gte mso 9)|(IE)]>
+            <table width="550" align="center" style="border-spacing:0;font-family:sans-serif;color:#333333;" >
+            <tr>
+            <td style="padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >
+            <![endif]-->
+<table class="email-container" style="border-spacing: 0; margin: 0 auto; max-width: 550px; width: 550;"><!-- header logo -->
+	<tbody>
+		<tr class="brand-logo-row">
+			<td class="brand-logo-cell" style="padding: 0; padding-bottom: 15px; padding-top: 15px; text-align: center;"><a href="https://www.complianceweek.com/" name="CW_Logo" target="_blank" xt="SPCLICK"><img border="0" height="19" name="CW_logo_200px.png" src="https://www.complianceweek.com/sites/default/files/cw_logo_200px.png" width="200" /></a></td>
+		</tr>
+		<!-- hero card row -->
+		<tr class="card-row">
+			<td class="card-cell" style="border: none; margin: 0; padding: 0;">
+			<table class="card" style="background-color: #fff!important; border: 0; border-collapse: collapse; border-radius: 20px; border-spacing: 0; box-shadow: 0 2px 10px 5px rgba(0,0,0,.05); margin: 0; padding: 0; width: 100%;"><!-- hero card image -->
+				<tbody>
+					<tr>
+						<td class="card-img-cell" style="border-radius: 20px 20px 0 0; margin: 0; padding: 0; position: relative;">
+						<table class="hero-spread" style="; border-radius: 20px 20px 0 0; border-spacing: 0; display: inline-table; margin: 0; max-height: 240px; width: 100%;">
+							<tbody>
+								<tr>
+									<td class="hero-spread-title" style="padding: 0; padding-bottom: 25px; padding-left: 0px; padding-right: 0px; padding-top: 25px; vertical-align: top;">
+									<div style="font-family: Helvetica; font-size: 14px; font-stretch: normal; font-style: normal; font-weight: 700; letter-spacing: normal; padding-bottom: 7px; text-align: center;"><span style="font-size:27px;"><span style="color:#fff);"><span style="font-family: arial, helvetica, sans-serif;"><span style="font-size:19px;"></span></span></span></span></div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+					<!-- hero card content -->
+					<tr>
+						<td style="text-align: center;"><span style="font-size:29px;"><span style="font-family: arial, helvetica, sans-serif;">Header</span></span></td>
+					</tr>
+					<tr>
+						<td style="text-align: center;"><span style="font-family:calibri,candara,segoe,segoe ui,optima,arial,sans-serif;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"></span></span></span>
+						<div style="text-align: left;"><span style="font-family:calibri,candara,segoe,segoe ui,optima,arial,sans-serif;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:16px;"></span></span></span></div>
+						&nbsp;&nbsp;</td>
+					</tr>
+					<tr>
+						<td class="card-content" style="-webkit-border-radius: 0 0 10px 10px; border-radius: 0 0 10px 10px; border-spacing: 0; color: #6d6d6d; font-family: Helvetica; font-size: 14px; font-stretch: normal; font-style: normal; font-weight: 400; letter-spacing: normal; padding: 10px 30px 10px 30px;"><span style="color:#000000;"><span style="font-size: 14px;"><span style="font-family: arial, helvetica, sans-serif;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span></span></span></td>
+					</tr>
+					<tr>
+						<td class="card-content" style="-webkit-border-radius: 0 0 10px 10px; border-radius: 0 0 10px 10px; border-spacing: 0; color: #6d6d6d; font-family: Helvetica; font-size: 14px; font-stretch: normal; font-style: normal; font-weight: 400; letter-spacing: normal; padding: 10px 30px 10px 30px;">&nbsp;</td>
+					</tr>
+					<tr><!-- BEGIN SEXYBUTTON -->
+						<td style="text-align: center;">
+						<div style="Margin-left: 20px;Margin-right: 20px;">
+						<div class="btn btn--flat btn--large" style="Margin-bottom: 20px;text-align: center;"><!--[if !mso]--><a href="https://www.complianceweek.com/subscribe" name="protect_eu_mimecast_com_s_5xr2BtnDv" style="border-radius: 4px;display: inline-block;font-size: 17px;font-weight: bold;line-height: 24px;padding: 12px 24px;text-align: center;text-decoration: none !important;transition: opacity 0.1s ease-in;color: #ffffff !important;background-color: #9d0033;font-family: Roboto, Tahoma, sans-serif;" xt="SPCLICK">SUBSCRIBE NOW</a><!--[endif]--> <!--[if mso]><p style="line-height:0;margin:0;">&nbsp;</p><v:roundrect fillcolor="#9d0033" xmlns:v="urn:schemas-microsoft-com:vml" style="width:222px" href="https://www.complianceweek.com/subscribe" stroke="f" arcsize="9%"><v:textbox style="mso-fit-shape-to-text:t" inset="0px,11px,0px,11px"><center style="font-size:14px;line-height:24px;color:#FFFFFF;font-family:Roboto,Tahoma,sans-serif;font-weight:bold;mso-line-height-rule:exactly;mso-text-raise:4px">SUBSCRIBE NOW</center></v:textbox></v:roundrect><![endif]--></div>
+						</div>
+						</td>
+					</tr>
+					<tr>
+						<td valign="top">
+						<center>
+						<table align="center" border="0" cellpadding="0" cellspacing="0" class="responsive-table" style="width: 100%;" width="100%">
+							<tbody><!-- spacer row -->
+								<tr class="spacer-row">
+									<td class="spacer-cell" style="height: 20px; padding: 0;">
+									<table align="center" border="0" cellpadding="1" cellspacing="1" height="22" width="470">
+										<tbody>
+											<tr>
+												<td>
+												<hr /></td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</center>
+						</td>
+					</tr>
+					<!-- footer row -->
+					<tr>
+						<td>
+						<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="deviceWidth" style="width: 95%;" width="100%">
+							<tbody>
+								<tr>
+									<td width="100%">
+									<table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" style="width: 90%;" width="100%">
+										<tbody>
+											<tr>
+												<td>
+												<table align="center" border="0" cellpadding="0" cellspacing="0" class="deviceWidth">
+													<tbody>
+														<tr>
+															<td class="center" style="font-size: 12px; color: #a2a2a2; font-weight: normal; font-family: 'Roboto', Helvetica, Arial, sans-serif; line-height: 26px; vertical-align: top; text-align:center; padding:20px 0 15px" valign="top">
+															<table align="center">
+																<tbody>
+																	<tr>
+																		<td><span style="font-family:arial,helvetica,sans-serif;"><a href="https://www.facebook.com/ComplianceWk?_ga=1.263417228.148124078.1460665649" name="Facebook" style="text-decoration:none" xt="SPCLICK"><img alt="Facebook" border="0" height="35" name="facebook.png" src="https://www.complianceweek.com/sites/default/files/facebook.png" st-image="facebook" title="Facebook" width="35" /> </a></span></td>
+																		<td><span style="font-family:arial,helvetica,sans-serif;"><a href="http://twitter.com/complianceweek?_ga=1.263417228.148124078.1460665649" name="Twitter" style="text-decoration:none" xt="SPCLICK"><img alt="Twitter" border="0" height="35" name="twitter.png" src="https://www.complianceweek.com/sites/default/files/twitter.png" st-image="twitter" title="Twitter" width="35" /> </a></span></td>
+																		<td><span style="font-family:arial,helvetica,sans-serif;"><a href="https://plus.google.com/106875287959234052320/posts" name="Google" style="text-decoration:none" xt="SPCLICK"><img alt="Google" border="0" height="35" name="google.png" src="https://www.complianceweek.com/sites/default/files/google.png" st-image="google" title="Google" width="35" /> </a></span></td>
+																		<td><span style="font-family:arial,helvetica,sans-serif;"><a href="http://www.complianceweek.com" name="RSS" style="text-decoration:none" xt="SPCLICK"><img alt="RSS" border="0" height="35" name="rss.png" src="https://www.complianceweek.com/sites/default/files/rss.png" st-image="rss" title="RSS" width="35" /> </a></span></td>
+																		<td><span style="font-family:arial,helvetica,sans-serif;"><a href="mailto:info@complianceweek.com" name="Anchor_7" style="text-decoration:none" xt="SPEMAIL"><img alt="Mail" border="0" height="35" name="mail.png" src="https://www.complianceweek.com/sites/default/files/mail.png" st-image="mail" title="Mail" width="35" /> </a></span></td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			<span style="font-family:arial,helvetica,sans-serif;"><!-- social --><!-- footer --></span></td>
+		</tr>
+	</tbody>
+</table>
+</body>
+</html>

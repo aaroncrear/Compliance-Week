@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>Compliance_Week</letterhead>
+    <name>CW: Web to Lead Response</name>
+    <style>freeForm</style>
+    <subject>Your Trial Subscription to Compliance Week</subject>
+    <textOnly>Dear {!Lead.FirstName},
+
+Welcome to Compliance Week, the world’s premier information service on corporate governance, risk and compliance. Every month, more than 60,000 professionals rely on us to help them comprehend and comply with the constantly evolving global regulations and standards to which public companies must adhere. We’re delighted you’ve joined them!
+
+We’ll be in touch shortly with further details. And remember, we’re here to help. You can find answers to several common customer-service questions online, or you may contact us at +1 (617) 570-8600 or info@complianceweek.com.
+
+Best regards,
+
+The Compliance Week Team</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

@@ -1,0 +1,10 @@
+<html>
+<font face="arial" color="black">
+<p>Dear {!Contact.FirstName},</p>
+<p>May I ask for a few moments of your time for a brief phone conversation?</p>
+<p>I work for <a href="http://complianceweek.com">Compliance Week</a>, an information service on corporate compliance and I noticed {!Account.Name} currently doesn’t have access to our service. We provide critical, independent guidance for attorneys at more than a hundred top law firms, including Baker & McKenzie, DLA Piper, Hogan Lovells and Latham & Watkins. Thousands of executives and the majority of Fortune 1000 companies rely on us to keep them well informed.</p>
+<p>Can we talk for 10 minutes this week to discuss how we can help {!Account.Name}? If there is a better time, or you feel I should speak with someone else, please let me know.</p>
+<p>Thanks!</p>
+<p>Donna O'Neill</br>
+Compliance Week</br>
+(888) 519-9200</p>

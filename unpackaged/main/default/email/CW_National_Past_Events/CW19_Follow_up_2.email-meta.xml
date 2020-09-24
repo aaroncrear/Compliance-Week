@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>Compliance_Week</letterhead>
+    <name>CW19 - Follow-up#2</name>
+    <style>freeForm</style>
+    <subject>Registering for Compliance Week 2019, the Mayflower is filling up!</subject>
+    <textOnly>Hi {!Contact.FirstName},  
+
+I noticed that you weren&apos;t yet registered and wanted to circle back with you regarding the upcoming Compliance Week Annual Conference, May 20-22 in Washington D.C.. Also, we got word this week that rooms at the Mayflower hotel are quickly filling up. 
+
+Please see a brief recap below, and feel free to use my personal code CW19DONNA when registering, for a $250 discount. If you’d like to discuss the agenda or any of the pricing – we could do a quick call today or tomorrow if convenient. Please advise and we look forward to having you join us in D.C..
+
+Conference Summary:
+Now in its 14th year – the Compliance Week Annual offers unparalleled opportunity for networking with peers and participation in discussions such as:
+Social Media, Rogue Employees, and the Importance of Information Barriers: A Conversation with Investor Relations
+Cybersecurity Investigations
+AML Compliance Challenges Amid the Rise of the Shell Company
+The Culture of Cool: The Compliance Challenges of a Speak Up Culture
+Lead by speakers such as: Chuck Senatore, Fidelity Investments, KC Turin, UPMC Insurance; Bob Bowman, Wendy’s; Bill Corson, Manulife, Grace Du Plaza, Farmer Mac, Lisa Glover-Gardin, Google, Pamela Panagian, Boston Scientific…and many more!
+
+You&apos;ll also be able to gain up to 19 CPE credits with more than 32 panel discussions, breakout sessions, and roundtable discussions on the most cutting-edge issues in risk, ethics, legal, audit, privacy, and governance. 
+
+Our agenda is crafted to provide practitioners like yourself with new insights and best-practices to stay ahead of the evolving regulatory environment. Created for compliance officers by compliance officers, these sessions offer practical guidance to many of the issues that your compliance program currently faces.
+
+Thanks {!Contact.FirstName} – warm regards,
+
+Donna
+
+{!User.Name}
+{!User.Title}
+{!User.CompanyName}
+{!User.Email}
+{!User.Phone}</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

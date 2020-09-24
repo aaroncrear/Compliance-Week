@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- TP Webcasts Detail --></label>
+        <name>CT_TP_Web_Data__c</name>
+        <relationshipLabel><!-- Contact TP Webcasts Detail --></relationshipLabel>
+    </CustomFieldTranslation>

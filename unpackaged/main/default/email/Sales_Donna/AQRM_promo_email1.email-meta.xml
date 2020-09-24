@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>this email is for new subscriber promo from the AQRM push</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>AQRM promo email</name>
+    <style>none</style>
+    <subject>Unrestricted access and risk matrix data</subject>
+    <textOnly>{!Contact.FirstName},  
+
+I work for Compliance Week, the leading information service on corporate compliance. As {!Account.Name} currently doesn’t have access to our service, I invite you to join and receive a custom Accounting Quality + Risk Matrix (AQRM) report by Audit Analytics. This due diligence report has a $500 value, and it is available as a complimentary benefit for a limited time.  
+
+Compliance Week provides critical, independent guidance for financial, legal, risk, audit, and compliance executives at public companies such as Goldman Sachs, the Dun &amp; Bradstreet Corp., NYSE, and Visa.  
+
+Activate your license today, and your AQRM report will be delivered within 10 days … Simply reply to this e-mail to begin your subscription for $999.  
+
+Still not sure? I’d be happy to share with you a sample AQRM report, or you can sign up for a free 10-day no-obligation trial.  
+
+Please feel free to call or e-mail with any questions.  
+
+Thanks!</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

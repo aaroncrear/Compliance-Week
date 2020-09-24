@@ -1,0 +1,20 @@
+Hi {!Lead.FirstName},
+
+Your 5-day trial access to Compliance Week expires {!Lead.Expiration_Date__c}. 
+
+Subscribing now has advantages -- begin a one-year single-user license for $999 ($200 off full price). Or take $500 off a multi-user license tier of your choice (list prices below):
+
+Tier 1:   5-user maximum -- $3,499 (one year) and $6,473 (two years);
+Tier 2: 10-user maximum -- $3,999 (one year) and $7,398 (two years);
+Tier 3: 20-user maximum -- $4,499 (one year) and $8,323 (two years);
+Tier 4: 50-user maximum -- $5,499 (one year) and $10,173 (two years).
+
+I'd really like to ensure you maintain access to subscriber-only content, the Resource Center, On-Demand CPE credit, and all that comes with a Compliance Week license.
+
+Interested?
+
+Simply reply with “I AGREE” and the option with which you'd like to proceed. 
+
+Kind Regards, 
+
+Compliance Week

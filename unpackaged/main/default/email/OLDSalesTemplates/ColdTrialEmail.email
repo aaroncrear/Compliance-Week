@@ -1,0 +1,16 @@
+Dear {!Contact.FirstName}:
+
+As I mentioned in my voicemail, there has been significant interest in Compliance Week (http://www.complianceweek.com) from your colleagues at {!Account.Name}; some have signed up for trials or full subscriptions. [CUSTOMIZE -- DON'T LEAVE THIS PART IN!]
+
+If you haven't already heard about us, Compliance Week is an information service on corporate governance, risk and compliance that features a weekly newsletter, a monthly print magazine, custom research, proprietary databases, and industry-leading events. Compliance Week subscribers include more than 25,000 financial, legal, risk, audit, and compliance executives at public companies.
+
+We're confident you'll find Compliance Week extremely useful, and we look forward to serving you.  
+
+Please email me or call me at {!Account.OwnerPhone} for any questions or comments.  
+
+Thanks, and best regards,
+
+{!Account.OwnerFullName}
+{!Account.OwnerTitle}
+{!Account.OwnerPhone}
+{!Account.OwnerEmail}

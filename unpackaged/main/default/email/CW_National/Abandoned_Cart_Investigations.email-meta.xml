@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Investigations Class</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Abandoned Cart Investigations</name>
+    <style>none</style>
+    <subject>Compliance Week Investigations Workshop</subject>
+    <type>text</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

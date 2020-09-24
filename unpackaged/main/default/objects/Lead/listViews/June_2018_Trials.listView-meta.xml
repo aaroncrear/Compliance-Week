@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>June_2018_Trials</fullName>
+    <columns>FULL_NAME</columns>
+    <columns>LEAD.TITLE</columns>
+    <columns>LEAD.COMPANY</columns>
+    <columns>Account__c</columns>
+    <columns>Expiration_Date__c</columns>
+    <columns>Engagement_Priority_Score__c</columns>
+    <columns>LEAD.EMAIL</columns>
+    <columns>LEAD.STATUS</columns>
+    <filterScope>Everything</filterScope>
+    <filters>
+        <field>User_Type__c</field>
+        <operation>equals</operation>
+        <value>Trial</value>
+    </filters>
+    <filters>
+        <field>Expiration_Date__c</field>
+        <operation>greaterOrEqual</operation>
+        <value>6/1/2018</value>
+    </filters>
+    <filters>
+        <field>Expiration_Date__c</field>
+        <operation>lessOrEqual</operation>
+        <value>7/15/2018</value>
+    </filters>
+    <label>June 2018 - Trials</label>
+</ListView>

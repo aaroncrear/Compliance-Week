@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- F1K Tier --></label>
+        <name>F1K_Tier__c</name>
+        <picklistValues>
+            <masterLabel>Fortune 100</masterLabel>
+            <translation><!-- Fortune 100 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fortune 1000</masterLabel>
+            <translation><!-- Fortune 1000 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Fortune 500</masterLabel>
+            <translation><!-- Fortune 500 --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

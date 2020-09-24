@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Bad_Address__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>True if mailer is returned "Unable to Forward."</description>
+    <externalId>false</externalId>
+    <label>Bad Address?</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <type>Checkbox</type>
+</CustomField>

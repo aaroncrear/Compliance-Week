@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>What happened jvg</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>What happened?</name>
+    <style>none</style>
+    <subject>What happened?</subject>
+    <textOnly>Hi All,
+I wanted to check in with you about reinstating your corporate license to Compliance Week.
+As you can see below, your company at one time relied on us to keep you informed.
+What happened?
+Now is a great time to come back to Compliance Week.
+We redesigned the website, and included a MY CW feature that lets you share and save important articles easily.
+We know how important your time is.
+You can’t spell compliance without CPE.
+Get ALL of the credits you need on your time with our On-Demand CPE Library.
+Just a click away with a CW license.
+Let’s get you back on board!
+Please give me a call or reply to this email to start a discussion.</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

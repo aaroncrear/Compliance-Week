@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Banner Campaign</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Banner</name>
+    <style>none</style>
+    <subject>Compliance Week 60 Day Banner Campaign</subject>
+    <textOnly>Hi {!Contact.FirstName},
+
+We have some last minute online banner advertisement availability in 2017. I wanted to see if you would be interested in a nice online banner package at a steep discount. I’ve been trying to do more with {!Account.Name}, this could be an option.
+
+If you can move before the end of October, we have 50,000 banner impressions available in November and December. Rate card cost 50k impressions is $6,000 but I can reduce the cost to $3,000. You would have to rotate between two sizes, 300x250 and 728x90 pixels. We’d need materials for both sizes. Specs:
+
+
+Rectangle Banner
+300x250 IMU
+Files accepted: .jpg, .gif, .png
+Max file size: 40K
+Flash and third party tags accepted. Please request additional information for flash.
+URL link
+
+Leaderboard Website Banner
+728x90
+Files accepted: .jpg, .gif, .png
+Max file size: 40K
+Flash and third party tags accepted. Please request additional information for flash.
+URL link
+
+Let me know if you are interested or have questions.
+
+
+-Doug
+
+
+
+
+
+----------------------------------
+Doug Juenemann
+Director, Advertising
+Compliance Week
+doug@complianceweek.com
+(617) 570 8610</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

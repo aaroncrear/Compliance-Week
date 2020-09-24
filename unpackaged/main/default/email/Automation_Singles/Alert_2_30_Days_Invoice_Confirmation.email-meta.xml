@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Confirm receipt of renewal invoice - Single Sub</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Alert 2 @ –30 Days: Invoice Confirmation</name>
+    <style>none</style>
+    <subject>Single-User Renewal Call</subject>
+    <type>text</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

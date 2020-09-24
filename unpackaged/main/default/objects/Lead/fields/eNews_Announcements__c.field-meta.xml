@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>eNews_Announcements__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>New research and resources including upcoming webcasts, CPE/CLE opportunities, and more.</description>
+    <externalId>false</externalId>
+    <label>eNews Announcements</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <type>Checkbox</type>
+</CustomField>

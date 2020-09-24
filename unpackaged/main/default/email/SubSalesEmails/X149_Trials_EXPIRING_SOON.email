@@ -1,0 +1,53 @@
+Hi {!Contact.FirstName},
+
+Your 10-Day trial access to Compliance Week expires on {!Contact.Expiration_Date__c}, and I wanted to check in. 
+
+Do you feel Compliance Week is a useful resource?  Are you utilizing the databases and other resources? 
+
+Subscribing now has advantages:
+Begin a one-year subscription for $799 (a $400 savings off our standard $1,199 single-user rate).
+Or 
+Get one year of full subscriber access for two individuals for just $1,199.
+
+Interested?
+Simply reply to this e-mail, select the option you prefer on the form below,  and write "I agree."
+
+I'd really like to ensure you maintain access to our articles and analysis, expert commentary, On-Demand CPE credit, and all that comes with a Compliance Week subscription.
+
+Please reach out with any questions and thank you for considering Compliance Week.
+
+Kindly,
+
+
+
+ORDER FORM:
+
+Your reply will confirm that you agree to the terms below. We will email an invoice and process your order while we wait for payment. (If you want to pay by credit card, you can call us at any time at (888) 519-9200)
+
+-----------------------------------------------------------------------------------
+ORDER CONFIRMATION: By replying to this e-mail and
+typing "I agree" in the body of your reply e-mail, you
+hereby agree to be bound by the following Compliance
+Week order:
+
+> Company: {!Account.Name}
+
+> Subscriber: {!Contact.Name}
+
+( ) License Type: Single-User
+    Price: $799
+
+( ) License Type: Dual-User
+    Price: $1,199
+
+> Payment Due: Net 30 Days
+
+> Length of License: 1 Year
+
+> Terms & Conditions: http://www.complianceweek.com/termsandconditions/
+
+You agree to process this order for payment as soon as possible, and confirm that you are authorized to enter into this agreement in its entirety.
+
+IMPORTANT: Your reply with "I Agree" in the body of the e-mail is the legal equivalent of a signature on a contract, and you are bound upon our receipt of your "I Agree" reply. There are no cancellations, changes, or refunds upon our receipt of your "I Agree" reply.
+---------------------------------------------------------------------------------
+Thanks for considering, and I hope you join the Compliance Week community soon.

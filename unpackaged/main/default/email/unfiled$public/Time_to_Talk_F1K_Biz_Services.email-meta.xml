@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Time to Talk F1K Biz Services</name>
+    <style>none</style>
+    <subject>Can we set a time to talk this week?</subject>
+    <textOnly>Dear {!Contact.FirstName},
+
+May I ask for a few moments of your time for a brief phone conversation?
+
+I work for Compliance Week, an information service on corporate compliance and I noticed {!Account.Name} currently doesn’t have access to our service. We provide critical, independent guidance for financial, legal, risk, audit, and compliance executives at public companies such as IBM, the Dun &amp; Bradstreet Corporation, Jefferson Wells and KPMG. Thousands of these executives and the majority of Fortune 1000 companies rely on us to keep them well informed.
+
+Can we talk for 10 minutes this week to discuss how we can help {!Account.Name}? If there is a better time, or you feel I should speak with someone else, please let me know.
+
+Thanks!
+
+Donna
+Compliance Week
+(888) 519-9200</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>Compliance_Week</letterhead>
+    <name>Webcast sponsorship email</name>
+    <style>freeForm</style>
+    <subject>Compliance Week Webcast Opportunity</subject>
+    <textOnly>Hi {!Contact.FirstName},
+
+I wanted to reach out to you about partnering with Compliance Week for your advertising needs. I&apos;ve listed one great option below to generate a qualified and targeted lead list.
+
+
+
+Webcast Sponsorship – Sponsor would have time for a 60 minute presentation to our audience which includes Q/A with the audience and Powerpoint presentation. The event would be moderated by Compliance Week Editor who would introduce speakers and ask the audience questions the last few minutes of the event. We promote the event in our monthly print edition, weekly webcast emails and on our website. CPE credits are available to all attendees. The cost is $12,000 and on average generates 400 registrations per webcast. The webcast would also be archived in our CPE library for a minimum of a year. You may also purchase the recorded webcast for an additional $650.
+
+Compliance Week  reaches governance, risk &amp; compliance executives at global public companies (primarily US based). Editorially, Compliance Week&apos;s main focus is helping subscribers comply with the constantly evolving global regulations and standards to which public companies must adhere. CW focus&apos;s on critical regulatory and compliance issues related to financial reporting, disclosure, regulatory enforcement, corporate governance, enterprise risk management, and other global related issues.
+
+For the webcast, we are flexible on different topics. Please let me know if you have any questions or if you&apos;d like to discuss this in more detail.
+
+Kind Regards,
+
+Julie Van Gelder
+Advertising Sales Representative
+617-570-8612</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

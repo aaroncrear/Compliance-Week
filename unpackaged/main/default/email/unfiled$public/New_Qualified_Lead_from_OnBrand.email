@@ -1,0 +1,7 @@
+OnBrand has Qualified a new Lead.
+
+{!Lead.Name}
+{!Lead.Title}
+{!Lead.Company}
+
+{!Lead.Link}

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Conference followup e-mail for subscribers who visited booth</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Exhibit Follow Up E-mail #1 (Subscribers visited booth)</name>
+    <style>none</style>
+    <subject>Glad we could connect at the IIA&apos;s International Conference</subject>
+    <textOnly>Hi {!Contact.FirstName},
+
+It was great seeing you at the IIA&apos;s International Conference last week! I bet your head is overflowing with new ideas from all the takeaways—I know mine is!
+
+I just wanted to follow up your visit with a reminder of your Compliance Week subscription benefits and exclusive offers:
+
+Taking advantage of all your benefits? ( https://www.complianceweek.com/subscribe#.V5DXlvmANBc )
+Visit our website or let’s set up a meeting to discover all member benefits or multi-user subscription to maximize your budget and resources.
+
+€300 off registration for Compliance Week Europe 2016 ( http://conference.complianceweek.com/europe )
+We’re bringing our thought leadership to attendees in Brussels, 7-8 November 2016. Attendees will experience thought-provoking speakers, innovative sessions, world-class networking, and much more. Use promotion code CWE16AUDIT during registration or share with a friend! Early-bird rates end 14 August.
+
+Share the love! Give us a testimonial ( https://www.complianceweek.com/subscribe )
+As the premiere information service on corporate governance, risk, and compliance, you’re in a network of more than 50,000 GRC professionals. Contact Cameron Kane (cameron.kane@complianceweek.com) or respond to this e-mail with why you’re a subscriber to Compliance Week and how it’s helped you professionally and supported your program.
+
+We look forward to hearing from you!
+
+Best Regards,
+
+
+
+
+
+This e-mail has been sent from Wilmington Compliance Week Inc, Parent company registered number 2158821. Registered Office: 6 - 14 Underwood Street, London, N1 7JQ.
+This e-mail and any attachments to it may be confidential and are intended solely for the use of the addressees. Any views expressed are solely those of the author and do not necessarily represent those of Wilmington Compliance Week. If you are not the intended recipient of this e-mail and its attachments please inform the sender but take no other action based upon them, nor must you copy or show them to anyone.
+A Wilmington Company</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

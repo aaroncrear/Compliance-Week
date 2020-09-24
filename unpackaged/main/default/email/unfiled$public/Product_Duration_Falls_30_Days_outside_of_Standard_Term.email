@@ -1,0 +1,10 @@
+The Opportunity Product below has a duration that falls {!OpportunityLineItem.Duration_Difference__c} days outside of the standard Subscription term. 
+
+{!OpportunityLineItem.Product_Name__c}
+
+Subscription Standard Term: {!OpportunityLineItem.Duration_Product__c} days
+Term Specified: {!OpportunityLineItem.Duration__c} days
+
+View Product: {!OpportunityLineItem.Link}
+
+Please review your data and make corrections where necessary.

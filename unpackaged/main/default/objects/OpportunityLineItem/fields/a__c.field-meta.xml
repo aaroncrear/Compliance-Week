@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>a__c</fullName>
+    <description>Transaction Description for Invoice Line Item.</description>
+    <externalId>false</externalId>
+    <formula>IF(PricebookEntry.Product2.Min_Users__c = 1  &amp;&amp;  ISPICKVAL(Opportunity.Business_Type__c,"New Business"), "Single-User Subscription",
+
+IF(PricebookEntry.Product2.Min_Users__c = 1  &amp;&amp;  ISPICKVAL(Opportunity.Business_Type__c,"Renewal"),  "Renewal of Single-User Subscription",
+
+ IF(PricebookEntry.Product2.Min_Users__c &gt; 1  &amp;&amp;  ISPICKVAL(Opportunity.Business_Type__c,"New Business"), "Multi-User Subscription",
+
+IF(PricebookEntry.Product2.Min_Users__c &gt; 1  &amp;&amp;  ISPICKVAL(Opportunity.Business_Type__c,"Renewal"),  "Renewal of Multi-User Subscription",
+
+IF(PricebookEntry.Product2.Min_Users__c &gt; 1  &amp;&amp; (ISPICKVAL(Opportunity.Business_Type__c,"Renewal Upgrade") || ISPICKVAL(Opportunity.Business_Type__c,"Upgrade")) , "Upgrade To Multi-User Subscription",
+
+null)
+)
+)
+)
+)</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <label>a</label>
+    <required>false</required>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

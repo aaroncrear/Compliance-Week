@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Alumni Email 1 2018</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>Compliance_Week</letterhead>
+    <name>Welcome Back - Join your peers in Amsterdam, 12-13 November 2018</name>
+    <style>freeForm</style>
+    <subject>Welcome Back - Join your peers in Amsterdam, 12-13 November 2018</subject>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

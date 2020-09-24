@@ -1,0 +1,9 @@
+Hi {!Contact.FirstName},
+
+I'm so sorry to report that our presenter, Michael Johnson must postpone our scheduled class this week.  Michael's mom passed away unexpectantly. 
+
+We do hope to reschedule the class later this month and will reach out once we're able to confirm a date.  
+
+I apologize for any inconvenience.  Please feel free to call or email with any questions.
+
+Thanks {!Contact.FirstName}!

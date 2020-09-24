@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <layouts>
+        <layout>Advertising Opportunity Product</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Fields --></label>
+            <section>Fields</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Opportunity Product Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>Subscription Opportunity Product</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Fields --></label>
+            <section>Fields</section>
+        </sections>
+    </layouts>
+    <validationRules>
+        <errorMessage><!-- You can only add subscription products to Subscription Renewals and Upgrades. --></errorMessage>
+        <name>CanOnlyAddSubProductToSubRenewalorUpgrad</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Renewal Rate is required for Subscription Sales. --></errorMessage>
+        <name>Subscription_Renewal_Rate</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Term Ends can only be changed by an Administrator for a Renewal Opportunity.. --></errorMessage>
+        <name>Term_Ends_is_locked_Renewal</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Term Ends can only be changed by an Administrator once an Opportunity has been Closed Won. --></errorMessage>
+        <name>Term_Ends_is_locked_once_Closed_Won</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Term Starts can only be changed by an Administrator for a Renewal Opportunity.. --></errorMessage>
+        <name>Term_Start_is_locked_Renewal</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Term Starts can only be changed by an Administrator once an Opportunity has been Closed Won. --></errorMessage>
+        <name>Term_Start_is_locked_once_Closed_Won</name>
+    </validationRules>
+    <webLinks>
+        <label><!-- Send_Mail --></label>
+        <name>Send_Mail</name>
+    </webLinks>
+    <workflowTasks>
+        <description><!-- Sent automatically via workflow: Subscription Automated Renewal Emails --></description>
+        <name>Renewal_Email_Sent</name>
+        <subject><!-- Renewal Email Sent --></subject>
+    </workflowTasks>
+</CustomObjectTranslation>

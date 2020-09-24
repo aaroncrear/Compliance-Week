@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Resource Center launch email</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Resource Center 4-14-15</name>
+    <style>none</style>
+    <subject>Drafting company policy?</subject>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

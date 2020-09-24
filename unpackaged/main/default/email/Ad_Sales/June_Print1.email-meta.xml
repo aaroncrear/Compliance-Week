@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>June Print</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>June Print</name>
+    <style>none</style>
+    <subject>Compliance Week June Print Edition - Inside Front Cover</subject>
+    <textOnly>Hi {!Contact.FirstName} –
+
+
+I wanted to reach out to {!Account.Name} to see if you would be interested in running a print advertisement on the inside front cover of our June print edition. The inside front cover is a premium position that usually costs 20% over rate card. Because materials are due in just over a week and we need to find someone for the position asap, I would be willing to give you a reduced rate and include online banners as added value.
+
+
+The rate card cost for the back cover position is $7,150. Because it’s late and we need materials by EOD Monday, June 8th, I’ll reduce the cost to $5,250 and include 40,000 online banner impressions. This is a $10,150 package you would be getting for $5,250.
+
+
+The June edition will be dedicated to honoring the winners of our Excellence in Compliance Awards. The awards section will include full-length feature stories of our Lifetime Achievement Award winner, our Compliance Comeback of the Year winner (Joshua Drew of VEON), as well as the winner of our CCO of the Year (Duane Holloway from U.S. Steel). We’ll also be spotlighting the winners of our other 12 awards, including Mentor of the Year, Compliance Innovator of the Year, and honorees in specific areas of compliance like cyber-security, anti-corruption, third-party risk management, data privacy, and training. The edition will also contain several stories on the compliance officers’ high-profile role in the pandemic, including:
+
+
+Coronavirus will raise profile of compliance moving forward
+
+Former U.N. ambassador Samantha Power on increased importance of compliance
+
+Interview with Carnival CECO: How coronavirus changed the cruise industry
+
+Surviving &amp; thriving: Leadership in a time of unpredictable change
+
+Flexible approach needed in return from coronavirus
+
+
+Again, we’d need materials by Monday, June 8th. The print ad should be sent as a PDF and sized to 8.375 x 10.8125.” The online banners can run anytime, the banner specs:
+
+
+Banner Specs:
+
+Banner size: 300x250 pixel
+
+Initial Load: 150KB
+
+Subload: 300KB
+
+Ad Server: Google Ad Manager
+
+Third Party Tags: Accepted, HTML5
+
+Recommended file size: 40k
+
+Max File size: 100k
+
+Expandable: No
+
+Animation Maximum: 30 seconds
+
+Animation: 3 loops max
+
+
+Please let me know if you have questions or interest. We are approaching others with the inside front cover position.
+
+
+-Doug
+
+
+------------------------------------
+
+Doug Juenemann
+
+Director, Advertising &amp; Sponsorship Sales
+
+Compliance Week
+
+129 Portland St Fl 6, Boston, MA 02114
+
+617 570 -8610 | doug@complianceweek.com
+
+https://www.linkedin.com/in/doug-juenemann</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

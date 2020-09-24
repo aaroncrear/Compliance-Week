@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Zoom_Leads_Created_9_18_2018</fullName>
+    <booleanFilter>1 AND 2 AND 3 AND 4 AND 5 AND 6 AND 7 AND 8 AND 9 AND 10</booleanFilter>
+    <columns>FULL_NAME</columns>
+    <columns>LEAD.COMPANY</columns>
+    <columns>LEAD.STATE_CODE</columns>
+    <columns>LEAD.EMAIL</columns>
+    <columns>LEAD.TITLE</columns>
+    <columns>LEAD.STREET</columns>
+    <columns>LEAD.CITY</columns>
+    <columns>LEAD.STATE</columns>
+    <columns>LEAD.ZIP</columns>
+    <columns>LEAD.COUNTRY_CODE</columns>
+    <filterScope>Everything</filterScope>
+    <filters>
+        <field>LEAD.LEAD_SOURCE</field>
+        <operation>equals</operation>
+        <value>ZoomInfo</value>
+    </filters>
+    <filters>
+        <field>LEAD.CREATED_DATE</field>
+        <operation>equals</operation>
+        <value>9/18/2018 12:00 AM</value>
+    </filters>
+    <filters>
+        <field>LEAD.TITLE</field>
+        <operation>contains</operation>
+        <value>,compliance,AML,protection,privacy,cyber</value>
+    </filters>
+    <filters>
+        <field>LEAD.TITLE</field>
+        <operation>contains</operation>
+        <value>CCO,CTO,CISO,Technology,IT,Data,Global</value>
+    </filters>
+    <filters>
+        <field>LEAD.EMAIL</field>
+        <operation>contains</operation>
+        <value>@</value>
+    </filters>
+    <filters>
+        <field>LEAD.TITLE</field>
+        <operation>notContain</operation>
+        <value>lab,systems,HR,Human Resources,investigations,litigation,architecture,analytics</value>
+    </filters>
+    <filters>
+        <field>LEAD.STREET</field>
+        <operation>notEqual</operation>
+    </filters>
+    <filters>
+        <field>LEAD.TITLE</field>
+        <operation>notContain</operation>
+        <value>bil,creat,soft,underwriting,arch,advisor,escalations,wireless,llc,infrastruct</value>
+    </filters>
+    <filters>
+        <field>LEAD.TITLE</field>
+        <operation>notContain</operation>
+        <value>telecom,rep,consultant,energy,strat,client,sales,rehab,field,partner,market</value>
+    </filters>
+    <filters>
+        <field>LEAD.TITLE</field>
+        <operation>notContain</operation>
+        <value>net,dist,remed,health,whole,engineer,animal,fellow,strategy,management,manage</value>
+    </filters>
+    <label>Zoom Leads Created 9/18/2018 - mailing</label>
+</ListView>

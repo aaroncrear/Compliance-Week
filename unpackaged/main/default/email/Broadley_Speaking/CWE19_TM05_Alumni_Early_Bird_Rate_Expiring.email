@@ -1,0 +1,53 @@
+<table border="0" cellpadding="5" width="550" cellspacing="5" height="400" >
+<tr valign="top" height="400" >
+<td tEditID="c1r1" style=" background-color:#FFFFFF; bEditID:r3st1; color:#000000; bLabel:main; font-size:12pt; font-family:arial;" aEditID="c1r1" locked="0" >
+<![CDATA[<p><font face="Arial,Sans-Serif">Dear {!Contact.FirstName},</font></p><div><font face="Arial,Sans-Serif"><br></font></div><div><p><font face="Arial,Sans-Serif"><a href="http://events.complianceweek.com/events/compliance-week-europe-2019/event-summary-732be925fd794687a25a8bea1f982846.aspx?dvce=1">Our European conference</a>
+ has one mission: to help compliance, audit, legal, and risk executives 
+understand how they can build and manage their ethics &amp; compliance 
+programmes more effectively.</font></p><p><font face="Arial,Sans-Serif"><br></font></p>
+<p><font face="Arial,Sans-Serif">This year’s conference will provide actionable insights to take back 
+to their firms, ample networking opportunities, and the option to earn 
+up to 11 CEUs.</font></p><p><font face="Arial,Sans-Serif"><br></font></p>
+<p><font face="Arial,Sans-Serif"><a href="https://events.complianceweek.com/events/compliance-week-europe-2019/registration-732be925fd794687a25a8bea1f982846.aspx?fqp=true">Register today</a> with special Alumni Code CWE19ALUMNI (before 9 August) for best pricing of €850.</font></p><p><font face="Arial,Sans-Serif"><br></font></p>
+<p><font face="Arial,Sans-Serif">Take advantage of early-bird rates by registering before 9 August.</font></p><font face="Arial,Sans-Serif">
+
+
+Join thousands of the world's leading compliance professionals who use 
+Compliance Week analysis on a daily basis, including executives from 
+Wal-Mart Stores Inc., Microsoft, Verizon, General Electric, Cardinal 
+Health, Fannie Mae, Prudential Financial, Phillips 66, Anthem, Target, 
+and many other Fortune 100 organizations. 
+
+</font></div><p><font face="Arial,Sans-Serif"><br></font></p><font face="Arial,Sans-Serif">
+
+</font><p><font face="Arial,Sans-Serif">Best regards,</font></p><font face="Arial,Sans-Serif">
+<br>{!User.FirstName} {!User.LastName}<br>
+{!User.Title}<br>
+{!User.CompanyName}<br>
+{!User.Email}<br>
+{!User.Phone}</font><div><p>&nbsp;</p>
+<hr>
+<p style="text-align: center;">&nbsp;<strong>Compliance Week Europe</strong>&nbsp;| 4-5 November 2019 | Amsterdam</p>
+<hr>
+<table style="height: 84px; float: left; width: 541px;">
+<tbody>
+<tr>
+<td style="text-align: left; width: 159px;">&nbsp;</td>
+<td style="text-align: left; width: 201.967px;">»&nbsp;<a title="Compliance Week Europe Agenda" href="http://events.complianceweek.com/events/compliance-week-europe-2019/agenda-732be925fd794687a25a8bea1f982846.aspx?dvce=1">Agenda</a></td>
+<td style="text-align: left; width: 320.033px;">»&nbsp;<a title="Compliance Week Registration" href="http://events.complianceweek.com/d/jbqgdj/4W">Registration</a></td>
+</tr>
+<tr>
+<td style="text-align: left; width: 159px;">&nbsp;</td>
+<td style="text-align: left; width: 201.967px;">»&nbsp;Speakers</td>
+<td style="text-align: left; width: 320.033px;">»&nbsp;<a title="Compliance Week Venue" href="http://events.complianceweek.com/events/compliance-week-europe-2019/location-732be925fd794687a25a8bea1f982846.aspx?dvce=1">Venue</a></td>
+</tr>
+<tr>
+<td style="text-align: left; width: 159px;">&nbsp;</td>
+<td style="text-align: left; width: 201.967px;">»&nbsp;<a title="Compliance Week Sponsorship" href="http://events.complianceweek.com/events/compliance-week-europe-2019/custom-21-732be925fd794687a25a8bea1f982846.aspx?dvce=1">Sponsorship</a></td>
+<td style="text-align: left; width: 320.033px;">»&nbsp;<a title="Compliance Week CEU" href="http://events.complianceweek.com/events/compliance-week-europe-2019/custom-17-732be925fd794687a25a8bea1f982846.aspx?dvce=1">Continuing Education</a></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p></div><table style="height: 84px; float: left; width: 541px;"><tbody><tr><td style="text-align: left; width: 261.883px;"><br></td><td style="text-align: left; width: 176.117px;"><br></td><td style="text-align: left; width: 247px;"><br></td></tr><tr><td style="text-align: left; width: 261.883px;"><br></td><td style="text-align: left; width: 176.117px;"><br></td><td style="text-align: left; width: 247px;"><br></td></tr><tr><td style="text-align: left; width: 261.883px;"><br></td><td style="text-align: left; width: 176.117px;"><br></td><td style="text-align: left; width: 247px;"><br></td></tr></tbody></table>]]></td>
+</tr>
+</table>

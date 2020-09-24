@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WebLink xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Send_Mail</fullName>
+    <availability>online</availability>
+    <displayType>button</displayType>
+    <linkType>javascript</linkType>
+    <masterLabel>Send Mail</masterLabel>
+    <openType>onClickJavaScript</openType>
+    <protected>false</protected>
+    <url>location.replace('/email/author/emailauthor.jsp?retURL=/{!OpportunityLineItem.Id}&amp;p3_lkid={!OpportunityLineItem.Id}&amp;{!OpportunityLineItem.Contact__c}&amp;rtype=00k&amp;template_id=00Xn0000000QBtg');</url>
+</WebLink>

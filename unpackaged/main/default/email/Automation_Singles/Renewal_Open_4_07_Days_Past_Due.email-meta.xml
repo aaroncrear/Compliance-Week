@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Subscription payment overdue notice #1</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Renewal Open 4 @ +07 Days: Past Due</name>
+    <style>none</style>
+    <subject>Your payment is now overdue</subject>
+    <textOnly>My Account | Contact Us | Terms &amp; Conditions
+Log-In Required
+
+
+Past Due Notice
+
+
+
+Dear {!Opportunity.Primary_Subscription_Contact__c},
+
+Our records indicate that payment for your subscription to Compliance Week is now 7 days past due. Maybe you’ve missed our prior notices or have outstanding questions about your subscription. We hate to lose you as a subscriber. Please contact us immediately to process payment or to let us know how we can help.
+
+You can submit your payment online by logging into your account.
+
+Alternatively, checks can be made out to Wilmington Compliance Week and mailed to Accounts Receivable at the address below. If you do not wish to renew, please contact me at (617) 570-8608 or reply to this email.
+
+Angela Ruggiero
+Business Development Associate
+(617) 570-8608
+angela.ruggiero@complianceweek.com
+
+Subscription Details  Payment Methods
+
+Type: {!Opportunity.Single_Multi__c}-User
+Term: {!Opportunity.Subscription_Starts__c}–{!Opportunity.Subscription_Expires__c}
+Amount: {!Opportunity.Amount}
+Invoice: {!Opportunity.Invoice__c}
+Online
+Log-In
+Mail Order
+Accounts Payable
+Compliance Week
+129 Portland St Fl 6
+Boston MA 02114-2014  Call
+(617) 570-8608</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

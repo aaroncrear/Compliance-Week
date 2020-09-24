@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Stock_Chart__c</fullName>
+    <externalId>false</externalId>
+    <formula>HYPERLINK("http://finance.yahoo.com/q/bc?s=" &amp;  Ticker__c &amp; "&amp;t=1d", IMAGE("http://ichart.yahoo.com/t?s=" &amp; Ticker__c , "Ticker Image", 96,192) )</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <label>Stock Chart</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

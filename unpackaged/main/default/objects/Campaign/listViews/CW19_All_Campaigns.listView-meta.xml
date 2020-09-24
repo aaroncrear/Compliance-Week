@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CW19_All_Campaigns</fullName>
+    <columns>CAMPAIGN.START_DATE</columns>
+    <columns>CAMPAIGN.NUM_SENT</columns>
+    <columns>CAMPAIGN.NAME</columns>
+    <columns>TOT_NUM_SENT</columns>
+    <columns>CAMPAIGN.NUM_LEADS</columns>
+    <columns>CAMPAIGN.NUM_CONTACTS</columns>
+    <columns>CAMPAIGN.NUM_OPPORTUNITIES</columns>
+    <filterScope>Everything</filterScope>
+    <filters>
+        <field>CAMPAIGN.NAME</field>
+        <operation>startsWith</operation>
+        <value>CW19</value>
+    </filters>
+    <label>CW19 All Campaigns</label>
+</ListView>

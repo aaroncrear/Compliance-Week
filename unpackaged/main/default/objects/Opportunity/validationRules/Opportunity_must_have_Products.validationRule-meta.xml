@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Opportunity_must_have_Products</fullName>
+    <active>true</active>
+    <errorConditionFormula>AND((ISPICKVAL(StageName,"Closed Won") || ISPICKVAL(StageName,"Won")) , 
+HasOpportunityLineItem  = FALSE,
+Business_Unit__c = "Compliance Week",
+ISPICKVAL(Type,"Subscription")
+)</errorConditionFormula>
+    <errorMessage>You must add Products</errorMessage>
+</ValidationRule>

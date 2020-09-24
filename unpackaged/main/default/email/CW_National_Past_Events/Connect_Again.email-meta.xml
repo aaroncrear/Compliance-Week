@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>CW Annual 3rd attempt</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Connect Again in D.C.</name>
+    <style>none</style>
+    <subject>Connect again in D.C.</subject>
+    <type>text</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

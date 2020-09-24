@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Single | New</name>
+    <style>none</style>
+    <subject>Your Compliance Week Subscription</subject>
+    <textOnly>Dear {!Contact.FirstName},
+
+Thank you for subscribing to Compliance Week. Your account has been activated, and you now have access to all gated content. If you haven’t established a password yet, click “LOG IN” in the topleft-hand corner of the site, choose “Forgotten your password?” in the resulting dialog box, enter your email address, and a link to reset your password will be sent to you.
+
+Selecting Weekly Emails | You may elect to receive one or both of our two subscriber-only email newsletters, Compliance Week Tuesday Edition and Compliance Weekend. In addition, we currently offer three complimentary email services: Event of the Week, Thought Leadership of the Week and Compliance Week Europe. Selections may be made on the My CW page.
+
+Subscriber Information | Please ensure that the following details are correct. If you choose to receive our monthly print magazine, we will use the address on file to service it. Corrections may be made on the My Account page
+
+{!Contact.FirstName} {!Contact.LastName}
+{!Contact.Title}
+{!Account.Name}
+{!Contact.MailingAddress}
+Email: {!Contact.Email}
+
+Expiration Date: {!Contact.Expiration_Date__c} | Please note that Compliance Week has an automatic renewal policy. You will receive an email notice approximately 60 days prior to the renewal date. The notice will let you know that your current subscription term is about to end and that your subscription will be renewed. If you do not wish to renew, you must notify us prior to your renewal date.
+
+Thanks again! And remember, we’re here to help. You can find answers to several common customer-service questions online, or you may contact us at (888) 519-9200 or via email.
+
+Sincerely,
+
+{!Contact.OwnerFullName}
+Compliance Week
+
+Terms of Use | When you sign in to the Compliance Week Website (http://www.complianceweek.com) for the first time using the above username and password, you are indicating that you agree to Compliance Week&apos;s “Terms of Use,‘ including our cancellation policy. Please refer to Compliance Week’s Terms and Conditions.
+
+TERMS OF USE 
+This Terms of Use document governs your use of Compliance Week (published online at www.complianceweek.com), which is a news and information service published by WCE, Inc. Your use of the site, or our receipt of your subscription form, indicates your acceptance of these terms. 
+1. Changes to Terms of Use. We may change these terms at any time by notifying you of the change electronically, using the e-mail address we have on record for you. The changes also will appear in this document, which you can access at any time by clicking on &quot;Terms of Use&quot; in the lower left corner of any page on the Web site. Your use of Compliance Week after changes are made to this document means that you agree to be bound by such changes. 
+2. Privacy. Registration data and other information about you is subject to our Privacy Policy. If you are located outside of the United States, note that information that you provide to us is being sent to the United States. By subscribing to Compliance Week, you consent to your data being sent to the United States. 
+3. Fees and Payments. You agree to pay the Subscription Fees and any other charges incurred in connection with your username and password for Compliance Week at the rates in effect when the charges were incurred. If you&apos;ve elected to pay by credit card, we will bill all charges to your credit card upon receipt of subscription form. All fees and charges are nonrefundable. 
+If you believe someone has accessed Compliance Week using your user name and password without your authorization, you must call Compliance Week at 1-800-519-9200. 
+If you are authorized to access Compliance Week through arrangements between your employer and us, some or all of these &quot;Fees and Payments&quot; terms may not apply to you. Please contact your employer for details. 
+4. Cancellation Policy. Upon commencement of a Subscription, initiated either by phone, online, e-mail, or postal mail, there are absolutely no cancellations. No refunds of Subscription Fees or any portion thereof will be given under any circumstances. 
+5. Renewal. Your Compliance Week Subscription will automatically renew annually, at the regular published rate for 12 months. By renewing you will have all the benefits offered to subscribers. Compliance Week will notify you 60 days prior to renewal, stating the start date and providing email and contact information for cancelation, or updates to your account. Please note that in order to cancel your account we must receive your request by email, or mail, prior to start of your renewal. Any special offers or discounts obtained upon your initial subscription or any subsequent renewals may not necessarily be offered on renewal, and we reserve the right to change our subscription fees. 
+6. Limitations on Use. 
+a. If single-user subscription purchased, only the individual registered as the paying subscriber may access Compliance Week using the username and password provided. If multiple-user subscription purchased, all users must be employed by the same company. 
+b. The content available through Compliance Week is our property or the property of our licensors and is protected by copyright and other intellectual property laws. You may display or print the content available through Compliance Week for your personal, non-commercial use only. 
+c. You agree not to sell, publish, distribute, retransmit or otherwise provide access to the content received through Compliance Week to anyone, including your fellow employees. 
+d. You agree not to create abstracts from, scrape or display headlines from our content for use on another web site or service. You agree not to post any content from Compliance Week to newsgroups, mail lists or electronic bulletin boards, without our written consent. To request consent for this and other matters, please contact us. 
+e. You agree not to use Compliance Week for any unlawful purpose. We reserve the right to terminate or restrict your access to Compliance Week if, in our opinion, your use of Compliance Week may violate any laws, infringe upon another person&apos;s rights or violate the terms of this Agreement. Also, we may refuse to grant you a user name that impersonates someone else, is protected by trademark or other proprietary right law, or is vulgar or otherwise offensive. 
+f. You agree that any document, column or other submission delivered to Compliance Week for posting or publication is original to the author; is not be in the public domain; does not infringe or violate any law or the intellectual property rights of any third party; has not been published, sold, licensed, pledged or otherwise encumbered. 
+7. Third Party Web Sites, Services and Software. We may link to, or promote, web sites or services from other companies on Compliance Week or offer you the ability to download software from other companies. You agree that we are not responsible for, and do not control, those web sites, services and software. 
+YOU AGREE THAT YOUR ACCESS TO AND USE OF COMPLIANCE WEEK AND THE CONTENT AVAILABLE THROUGH COMPLIANCE WEEK IS ON AN &quot;AS-IS&quot;, &quot;AS AVAILABLE&quot; BASIS AND WE SPECIFICALLY DISCLAIM ANY REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY REPRESENTATIONS OR WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. 
+COMPLIANCE WEEK AND ITS SUBSIDIARIES, AFFILIATES, SHAREHOLDERS, DIRECTORS, OFFICERS, EMPLOYEES AND LICENSORS (&quot;THE HMI PARTIES&quot;) WILL NOT BE LIABLE (JOINTLY OR SEVERALLY) TO YOU OR ANY OTHER PERSON AS A RESULT OF YOUR ACCESS OR USE OF COMPLIANCE WEEK FOR INDIRECT, CONSEQUENTIAL, SPECIAL, INCIDENTAL, PUNITIVE, OR EXEMPLARY DAMAGES, INCLUDING, WITHOUT LIMITATION, LOST PROFITS, LOST SAVINGS AND LOST REVENUES (COLLECTIVELY, THE &quot;EXCLUDED DAMAGES&quot;), WHETHER OR NOT CHARACTERIZED IN NEGLIGENCE, TORT, CONTRACT, OR OTHER THEORY OF LIABILITY, EVEN IF ANY OF THE HMI PARTIES HAVE BEEN ADVISED OF THE POSSIBILITY OF OR COULD HAVE FORESEEN ANY OF THE EXCLUDED DAMAGES, AND IRRESPECTIVE OF ANY FAILURE OF AN ESSENTIAL PURPOSE OF A LIMITED REMEDY. IF ANY APPLICABLE AUTHORITY HOLDS ANY PORTION OF THIS SECTION TO BE UNENFORCEABLE, THEN THE HMI PARTIES&apos; LIABILITY WILL BE LIMITED TO THE FULLEST POSSIBLE EXTENT PERMITTED BY APPLICABLE LAW. 
+9. General. This Agreement contains the final and entire agreement between us regarding your use of Compliance Week and supersedes all previous and contemporaneous verbal or written negotiations, understandings, or agreements regarding your use of Compliance Week. We may discontinue or change Compliance Week, or its availability to you, at any time. This Agreement is personal to you, which means that you may not assign your rights or obligations under this Agreement to anyone. No third party is a beneficiary of this Agreement. You agree that this Agreement, as well as any and all claims arising from this Agreement will be governed by and construed in accordance with the laws of the Commonwealth of Massachusetts, United States of America applicable to contracts made entirely within Massachusetts and wholly performed in Massachusetts, without regard to any conflict or choice of law principles. The sole jurisdiction and venue for any litigation arising out of this Agreement will be an appropriate federal or state court located in Massachusetts. This Agreement will not be governed by the United Nations Convention on Contracts for the International Sale of Goods. 
+10. Additional Terms and Notices. Text, photos, graphics, audio and/or video material made available from various wire services made available on Compliance Week (the &quot;Wire Services&quot;) shall not be published, broadcast, rewritten for broadcast or publication or redistributed directly or indirectly in any medium. Neither Wire Services materials nor any portion thereof may be stored in a computer except for personal and noncommercial use. The Wire Services will not be held liable for any delays, inaccuracies, errors or omissions therefrom or in the transmission or delivery of all or any part thereof or any damages arising from any of the foregoing. Information gathered and displayed about individual companies, organizations, government agencies, and other groups is available for informational purposes only and is not intended for trading purposes or for the evaluation of those organizations for any other purpose. Compliance Week shall not be liable for any errors or delays in content, or for any actions taken in reliance thereon. 11. Cancellation Policy for Compliance Week. An individual or a representative organization becomes bound as a paying subscriber after agreeing to subscribe. Once a subscription has been executed, regardless of whether or not the subscriber has remitted the subscription payment, all sales are final and all subscription fees are due. Questions about Compliance Week&apos;s cancellation policy should be sent to info@complianceweek.com. 
+Compliance Week provides general information only and does not constitute legal advice. Compliance Week links to documents published by law firms, accounting firms and other third-parties. Those documents do not reflect the views of Compliance Week.
+
+Wire Transfer Information
+WCW INC.
+DBA COMPLIANCE WEEK
+77 N WASHINGTON ST FL 4
+BOSTON, MA 02114-1908
+(888) 519-9200
+ABA WIRE # - 026009593
+ACH #- 051000017
+Acct. # - 435032872020
+Acct. Type – Checking
+Swift Code - BOFAUS3N
+Bank Name and Address
+Bank of America
+PO Box 15284
+Wilmington, DE 19850
+(800) 862-6200
+QUESTIONS? PLEASE CONTACT LUCIANA DALY at
+888-519-9200 OR BY E-MAIL
+Neha.Bilkha@complianceweek.com</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

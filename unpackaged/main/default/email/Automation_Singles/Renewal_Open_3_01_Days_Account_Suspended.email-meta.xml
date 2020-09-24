@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Subscriber access is cut off</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Renewal Open 3 @ +01 Days: Account Suspended</name>
+    <style>none</style>
+    <subject>Attention | Subscription Suspended</subject>
+    <textOnly>My Account | Contact Us | Terms &amp; Conditions
+Log-In Required
+
+
+Immediate Action Required: Account Suspended
+
+
+
+Dear {!Opportunity.Primary_Subscription_Contact__c},
+
+Your payment is now overdue, and we have therefore taken the unfortunate step of suspending access to your account. Don’t miss another minute of leading corporate governance, risk, and compliance information. Regaining access is easy. Simply submit payment to us immediately by contacting Angela at (617) 570-8608 or replying to this email.
+
+You can also pay online.
+
+When you make your payment, you regain access to Compliance Week’s relevant and comprehensive content, featuring real-world practices, opinion, and research. You’ll also be able to take advantage of important subscriber benefits like discounts to our in-person events and access to webcasts in our on-demand CPE library.
+
+Angela Ruggiero
+Business Development Associate
+(617) 570-8608
+angela.ruggiero@complianceweek.com
+
+Subscription Details  Payment Methods
+
+Type: {!Opportunity.Single_Multi__c}-User
+Term: {!Opportunity.Subscription_Starts__c}–{!Opportunity.Subscription_Expires__c}
+Amount: {!Opportunity.Amount}
+Invoice: {!Opportunity.Invoice__c}
+Online
+Log-In
+Mail Order
+Accounts Payable
+Compliance Week
+129 Portland St Fl 6
+Boston MA 02114-2014  Call
+(617) 570-8608</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

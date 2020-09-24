@@ -1,0 +1,275 @@
+<apex:page id="thePage" controller="AddProductsController" tabStyle="Opportunity" sidebar="false">
+	<head>
+		<style>
+		
+		.mousehover{
+		    cursor:pointer;
+		}
+		
+		div .enableStyle {
+		    background: url("/img/alohaSkin/btn_important.png") repeat-x scroll 0 0 transparent;
+		    border: 0 none;
+		    background-repeat: repeat-x;
+		    border-radius: 5px 5px 5px 5px;
+		    border-style: none;
+		    box-shadow: 0 2px 4px #AAAAAA;
+		    color: #FFFFFF;
+		    font-size: 0.95em;
+		    height: 21px;
+		    padding: 0 7px 3px;
+		    font-family: Arial,Helvetica,sans-serif;
+		}
+		
+		body .btnDisabled:hover{
+		    background-position:0 0px;
+		}
+		div .enableStyle:hover {
+		    background-position:right -40;
+		    cursor:default;
+		}
+		
+		
+		div .enableStyle2 {
+		    background: url("/img/alohaSkin/btn_important.png") repeat-x scroll 0 0 transparent;
+		    border: 0 none;
+		  
+		    background-repeat: repeat-x;
+		    border-radius: 5px 5px 5px 5px;
+		    border-style: none;
+		    box-shadow: 0 2px 4px #AAAAAA;
+		    color: #FFFFFF;
+		    font-size: 0.95em;
+		    height: 21px;
+		    padding: 0 7px 3px;
+		    cursor: pointer;
+		    font-family: Arial,Helvetica,sans-serif;
+		}
+		
+		div .btnNotDisplaying{
+		    border: 0 none;  
+		    background-repeat: repeat-x;
+		    border-radius: 5px 5px 5px 5px;
+		    border-style: none;
+		    box-shadow: 0 2px 4px #AAAAAA;    
+		    font-size: 0.95em;
+		    height: 20px;
+		    padding: 0 7px 2px;
+		    cursor: pointer;
+		    font-family: Arial,Helvetica,sans-serif;
+		}
+		
+		div .disableStyle{
+		    background: none;
+		    border: 0 none;
+		    border-radius: 5px 5px 5px 5px;
+		    border-style: none;
+		    box-shadow: 0 2px 4px #AAAAAA;
+		    color: #909090;
+		    font-size: 0.95em;
+		    height: 20px;
+		    padding: 0 7px 2px;
+		    cursor:default;
+		    font-family: Arial,Helvetica,sans-serif;
+		    disabled:true;
+		}
+		
+		</style>
+		<script>
+			function assignPosition(p){
+				try{
+				
+				
+				var pos = document.getElementById("thePage:theForm:hposition");
+				pos.value = p;
+				}catch(e){
+					alert(e);
+				}
+			}
+			
+			function addPro(p){
+				assignPosition(p);
+				doAddPro();
+			}
+			
+			function removePro(p){
+				assignPosition(p);
+				doRemovePro();
+			}
+			
+			
+			function doSaveProduct(oppId){
+				var oppIdFromMain = document.getElementById("thePage:theForm:hoppId");
+				oppIdFromMain.value = oppId;
+				var accIdFromMain = document.getElementById("thePage:theForm:haccId");
+				accIdFromMain.value = '';
+				doSave();
+			}
+			
+			function doSaveProduct(oppId, accId){
+				var oppIdFromMain = document.getElementById("thePage:theForm:hoppId");
+				oppIdFromMain.value = oppId;
+				var accIdFromMain = document.getElementById("thePage:theForm:haccId");
+				accIdFromMain.value = accId;
+				
+				doSave();
+			}
+		</script>
+		
+	</head>
+	<apex:form id="theForm">
+		<apex:sectionHeader title="Product Selection for" subtitle="Opportunity {!opp.Name}" rendered="{!IF($CurrentPage.parameters.hasTop == 'true', false, true)}"/>
+		
+		
+		<apex:pageMessages />
+		
+		<apex:inputHidden value="{!position}" id="hposition"/>
+		 
+		<apex:actionFunction name="doAddPro" action="{!addProduct}" rerender="theForm" status="statusAddPro"/>
+		<apex:actionFunction name="doRemovePro" action="{!removeProduct}" rerender="theForm" status="statusAddPro"/>
+		<apex:actionFunction name="doSave" action="{!doSave}" rerender="theForm" status="statusAddPro"/>
+		
+		<!-- Block Search -->
+		<apex:pageBlock id="theBlockSearch" rendered="{!isAddPro}">
+			<h3><apex:outputLabel styleClass="searchFirstCell" value="Find Products" style="font-size: 1.2em;"/></h3><br/><br/>
+			<div class="searchFilterFieldsHolder searchFilterFieldsHolderFirst">
+				<table class="searchFilterFields" width="100%">
+					<tr>
+						<td class="keywordElement" style="width:160px">
+							<apex:outputLabel styleClass="inputTitle" value="By Product Name" for="proName"/>
+							<br/>
+							<apex:inputText value="{!keyProductName}" id="proName"/>
+						</td>
+						<td  class="keywordElement" style="width:160px">
+							<apex:outputLabel styleClass="inputTitle" value="By Product Family" for="proFamily"/>
+							<br/>
+							<apex:selectList value="{!keyProductFamily}" multiselect="false" size="1" style="margin-top: 4px;">
+								<apex:selectOptions value="{!productFamily}"/>
+							</apex:selectList>
+						</td>
+						<td  class="keywordElement">
+							<apex:outputLabel styleClass="inputTitle" value="By Business Unit"/>
+							<br/>
+							<apex:selectList value="{!keyBusinessUnit}" multiselect="false" size="1" style="margin-top: 4px;">
+								<apex:selectOptions value="{!productBusinessUnit}"/>
+							</apex:selectList>
+						</td>
+					</tr>
+					<tr>
+						<td colspan="3">
+							<apex:commandButton value="Search" action="{!doSearch}" rerender="theForm" status="statusSearch"/>
+						</td>
+					</tr>
+				</table>
+			</div>
+			<br/><br/>
+			
+			<apex:actionStatus id="statusSearch">
+				<apex:facet name="start">
+					<apex:outputText >
+						<apex:image value="/img/loading.gif"/>&nbsp;<apex:outputLabel value="Loading ..."/>
+					</apex:outputText>
+				</apex:facet>
+			</apex:actionStatus>
+			
+			<apex:outputPanel rendered="{!isSearched}">
+				<h3><apex:outputLabel styleClass="searchFirstCell" value="Result Search" style="font-size: 1.2em;"/></h3><br/><br/>
+				<apex:pageBlockTable value="{!lstProResults}" var="item">
+					<apex:column headerValue="Action" width="50px">
+						<apex:commandButton value=" Add " onclick="addPro('{!item.index}'); return false;" />
+					</apex:column>
+					<apex:column headerValue="Product Name">
+						<apex:outputLink value="/{!item.pro.Id}">{!item.pro.Name}</apex:outputLink>
+					</apex:column>
+					<apex:column headerValue="Product Family" value="{!item.pro.Family}"/>
+					<apex:column headerValue="Business Unit" value="{!item.pro.Business_Unit__c}"/>
+				</apex:pageBlockTable>
+			</apex:outputPanel>
+			<apex:outputText value="No records to display." rendered="{!isEmptyPro}"/>
+		</apex:pageBlock>
+		
+			<apex:actionStatus id="statusAddPro">
+				<apex:facet name="start">
+					<apex:outputText >
+						<apex:image value="/img/loading.gif"/>&nbsp;<apex:outputLabel value="Loading ..."/>
+					</apex:outputText>
+				</apex:facet>
+			</apex:actionStatus>
+		
+	 	<apex:pageBlock id="theBlockAddProduct" rendered="{!isAddedPro}">
+	 		<apex:pageBlockButtons >
+	 			<apex:commandButton value="Save" action="{!doSave}" title="Save"/>
+	 			<apex:commandButton value="Cancel" action="{!doCancel}" title="Cancel"/>
+	 		</apex:pageBlockButtons>
+	 		
+	 		<div style="overflow-x:auto;" id="divTable">
+			<apex:pageBlockTable value="{!lstOppPros}" var="item" cellpadding="0" cellspacing="0" border="0" style="width:100%">
+				
+					<apex:column headerValue="Action" style="width:50px">
+						<apex:commandLink value="Del" onclick="removePro('{!item.index}'); return false;" />
+					</apex:column>
+					<apex:column headerValue="{!$ObjectType.Product2.Fields.Name.label}" style="width:160px">
+						<apex:outputLabel value="{!item.proName}" style="width:150px"/>
+					</apex:column>
+					
+					<apex:column headerValue="{!$ObjectType.OpportunityLineItem.Fields.UnitPrice.label}" style="width:90px">
+						<apex:inputField value="{!item.oppPro.UnitPrice}" style="width:80px"/>
+					</apex:column>
+					
+					<apex:column headerValue="{!$ObjectType.OpportunityLineItem.Fields.Quantity.label}" style="width:90px">
+						<apex:inputField value="{!item.oppPro.Quantity}" style="width:80px" rendered="{!!item.isOptionSubscription}"/>
+					</apex:column>
+					
+					<apex:column headerValue="{!$ObjectType.OpportunityLineItem.Fields.ServiceDate.label}" style="width:150px">
+						<apex:inputField value="{!item.oppPro.ServiceDate}" style="width:150px"/>
+					</apex:column>
+					
+					<apex:column headerValue="{!$ObjectType.OpportunityLineItem.Fields.Expiry_Date__c.label}" style="width:180px" rendered="false">
+						<apex:inputField value="{!item.oppPro.Expiry_Date__c}" style="width:150px"/>
+					</apex:column>
+					
+					<apex:column headerValue="{!$ObjectType.OpportunityLineItem.Fields.Renewal_Rate__c.label}" style="width:150px">
+						<apex:inputField value="{!item.oppPro.Renewal_Rate__c}" style="width:150px" rendered="{!item.isOptionSubscription}"/>
+					</apex:column>
+					
+					
+					<apex:column headerValue="{!$ObjectType.OpportunityLineItem.Fields.Contact__c.label}" style="width:150px">
+						<apex:inputField value="{!item.oppPro.Contact__c}" style="width:150px" rendered="{!item.isOptionSubscription}"/>
+					</apex:column>
+				
+			</apex:pageBlockTable>
+			</div>
+			<script>
+				document.getElementById('divTable').style.width = (document.body.offsetWidth - 50) + 'px';
+			</script>
+			<br/>
+        <div style="position:relative;displayinline;">
+	        <div style="text-align:left;position:absolute;"><apex:outputLabel style="font-weight:bold;" value="{!disNumOfRecPerPage}" id="displayNumRec"/></div>
+	        <div style="text-align:right;padding-right:20px;">
+	            <apex:commandButton value="Previous" title="{!If(pageNum == 1 , '','Previous')}" reRender="theForm" action="{!goPrevious}"  disabled="{!pageNum == 1}" styleclass="{!IF(pageNum == 1 ,'disableStyle', 'enableStyle2')}" style="padding: 0 7px 3px;"/><span></span>
+	                <apex:repeat value="{!numBtn}"  var="num">
+	                    
+	                    <apex:commandButton value="{!num}" action="{!gotoPage}" title="{!num}" reRender="theForm"  disabled="{!IF(pageNum == num ,true, false)}" styleclass="{!IF(pageNum != num , 'btnNotDisplaying','enableStyle')}" style="{!IF(pageNum != num ,'padding: 0 7px 2px;','padding: 0 7px 3px;color:#FFFFFF;')}">
+	                        <apex:param name="pageNum" value="{!num}" assignTo="{!pageNum}"/>
+	                    </apex:commandButton>
+	                    <span></span>
+	                </apex:repeat>
+	            <apex:commandButton value="Next" title="{!IF(hasNext != true ,'','Next')}" reRender="theForm" action="{!goNext}"   disabled="{!!hasNext}" styleclass="{!IF(hasNext != true ,'disableStyle','enableStyle2' )}" style="padding: 0 7px 3px;"/>
+	        </div>
+        </div>
+        
+		</apex:pageBlock>
+	 	
+	 	<script>
+	 	
+			function stopRKey(evt) {
+				var evt = (evt) ? evt : ((event) ? event : null);
+				var node = (evt.target) ? evt.target : ((evt.srcElement) ? evt.srcElement : null);
+				if (evt.keyCode == 13 && (node.type=="text")) {  
+					return false;
+				}
+			}
+			document.onkeypress = stopRKey;
+		</script>
+		
+	</apex:form>
+</apex:page>

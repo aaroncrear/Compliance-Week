@@ -1,0 +1,20 @@
+<html dir="ltr">
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <p>Dear {!Contact.FirstName},</p>
+        <p>Thank you for subscribing to <a name="cw home" xt="SPCLICK" href="http://www.complianceweek.com/" target="_blank">Compliance Week</a>. Your account has been activated, and you now have access to all gated content. You will be receiving an email to reset your password.  Please click on the link to reset.</p>
+                <p><b>Selecting Weekly Emails</b> You may elect to receive Compliance Week editorial email newsletters published on Tuesdays, Wednesdays and Thursdays. In addition, you can choose from other complimentary email services: Event announcements, Thought Leadership announcements, and Compliance Week Alert emails. Selections may be made on the My CW page.</p> (please note that email selections do sometimes change).
+                <p><b>Subscriber Information</b> Please ensure that the following details are correct. If you choose to receive our quarterly print magazine, we will use the address on file to service it. Corrections may be made on the My Account page</p>
+        <p>{!Contact.FirstName} {!Contact.LastName}<br />
+        {!Contact.Title}<br />
+        {!Account.Name}<br />
+        {!Contact.MailingAddress}<br />
+        Email: {!Contact.Email}<br />
+        <br />
+        <b>Expiration Date: {!Contact.Expiration_Date__c}</b>
+        <p>Thanks again! And remember, we&rsquo;re here to help. Please don't hesitate to call or email if you need any assistance.
+        <p>Sincerely,</p>
+        <p>Donna O'Neill (978) 239-2092<br />
+        Compliance Week<br />

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Conference Highlights</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>You&apos;re not alone; join your peers | for CW14 regional DC promo</name>
+    <style>none</style>
+    <subject>Almost at room capacity</subject>
+    <textOnly>You&apos;re not alone
+
+Join us this May for three days of networking with like-minded executives.  Register now at the discounted rate of $1,295, 19 CPE credit opportunities, and an agenda you can customize.
+
+We&apos;ve packed the agenda with sessions and speakers already this year. Below
+are a few highlights from the CW2014 keynote roster to whet your appetite.
+
+KEYNOTE | Peter Swire
+Professor of Business &amp; Privacy Law
+Georgia Institute of Technology
+Presidential adviser on NSA eavesdropping
+
+KEYNOTE | Kara M. Stein
+Commissioner
+U.S. Securities and Exchange Commission
+
+KEYNOTE | Andrew Ceresney
+Director of Enforcement
+U.S. Securities and Exchange Commission
+A few of the sessions we are excited about
+
+May 19 | Integrating Enhanced Audit Expectations Into the Control Regime
+May 19 | Corporate Culture as a Top-Level Control
+May 19 | Scared Straight: Teaching the Importance of Corporate Governance
+May 20 | Third-Party Risk Management at Decentralized Companies
+May 20 | Digging for Success With Conflict Minerals
+
+CLICK  |  CALL 617-570-8617  | EMAIL</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

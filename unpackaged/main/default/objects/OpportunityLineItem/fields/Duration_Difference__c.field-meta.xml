@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Duration_Difference__c</fullName>
+    <externalId>false</externalId>
+    <formula>IF(Duration__c &gt; Duration_Product__c, Duration__c - Duration_Product__c,IF(Duration_Product__c &gt; Duration__c, Duration_Product__c - Duration__c,null))</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <label>Duration Difference</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>0</scale>
+    <type>Number</type>
+    <unique>false</unique>
+</CustomField>

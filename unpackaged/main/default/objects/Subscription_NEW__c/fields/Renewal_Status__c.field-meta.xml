@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Renewal_Status__c</fullName>
+    <externalId>false</externalId>
+    <formula>IF(Start_Date__c &gt; TODAY(),null,
+
+IF(NOT(ISBLANK(Recapture_Opportunity__c)) &amp;&amp; ISPICKVAL(Recapture_Opportunity__r.StageName,"Closed Won"),"Recaptured",
+
+IF(ISBLANK(Renewal_Opportunity__c ),TEXT(Expiration_Date__c - TODAY())&amp;" Days Remaining",
+
+IF(ISPICKVAL(Renewal_Opportunity__r.Business_Type__c, "Renewal") &amp;&amp;  Renewal_Opportunity__r.IsClosed  = FALSE,"Renewal Pending",
+
+IF( (ISPICKVAL(Renewal_Opportunity__r.Business_Type__c, "Renewal") ||        ISPICKVAL(Renewal_Opportunity__r.Business_Type__c, "Renewal Upgrade")) &amp;&amp; ISPICKVAL(Renewal_Opportunity__r.StageName,"Closed Won"),"Renewal Agreed",
+
+IF( ISPICKVAL(Renewal_Opportunity__r.Business_Type__c, "Renewal") &amp;&amp; ISPICKVAL(Renewal_Opportunity__r.StageName,"Closed Lost"),"Did Not Renew",
+
+IF( ISPICKVAL(Renewal_Opportunity__r.Business_Type__c,"Upgrade") &amp;&amp; Renewal_Opportunity__r.IsClosed = FALSE, "Upgrade Pending",
+
+IF( ISPICKVAL(Renewal_Opportunity__r.Business_Type__c,"Upgrade") &amp;&amp; ISPICKVAL(Renewal_Opportunity__r.StageName,"Closed Won"),"Upgraded Mid-Term",null)
+)
+)
+)
+)
+)
+)
+)</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <label>Renewal Status</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

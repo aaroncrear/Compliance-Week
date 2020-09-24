@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?><Workflow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <alerts>
+        <fullName>MoM_Lead_Alert</fullName>
+        <ccEmails>donna.oneill@complianceweek.com</ccEmails>
+        <description>MoM Lead Alert</description>
+        <protected>false</protected>
+        <recipients>
+            <recipient>angela.ruggiero@complianceweek.com</recipient>
+            <type>user</type>
+        </recipients>
+        <senderAddress>info@complianceweek.com</senderAddress>
+        <senderType>OrgWideEmailAddress</senderType>
+        <template>AutoEmails/MoM_Lead_Alert</template>
+    </alerts>
+    <alerts>
+        <fullName>New_Qualified_Lead_from_OnBrand</fullName>
+        <description>New Qualified Lead from OnBrand</description>
+        <protected>false</protected>
+        <recipients>
+            <recipient>elizabeth.sucher@complianceweek.com</recipient>
+            <type>user</type>
+        </recipients>
+        <recipients>
+            <recipient>patrick.romano@complianceweek.com</recipient>
+            <type>user</type>
+        </recipients>
+        <senderType>CurrentUser</senderType>
+        <template>unfiled$public/New_Qualified_Lead_from_OnBrand</template>
+    </alerts>
+    <alerts>
+        <fullName>Notify_users_when_new_web_lead_is_generated</fullName>
+        <description>Notify users when new web lead is generated</description>
+        <protected>false</protected>
+        <recipients>
+            <type>owner</type>
+        </recipients>
+        <senderAddress>info@complianceweek.com</senderAddress>
+        <senderType>OrgWideEmailAddress</senderType>
+        <template>SubSalesEmails/Simple_Web_Lead_Notification</template>
+    </alerts>
+    <fieldUpdates>
+        <fullName>Business_Unit</fullName>
+        <description>Populates the Business Unit field.</description>
+        <field>Business_Unit__c</field>
+        <literalValue>Compliance Week</literalValue>
+        <name>Business Unit</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Literal</operation>
+        <protected>false</protected>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Check_No_Trial</fullName>
+        <description>This Field Update checks the "No Trial" box.</description>
+        <field>No_Trial__c</field>
+        <literalValue>0</literalValue>
+        <name>Check No Trial</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Literal</operation>
+        <protected>false</protected>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Lead_Send_Print</fullName>
+        <description>Sets Send Print checkbox to "True."</description>
+        <field>Send_Print_Magazine__c</field>
+        <literalValue>1</literalValue>
+        <name>Lead Send Print</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Literal</operation>
+        <protected>false</protected>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Multi_Account</fullName>
+        <description>Updates Multi Account field if the Lead is associated with Multi Account.</description>
+        <field>Multi_Account__c</field>
+        <literalValue>Yes</literalValue>
+        <name>Multi Account</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Literal</operation>
+        <protected>false</protected>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>User_Type_Blank</fullName>
+        <field>User_Type__c</field>
+        <name>User Type = Blank</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Literal</operation>
+        <protected>false</protected>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>User_Type_Trial</fullName>
+        <field>User_Type__c</field>
+        <literalValue>Trial</literalValue>
+        <name>User Type = Trial</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Literal</operation>
+        <protected>false</protected>
+    </fieldUpdates>
+    <rules>
+        <fullName>Multi Account - Lead</fullName>
+        <actions>
+            <name>Multi_Account</name>
+            <type>FieldUpdate</type>
+        </actions>
+        <active>false</active>
+        <description>Is this Lead associated with a Multi Account?</description>
+        <formula>INCLUDES(Account__r.Customer_Type__c,"Subscription - Multi")</formula>
+        <triggerType>onAllChanges</triggerType>
+    </rules>
+    <tasks>
+        <fullName>New_MoM_Lead</fullName>
+        <assignedTo>angela.ruggiero@complianceweek.com</assignedTo>
+        <assignedToType>user</assignedToType>
+        <dueDateOffset>0</dueDateOffset>
+        <notifyAssignee>false</notifyAssignee>
+        <priority>Normal</priority>
+        <protected>false</protected>
+        <status>Not Started</status>
+        <subject>New MoM Lead</subject>
+    </tasks>
+</Workflow>

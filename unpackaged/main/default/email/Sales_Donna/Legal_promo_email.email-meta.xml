@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>this email is for new subscriber promo from the FRA legal list</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Legal promo email</name>
+    <style>none</style>
+    <subject>Unrestricted access</subject>
+    <textOnly>{!Contact.FirstName},  
+
+I work for Compliance Week, the leading information service on corporate compliance. As Acritas Research Ltd currently doesn’t have access to our service, I invite you to join.
+
+Of the 50 largest law firms in the US, 28 are subscribers—including Baker &amp; McKenzie, DLA Piper, Latham &amp; Watkins, and White &amp; Case. Hundreds of attorneys and the majority of Fortune 1000 companies rely on us to keep them well informed.
+
+Still not sure? We offer a free 10-day no-obligation trial.  Just send me a quick note and I’d be happy to set you up with access.
+
+Please feel free to call or e-mail with any questions.
+
+
+Thanks!</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

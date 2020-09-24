@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>false</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Webcast Forum June 2014</name>
+    <style>none</style>
+    <subject>June 25 Webcast Forum: Gain access to 400+  legal, risk, audit, and IT executives from public companies!</subject>
+    <type>text</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

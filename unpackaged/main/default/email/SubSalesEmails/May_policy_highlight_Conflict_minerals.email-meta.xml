@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>May promo highlighting conflict minerals disclosure deadline</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>May policy highlight-Conflict minerals</name>
+    <style>none</style>
+    <subject>Year 2: The Auditing Challenge</subject>
+    <textOnly>how do you stay ahead of policy?
+
+
+The Form SD filing deadline for this year&apos;s conflict minerals disclosures—June 1—is approaching.
+
+Browse Compliance Week&apos;s coverage as this policy has developed over recent years with analysis and opinion from columnists and writers, including award-winning blogger Joe Mont.
+
+Conflict Minerals, Year 2: The Auditing Challenge
+
+Conflict Minerals: From Compliance to Risk Management
+
+AICPA Offers Advice for Conflict Minerals Audits
+
+Shop Talk: Managing Vendor Risk
+
+
+You continually improve your program. We continually support your efforts. Subscribe for $799.</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

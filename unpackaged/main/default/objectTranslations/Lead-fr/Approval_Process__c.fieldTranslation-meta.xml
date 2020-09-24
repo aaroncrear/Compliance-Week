@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <help><!-- What is the process for (or how do your or your group go about) registering for professional memberships and subscriptions? --></help>
+        <label><!-- Approval Process --></label>
+        <name>Approval_Process__c</name>
+        <picklistValues>
+            <masterLabel>Approval Process - Immediate</masterLabel>
+            <translation><!-- Approval Process - Immediate --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Approval Process - Less than 1 month</masterLabel>
+            <translation><!-- Approval Process - Less than 1 month --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Approval Process - More than 1 month</masterLabel>
+            <translation><!-- Approval Process - More than 1 month --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>No Approval Process</masterLabel>
+            <translation><!-- No Approval Process --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

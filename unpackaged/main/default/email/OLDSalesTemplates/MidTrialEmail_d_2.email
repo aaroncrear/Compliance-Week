@@ -1,0 +1,30 @@
+Dear {!Contact.FirstName}, 
+
+Just checking in to see how you were enjoying your trial access to Compliance Week. 
+
+If you have any questions for me or our editor, Matt Kelly, please let me know.
+
+Tens of thousands of financial, legal, risk, audit and compliance officers at thousands of public companies rely on our news, commentary and databases, and they have much to say about our coverage:
+
+--------------------------
+
+- Yahoo! Chief Ethics And Compliance Officer David Farrell: “Compliance Week is an excellent and comprehensive resource for keeping up to date on evolving issues in corporate compliance.”  
+
+- Genzyme Chief Compliance Officer Roger Louis: “Compliance Week is an essential tool for any compliance officer’s toolkit.” 
+ 
+- Office Depot SVP and Chief Compliance Officer Robert H. Brewer: “For global risk management information, Compliance Week is a timely, relevant, and comprehensive resource.”  
+ 
+- Qwest Communications Chief Ethics and Compliance Officer & VP Risk Management Dave Heller: “Compliance Week is a ‘must read’ for public company executives responsible for risk, ethics and compliance.” 
+
+--------------------------
+
+We're confident you'll find Compliance Week just as useful, and we look forward to serving you.
+
+To subscribe, drop me an email or call me at {!Account.OwnerPhone}. 
+
+Thanks for considering, 
+
+{!Account.OwnerFullName} 
+{!Account.OwnerTitle} 
+{!Account.OwnerPhone} 
+{!Account.OwnerEmail}

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>2007 Year-End Promo - Kara</name>
+    <style>none</style>
+    <subject>Introductory Compliance Week Subscription Rates</subject>
+    <textOnly>$599 Introductory Subscription: A $400 Savings
+
+Dear &lt;First Name&gt;, 
+
+For a limited time you can subscribe to Compliance Week — the leading information source on governance, risk and compliance—at an unprecedented introductory rate: $599 for a single-user subscription.
+
+[  Click Here to Subscribe: http://subscribe.complianceweek.com or Reply to this Email ]
+
+Between now and December 31, 2007, first-time subscribers can take $400 off our annual subscription price of $999. I hope you&apos;ll take advantage of this offer and join over 25,000 legal, financial, and other executives at thousands of companies who read our weekly newsletter and monthly print magazine, and utilize the extensive data resources on our subscription-only Web site.
+
+And as you can see from the testimonials below, Compliance Week subscribers rely on our news, analysis, searchable databases, and other resources to help them comprehend and comply with the latest regulations. 
+
+I hope you&apos;ll join them as Compliance Week subscribers and take advantage of our unprecedented introductory subscription rate.  Subscribe Today: http://subscribe.complianceweek.com
+
+Please Note: We are also offering significant discounts on multi-user and multi-year subscriptions; simply reply to this e-mail or call me at the number below for more details.
+
+Thanks for considering, and best regards,
+
+Kara Doherty
+Compliance Week
+(888) 519-9200 x212
+kdoherty@complianceweek.com
+
+
+“Compliance Week is an excellent and comprehensive resource for keeping up to date on evolving issues in corporate compliance.”
+Yahoo! Chief Ethics And Compliance Officer David Farrell 
+
+“No publication covers critical corporate governance issues like Compliance Week.”
+ Tyco International SVP Corporate Governance Eric Pillmore
+
+“For coverage at the junction of accounting, governance, risk and corporate law, I recommend Compliance Week.”
+Safeway Senior Vice President Finance and Control David F. Bond
+
+“Compliance Week is by far the number one resource for covering the intersecting areas of the compliance world—legal, ethics, accounting, governance, ERM—in a timely, user-friendly format. I highly recommend it.”
+Ford Motor Company Assistant General Counsel &amp; Director of Compliance Robert T. Biskup
+
+Click here to see more testimonials from paying subscribers: http://testimonials.complianceweek.com
+
+© Financial Media Holdings Group, Inc. All Rights Reserved.&quot;Compliance Week&quot; is a registered mark of Financial Media Holdings Group, Inc. 
+
+Sent by:
+
+Compliance Week
+77 N. Washington Street
+Boston, MA 02114
+
+&lt;PLUGIN_UNSUBSCRIBE: 159143-UNSUBSCRIBE&gt;</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

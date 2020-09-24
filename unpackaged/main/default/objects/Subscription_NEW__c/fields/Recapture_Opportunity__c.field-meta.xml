@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Recapture_Opportunity__c</fullName>
+    <deleteConstraint>SetNull</deleteConstraint>
+    <externalId>false</externalId>
+    <inlineHelpText>If this Subscription does not renew, a recapture Opportunity is created 30 days after it expires.</inlineHelpText>
+    <label>Recapture Opportunity</label>
+    <referenceTo>Opportunity</referenceTo>
+    <relationshipLabel>Subscriptions (NEW) (Recapture Opportunity)</relationshipLabel>
+    <relationshipName>Subscriptions_New1</relationshipName>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+</CustomField>

@@ -1,0 +1,37 @@
+{!Contact.FirstName},
+
+I understand that recently you agreed to a Compliance Week subscription order and were emailed an invoice that you needed to sign and fax back to us in order to process your order.
+
+Since that time, we have streamlined our ordering process, and we no longer require your signature on the invoice. We now have a really simple order agreement ... to confirm your subscription, simply reply to this e-mail and write "I agree" -- this will confirm that you agree to the terms below. Then we will email you an invoice and process the order immediately while we wait for payment. (If you want to pay by credit card, let me know and I can call you for that info.)
+
+-----------------------------------------------------------------------------------
+ORDER CONFIRMATION: By replying to this e-mail and
+typing "I agree" in the body of your reply e-mail, you
+hereby agree to be bound by the following Compliance
+Week subscription order:
+
+Subscription Type: {!Opportunity.Transaction_Description__c}
+Price: {!Opportunity.Amount}
+Payment Due: Net 30 Days
+Length of Subscription: {!Opportunity.Duration__c}
+Terms & Conditions: http://www.complianceweek.com/page/82
+
+You also agree to process this order for payment as soon
+as possible, and confirm that you are authorized to enter
+into this agreement in its entirety.
+---------------------------------------------------------------------------------
+
+Let me know if you have any further questions or need anything else.
+
+We look forward to getting your subscription order processed and getting you access to Compliance Week immediately.
+
+Thanks, and best regards,
+
+Frank
+
+----------------------------------------------------------------- 
+Frank Hertz 
+Managing Director
+Compliance Week 
+fhertz@complianceweek.com | 888-519-9200 x201
+-----------------------------------------------------------------

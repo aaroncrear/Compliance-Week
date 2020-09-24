@@ -1,0 +1,27 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>: Your Compliance Week Trial</title>
+
+  </head>
+  
+  <body>
+<img src="http://media.complianceweek.com/images/2010/12/03/complianceweek_133062_133258.gif" alt="Compliance Week" width="436">
+<p>Dear {!Contact.FirstName},</p>
+<p>Thank you for signing up for a free 10-day Compliance Week trial. Here&#8217;s your log-in info:</p>
+<p>Username: {!Contact.Email}</p>
+<p>Password: click on forgot password to have a temporary password emailed to you</p>
+<p>I hope you take the time to review all of our resources, including our articles, databases, columns, blogs, and other critical information.</p>
+<ul>
+<li>Three weekly <a href="http://www.complianceweek.com/newsletters">email newsletters</a></li>
+<li>Monthly print magazine</li>
+<li>24/7 access to our Web site, which includes articles, columns, guidance, nine years' of archives, and more</li>
+<li>More than a dozen <a href="http://www.complianceweek.com/databases/section/1768/">research databases</a></li>
+<li>Free CPE credit from our <a href="http://www.complianceweek.com/on-demand-cpe-library/section/1886/">on-demand library</a></li>
+<li>Expert commentary from exclusive writers like former FASB Chairman Robert Herz and others</li>
+<li>Our <a href="http://www.complianceweek.com/resource-exchange/section/1773/">Resource Exchange</a>, with checklists, surveys, and other tools used by peers at other subscribing companies</li>
+<li>And <a href="http://www.complianceweek.com/new-subscription/section/2919/">much more</a>.</li></ul>
+<p>Best regards,</p>
+<p>Donna O'Neill</p>
+Compliance Week | (617) 570-8617</p>

@@ -1,0 +1,15 @@
+Dear {!Contact.FirstName},
+
+Please note that our records indicate that payment for your subscription to Compliance Week is still outstanding and is now seriously past due.
+
+Payment must be received by credit card within the next 72 hours, or your account will be canceled and referred for collection.
+
+To pay by credit card, call 888-519-9200 between the hours of 9 a.m. and 5 p.m. EST.
+
+We show your current balance as {!Opportunity.Amount}, for the subscription you purchased on {!Opportunity.CloseDate}.
+
+If payment has been sent, please disregard this notice.
+
+Thanks and Best Regards,
+
+Compliance Week

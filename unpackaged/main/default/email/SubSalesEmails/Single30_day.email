@@ -1,0 +1,16 @@
+Dear {!Contact.FirstName}, 
+
+Just wanted to remind you that your subscription will be expiring on   {!Contact.Expiration_Date__c}  and renewing on the following day.  
+
+Please find your invoice attached.
+
+Please contact me if you have any questions or need assistance with your account.
+
+
+Regards,
+
+Angela Ruggiero
+Business Development Associate
+Compliance Week
+   T 617-570-8608 ~888-519-9200
+Free 10-Day Trial | Events | LinkedIN

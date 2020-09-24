@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportFolder xmlns="http://soap.sforce.com/2006/04/metadata">
+    <accessType>Shared</accessType>
+    <name>Opportunities</name>
+    <publicFolderAccess>ReadOnly</publicFolderAccess>
+    <sharedTo>
+        <role>Director_of_Advertising_Sales</role>
+        <role>Director_of_Marketing_and_Systems</role>
+        <role>Director_of_Subscription_Sales</role>
+        <role>Managing_Director</role>
+    </sharedTo>
+</ReportFolder>

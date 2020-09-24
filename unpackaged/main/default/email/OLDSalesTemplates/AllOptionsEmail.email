@@ -1,0 +1,28 @@
+Dear {!Contact.FirstName}:
+
+It was really nice talking with you today.  
+
+Per your request, here are our Compliance Week subscription options:
+
+SINGLE-USER SUBSCRIPTION
+> A one-year single-user subscription is $999.
+
+> Save $400 and sign up for two years for $1,598.
+
+MULTI-USER SUBSCRIPTIONS
+> A corporate-wide license gives you unlimited access for an unlimited amount of users for your entire corporation. These licenses start at $3,499, with a $500 discount the first year to $2,999. (Save a total of $1,000 by signing up for two years for $5,998)
+
+> A Department-wide license gives you unlimited access for an unlimited amount of users within one department. These licenses start at $2,499 with a $300 discount the first year to $2,199. (Save a total of $800 by signing up for 2 years at $4,198.)
+
+Please let me know if you would like more information or if you would like to discuss your specific situation. I've attached a PDF that describes everything you get with a subscription in more detail.
+
+Thanks for considering … I hope you’ll join the tens of thousands of financial, legal, risk, audit and compliance officers who rely on our news, commentary and databases. 
+
+If you have any questions feel free to call me at {!Account.OwnerPhone}.
+
+Thanks, and best regards,
+
+{!Account.OwnerFullName}
+{!Account.OwnerTitle}
+{!Account.OwnerPhone}
+{!Account.OwnerEmail}

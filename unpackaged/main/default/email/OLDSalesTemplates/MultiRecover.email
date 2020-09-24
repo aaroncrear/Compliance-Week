@@ -1,0 +1,18 @@
+Dear {!Contact.FirstName}:
+
+As you know, your company's Compliance Week subscription expired on {!Contact.Expiration_Date__c}.
+
+I'd like to get you back as a paying subscriber, so you and your colleagues can benefit from our weekly coverage, monthly print magazine, searchable online databases, insightful columnists, five years of archives, and much more.
+
+To get you to come back, I can offer you a special one-year subscription rate of $2,999, or a two-year rate of $5,998.
+
+Please feel free to contact me via email or call me directly at {!Account.OwnerPhone} to take advantage of this offer and to re-activate your subscription.
+
+I'll make sure you and your colleagues don't miss another day of access to Compliance Week.
+
+Thanks, and best regards, 
+
+{!Account.OwnerFullName}
+{!Account.OwnerTitle}
+{!Account.OwnerPhone}
+{!Account.OwnerEmail}

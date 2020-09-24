@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>To be sent to users in the Hard Bounce list</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Bounce Letter</name>
+    <style>none</style>
+    <subject>Why am I not receiving my Compliance Week e-newsletters?</subject>
+    <textOnly>Dear {!Contact.FirstName},
+
+We recently changed the service provider that we use to send our email newsletters. This has led to a high bounce rate from your company&apos;s servers. To guarantee you receive the newsletters you have selected, please contact your network administrator to add the following host addresses to your company&apos;s e-mail SPAM filter &quot;whitelist&quot;:
+
+ Host
+ Address
+ 
+ mail3539.haymarketmedia.mkt4136.com
+ 74.121.48.24
+ 
+ mail3573.mkt4170.com
+ 74.121.48.58
+ 
+ mail3575.mkt4172.com
+ 74.121.48.60
+
+ mail3572.mkt4169.com
+ 74.121.48.57
+
+You will only receive e-mail newsletters from Compliance Week through those servers.
+
+Best regards,
+
+Compliance Week</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

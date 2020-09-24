@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Is internal audit misaligned?</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Internal audit 4-15-14</name>
+    <style>none</style>
+    <subject>is internal audit misaligned?</subject>
+    <textOnly>Stakeholders and CAEs have different ideas about the role of internal
+audit and expected goals. What are the anomalies? Do they exist in your program?
+
+Find out in Tammy Whitehouse&apos;s latest article detailing those misaligned perceptions.
+
+Think you might be missing additional deep-dive coverage?
+Email Angela to begin your subscription for $799*.
+Or call (888) 519-9200
+
+Need help?
+Email us |   Call us 888-519-9200   | Visit
+
+*Offer is for a single-user subscription and available to first-time subscribers only through April 30, 2014.</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

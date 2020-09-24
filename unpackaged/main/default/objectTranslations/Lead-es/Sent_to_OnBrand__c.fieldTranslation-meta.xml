@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <help><!-- Has this Lead previously been sent to OnBrand --></help>
+        <label><!-- Sent to OnBrand --></label>
+        <name>Sent_to_OnBrand__c</name>
+    </CustomFieldTranslation>

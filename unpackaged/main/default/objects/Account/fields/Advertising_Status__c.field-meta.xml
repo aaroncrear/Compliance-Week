@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Advertising_Status__c</fullName>
+    <externalId>false</externalId>
+    <label>Advertising Status</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Current Customer</fullName>
+                <color>#0B6FCE</color>
+                <default>false</default>
+                <label>Current Customer</label>
+            </value>
+            <value>
+                <fullName>Former Customer</fullName>
+                <color>#E27001</color>
+                <default>false</default>
+                <label>Former Customer</label>
+            </value>
+            <value>
+                <fullName>Prospect</fullName>
+                <color>#993399</color>
+                <default>true</default>
+                <label>Prospect</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

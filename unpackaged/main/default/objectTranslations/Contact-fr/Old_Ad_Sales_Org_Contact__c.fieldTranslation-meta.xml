@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Old Ad Sales Org Contact? --></label>
+        <name>Old_Ad_Sales_Org_Contact__c</name>
+    </CustomFieldTranslation>

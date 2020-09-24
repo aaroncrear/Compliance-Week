@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+<head>
+	<title>Your subscription</title>
+</head>
+<body>
+<table border="0" cellpadding="0" cellspacing="0" style="width: 600px;">
+	<tbody>
+		<tr>
+			<td><img align="middle" border="0" height="57.41" name="Cont_0" src="https://d2l6535doef9z7.cloudfront.net/CMS/s3/wcw-library/web/e/e/f/print_logotaglinecaps_122660.png?w=250&amp;h=250&amp;mode=max" width="244" height="38" name="Cont_0" align="middle" border="0" /><br />
+			<span style="font-size:13px;"></span><br />
+			&nbsp;
+			<div style="text-align: center;"><span style="font-size:13px;">&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; </span></div>
+			</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td style="text-align: center;"><a href="https://www.complianceweek.com/my-cw" name="Hyperlink_20180305_163223218" target="_blank" xt="SPCLICK">My Account</a> | <a href="https://www.complianceweek.com/terms-and-conditions" name="Hyperlink_20180305_181214439" target="_blank" xt="SPCLICK">Terms &amp; Conditions</a>
+			<div style="text-align: left;"><span style="font-size:11px;">&nbsp; &nbsp; &nbsp; &nbsp; <span style="color:#A9A9A9;">Log-In Required</span></span></div>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div><br />
+<br />
+Dear {!Opportunity.Primary_Subscription_Contact__c},<br />
+&nbsp;<br />
+Thank you for joining Compliance Week. As a valued member, you have access to:</div>
+
+<ul>
+	<li>News &amp; Analysis&mdash;Hundreds of articles and weekly updates featuring real-world best practices, opinion, and research</li>
+	<li>Professional Development&mdash;World class conferences and unrestricted on-demand webcast &amp; CPE library</li>
+	<li>Benchmarking Tools &amp; Research Library</li>
+</ul>
+
+<div>Please contact me for information about your benefits, customer service questions or to make a payment.<br />
+<br />
+Your feedback and advice is important, and we&rsquo;d like to better understand what you value most about Compliance Week. If you have a moment, please participate in this short <a href="https://www.research.net/r/QCWS6FZ" name="Hyperlink_20180312_123025869" target="_blank" xt="SPCLICK">two-question survey</a>.<br />
+<br />
+Thank you and best regards,<br />
+<br />
+Angela Ruggiero<br />
+Business Development Associate<br />
+(617) 570-8605<br />
+angela.ruggiero@complianceweek.com<br />
+&nbsp;</div>
+</body>
+</html>

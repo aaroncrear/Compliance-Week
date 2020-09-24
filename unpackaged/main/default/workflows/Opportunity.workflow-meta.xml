@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="utf-8"?><Workflow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <alerts>
+        <fullName>CCC_Notification</fullName>
+        <description>CCC Notification</description>
+        <protected>false</protected>
+        <recipients>
+            <recipient>angela.ruggiero@complianceweek.com</recipient>
+            <type>user</type>
+        </recipients>
+        <senderAddress>angela.ruggiero@complianceweek.com</senderAddress>
+        <senderType>OrgWideEmailAddress</senderType>
+        <template>CustomerService/Continuous_Payment_60</template>
+    </alerts>
+    <alerts>
+        <fullName>Closed_Lost_Alert</fullName>
+        <ccEmails>vimaly.ruiz@complianceweek.com</ccEmails>
+        <description>Closed Lost Alert</description>
+        <protected>false</protected>
+        <recipients>
+            <recipient>tlyster@complianceweek.com</recipient>
+            <type>user</type>
+        </recipients>
+        <senderAddress>info@complianceweek.com</senderAddress>
+        <senderType>OrgWideEmailAddress</senderType>
+        <template>AutoEmails/Closed_Lost_Email</template>
+    </alerts>
+    <alerts>
+        <fullName>Closed_Won_notification_on_Renewal_Opportunity</fullName>
+        <description>Closed Won Notification on Renewal Opportunity</description>
+        <protected>false</protected>
+        <recipients>
+            <recipient>donna.oneill@complianceweek.com</recipient>
+            <type>user</type>
+        </recipients>
+        <recipients>
+            <recipient>tlyster@complianceweek.com</recipient>
+            <type>user</type>
+        </recipients>
+        <senderType>CurrentUser</senderType>
+        <template>AutoEmails/Closed_Won_Email</template>
+    </alerts>
+    <alerts>
+        <fullName>Confirm_receipt_of_renewal_invoice_Single_Sub</fullName>
+        <description>Confirm receipt of renewal invoice - Single Sub</description>
+        <protected>false</protected>
+        <recipients>
+            <recipient>angela.ruggiero@complianceweek.com</recipient>
+            <type>user</type>
+        </recipients>
+        <senderType>DefaultWorkflowUser</senderType>
+        <template>Automation_Singles/Alert_2_30_Days_Invoice_Confirmation</template>
+    </alerts>
+    <alerts>
+        <fullName>Delegate_Member_Won_Immediate</fullName>
+        <ccEmails>emailtosalesforce@if7eb12zb43nfd4wkemyjrap.36fzleau.7.le.salesforce.com</ccEmails>
+        <description>Delegate Member Won - Immediate</description>
+        <protected>false</protected>
+        <recipients>
+            <field>Primary_Subscription_Contact__c</field>
+            <type>contactLookup</type>
+        </recipients>
+        <senderAddress>angela.ruggiero@complianceweek.com</senderAddress>
+        <senderType>OrgWideEmailAddress</senderType>
+        <template>Automation_Singles/Membership_Closed_Won_Conf</template>
+    </alerts>
+    <alerts>
+        <fullName>Engagement_1</fullName>
+        <ccEmails>emailtosalesforce@if7eb12zb43nfd4wkemyjrap.36fzleau.7.le.salesforce.com</ccEmails>
+        <description>Engagement 1</description>
+        <protected>false</protected>
+        <recipients>
+            <field>Primary_Subscription_Contact__c</field>
+            <type>contactLookup</type>
+        </recipients>
+        <senderAddress>elizabeth.sucher@complianceweek.com</senderAddress>
+        <senderType>OrgWideEmailAddress</senderType>
+        <template>Automation_Singles/Engage_1_030_Days</template>
+    </alerts>
+    <alerts>
+        <fullName>Engagement_2</fullName>
+        <ccEmails>emailtosalesforce@if7eb12zb43nfd4wkemyjrap.36fzleau.7.le.salesforce.com</ccEmails>
+        <description>Engagement 2</description>
+        <protected>false</protected>
+        <recipients>
+            <field>Primary_Subscription_Contact__c</field>
+            <type>contactLookup</type>
+        </recipients>
+        <senderAddress>elizabeth.sucher@complianceweek.com</senderAddress>
+        <senderType>OrgWideEmailAddress</senderType>
+        <template>Automation_Singles/Engage_2_120_Days</template>
+    </alerts>
+    <alerts>
+        <fullName>Engagement_3</fullName>
+        <ccEmails>emailtosalesforce@if7eb12zb43nfd4wkemyjrap.36fzleau.7.le.salesforce.com</ccEmails>
+        <description>Engagement 3</description>
+        <protected>false</protected>
+        <recipients>
+            <field>Primary_Subscription_Contact__c</field>
+            <type>contactLookup</type>
+        </recipients>
+        <senderAddress>elizabeth.sucher@complianceweek.com</senderAddress>
+        <senderType>OrgWideEmailAddress</senderType>
+        <template>Automation_Singles/Engage_3_210_Days</template>
+    </alerts>
+    <alerts>
+        <fullName>Notification_of_Subscription_Sale_Opportunity</fullName>
+        <description>Notification of Subscription Sale - Opportunity</description>
+        <protected>false</protected>
+        <recipients>
+            <recipient>donna.oneill@complianceweek.com</recipient>
+            <type>user</type>
+        </recipients>
+        <recipients>
+            <recipient>donna.rice@complianceweek.com</recipient>
+            <type>user</type>
+        </recipients>
+        <recipients>
+            <recipient>tlyster@complianceweek.com</recipient>
+            <type>user</type>
+        </recipients>
+        <senderAddress>info@complianceweek.com</senderAddress>
+        <senderType>OrgWideEmailAddress</senderType>
+        <template>AutoEmails/Closed_Won_Email</template>
+    </alerts>
+    <alerts>
+        <fullName>Notify_Opportunity_owner_that_Opp_has_been_Closed_Won_via_renewal_email</fullName>
+        <description>Notification that a renewal Opportunity has been Closed Won via email</description>
+        <protected>false</protected>
+        <recipients>
+            <recipient>angela.ruggiero@complianceweek.com</recipient>
+            <type>user</type>
+        </recipients>
+        <senderType>CurrentUser</senderType>
+        <template>unfiled$public/Renewal_Accepted_Notification</template>
+    </alerts>
+    <alerts>
+        <fullName>Opp_Without_Product_Alert</fullName>
+        <description>Opp Without Product Alert</description>
+        <protected>false</protected>
+        <recipients>
+            <type>owner</type>
+        </recipients>
+        <senderAddress>info@complianceweek.com</senderAddress>
+        <senderType>OrgWideEmailAddress</senderType>
+        <template>AutoEmails/Opportunity_without_Product_Alert</template>
+    </alerts>
+    <alerts>
+        <fullName>Reminder_of_past_due_payment_Single_Sub</fullName>
+        <description>Reminder of past due payment - Single Sub</description>
+        <protected>false</protected>
+        <recipients>
+            <recipient>angela.ruggiero@complianceweek.com</recipient>
+            <type>user</type>
+        </recipients>
+        <senderType>CurrentUser</senderType>
+        <template>Automation_Singles/Alert_3_07_Days_Follow_Up_Call</template>
+    </alerts>
+    <alerts>
+        <fullName>Renewal_Account_Review_prior_to_Suspension_Single_Sub</fullName>
+        <description>Renewal Account Review prior to Suspension -Single Sub</description>
+        <protected>false</protected>
+        <recipients>
+            <recipient>angela.ruggiero@complianceweek.com</recipient>
+            <type>user</type>
+        </recipients>
+        <senderType>CurrentUser</senderType>
+        <template>Automation_Singles/Alert_4_30_Days_Account_Review</template>
+    </alerts>
+    <alerts>
+        <fullName>Renewal_S_Lost_0</fullName>
+        <ccEmails>emailtosalesforce@if7eb12zb43nfd4wkemyjrap.36fzleau.7.le.salesforce.com</ccEmails>
+        <description>Renewal S Lost 0</description>
+        <protected>false</protected>
+        <recipients>
+            <field>Primary_Subscription_Contact__c</field>
+            <type>contactLookup</type>
+        </recipients>
+        <senderAddress>angela.ruggiero@complianceweek.com</senderAddress>
+        <senderType>OrgWideEmailAddress</senderType>
+        <template>Automation_Singles/Renewal_Closed_Lost</template>
+    </alerts>
+    <alerts>
+        <fullName>Renewal_S_Open_0_Account_Review</fullName>
+        <ccEmails>tlyster@complianceweek.com</ccEmails>
+        <description>Renewal S Open 0 - Account Review</description>
+        <protected>false</protected>
+        <recipients>
+            <recipient>angela.ruggiero@complianceweek.com</recipient>
+            <type>user</type>
+        </recipients>
+        <senderAddress>angela.ruggiero@complianceweek.com</senderAddress>
+        <senderType>OrgWideEmailAddress</senderType>
+        <template>Automation_Singles/Alert_1_93_Days_Account_Review</template>
+    </alerts>
+    <alerts>
+        <fullName>Renewal_S_Open_1_Notification</fullName>
+        <ccEmails>emailtosalesforce@if7eb12zb43nfd4wkemyjrap.36fzleau.7.le.salesforce.com</ccEmails>
+        <description>Renewal S Open 1 - Notification</description>
+        <protected>false</protected>
+        <recipients>
+            <field>Primary_Subscription_Contact__c</field>
+            <type>contactLookup</type>
+        </recipients>
+        <senderAddress>angela.ruggiero@complianceweek.com</senderAddress>
+        <senderType>OrgWideEmailAddress</senderType>
+        <template>Automation_Singles/Renewal_Open_1_60_Days_Notification</template>
+    </alerts>
+    <alerts>
+        <fullName>Renewal_S_Open_2_Invoice_Activity</fullName>
+        <ccEmails>emailtosalesforce@if7eb12zb43nfd4wkemyjrap.36fzleau.7.le.salesforce.com</ccEmails>
+        <description>Renewal S Open 2 - Invoice Activity</description>
+        <protected>false</protected>
+        <recipients>
+            <field>Primary_Subscription_Contact__c</field>
+            <type>contactLookup</type>
+        </recipients>
+        <senderAddress>angela.ruggiero@complianceweek.com</senderAddress>
+        <senderType>OrgWideEmailAddress</senderType>
+        <template>Automation_Singles/Renewal_Open_2_30_Days_Sub_Invoice</template>
+    </alerts>
+    <alerts>
+        <fullName>Renewal_S_Open_3_Suspension</fullName>
+        <ccEmails>emailtosalesforce@if7eb12zb43nfd4wkemyjrap.36fzleau.7.le.salesforce.com</ccEmails>
+        <description>Renewal S Open 3 - Suspension</description>
+        <protected>false</protected>
+        <recipients>
+            <field>Primary_Subscription_Contact__c</field>
+            <type>contactLookup</type>
+        </recipients>
+        <senderAddress>angela.ruggiero@complianceweek.com</senderAddress>
+        <senderType>OrgWideEmailAddress</senderType>
+        <template>Automation_Singles/Renewal_Open_3_01_Days_Account_Suspended</template>
+    </alerts>
+    <alerts>
+        <fullName>Renewal_S_Open_4_Overdue_07</fullName>
+        <ccEmails>emailtosalesforce@if7eb12zb43nfd4wkemyjrap.36fzleau.7.le.salesforce.com</ccEmails>
+        <description>Renewal S Open 4 - Overdue 07</description>
+        <protected>false</protected>
+        <recipients>
+            <field>Primary_Subscription_Contact__c</field>
+            <type>contactLookup</type>
+        </recipients>
+        <senderAddress>angela.ruggiero@complianceweek.com</senderAddress>
+        <senderType>OrgWideEmailAddress</senderType>
+        <template>Automation_Singles/Renewal_Open_4_07_Days_Past_Due</template>
+    </alerts>
+    <alerts>
+        <fullName>Renewal_S_Open_5_Overdue_14</fullName>
+        <ccEmails>emailtosalesforce@if7eb12zb43nfd4wkemyjrap.36fzleau.7.le.salesforce.com</ccEmails>
+        <description>Renewal S Open 5 - Overdue 14</description>
+        <protected>false</protected>
+        <recipients>
+            <field>Primary_Subscription_Contact__c</field>
+            <type>contactLookup</type>
+        </recipients>
+        <senderAddress>angela.ruggiero@complianceweek.com</senderAddress>
+        <senderType>OrgWideEmailAddress</senderType>
+        <template>Automation_Singles/Renewal_Open_5_14_Days_Action_Required</template>
+    </alerts>
+    <alerts>
+        <fullName>Renewal_S_Open_6_Collections</fullName>
+        <ccEmails>emailtosalesforce@if7eb12zb43nfd4wkemyjrap.36fzleau.7.le.salesforce.com</ccEmails>
+        <description>Renewal S Open 6 - Collections</description>
+        <protected>false</protected>
+        <recipients>
+            <field>Primary_Subscription_Contact__c</field>
+            <type>contactLookup</type>
+        </recipients>
+        <senderAddress>angela.ruggiero@complianceweek.com</senderAddress>
+        <senderType>OrgWideEmailAddress</senderType>
+        <template>Automation_Singles/Renewal_Open_6_30_Days_Collections_Notice</template>
+    </alerts>
+    <alerts>
+        <fullName>Renewal_S_Won_0_Immediate</fullName>
+        <ccEmails>emailtosalesforce@if7eb12zb43nfd4wkemyjrap.36fzleau.7.le.salesforce.com</ccEmails>
+        <description>Renewal S Won 0 - Immediate</description>
+        <protected>false</protected>
+        <recipients>
+            <field>Primary_Subscription_Contact__c</field>
+            <type>contactLookup</type>
+        </recipients>
+        <senderAddress>info@complianceweek.com</senderAddress>
+        <senderType>OrgWideEmailAddress</senderType>
+        <template>Automation_Singles/Subscription_Closed_Won</template>
+    </alerts>
+    <alerts>
+        <fullName>Renewal_S_Won_4_Overdue_07</fullName>
+        <ccEmails>emailtosalesforce@if7eb12zb43nfd4wkemyjrap.36fzleau.7.le.salesforce.com</ccEmails>
+        <description>Renewal S Won 4 - Overdue 07</description>
+        <protected>false</protected>
+        <recipients>
+            <field>Primary_Subscription_Contact__c</field>
+            <type>contactLookup</type>
+        </recipients>
+        <senderAddress>angela.ruggiero@complianceweek.com</senderAddress>
+        <senderType>OrgWideEmailAddress</senderType>
+        <template>Automation_Singles/Renewal_Won_4_07_Days_Past_Due</template>
+    </alerts>
+    <alerts>
+        <fullName>Renewal_S_Won_5_Overdue_14</fullName>
+        <ccEmails>emailtosalesforce@if7eb12zb43nfd4wkemyjrap.36fzleau.7.le.salesforce.com</ccEmails>
+        <description>Renewal S Won 5 - Overdue 14</description>
+        <protected>false</protected>
+        <recipients>
+            <field>Primary_Subscription_Contact__c</field>
+            <type>contactLookup</type>
+        </recipients>
+        <senderAddress>angela.ruggiero@complianceweek.com</senderAddress>
+        <senderType>OrgWideEmailAddress</senderType>
+        <template>Automation_Singles/Renewal_Won_5_14_Days_Action_Required</template>
+    </alerts>
+    <alerts>
+        <fullName>Renewal_S_Won_6_Collections</fullName>
+        <ccEmails>emailtosalesforce@if7eb12zb43nfd4wkemyjrap.36fzleau.7.le.salesforce.com</ccEmails>
+        <description>Renewal S Won 6 - Collections</description>
+        <protected>false</protected>
+        <recipients>
+            <field>Primary_Subscription_Contact__c</field>
+            <type>contactLookup</type>
+        </recipients>
+        <senderAddress>angela.ruggiero@complianceweek.com</senderAddress>
+        <senderType>OrgWideEmailAddress</senderType>
+        <template>Automation_Singles/Renewal_Won_6_30_Days_Collections_Notice</template>
+    </alerts>
+    <alerts>
+        <fullName>Sub_Payment_Received</fullName>
+        <description>Sub Payment Received</description>
+        <protected>false</protected>
+        <recipients>
+            <recipient>donna.oneill@complianceweek.com</recipient>
+            <type>user</type>
+        </recipients>
+        <recipients>
+            <recipient>tlyster@complianceweek.com</recipient>
+            <type>user</type>
+        </recipients>
+        <senderType>CurrentUser</senderType>
+        <template>unfiled$public/Payment_Received</template>
+    </alerts>
+    <alerts>
+        <fullName>Sub_tx_is_closed</fullName>
+        <description>Sub tx is closed</description>
+        <protected>false</protected>
+        <recipients>
+            <recipient>donna.oneill@complianceweek.com</recipient>
+            <type>user</type>
+        </recipients>
+        <recipients>
+            <recipient>donna.rice@complianceweek.com</recipient>
+            <type>user</type>
+        </recipients>
+        <recipients>
+            <recipient>tlyster@complianceweek.com</recipient>
+            <type>user</type>
+        </recipients>
+        <senderType>CurrentUser</senderType>
+        <template>unfiled$public/Sub_tx_is_closed</template>
+    </alerts>
+    <alerts>
+        <fullName>TEST_EMAIL_ALERT_CCC</fullName>
+        <description>TEST EMAIL ALERT - CCC</description>
+        <protected>false</protected>
+        <recipients>
+            <recipient>tlyster@complianceweek.com</recipient>
+            <type>user</type>
+        </recipients>
+        <senderAddress>angela.ruggiero@complianceweek.com</senderAddress>
+        <senderType>OrgWideEmailAddress</senderType>
+        <template>CustomerService/Continuous_Payment_60</template>
+    </alerts>
+    <alerts>
+        <fullName>Tell_Angela_About_Multi</fullName>
+        <description>Tell Angela About Multi</description>
+        <protected>false</protected>
+        <recipients>
+            <recipient>angela.ruggiero@complianceweek.com</recipient>
+            <type>user</type>
+        </recipients>
+        <senderType>CurrentUser</senderType>
+        <template>unfiled$public/Sub_tx_is_closed</template>
+    </alerts>
+    <alerts>
+        <fullName>Unpaid_at_31_days</fullName>
+        <description>Unpaid at 31 days</description>
+        <protected>false</protected>
+        <recipients>
+            <recipient>tlyster@complianceweek.com</recipient>
+            <type>user</type>
+        </recipients>
+        <senderAddress>info@complianceweek.com</senderAddress>
+        <senderType>OrgWideEmailAddress</senderType>
+        <template>CustomerService/X31_Day_Payment_Reminder</template>
+    </alerts>
+    <alerts>
+        <fullName>Update_Account_MultiExpires_field</fullName>
+        <description>Update Account MultiExpires field</description>
+        <protected>false</protected>
+        <recipients>
+            <type>owner</type>
+        </recipients>
+        <senderType>CurrentUser</senderType>
+        <template>unfiled$public/Update_Account_MultiExpires_field</template>
+    </alerts>
+    <fieldUpdates>
+        <fullName>Lost_Reason_Recature_Opportunity_Expir</fullName>
+        <field>Lost_Reason__c</field>
+        <literalValue>Recapture Opportunity Expired</literalValue>
+        <name>Lost Reason = Recature Opportunity Expir</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Literal</operation>
+        <protected>false</protected>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Lost_Reason_Renewal_Opportunity_Expir</fullName>
+        <description>Updates Lost Reason as 'Renewal Opportunity Expired' when Opportunity closes 30 days after renewal date.</description>
+        <field>Lost_Reason__c</field>
+        <literalValue>Renewal Opportunity Expired</literalValue>
+        <name>Lost Reason = Renewal Opportunity Expir</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Literal</operation>
+        <protected>false</protected>
+        <reevaluateOnChange>true</reevaluateOnChange>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Opportunity_Business_Unit</fullName>
+        <description>Updates Business Unit field to "Compliance Week."</description>
+        <field>Business_Unit__c</field>
+        <formula>"Compliance Week"</formula>
+        <name>Opportunity | Business Unit</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Opportunity_Payment_Due_Date</fullName>
+        <description>Enters the Payment Due Date (31 days after the Close Date)</description>
+        <field>Payment_Due_Date__c</field>
+        <formula>CloseDate + 31</formula>
+        <name>Opportunity | Payment Due Date</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Opportunity_Sales_Rep</fullName>
+        <description>Changes the Sales Rep to Donna O'Neill.</description>
+        <field>Sales_Rep_New__c</field>
+        <literalValue>Donna O'Neill</literalValue>
+        <name>Opportunity | Sales Rep</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Literal</operation>
+        <protected>false</protected>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Opportunity_Stage</fullName>
+        <description>Changes the Sales Stage to "Proposal / Price Quote" (current Apex Class inserts an out-of-Pick List value, "Proposal/Price Quote.")</description>
+        <field>StageName</field>
+        <literalValue>Proposal / Price Quote</literalValue>
+        <name>Opportunity | Stage</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Literal</operation>
+        <protected>false</protected>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Opportunity_Term_Length</fullName>
+        <description>Inserts value "12" into Term Length field.</description>
+        <field>Term_Length__c</field>
+        <formula>12</formula>
+        <name>Opportunity | Term Length</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Opportunity_Term_Start</fullName>
+        <description>Updates Term Start field to Close Date + 1 Day</description>
+        <field>Term_Starts__c</field>
+        <formula>CloseDate  + 1</formula>
+        <name>Opportunity | Term Start</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Stage_Closed_Lost</fullName>
+        <field>StageName</field>
+        <literalValue>Closed Lost</literalValue>
+        <name>Stage = Closed Lost</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Literal</operation>
+        <protected>false</protected>
+    </fieldUpdates>
+    <fieldUpdates>
+        <fullName>Update_Business_Unit</fullName>
+        <field>Business_Unit__c</field>
+        <formula>TEXT($User.Business_Unit__c)</formula>
+        <name>Update Business Unit</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+    </fieldUpdates>
+    <rules>
+        <fullName>Closed Won via Renewal Email</fullName>
+        <actions>
+            <name>Notify_Opportunity_owner_that_Opp_has_been_Closed_Won_via_renewal_email</name>
+            <type>Alert</type>
+        </actions>
+        <active>false</active>
+        <criteriaItems>
+            <field>Opportunity.Closed_Won_Via_Email__c</field>
+            <operation>equals</operation>
+            <value>True</value>
+        </criteriaItems>
+        <description>Triggers an email notification Angela Ruggiero when a customer chooses to renew their subscription via 'Accept' email button.</description>
+        <triggerType>onCreateOrTriggeringUpdate</triggerType>
+    </rules>
+    <rules>
+        <fullName>Multi-User Closed Won</fullName>
+        <actions>
+            <name>Tell_Angela_About_Multi</name>
+            <type>Alert</type>
+        </actions>
+        <active>true</active>
+        <criteriaItems>
+            <field>Opportunity.RecordTypeId</field>
+            <operation>equals</operation>
+            <value>Subscription Opportunity</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>Opportunity.Type</field>
+            <operation>equals</operation>
+            <value>Subscription</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>Opportunity.Single_Multi__c</field>
+            <operation>equals</operation>
+            <value>Multi</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>Opportunity.StageName</field>
+            <operation>equals</operation>
+            <value>Closed Won</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>User.ProfileId</field>
+            <operation>notEqual</operation>
+            <value>System Administrator</value>
+        </criteriaItems>
+        <description>Alert Angela when multi-user subscription is sold.</description>
+        <triggerType>onCreateOrTriggeringUpdate</triggerType>
+    </rules>
+    <rules>
+        <fullName>Opportunity Business Unit</fullName>
+        <actions>
+            <name>Update_Business_Unit</name>
+            <type>FieldUpdate</type>
+        </actions>
+        <active>false</active>
+        <description>Tags Opportunity with the Business Unit of the user creating the record.</description>
+        <formula>ISPICKVAL($User.Business_Unit__c, "Compliance Week")</formula>
+        <triggerType>onCreateOnly</triggerType>
+    </rules>
+    <rules>
+        <fullName>Recapture Opportunity Closed Lost 90 days after created</fullName>
+        <active>false</active>
+        <description>Recapture Opportunities are Closed Lost 90 days after created. Lost Reason = Recapture Opportunity Expired.</description>
+        <formula>AND( ISPICKVAL(Type,"Subscription"), ISPICKVAL(Business_Type__c,"Recacpture"), IsClosed = FALSE, Business_Unit__c = "Compliance Week" )</formula>
+        <triggerType>onCreateOrTriggeringUpdate</triggerType>
+        <workflowTimeTriggers>
+            <actions>
+                <name>Lost_Reason_Recature_Opportunity_Expir</name>
+                <type>FieldUpdate</type>
+            </actions>
+            <actions>
+                <name>Stage_Closed_Lost</name>
+                <type>FieldUpdate</type>
+            </actions>
+            <offsetFromField>Opportunity.CreatedDate</offsetFromField>
+            <timeLength>90</timeLength>
+            <workflowTimeTriggerUnit>Days</workflowTimeTriggerUnit>
+        </workflowTimeTriggers>
+    </rules>
+    <rules>
+        <fullName>Renewal Field Updates</fullName>
+        <actions>
+            <name>Opportunity_Business_Unit</name>
+            <type>FieldUpdate</type>
+        </actions>
+        <actions>
+            <name>Opportunity_Payment_Due_Date</name>
+            <type>FieldUpdate</type>
+        </actions>
+        <actions>
+            <name>Opportunity_Sales_Rep</name>
+            <type>FieldUpdate</type>
+        </actions>
+        <actions>
+            <name>Opportunity_Stage</name>
+            <type>FieldUpdate</type>
+        </actions>
+        <actions>
+            <name>Opportunity_Term_Length</name>
+            <type>FieldUpdate</type>
+        </actions>
+        <actions>
+            <name>Opportunity_Term_Start</name>
+            <type>FieldUpdate</type>
+        </actions>
+        <active>false</active>
+        <criteriaItems>
+            <field>Opportunity.CreatedById</field>
+            <operation>equals</operation>
+            <value>Tim Lyster</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>Opportunity.Business_Type__c</field>
+            <operation>equals</operation>
+            <value>Renewal</value>
+        </criteriaItems>
+        <description>On Renewal Opportunity creation, updates Sales Rep, Business Unit, Term Start, Term</description>
+        <triggerType>onCreateOnly</triggerType>
+    </rules>
+    <rules>
+        <fullName>Renewals %7C Closed Lost 30 days after expiry%2E</fullName>
+        <active>false</active>
+        <description>Renewal Opportunities are created 90 days before a subscription expires. If the Opportunity is open after 120 days this workflow updates the stage of Renewal Opportunities to Closed Lost, 30 days after subscription's initial expiry date.</description>
+        <formula>AND( ISPICKVAL( Business_Type__c ,"Renewal"), ISPICKVAL(Type,"Subscription"), Business_Unit__c = "Compliance Week", IsClosed = FALSE )</formula>
+        <triggerType>onCreateOrTriggeringUpdate</triggerType>
+        <workflowTimeTriggers>
+            <actions>
+                <name>Lost_Reason_Renewal_Opportunity_Expir</name>
+                <type>FieldUpdate</type>
+            </actions>
+            <actions>
+                <name>Stage_Closed_Lost</name>
+                <type>FieldUpdate</type>
+            </actions>
+            <offsetFromField>Opportunity.CreatedDate</offsetFromField>
+            <timeLength>180</timeLength>
+            <workflowTimeTriggerUnit>Days</workflowTimeTriggerUnit>
+        </workflowTimeTriggers>
+    </rules>
+    <rules>
+        <fullName>Send CCC Note</fullName>
+        <active>false</active>
+        <booleanFilter>1 AND 2 AND 3 AND 4 AND 5 AND 6 AND 7</booleanFilter>
+        <criteriaItems>
+            <field>Opportunity.RecordTypeId</field>
+            <operation>equals</operation>
+            <value>Subscription Opportunity</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>Opportunity.Single_Multi__c</field>
+            <operation>equals</operation>
+            <value>Single</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>Opportunity.StageName</field>
+            <operation>equals</operation>
+            <value>Closed Won</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>Opportunity.Amount</field>
+            <operation>greaterThan</operation>
+            <value>0</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>Opportunity.Payment_1_Portal__c</field>
+            <operation>equals</operation>
+            <value>ADvance</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>Opportunity.Remove_from_Renewal_Automation__c</field>
+            <operation>equals</operation>
+            <value>True</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>Opportunity.Subscription_Expires__c</field>
+            <operation>greaterOrEqual</operation>
+            <value>10/1/2020</value>
+        </criteriaItems>
+        <triggerType>onCreateOrTriggeringUpdate</triggerType>
+        <workflowTimeTriggers>
+            <actions>
+                <name>CCC_Notification</name>
+                <type>Alert</type>
+            </actions>
+            <offsetFromField>Opportunity.Subscription_Expires__c</offsetFromField>
+            <timeLength>-60</timeLength>
+            <workflowTimeTriggerUnit>Days</workflowTimeTriggerUnit>
+        </workflowTimeTriggers>
+    </rules>
+    <rules>
+        <fullName>Send CCC Note TEST</fullName>
+        <active>true</active>
+        <booleanFilter>1 AND 2 AND 3 AND 4 AND 5 AND 6 AND 7</booleanFilter>
+        <criteriaItems>
+            <field>Opportunity.RecordTypeId</field>
+            <operation>equals</operation>
+            <value>Subscription Opportunity</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>Opportunity.Single_Multi__c</field>
+            <operation>equals</operation>
+            <value>Single</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>Opportunity.StageName</field>
+            <operation>equals</operation>
+            <value>Closed Won</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>Opportunity.Amount</field>
+            <operation>greaterThan</operation>
+            <value>0</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>Opportunity.Payment_1_Portal__c</field>
+            <operation>equals</operation>
+            <value>ADvance</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>Opportunity.Remove_from_Renewal_Automation__c</field>
+            <operation>equals</operation>
+            <value>True</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>Opportunity.Subscription_Expires__c</field>
+            <operation>greaterOrEqual</operation>
+            <value>10/1/2020</value>
+        </criteriaItems>
+        <triggerType>onCreateOrTriggeringUpdate</triggerType>
+        <workflowTimeTriggers>
+            <actions>
+                <name>TEST_EMAIL_ALERT_CCC</name>
+                <type>Alert</type>
+            </actions>
+            <offsetFromField>Opportunity.Subscription_Expires__c</offsetFromField>
+            <timeLength>-60</timeLength>
+            <workflowTimeTriggerUnit>Days</workflowTimeTriggerUnit>
+        </workflowTimeTriggers>
+    </rules>
+    <rules>
+        <fullName>Sub Overdue - 15 Days</fullName>
+        <active>false</active>
+        <criteriaItems>
+            <field>Opportunity.Business_Unit__c</field>
+            <operation>equals</operation>
+            <value>Compliance Week</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>Opportunity.IsClosed</field>
+            <operation>equals</operation>
+            <value>True</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>Opportunity.RecordTypeId</field>
+            <operation>equals</operation>
+            <value>Subscription Opportunity</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>Opportunity.Transaction_Paid__c</field>
+            <operation>equals</operation>
+            <value>False</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>Opportunity.StageName</field>
+            <operation>equals</operation>
+            <value>Closed Won</value>
+        </criteriaItems>
+        <description>Sends task to rep at 15 days after payment due date.</description>
+        <triggerType>onCreateOrTriggeringUpdate</triggerType>
+        <workflowTimeTriggers>
+            <offsetFromField>Opportunity.Payment_Due_Date__c</offsetFromField>
+            <timeLength>15</timeLength>
+            <workflowTimeTriggerUnit>Days</workflowTimeTriggerUnit>
+        </workflowTimeTriggers>
+    </rules>
+    <tasks>
+        <fullName>Multi_Renewal_Closed_Won</fullName>
+        <assignedTo>angela.ruggiero@complianceweek.com</assignedTo>
+        <assignedToType>user</assignedToType>
+        <description>Multi renewal checklist @ Closed Won.</description>
+        <dueDateOffset>0</dueDateOffset>
+        <notifyAssignee>false</notifyAssignee>
+        <priority>High</priority>
+        <protected>false</protected>
+        <status>Not Started</status>
+        <subject>Multi Renewal Closed Won</subject>
+    </tasks>
+    <tasks>
+        <fullName>Payment_Due_Date_Past</fullName>
+        <assignedTo>tlyster@complianceweek.com</assignedTo>
+        <assignedToType>user</assignedToType>
+        <description>Payment due date has passed and opportunity remains unpaid.</description>
+        <dueDateOffset>1</dueDateOffset>
+        <notifyAssignee>false</notifyAssignee>
+        <offsetFromField>Opportunity.Payment_Due_Date__c</offsetFromField>
+        <priority>High</priority>
+        <protected>false</protected>
+        <status>In Progress</status>
+        <subject>Payment Due Date Past</subject>
+    </tasks>
+    <tasks>
+        <fullName>To_Be_Processed_New_Business</fullName>
+        <assignedTo>tlyster@complianceweek.com</assignedTo>
+        <assignedToType>user</assignedToType>
+        <description>Please close this transaction.</description>
+        <dueDateOffset>0</dueDateOffset>
+        <notifyAssignee>false</notifyAssignee>
+        <priority>Normal</priority>
+        <protected>false</protected>
+        <status>Not Started</status>
+        <subject>To Be Processed | New Business</subject>
+    </tasks>
+    <tasks>
+        <fullName>X30_Days_Until_Subscription_Expires</fullName>
+        <assignedTo>angela.ruggiero@complianceweek.com</assignedTo>
+        <assignedToType>user</assignedToType>
+        <dueDateOffset>60</dueDateOffset>
+        <notifyAssignee>false</notifyAssignee>
+        <offsetFromField>Opportunity.CreatedDate</offsetFromField>
+        <priority>Normal</priority>
+        <protected>false</protected>
+        <status>Not Started</status>
+        <subject>30 Days Until Subscription Expires</subject>
+    </tasks>
+    <tasks>
+        <fullName>X60_Days_Until_Subscription_Expires</fullName>
+        <assignedTo>angela.ruggiero@complianceweek.com</assignedTo>
+        <assignedToType>user</assignedToType>
+        <description>This renewal opportunity is due to close in 60 days, in line with the current subscription expiring.</description>
+        <dueDateOffset>30</dueDateOffset>
+        <notifyAssignee>false</notifyAssignee>
+        <offsetFromField>Opportunity.CreatedDate</offsetFromField>
+        <priority>Normal</priority>
+        <protected>false</protected>
+        <status>Not Started</status>
+        <subject>60 Days Until Subscription Expires</subject>
+    </tasks>
+</Workflow>

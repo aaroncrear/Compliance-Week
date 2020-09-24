@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?><Workflow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <alerts>
+        <fullName>Multi_Closed_Won_Alert</fullName>
+        <ccEmails>acrear@hat-trickconsulting.com</ccEmails>
+        <description>Multi Closed Won Alert</description>
+        <protected>false</protected>
+        <recipients>
+            <recipient>angela.ruggiero@complianceweek.com</recipient>
+            <type>user</type>
+        </recipients>
+        <senderAddress>info@complianceweek.com</senderAddress>
+        <senderType>OrgWideEmailAddress</senderType>
+        <template>AutoEmails/Multi_Closed</template>
+    </alerts>
+    <alerts>
+        <fullName>Notify_Last_Modified_User_that_Subscription_term_is_30_days_over_or_under_the_st</fullName>
+        <description>Notify Last Modified User that Subscription term is 30 days over or under the standard subscription term.</description>
+        <protected>false</protected>
+        <recipients>
+            <field>LastModifiedById</field>
+            <type>userLookup</type>
+        </recipients>
+        <senderType>CurrentUser</senderType>
+        <template>unfiled$public/Product_Duration_Falls_30_Days_outside_of_Standard_Term</template>
+    </alerts>
+    <alerts>
+        <fullName>Renewal_Messaging_Reminder</fullName>
+        <description>Renewal Messaging Reminder</description>
+        <protected>false</protected>
+        <recipients>
+            <recipient>tlyster@complianceweek.com</recipient>
+            <type>user</type>
+        </recipients>
+        <senderType>CurrentUser</senderType>
+        <template>SubSalesEmails/X00_SINGLE_AUTO_RENEW_60_Days</template>
+    </alerts>
+    <alerts>
+        <fullName>Visualforce_email_sent_to_Product_related_contact_inviting_them_to_Accept_the_re</fullName>
+        <ccEmails>info@complianceweek.com</ccEmails>
+        <description>Visualforce email sent to Product related contact inviting them to Accept the renewal. Email contains Accept and Decline buttons, which update Opportunity Stage accordingly.</description>
+        <protected>false</protected>
+        <recipients>
+            <field>Contact__c</field>
+            <type>contactLookup</type>
+        </recipients>
+        <senderAddress>angela.ruggiero@complianceweek.com</senderAddress>
+        <senderType>OrgWideEmailAddress</senderType>
+        <template>unfiled$public/Contacts_Email</template>
+    </alerts>
+    <fieldUpdates>
+        <fullName>Expiry_Date_Start_Date_Product_D</fullName>
+        <field>Expiry_Date__c</field>
+        <formula>ServiceDate +  Product2.Duration_Days__c</formula>
+        <name>Expiry Date = Start Date + Duration</name>
+        <notifyAssignee>false</notifyAssignee>
+        <operation>Formula</operation>
+        <protected>false</protected>
+    </fieldUpdates>
+    <rules>
+        <fullName>Expiration Date %3D Start Date %2B Duration</fullName>
+        <actions>
+            <name>Expiry_Date_Start_Date_Product_D</name>
+            <type>FieldUpdate</type>
+        </actions>
+        <active>false</active>
+        <description>Updates Expiration Date for Subscription Products based on Start Date + Product duration. Excludes Upgrade Opportunities.</description>
+        <formula>AND( ISPICKVAL(Product2.Family,"Subscriptions"), NOT(ISPICKVAL(Opportunity.Business_Type__c,"Upgrade")) )</formula>
+        <triggerType>onCreateOnly</triggerType>
+    </rules>
+    <rules>
+        <fullName>Multi Closed</fullName>
+        <actions>
+            <name>Multi_Closed_Won_Alert</name>
+            <type>Alert</type>
+        </actions>
+        <active>false</active>
+        <criteriaItems>
+            <field>Opportunity.Business_Unit__c</field>
+            <operation>equals</operation>
+            <value>Compliance Week</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>Opportunity.RecordTypeId</field>
+            <operation>equals</operation>
+            <value>Subscription Opportunity</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>Opportunity.Business_Type__c</field>
+            <operation>equals</operation>
+            <value>Renewal,Renewal Upgrade,New Business</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>OpportunityLineItem.Name</field>
+            <operation>startsWith</operation>
+            <value>Multi-User License</value>
+        </criteriaItems>
+        <criteriaItems>
+            <field>Opportunity.StageName</field>
+            <operation>equals</operation>
+            <value>Closed Won</value>
+        </criteriaItems>
+        <description>Sends an email to Angela when a multi-user subscription renewal is Closed Won, so that she can process the subscription.</description>
+        <triggerType>onCreateOrTriggeringUpdate</triggerType>
+    </rules>
+    <rules>
+        <fullName>Renewals %7C Single Automated Emails</fullName>
+        <active>false</active>
+        <formula>AND(  Opportunity.IsClosed = FALSE, Subscription_Type__c = "Single" , ISPICKVAL(Opportunity.Type,"Subscription"), ISPICKVAL(Opportunity.Business_Type__c,"Renewal"),  UnitPrice  &lt;&gt; 0, Opportunity.Business_Unit__c = "Compliance Week" )</formula>
+        <triggerType>onCreateOrTriggeringUpdate</triggerType>
+        <workflowTimeTriggers>
+            <actions>
+                <name>Renewal_Messaging_Reminder</name>
+                <type>Alert</type>
+            </actions>
+            <offsetFromField>OpportunityLineItem.Expiry_Date__c</offsetFromField>
+            <timeLength>-60</timeLength>
+            <workflowTimeTriggerUnit>Days</workflowTimeTriggerUnit>
+        </workflowTimeTriggers>
+    </rules>
+    <tasks>
+        <fullName>Renewal_Email_Sent</fullName>
+        <assignedToType>role</assignedToType>
+        <description>Sent automatically via workflow: Subscription Automated Renewal Emails</description>
+        <dueDateOffset>0</dueDateOffset>
+        <notifyAssignee>false</notifyAssignee>
+        <priority>Normal</priority>
+        <protected>false</protected>
+        <status>Completed</status>
+        <subject>Renewal Email Sent</subject>
+    </tasks>
+</Workflow>

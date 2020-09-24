@@ -1,0 +1,18 @@
+Dear {!Contact.FirstName},
+
+Please note that our records indicate that payment for your subscription to Compliance Week is still outstanding.
+
+Our attached reminder letter contains all the details you require concerning your debt and how to bring your account up to date:
+
+•	Specifically your current balance of {!Opportunity.Amount}, for the subscription you purchased on {!Opportunity.CloseDate}.
+
+To pay by credit card, call 888-519-9200 between the hours of 9 a.m. and 5 p.m. EST.
+
+To pay by wire, send payment to Bank of America, Account number 435032872020, ABA Wire number 026009593
+
+Should there be any reason for withholding payment, please ensure you contact our credit control department as soon as possible.
+
+
+Thanks and Best Regards,
+
+Compliance Week

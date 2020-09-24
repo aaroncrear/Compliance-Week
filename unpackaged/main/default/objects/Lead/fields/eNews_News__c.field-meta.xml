@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>eNews_News__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Replacement e-newsletter that consolidates Tuesday Edition, Weekend Digest, Washington Watch and Europe Digest.</description>
+    <externalId>false</externalId>
+    <label>eNews News</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <type>Checkbox</type>
+</CustomField>

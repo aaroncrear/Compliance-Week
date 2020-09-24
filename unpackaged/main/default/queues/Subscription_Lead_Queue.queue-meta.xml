@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Queue xmlns="http://soap.sforce.com/2006/04/metadata">
+    <doesSendEmailToMembers>false</doesSendEmailToMembers>
+    <name>Subscription Lead Queue</name>
+    <queueMembers>
+        <users>
+            <user>a_crear@hat-trickconsulting.com</user>
+            <user>elizabeth.sucher@complianceweek.com</user>
+            <user>patrick.romano@complianceweek.com</user>
+            <user>tlyster@complianceweek.com</user>
+        </users>
+    </queueMembers>
+    <queueSobject>
+        <sobjectType>Lead</sobjectType>
+    </queueSobject>
+</Queue>

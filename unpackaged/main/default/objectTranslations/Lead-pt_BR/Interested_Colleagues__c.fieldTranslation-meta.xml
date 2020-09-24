@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <help><!-- Are there other colleagues/team members that would be interested in a CW subscription? --></help>
+        <label><!-- Interested Colleagues --></label>
+        <name>Interested_Colleagues__c</name>
+        <picklistValues>
+            <masterLabel>Maybe</masterLabel>
+            <translation><!-- Maybe --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes 11-20 team members</masterLabel>
+            <translation><!-- Yes 11-20 team members --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes 2-5 team members</masterLabel>
+            <translation><!-- Yes 2-5 team members --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes 20+ team members</masterLabel>
+            <translation><!-- Yes 20+ team members --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes 6-10 team members</masterLabel>
+            <translation><!-- Yes 6-10 team members --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

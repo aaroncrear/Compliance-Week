@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <help><!-- Check to confirm that Lead will be converted without trial access. --></help>
+        <label><!-- No Trial --></label>
+        <name>No_Trial__c</name>
+    </CustomFieldTranslation>

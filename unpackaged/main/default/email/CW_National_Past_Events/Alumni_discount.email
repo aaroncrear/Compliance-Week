@@ -1,0 +1,23 @@
+Hi {!Contact.FirstName},
+
+I noticed that you have not yet registered for Compliance Week 2017, May 22-24 in Washington D.C.  Because you’re a valued alumni, we encourage you to register at the discounted price of $1,395. 
+
+(For Registration use Alumni code: CW17ALUMNI)
+
+Highlights for 2017 include discussions on:
+•	Impact of the Trump presidency on regulation and compliance
+•	The future of the FCPA
+•	SEC Office of the Whistleblower 
+
+Register here: goo.gl/hKFYcM
+
+We look forward to seeing you in May!
+
+Best regards,
+
+{!User.FirstName} {!User.LastName}
+{!User.Title}
+{!User.CompanyName}
+{!User.Phone} (o)
+{!User.MobilePhone} (m)
+{!User.Email}

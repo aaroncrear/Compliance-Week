@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WebLink xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>UpdateContacts</fullName>
+    <availability>online</availability>
+    <displayType>link</displayType>
+    <encodingKey>UTF-8</encodingKey>
+    <height>2000</height>
+    <linkType>url</linkType>
+    <masterLabel>Update Contacts</masterLabel>
+    <openType>sidebar</openType>
+    <protected>false</protected>
+    <url>https://api.onesource.com/SForce/ExecLookup.aspx?Company={!Account_Name}&amp;AcctID={!Account_ID}&amp;OSKeyID={!Account_OSKeyID}&amp;SFSessionID={!User_Session_ID}&amp;ServerURL={!API_Partner_Server_URL_60}&amp;SForgID={!Org_ID}&amp;SFUserID={!User_ID}</url>
+</WebLink>

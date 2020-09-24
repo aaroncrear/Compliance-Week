@@ -1,0 +1,11 @@
+<apex:page controller="AccountRollupUtilityController">
+    <apex:form >
+        <apex:commandButton action="{!rollupContacts}" title="Roll up Contacts" value="Roll up Contacts"/>
+        <br/>Number of Accounts Updated: 
+        <apex:outputText value="{!consUpdated}"/>
+        <br/>
+        <apex:commandButton action="{!rollupLeads}" title="Roll up Leads" value="Roll up Leads"/>
+        <br/>Number of Accounts Updated: 
+        <apex:outputText value="{!leadsUpdated}"/>
+    </apex:form>
+</apex:page>

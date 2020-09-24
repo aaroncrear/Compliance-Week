@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>2016 World Tour webcasts</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>2016 World Tour webcasts</name>
+    <style>none</style>
+    <subject>Compliance Week World Tour webcast series</subject>
+    <type>text</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

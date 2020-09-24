@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>false</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>Compliance_Week</letterhead>
+    <name>Conference Followup Template</name>
+    <style>freeForm</style>
+    <subject>We missed you at [Org’s] [Event Name]</subject>
+    <textOnly>[ Great to see you ]
+	
+
+
+
+Hi {!Contact.FirstName},
+
+I’m sorry we couldn’t connect at [Org’s [Event] last week since there was so much great information being shared! I just wanted to follow up with exclusive attendee offers:
+
+Share the love! Give us a testimonial
+As the premiere information service on corporate governance, risk, and compliance[CK1] , you’re in a network of more than 50,000 GRC professionals. Contact Cameron Kane (cameron.kane@complianceweek.com) or respond to this e-mail with why you’re a subscriber to Compliance Week and how it’s helped you professionally and supported your program.
+
+Taking advantage of all your benefits?
+Visit our website or let’s set up a meeting to discover all member benefits or multi-user subscription to maximize your budget and resources.
+
+€300 off registration for Compliance Week Europe 2016
+We’re bringing our thought leadership to attendees in Brussels, 7-8 November 2016. Attendees will experience thought-provoking speakers, innovative sessions, world-class networking, and much more. Use promotion code CWE16AUDIT during registration or share with a friend! Early-bird rates end 14 August.
+
+We look forward to hearing from you!
+
+Best Regards,
+[Signature]
+
+[CK1]Lead with additional field (i.e., Audit, ethics) if applicable to that conference.
+
+
+
+
+This e-mail has been sent from Wilmington Compliance Week Inc, Parent company registered number 2158821. Registered Office: 6 - 14 Underwood Street, London, N1 7JQ.
+This e-mail and any attachments to it may be confidential and are intended solely for the use of the addressees. Any views expressed are solely those of the author and do not necessarily represent those of Wilmington Compliance Week. If you are not the intended recipient of this e-mail and its attachments please inform the sender but take no other action based upon them, nor must you copy or show them to anyone.
+A Wilmington Company</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

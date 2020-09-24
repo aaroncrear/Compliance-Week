@@ -1,0 +1,15 @@
+Dear {!Contact.FirstName}: 
+
+I noticed that you attended our annual conference but don't subscribe.   I would like to offer you a free 30-day trial subscription in the hopes that you will find Compliance Week useful and informative and want to subscribe. 
+
+To set up your complimentary subscription, simply email me and let me know.  That's it!  I'll then send you your username and password and you can get started using all that Compliance Week offers.  
+
+Thanks again for your recent interest in Compliance Week, and I hope we see you at our conference next  year.
+
+
+Best regards,
+
+{!Account.OwnerFullName}
+{!Account.OwnerTitle}
+{!Account.OwnerPhone}
+{!Account.OwnerEmail}

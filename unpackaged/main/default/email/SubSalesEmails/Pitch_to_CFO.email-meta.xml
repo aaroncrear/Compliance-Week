@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Letter to CFO of non-renewing multi</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Pitch to CFO</name>
+    <style>none</style>
+    <subject>{!Account.Name}&apos;s Corporate Subscription to Compliance Week</subject>
+    <type>text</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

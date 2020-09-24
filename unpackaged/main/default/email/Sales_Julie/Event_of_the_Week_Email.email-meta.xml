@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>Compliance_Week</letterhead>
+    <name>Event of the Week Email</name>
+    <style>freeForm</style>
+    <subject>About your upcoming event:</subject>
+    <textOnly>Hi {!Contact.FirstName},
+
+I noticed your upcoming event ( ) and wanted to see if you would be interested in promoting it through Compliance Week&apos;s Event of The Week Email.
+
+Compliance Week reaches 52k executives at global public companies who are responsible for regulatory compliance for their firm. Just over 20k are in financial services.
+
+Event Email – Email designed to promote a third party event such as a webcast or conference that is sent to 52,000 corporate financial, legal, audit, risk &amp; compliance executives at US public companies. The email is sent from complianceweek.com on a template and contains the event title, description, sponsors logo, and URL link to registration page. The cost is $5,000.
+
+Please let me know if you are interested or if you have any questions!
+
+Kind Regards,
+
+Julie Van Gelder
+Advertising and Sponsorship Sales
+617-570-8612</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

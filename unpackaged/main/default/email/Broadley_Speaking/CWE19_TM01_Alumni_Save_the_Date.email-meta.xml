@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>Compliance_Week_Europe</letterhead>
+    <name>CWE19 TM01 - Alumni Save the Date</name>
+    <style>freeForm</style>
+    <subject>Save the date for Compliance Week Europe 2019</subject>
+    <textOnly>Dear {!Contact.FirstName}
+
+Now in its seventh year, Compliance Week Europe, 4-5 November 2019 is the must-attend event for international governance, risk, compliance, and audit professionals.
+
+200+ Senior Attendees;
+25+ Sessions;
+120+ Global Companies;
+41 Countries Represented;
+11+ CEUs;
+45+ Speakers.
+
+Join us again this year at special alumni pricing of €850 with code CWE19ALUMNI when registering. We look forward to seeing you in Amsterdam.
+
+Best regards,
+
+
+{!User.FirstName} {!User.LastName}
+{!User.Title}
+{!User.CompanyName}
+{!User.Email}
+{!User.Phone}
+
+
+Compliance Week Europe | 4-5 November 2019 | Amsterdam
+
+» Agenda  » Registration
+» Speakers  » Venue
+» Sponsorship  » Continuing Education</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

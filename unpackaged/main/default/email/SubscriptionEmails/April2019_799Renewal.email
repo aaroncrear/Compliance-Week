@@ -1,0 +1,133 @@
+<table border="0" cellpadding="5" width="550" cellspacing="5" height="400" >
+<tr valign="top" height="400" >
+<td tEditID="c1r1" style=" background-color:#FFFFFF; bEditID:r3st1; color:#000000; bLabel:main; font-size:12pt; font-family:arial;" aEditID="c1r1" locked="0" >
+<![CDATA[<p style="margin: 0in 0in 0.0001pt;"><span style="color: black; font-family: arial; font-size: 12pt;"><font style="" face="Arial, sans-serif">Hi
+{!Contact.FirstName},<o:p></o:p></font></span></p>
+
+<p style="color: rgb(0, 0, 0); font-family: arial; font-size: 12pt; margin: 0in 0in 0.0001pt;"><span style="color: black;"><o:p><font face="Arial, sans-serif">&nbsp;</font></o:p></span></p>
+
+<p style="color: rgb(0, 0, 0); font-family: arial; font-size: 12pt; margin: 0in 0in 0.0001pt;"><span style="color: black;"><font face="Arial, sans-serif">We’re thrilled to
+announce that Compliance Week recently launched our new website, which offers subscribers like yourself greater
+functionality, cleaner design</font></span><span style="font-family: Arial, sans-serif; font-size: 12pt;"> and resources.</span></p>
+
+<p style="color: rgb(0, 0, 0); font-family: arial; font-size: 12pt; margin: 0in 0in 0.0001pt;"><span style="color: black;"><o:p><font face="Arial, sans-serif">&nbsp;</font></o:p></span></p>
+
+<p style="margin: 0in 0in 0.0001pt;"><span style="color: black; font-family: arial; font-size: 12pt;"><font face="Arial, sans-serif">As your Compliance
+Week subscription expired on&nbsp;</font></span><font face="Arial, sans-serif">{!Contact.Expiration_Date__c}</font><span style="color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 12pt;">, we encourage you to renew today for the
+discounted price of $399</span><span style="color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 12pt;">.</span></p>
+
+<p style="color: rgb(0, 0, 0); font-family: arial; font-size: 12pt; margin: 0in 0in 0.0001pt;"><span style="color: black;"><o:p><font face="Arial, sans-serif">&nbsp;</font></o:p></span></p>
+
+<p style="color: rgb(0, 0, 0); font-family: arial; font-size: 12pt; margin: 0in 0in 0.0001pt;"><span style="color: black;"><font style="" face="Arial, sans-serif">Helping compliance
+practitioners like yourself is the mission guiding Compliance Week’s news,
+analysis, resources and conferences.&nbsp; Now
+is the time for you to gain access to the breadth of online coverage, print
+magazine and in-person networking – ready to get started?</font><font style="font-size: 11pt;" face="Calibri, sans-serif"><o:p></o:p></font></span></p>
+
+<p style="color: rgb(0, 0, 0); font-family: arial; font-size: 12pt; margin: 0in 0in 0.0001pt;"><b style="font-size: 12pt;"><span style="font-size:11.0pt;
+font-family:&quot;Calibri&quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-hansi-theme-font:
+minor-latin;mso-bidi-theme-font:minor-latin;color:#C00000">&nbsp;</span></b><span style="font-family: Calibri, sans-serif; color: black;"><o:p></o:p></span></p>
+
+<p style="color: rgb(0, 0, 0); font-family: arial; font-size: 12pt; margin: 0in 0in 0.0001pt; text-align: center;" align="center"><font size="5"><b style=""><span style="font-family: Calibri, sans-serif; color: rgb(192, 0, 0);">Renew your subscription today for $399<span style="font-size: 12pt;"><o:p></o:p></span></span></b></font></p>
+
+<p style="color: rgb(0, 0, 0); font-family: arial; font-size: 12pt; margin: 0in 0in 0.0001pt;"><a name="_Hlk531092582" style=""><b style=""><span style="color: rgb(192, 0, 0);"><o:p style=""><font style="" face="Arial, sans-serif">&nbsp;</font></o:p></span></b></a></p>
+
+<p class="MsoNormal" style="color: rgb(0, 0, 0); font-family: arial; font-size: 12pt;"><font face="Arial, sans-serif"><span style="mso-bookmark:_Hlk531092582"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin;color:black;mso-bidi-font-weight:bold">To
+activate your subscription at the $399</span></span><span style="mso-bookmark:
+_Hlk531092582"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black">
+discounted rate, just respond to this email with an <b style="mso-bidi-font-weight:
+normal">“I agree”</b>. <o:p></o:p></span></span></font></p><p class="MsoNormal" style="color: rgb(0, 0, 0); font-family: arial; font-size: 12pt;"><font face="Arial, sans-serif"><span style="mso-bookmark:
+_Hlk531092582"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
+mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black"><br></span></span></font></p>
+
+<p class="MsoNormal" style="color: rgb(0, 0, 0); font-family: arial; font-size: 12pt;"><font face="Arial, sans-serif"><span style="mso-bookmark:_Hlk531092582"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin;color:black">You’ll be on your way to joining </span></span><span style="mso-bookmark:_Hlk531092582"><span style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin">thousands of the world's leading compliance
+professionals who use Compliance Week analysis daily, including executives from<b>
+Wal-Mart Stores Inc., Microsoft, Verizon, General Electric, Cardinal Health,
+Fannie Mae, Prudential Financial, Phillips 66, Anthem, Target</b>, and many
+others.<span style="color:black">&nbsp;</span><o:p></o:p></span></span></font></p><p class="MsoNormal" style="color: rgb(0, 0, 0); font-family: arial; font-size: 12pt;"><font face="Arial, sans-serif"><span style="mso-bookmark:_Hlk531092582"><span style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><span style="color:black"><br></span></span></span></font></p>
+
+<p class="MsoNormal" style="color: rgb(0, 0, 0); font-family: arial; font-size: 12pt; text-align: center;" align="center"><font face="Arial, sans-serif"><span style="mso-bookmark:_Hlk531092582"><b><span style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin;color:black">2019 Subscription benefits &amp; events
+schedule:</span></b></span><span style="mso-bookmark:_Hlk531092582"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black"><o:p></o:p></span></span></font></p>
+
+<ul style="color: rgb(0, 0, 0); font-family: arial; font-size: 12pt;" type="disc">
+ <li class="MsoNormal" style="color:black;mso-margin-top-alt:auto;mso-margin-bottom-alt:
+     auto;line-height:normal;mso-list:l2 level1 lfo1"><font face="Arial, sans-serif"><span style="mso-bookmark:
+     _Hlk531092582"><b><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
+     mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">The most
+     pertinent in-depth expert analysis at your fingertips&nbsp;</span></b></span><span style="mso-bookmark:_Hlk531092582"><span style="mso-fareast-font-family:
+     &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">- news
+     articles, blogs, and thought leadership geared toward specific topics of
+     interest to you;<o:p></o:p></span></span></font></li>
+ <li class="MsoNormal" style="color:black;mso-margin-top-alt:auto;mso-margin-bottom-alt:
+     auto;line-height:normal;mso-list:l2 level1 lfo1"><font face="Arial, sans-serif"><span style="mso-bookmark:
+     _Hlk531092582"><b><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
+     mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">On-Demand
+     CPE Library&nbsp;</span></b></span><span style="mso-bookmark:_Hlk531092582">-&nbsp;Webcast Forums,
+     Whitepapers - Register for Live Webcasts or earn credits anytime at your
+     convenience;<o:p></o:p></span></font></li>
+ <li class="MsoNormal" style="color:black;mso-margin-top-alt:auto;mso-margin-bottom-alt:
+     auto;line-height:normal;mso-list:l2 level1 lfo1"><font face="Arial, sans-serif"><span style="mso-bookmark:
+     _Hlk531092582"><b><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
+     mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Weekly
+     Newsletters</span></b></span><span style="mso-bookmark:_Hlk531092582"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+     Calibri;mso-bidi-theme-font:minor-latin">&nbsp;- Business intelligence
+     with in-depth expert analysis every Tuesday, Wednesday and Thursday.<o:p></o:p></span></span></font></li>
+ <li class="MsoNormal" style="color:black;mso-margin-top-alt:auto;mso-margin-bottom-alt:
+     auto;line-height:normal;mso-list:l2 level1 lfo1"><font face="Arial, sans-serif"><span style="mso-bookmark:
+     _Hlk531092582"><b><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
+     mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Print
+     Magazine</span></b></span><span style="mso-bookmark:_Hlk531092582"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+     Calibri;mso-bidi-theme-font:minor-latin">&nbsp;- Delivered six times per year and
+     available in digital form;<o:p></o:p></span></span></font></li>
+ <li class="MsoNormal" style="color:black;mso-margin-top-alt:auto;mso-margin-bottom-alt:
+     auto;line-height:normal;mso-list:l2 level1 lfo1"><font face="Arial, sans-serif"><span style="mso-bookmark:
+     _Hlk531092582"><b><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;
+     mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Comprehensive
+     Archives</span></b></span><span style="mso-bookmark:_Hlk531092582"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:
+     Calibri;mso-bidi-theme-font:minor-latin">, Corporate Documents, and
+     Benchmarking Tools;<o:p></o:p></span></span></font></li>
+ <li class="MsoNormal" style="color:black;mso-margin-top-alt:auto;mso-margin-bottom-alt:
+     auto;line-height:normal;mso-list:l2 level1 lfo1"><font face="Arial, sans-serif"><span style="mso-bookmark:
+     _Hlk531092582"><b>Compliance Week Conferences 2019-2020*</b></span><span style="mso-bookmark:_Hlk531092582"><span style="mso-fareast-font-family:
+     &quot;Times New Roman&quot;;mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><o:p></o:p></span></span></font></li>
+</ul>
+
+
+
+<p class="MsoNormal" style="color: rgb(0, 0, 0); font-family: arial; font-size: 12pt; margin: 0in 0in 0.0001pt 0.75in; text-indent: -0.25in; line-height: normal;"><font face="Arial, sans-serif"><a href="http://events.complianceweek.com/events/compliance-week-europe-2019/event-summary-732be925fd794687a25a8bea1f982846.aspx?dvce=1&amp;_ga=2.166959350.913303936.1555940916-1563713560.1529592048"><span style="mso-bookmark:_Hlk531092582"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Compliance
+Week Europe 2019</span></span><span style="mso-bookmark:_Hlk531092582"></span></a><span style="mso-bookmark:_Hlk531092582"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;"><br>4-5 November 2019 | Amsterdam, Netherlands</span></span></font><span style="mso-bookmark:_Hlk531092582"><font face="Arial, sans-serif"><br></font></span></p><p class="MsoNormal" style="color: rgb(0, 0, 0); font-family: arial; font-size: 12pt; margin: 0in 0in 0.0001pt 0.75in; text-indent: -0.25in; line-height: normal;"><br></p><p class="MsoNormal" style="color: rgb(0, 0, 0); font-family: arial; font-size: 12pt; margin: 0in 0in 0.0001pt 0.75in; text-indent: -0.25in; line-height: normal;"><a href="https://www.fraconferences.com/tprm"><font face="Arial, sans-serif"><span style="mso-bookmark:_Hlk531092582"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Third Party Risk Management &amp; Oversight Summit</span></span></font></a><font face="Arial, sans-serif"><a href="https://www.fraconferences.com/tprm"><span style="mso-bookmark:_Hlk531092582"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;"><font face="Arial, sans-serif"><span style="mso-bookmark:_Hlk531092582"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;"></span></span></font></span></span></a><span style="mso-bookmark:_Hlk531092582"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;"><br>December 9-10, San Francisco, CA</span><i style="mso-bidi-font-style:normal"><span style="background:aqua;mso-highlight:aqua"></span></i></span></font></p><p class="MsoNormal" style="color: rgb(0, 0, 0); font-family: arial; font-size: 12pt; margin: 0in 0in 0.0001pt 0.75in; text-indent: -0.25in; line-height: normal;"><br><font face="Arial, sans-serif"><span style="mso-bookmark:_Hlk531092582"><i style="mso-bidi-font-style:normal"><span style="background:aqua;mso-highlight:aqua"></span></i></span><span style="mso-bookmark:_Hlk531092582"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;"><o:p></o:p></span></span></font></p>
+
+<p class="MsoNormal" style="color: rgb(0, 0, 0); font-family: arial; font-size: 12pt; margin: 0in 0in 0.0001pt 0.75in; text-indent: -0.25in; line-height: normal;"><font face="Arial, sans-serif"><a href="http://events.complianceweek.com/events/compliance-week-2020/event-summary-dac5a9a6359342c397e3d1cd6f8b7509.aspx?utm_campaign=cw2020"><span style="mso-bookmark:_Hlk531092582"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">Compliance
+Week Annual 2020</span></span></a><span style="mso-bookmark:_Hlk531092582"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;"><br>May 18-20, 2020 in
+Washington, D.C.<o:p></o:p></span></span></font><i style="font-size: 12pt; font-family: Arial, sans-serif;"><span style="background: aqua;"></span></i></p><span style="mso-bookmark:_Hlk531092582"><font face="Arial, sans-serif"><o:p></o:p></font></span>
+
+<p class="MsoNormal" style="color: rgb(0, 0, 0); font-family: arial; font-size: 12pt;"><font face="Arial, sans-serif"><span style="mso-bookmark:_Hlk531092582"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><br></span></span></font></p><p class="MsoNormal" style="color: rgb(0, 0, 0); font-family: arial; font-size: 12pt;"><font face="Arial, sans-serif"><span style="mso-bookmark:_Hlk531092582"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin">Questions?
+<span style="color:black;background:white">Please&nbsp;</span></span></span><a href="mailto:angela.ruggiero@complianceweek.com?subject=Renew%20my%20subscription%20for%20$799" target="_blank"><span style="mso-bookmark:_Hlk531092582"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:#1155CC;
+background:white">contact me</span></span></a><span style="mso-bookmark:_Hlk531092582"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;color:black;
+background:white">&nbsp;to take advantage of this valuable offer and start your
+subscription today!</span></span><span style="mso-bookmark:_Hlk531092582"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin"><o:p></o:p></span></span></font></p>
+
+<p style="color: rgb(0, 0, 0); font-family: arial; font-size: 12pt; margin: 0in 0in 0.0001pt;"><span style="mso-bookmark:_Hlk531092582"><span style="color: black;"><font face="Arial, sans-serif"><br></font></span></span></p><p style="color: rgb(0, 0, 0); font-family: arial; font-size: 12pt; margin: 0in 0in 0.0001pt;"><span style="mso-bookmark:_Hlk531092582"><span style="color: black;"><font face="Arial, sans-serif">Best Regards,<o:p></o:p></font></span></span></p>
+
+<p style="color: rgb(0, 0, 0); font-family: arial; font-size: 12pt; margin: 0in 0in 0.0001pt;"><span style="color: black;"><font style="" face="Arial, sans-serif"><br></font></span></p><p style="color: rgb(0, 0, 0); font-family: arial; font-size: 12pt; margin: 0in 0in 0.0001pt;"></p><p class="MsoNormal" style="color: rgb(0, 0, 0); font-family: arial; font-size: 12pt; margin-bottom: 0.0001pt; line-height: normal;"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">{!User.Name}<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="color: rgb(0, 0, 0); font-family: arial; font-size: 12pt; margin-bottom: 0.0001pt; line-height: normal;"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">{!User.Title}<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="color: rgb(0, 0, 0); font-family: arial; font-size: 12pt; margin-bottom: 0.0001pt; line-height: normal;"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">{!User.CompanyName}<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="color: rgb(0, 0, 0); font-family: arial; font-size: 12pt; margin-bottom: 0.0001pt; line-height: normal;"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">{!User.Email}<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="color: rgb(0, 0, 0); font-family: arial; font-size: 12pt; margin-bottom: 0.0001pt; line-height: normal;"><span style="font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;
+mso-fareast-font-family:&quot;Times New Roman&quot;;color:black">{!User.Phone}<o:p></o:p></span></p><span style="color: black; font-family: arial; font-size: 12pt;"><font style="" face="Arial, sans-serif"></font></span><p style="color: rgb(0, 0, 0); font-family: arial; font-size: 12pt;"></p>]]></td>
+</tr>
+</table>

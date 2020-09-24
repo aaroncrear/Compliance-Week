@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>Compliance_Week</letterhead>
+    <name>Earn CPE/CLE</name>
+    <style>freeForm</style>
+    <subject>{!Contact.FirstName} - Earn 19 CPE/CLE credits</subject>
+    <textOnly>Dear {!Contact.FirstName}, 
+ 
+Join us at this year’s 15th National Compliance Conference.  You can earn up to 19 CPE/CLE credits from more than 42 panel discussions, breakout sessions, and roundtable discussions on the most cutting-edge issues in risk, ethics, legal, audit, privacy, and governance.
+
+&quot;I always circle the Compliance Week conference on my calendar. It is the one event that draws experts in the field, as well as key regulators  and government officials to discuss current and emerging issues.&quot; Chief Ethics &amp; Compliance Officer Fortune 150 company.
+ 
+Three days of learning, networking, and credit opportunities. Included in your registration you will also receive a full year membership to Compliance Week. 
+ 
+Take action and become a full-access delegate today.
+
+Register here
+Use registration code: CW20DONNA for $250 off of the registration fee.
+
+Please let me know if there is anything I can assist with regarding the conference.  We also have group rates available for 3 or more attendees.
+
+Thanks {!Contact.FirstName}, I look forward to seeing you in DC!
+ 
+Best Regards,</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

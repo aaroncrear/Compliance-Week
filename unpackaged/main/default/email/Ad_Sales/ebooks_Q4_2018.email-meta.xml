@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>false</available>
+    <description>eBooks</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>ebooks Q4 2018</name>
+    <style>none</style>
+    <subject>Compliance Week eBooks - Q4 2018 Availability</subject>
+    <textOnly>Hi {!Contact.FirstName},
+
+
+Compliance Week has identified a number of eBooks that we&apos;d like to release in Q4, we would like to approach your firm with sponsorship.
+
+
+As an eBook sponsor, your firm would be able to contribute a white paper and full page advertisement. Your logo would appear on the front cover and in all promotional materials, and your firm description would appear on the second page. You would also receive all registration information for marketing. eBooks are a great opportunity for both lead generation and branding. They would be actively promoted for about three months.
+
+
+The eBook topics we are ready to release include:
+
+
+An Industry Perspective of GDPR Compliance
+
+Navigating the Unchartered Waters of Geopolitical Risk
+
+Compliance in a High-Tech World
+
+Answering the call of Environmental, Social &amp; Governance Demands
+
+Answering the Call of Today’s Investor Demands
+
+Preventing Corruption and Legal Risk in Sports
+
+A Global Look at Anti-Corruption Laws
+
+Third Party Risk Management
+
+
+
+Each eBook will be published online and will be released via email to Compliance Week’s entire active online database of 65,000 corporate financial, legal, audit, risk &amp; compliance executives at global public companies. We will also promote the eBook on our website homepage for three weeks and we’ll archive the eBook in our online library for one year. The online promotion will generate approximately 300 registrations with all registration information shared with the sponsor. The cost for exclusive sponsorship of an eBook is $15,000 and benefits include:
+
+Full page advertisement in the eBook
+White paper in the eBook (content prepared and formatted by the sponsor)
+Logo on all promotional materials including front cover
+Company description on page two of the eBook
+Ability to cross promote the eBook to own clients
+Leads from all promotion (approximately 300 leads)
+
+
+
+Please let me know if you have questions or would like to see a sample eBook or full story list for any of the eBooks listed above. Thanks for your consideration.
+
+-Doug
+
+------------------------------------
+
+Doug Juenemann
+
+Director, Advertising &amp; Sponsorship Sales
+
+Compliance Week
+
+129 Portland Street, 6th Flr
+
+Boston, MA 02114
+
+Phone #: 617 570 -8610
+
+doug@complianceweek.com
+
+https://www.linkedin.com/in/doug-juenemann-3475a5b/</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

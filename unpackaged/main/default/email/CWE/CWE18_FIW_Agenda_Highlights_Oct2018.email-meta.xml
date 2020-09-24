@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>CWE18 &amp; FIW Agenda Highlights - Oct2018</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>Compliance_Week</letterhead>
+    <name>CWE18 &amp; FIW Agenda Highlights - Oct2018</name>
+    <style>freeForm</style>
+    <subject>From auditing to financial intelligence—it’s on the agenda</subject>
+    <textOnly>Dear {!Contact.FirstName},
+
+Gain insights from sessions catered to your role and goals
+While all-encompassing, the goal of Compliance Week Europe 2018 is to provide you with practical tools and best practices to directly apply to your programme.
+
+Here’s a sampling of sessions to meet your own needs and unique challenges, or check-out the full agenda to create your own custom track.
+
+Defensible Compliance Programmes 2.0–Managing Bribery Risk
+In order to determine culpability and punishment, regulators and enforcement agencies will look very closely at the quality of your compliance programme, including your risk assessment process, policies, internal controls, training communications, and more. Learn what makes an effective and defensible compliance programme while maintaining an organisation-wide culture of integrity.
+
+Jacob Blatch, Case Controller and Senior Lawyer, Serious Fraud Office (SFO)
+Philippa Foster Back, Director, Institute for Business Ethics
+Lisa Kristin Miller, Head of Integrity Compliance Office, World Bank Group.
+Christine Uriarte, Senior Legal Analyst, Anti-Corruption Division, OECD.
+Moderator: Barbara Boehler, Director of Programming, Compliance Week
+
+Effective Programme Assessments
+Periodic programme assessments are key to maximising efforts and resources and also necessary for ensuring continuous improvement. In this session, we’ll look at the practical aspects of programme assessments, including conducting a self-assessment and identifying programme gaps, scoring, benchmarking, results sharing, and board reporting.
+
+Maria Diaz Diez, Chief Compliance Officer and Legal Counsel, Equivalenza Retail SLU
+Murray Grainger, Managing Director, Impact on Integrity
+
+Financial Intelligence Workshop (14 Nov.)*
+*Separate registration required.
+
+This one-day experiential deep-dive programme into banking data will equip you with an increased understanding of how to monitor, identify, investigate, and report transactions related to terrorism financing, human trafficking, and money laundering.
+
+Grahame White, Former Detective, National Terrorist Financial Investigations Unit, New Scotland Yard
+
+Please advise how I can help you secure registration, and join us in Amsterdam with hundreds of the world&apos;s leading compliance professionals.
+
+Best Regards,
+
+{!User.Name}
+{!User.Title}
+{!User.CompanyName}
+{!User.Email}
+{!User.Phone}</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

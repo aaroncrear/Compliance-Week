@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Lost_Reason__c</fullName>
+    <externalId>false</externalId>
+    <label>Lost Reason</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <controllingField>StageName</controllingField>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Lost on Price</fullName>
+                <default>false</default>
+                <label>Lost on Price</label>
+            </value>
+            <value>
+                <fullName>Lost to Competitor</fullName>
+                <default>false</default>
+                <label>Lost to Competitor</label>
+            </value>
+            <value>
+                <fullName>Low Usage</fullName>
+                <default>false</default>
+                <label>Low Usage</label>
+            </value>
+            <value>
+                <fullName>No Longer in Role</fullName>
+                <default>false</default>
+                <label>No Longer in Role</label>
+            </value>
+            <value>
+                <fullName>Service Not Required</fullName>
+                <default>false</default>
+                <label>Service Not Required</label>
+            </value>
+            <value>
+                <fullName>Company has Multi</fullName>
+                <default>false</default>
+                <label>Company has Multi</label>
+            </value>
+            <value>
+                <fullName>Renewal Opportunity Expired</fullName>
+                <default>false</default>
+                <label>Renewal Opportunity Expired</label>
+            </value>
+            <value>
+                <fullName>Declined Renewal</fullName>
+                <default>false</default>
+                <label>Declined Renewal</label>
+            </value>
+            <value>
+                <fullName>Recapture Opportunity Expired</fullName>
+                <default>false</default>
+                <label>Recapture Opportunity Expired</label>
+            </value>
+            <value>
+                <fullName>Schedule Conflict</fullName>
+                <default>false</default>
+                <label>Schedule Conflict</label>
+            </value>
+            <value>
+                <fullName>Travel Freeze</fullName>
+                <default>false</default>
+                <label>Travel Freeze</label>
+            </value>
+            <value>
+                <fullName>Write Off</fullName>
+                <default>false</default>
+                <label>Write Off</label>
+            </value>
+            <value>
+                <fullName>Not a Qualified Opportunity</fullName>
+                <default>false</default>
+                <label>Not a Qualified Opportunity</label>
+            </value>
+            <value>
+                <fullName>No Reply/No Response</fullName>
+                <default>false</default>
+                <label>No Reply/No Response</label>
+            </value>
+            <value>
+                <fullName>Opportunity Expired</fullName>
+                <default>false</default>
+                <label>Opportunity Expired</label>
+            </value>
+        </valueSetDefinition>
+        <valueSettings>
+            <controllingFieldValue>Closed Lost</controllingFieldValue>
+            <valueName>Lost on Price</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Closed Lost</controllingFieldValue>
+            <valueName>Lost to Competitor</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Closed Lost</controllingFieldValue>
+            <valueName>Low Usage</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Closed Lost</controllingFieldValue>
+            <valueName>No Longer in Role</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Closed Lost</controllingFieldValue>
+            <valueName>Service Not Required</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Closed Lost</controllingFieldValue>
+            <valueName>Company has Multi</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Closed Lost</controllingFieldValue>
+            <valueName>Declined Renewal</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Closed Lost</controllingFieldValue>
+            <valueName>Schedule Conflict</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Closed Lost</controllingFieldValue>
+            <valueName>Travel Freeze</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Closed Lost</controllingFieldValue>
+            <valueName>Write Off</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Closed Lost</controllingFieldValue>
+            <valueName>Not a Qualified Opportunity</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Closed Lost</controllingFieldValue>
+            <valueName>No Reply/No Response</valueName>
+        </valueSettings>
+    </valueSet>
+</CustomField>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Email sent @ 4 days into trial term</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>Compliance_Week</letterhead>
+    <name>Trial 3 | Zero-Engage</name>
+    <style>freeForm</style>
+    <subject>Don&apos;t waste your trial to Compliance Week!</subject>
+    <textOnly>{!Contact.FirstName},
+
+It looks like you have not visited our website since the start of your trial subscription. Remember, you can access many of the features available to full subscribers -- including compliance-related news, expert opinion, CPE-eligible webcasts, and more.
+
+I encourage you to browse our site and discover for yourself why many consider Compliance Week an indispensable source of information for GRC professionals.
+
+Let me know if you&apos;d like me to walk you through the site&apos;s features over the phone. And if you&apos;ve forgotten your password, reset it by entering your email address here.
+
+Warm regards,
+
+{!Contact.OwnerFullName}
+Compliance Week
+{!Contact.OwnerPhone} | {!Contact.OwnerEmail}
+www.complianceweek.com
+
+Wilmington Compliance Week | 129 Portland St Fl 6 Boston MA  02114-2014 | Fax +1 617 227-1815
+Need assistance? Check our Help Page or contact me directly. Your trial ends {!Contact.Expiration_Date__c}.</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>CW West Non Sub</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>CW WEST 2014 promo Non Sub</name>
+    <style>none</style>
+    <subject>Advanced registration is open for Compliance Week West 2014</subject>
+    <textOnly>We’re pleased to announce advanced registration is open
+for Compliance Week West.
+
+The 2014 agenda will be a one-day crash course on all things COSO, controls, accounting, and compliance coming to bear in 2015.
+
+
+See last year’s program here.
+
+
+Need help?
+Email us |   Call +1 617-570-8617   | Visit</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

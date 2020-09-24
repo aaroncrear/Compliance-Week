@@ -1,0 +1,14 @@
+Dear {!Contact.FirstName},
+ 
+Thank you for subscribing to Compliance Week, the premier resource for Governance, Risk Management and Compliance.
+ 
+Your subscription will automatically renew on {!Contact.Expiration_Date__c}. 
+
+You will continue to receive Compliance Week newsletters, our monthly magazine, and access to complianceweek.com for the next 12 months at the discounted rate of at the discounted rate of {!Contact.00N50000001Q2kb}.
+ 
+You will be emailed an invoice on your expiration date. If you do not wish to renew, please respond to our customer service department at 888-519-9200 or angela.ruggiero@complianceweek.com by {!Contact.Expiration_Date__c}. 
+ 
+Thank you for your continuing support.
+ 
+Donna O'Neill
+Compliance Week

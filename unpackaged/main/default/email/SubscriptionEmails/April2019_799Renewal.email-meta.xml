@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>Compliance_Week</letterhead>
+    <name>$399Renewal</name>
+    <style>freeForm</style>
+    <subject>{!Contact.FirstName}, exclusive for subscribers, renew today</subject>
+    <textOnly>Hi {!Contact.FirstName},
+
+We’re thrilled to announce that Compliance Week is launching a new website in early May, with greater functionality, personalization tools and resources.
+
+As your Compliance Week subscription expired on XXX, we encourage you to renew today for the discounted price of $799 (expires April 30th).
+
+Helping compliance practitioners like yourself is the mission guiding Compliance Week’s news, analysis, resources and conferences.  Now is the time for you to gain access to the breadth of online coverage, print magazine and in-person networking – ready to get started?
+
+Renew your subscription today for $799 (a $400 discount)*
+
+To activate your subscription at the $799 discounted rate, just respond to this email with an “I agree”.
+
+You’ll be on your way to joining thousands of the world&apos;s leading compliance professionals who use Compliance Week analysis daily, including executives from Wal-Mart Stores Inc., Microsoft, Verizon, General Electric, Cardinal Health, Fannie Mae, Prudential Financial, Phillips 66, Anthem, Target, and many others.
+
+2019 Subscription benefits &amp; events schedule
+
+The most pertinent in-depth expert analysis at your fingertips -news articles, blogs, and thought leadership geared towards specific topics of interest to you.
+On-Demand CPE Library - Webcast Forums, Whitepapers - Register for Live Webcasts or earn credits anytime at your convenience.
+Weekly Newsletters - Business intelligence with in-depth expert analysis every Tuesday, Wednesday and Thursday.
+Print Magazine - Delivered 6x per year and available in digital form.
+Comprehensive Archives, Corporate Documents, and Benchmarking Tools.
+Compliance Week Conferences 2019*
+
+New! Compliance Week West – March 11-12, 2019, San Francisco, Data Privacy, Data Analytics, and Big Data Summit (completed)
+
+4th Annual TPRM, Third Party Risk Management &amp; Oversight Summit, March 25-26, 2019, New York City (completed)
+
+Compliance Week Annual 2019, May 20-22, 2019 in Washington D.C.
+
+Compliance Week Europe 2019, 4-5 November 2019.
+
+*All conferences subject to change
+
+Questions? Please contact me to take advantage of this valuable offer and start your subscription today!
+
+Best Regards,
+
+Angela
+
+{!User.Name}
+{!User.Title}
+{!User.CompanyName}
+{!User.Email}
+{!User.Phone}</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

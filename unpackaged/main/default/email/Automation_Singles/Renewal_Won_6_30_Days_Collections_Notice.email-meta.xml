@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Email sent to subscriber regarding collections.</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Renewal Won 6 @ +30 Days: Collections Notice</name>
+    <style>none</style>
+    <subject>Compliance Week Collections Notice</subject>
+    <textOnly>Collections Alert: Invoice 30 Days Overdue
+
+Dear {!Opportunity.Primary_Subscription_Contact__c},
+
+Your payment is now a month overdue, and we have regrettably referred your account to collections. Please make arrangements to submit payment at your earliest convenience to avoid further action.
+
+Our Terms &amp; Conditions are available at https://www.complianceweek.com/terms-and-conditions. If you have an account or billing question, please contact me as soon as possible.
+
+Angela Ruggiero
+Business Development Associate
+(617) 570-8608
+
+Subscription Details  Online  Mail Order / Check  Call
+
+Type: {!Opportunity.Single_Multi__c}-User
+Term: {!Opportunity.Subscription_Starts__c}-{!Opportunity.Subscription_Expires__c}
+Amount: {!Opportunity.Amount}
+Invoice: {!Opportunity.Invoice__c}
+
+Accounts Payable
+129 Portland St Fl 6
+Boston MA  02114-2014
+(617) 570-8608</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

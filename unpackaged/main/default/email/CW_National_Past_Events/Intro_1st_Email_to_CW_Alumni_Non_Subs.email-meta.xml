@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Intro 1st Email to CW Alumni NON-SUBS</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Intro 1st Email to CW Alumni-NON Subs</name>
+    <style>none</style>
+    <subject>Join us again for Compliance Week 2017</subject>
+    <type>text</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

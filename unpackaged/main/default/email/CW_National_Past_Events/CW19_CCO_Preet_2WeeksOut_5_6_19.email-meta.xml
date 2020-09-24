@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>CW19 CCO 2 Weeks Out - Preet - 5.6.19</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>Compliance_Week</letterhead>
+    <name>CW19 CCO.Preet.2WeeksOut - 5.6.19</name>
+    <style>freeForm</style>
+    <subject>{!Contact.FirstName}, your VIP Invitation to CW19 &amp; Keynote Preet Bharara</subject>
+    <textOnly>Dear {!Contact.FirstName},
+
+The 14th annual Compliance Week national conference is fast approaching and the agenda jam-packed, and we&apos;re thrilled to announce former prosecutor, Preet Bharara, as Keynote Speaker on Tues May 21st.
+
+No matter what your specialty is or which industry you’re in, we promise this three-day compliance-palooza will deliver the knowledge (CEU credits and all), networking opportunities, and best practices you’re looking for to improve your program.
+
+Our 50-plus educational sessions will feature thoughtful discussion, insightful commentary, and take-home advice from some of the most influential leaders in the compliance community. This year’s topics include how to supercharge your compliance career, which emerging threats you should have on your radar, why technology can be both a powerful tool and a critical risk for your business, what to do with all that data you’ve been collecting, and much, much more.
+
+The list of speakers includes CEOs, CCOs, regulators, federal officials, and academics from organizations like the FBI, Google, Tesla, the World Bank, Volkswagen, Lockheed Martin, Verizon, Walmart, and more. In other words, pretty much anyone you’d want to hear from or meet will be with us at the historic Mayflower Hotel in Washington, D.C.
+
+Evolving regulation and the exhilarating pace of innovation mean compliance is changing … and we can help you keep up. If you’ve never joined us for this annual celebration of compliance, this is the year to make your pitch to the boss and trek to the nation’s capital for what will be a learning and networking opportunity that gives you the most bang for your buck.
+
+Come join us and help drive the conversation.
+
+Register today and use registration code: CCO-VIP for special pricing of $1,595 (an $800 savings)
+
+Please let me know if there is anything I can assist with regarding the conference.
+
+Thanks {!Contact.FirstName}, I look forward to seeing you in DC!
+
+Best Regards,
+
+E-
+
+{!User.Name}
+{!User.Title}
+{!User.CompanyName}
+{!User.Email}
+{!User.Phone}
+
+Compliance Week 2019 | May 20-22 | Washington D.C.</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Frontlines</name>
+    <style>none</style>
+    <subject>Compliance, Guns, &amp; Diamonds: A tale from the frontlines</subject>
+    <textOnly>{!Contact.FirstName},
+
+This week, a nameless banking executive tells of his visit to a newly acquired business unit. “The first sign of trouble was the gun in the Beauregard Room,” he said. “That’s really not something you should have in a bank.” Then he found the serious non-compliance problems. | Read more at http://www.complianceweek.com/another-true-tale-from-compliance-front-lines/article/319330/.
+
+Packed with news, analysis, expert opinion -- and real tales from the trenches -- Compliance Week is the premier information source for thousands of GRC professionals. See for yourself by taking out a no-obligation free 10 day trial subscription.  Simply respond to this email with &quot;sign me up&quot; in the subject line to begin your free access today.
+
+http://www.complianceweek.com/eproducttype/5/
+
+{!User.FirstName} {!User.LastName}
+Compliance Week</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

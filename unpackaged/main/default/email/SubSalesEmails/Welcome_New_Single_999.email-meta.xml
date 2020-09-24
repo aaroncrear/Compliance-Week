@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>For welcoming new singles who have been quoted the $999 price</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>Compliance_Week</letterhead>
+    <name>Welcome New Single $999</name>
+    <style>freeForm</style>
+    <subject>Welcome to Compliance Week - Your Subscription Invoice Attached</subject>
+    <textOnly>Hello!
+
+
+I&apos;m writing welcome you as a new subscriber to Compliance Week. We are happy that you recognize the value and benefits of our service, just like the 90% of corporations that renew their subscription each year -- as they know Compliance Week is a wise investment to protect their company. We thank you for your support!
+
+To thank you for your business and welcome you to Compliance Week, we have extended you a promotional rate of $999/year (regular rate is $1,199)
+
+And don&apos;t forget, your subscription is packed with a whole host of benefits --
+
+* Compliance Week’s newsletter delivered directly to your inbox each Tuesday morning with in-depth news, analysis, columns, research, and more;
+
+* Compliance Weekend newsletter delivered via email each Friday afternoon offering a quick, &quot;plain English&quot; review of the week&apos;s key developments;
+
+* Thought Leadership of the Week -- a digital research report, white paper, or &quot;thought leadership&quot; alert typically focusing on global regulatory issues;
+
+* The print magazine, packed with best practices, perspective, tools, research, and &quot;true life&quot; examples;
+
+* Full online access to articles, columns, guidance, archives, and more than a dozen research databases;
+
+* Free CPE credit in our On-Demand CPE Library;
+
+* Expert commentary from exclusive writers like former Financial Accounting Standards Board chairman Robert Herz and others;
+
+* And Much More!
+
+
+Your invoice is attached.  On page 3 you will find wire transfer instructions per your request.
+
+Please don&apos;t hesitate to reach out to me with any questions or concerns. I am happy to be of service.
+
+
+Christopher MacDonald
+
+Major Accounts | Compliance Week
+
+129 Portland St Fl 6, Boston, MA 02114
+
+T +1 (617) 570-8212 | complianceweek.com
+
+
+
+Compliance Week 2018
+
+600+ GRC Leaders  |  20+ CLE / CPE Credits  |  60+ Sessions
+
+May 21-23, 2018 in Washington, D.C. | Register Today</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

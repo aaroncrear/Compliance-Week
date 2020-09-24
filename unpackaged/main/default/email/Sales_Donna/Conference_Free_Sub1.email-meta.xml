@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Conference Free Sub</name>
+    <style>none</style>
+    <subject>CW2016- Your Compliance Week Complimentary subscription</subject>
+    <textOnly>Dear {!Contact.FirstName},
+
+Thank you for subscribing to Compliance Week. Your account has been activated, and you now have access to all gated content. If you haven’t established a password yet, click “Login” in the top right-hand corner of the site, choose “Forgot your password?” in the resulting dialog box, enter your email address, and a new password will be sent to you.
+
+
+Selecting Weekly Emails | You may elect to receive one or both of our two subscriber-only email newsletters, Compliance Week Tuesday Edition and Compliance Weekend. In addition, we currently offer three complimentary email services: Event of the Week, Thought Leadership of the Week and Compliance Week Europe. Selections may be made on the My Account page.
+
+
+Terms of Use | When you sign in to the Compliance Week Website (http://www.complianceweek.com) for the first time using the above username and password, you are indicating that you agree to Compliance Week&apos;s “Terms of Use,‘ including our cancellation policy. Please refer to Compliance Week’s Terms of Use.
+
+Subscriber Information | Please ensure that the following details are correct. If you choose to receive our monthly print magazine, we will use the address on file to service it. Corrections may be made on the My Account page
+
+{!Contact.FirstName} {!Contact.LastName} {!Contact.Title} {!Account.Name} {!Contact.MailingAddress} Email: {!Contact.Email}  Subscription Type: {!Opportunity.Transaction_Description__c} Expiration Date: {!Contact.Expiration_Date__c}
+
+Thanks again! And remember, we’re here to help. You can find answers to several common customer-service questions online, or you may contact us at (888) 519-9200 or via email.
+
+Sincerely,
+
+Compliance Week http//:www.complianceweek.com/</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

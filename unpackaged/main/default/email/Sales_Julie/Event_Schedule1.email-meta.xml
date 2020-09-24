@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Event Schedule</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Event Schedule</name>
+    <style>none</style>
+    <subject>Compliance Week Conference Schedule</subject>
+    <textOnly>Hi {!Contact.FirstName},
+
+Compliance Week has multiple events scheduled in 2017-2018 with proven ROI for our sponsors. I would like to approach your firm with sponsorship.
+
+All of our events are cross-industry and attract high level compliance, audit, legal, and ethics officers from a variety of multi-national organizations. The cost of presenting sponsorship (includes a speaking slot) is listed for each event. The events on our calendar thru June of 2018 include:
+
+Sanctions Risk Management Symposium
+September 18-19, 2017
+Princeton Club in NYC
+80-100 attendees
+This event will take a look at the latest OFAC positions on Cuba, Iran and Russia; auditing and monitoring for sanction compliance; export controls and sanctions requirements of Canada, the EU, and the UK; supply chain and business partner risk; and much more. The event is co-hosted by Sanctions Alert. The cost of presenting sponsorship is $12,000 and includes two speaking sessions, booth, access to all leads, branding, etc.
+
+Compliance Week Europe 2017 Conference
+November 13-14, 2017
+Amsterdam Marriott
+140-175 attendees
+This conference (now in its 5th year) looks at the broad risk &amp; compliance challenges of multinational organizations based and doing business in Europe. Topics include anti-corruption laws and enforcement, conducting a corporate internal investigation, due diligence, data privacy, crafting a code of conduct, whistleblowing, creating an ethical culture, etc. The cost of presenting sponsorship is $20,000 and includes two speaking sessions, booth, access to all leads, branding, etc. Currently we have room for one additional presenting sponsor.
+
+GDPR Readiness Summit
+November 28-29, 2017
+Standard Club in Chicago
+80-100 attendees
+The event will look at the compliance challenges of implementing and monitoring an effective data protection program. The event will cover best practices for building a data inventory, implementing privacy impact assessments, designating a DPO, and responding to requests from data subjects. The cost of presenting sponsorship is $12,000 and includes a speaking session, booth, access to all leads, branding, etc.
+
+3rd Annual Summit on Third Party Risk Management
+2 day event held in March 2018
+Location TBD
+125-150 attendees
+The event will cover ways to design and implement a third party risk management program, from assessing risk, contract management, audits and monitoring, and much more. The cost of presenting sponsorship is $15,000 and includes a speaking sessions, booth, access to all leads, branding, etc.
+
+Compliance Week 2018 Annual Conference
+May 21-23, 2018
+Mayflower Hotel, Washington DC
+450-500 attendees
+For the 13th year, Compliance Week hosts our flagship conference in Washington, DC. This peer-to-peer event spotlights compliance leaders and their programs. Past keynote speakers have included representatives from the U.S. Securities and Exchange Commission and the U.S. Department of Justice, Fortune 500 CEOs, academic thought leaders, and more. It is the event for corporate compliance and ethics, legal, and audit officers at global public companies. The cost of presenting sponsorship is $55,000 and includes two speaking sessions, seated lunch with executives on your target list, exhibit booth, access to all leads, branding, etc. Note: sponsorships go quickly and are limited to 13.
+
+Additional details on any of these events is available upon request. Please let me know if you have questions or interest.
+
+Thank you for your consideration.
+
+
+-Julie
+
+
+
+----------------------------------
+Julie Van Gelder
+Advertising &amp; Events
+Compliance Week
+julie.vangelder@complianceweek.com
+(617) 570 8612</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

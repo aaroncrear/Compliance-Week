@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Print</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Sept Back Cover</name>
+    <style>none</style>
+    <subject>Compliance Week September Print Edition - Inside Cover</subject>
+    <textOnly>Hi {!Contact.FirstName},
+
+We are working to close the September print edition of Compliance Week and have space available for a full page advertisement on the outside back cover. The outside back cover is the most visible position in the magazine.
+
+I’d like to see if {!Account.Name} would be interested in the position. Because it&apos;s late and we need to fill the position by Thursday we&apos;d be willing to give a reduced rate and include complimentary online banner impressions.
+
+The rate card cost for the position is $7,150. I will reduce the cost to $5,500 and include 50,000 online banner impressions as added value. Materials for the print ad would be due by EOD Thursday this week, August 10th
+
+Stories in the September edition will look at:
+
+
+Artifacts and artwork can collect trouble - A look at how Hobby Lobby violated sanctions and other international law in its acceptance of looted Babylonian artifacts and then resold them as art supplies.
+BNP Paribas faces fresh accusations over involvement with Rwandan genocide - France’s largest bank is facing fresh allegations over how it processed transactions by the Rwandan government that helped facilitate the 1994 genocide.
+The compliance side of the war on drugs - Feds punish a maker of generic oxycodone for failing to sufficiently monitor its own sales distribution to see if anyone is abusing their product.
+Add tax to the growing list of revenue recognition crises - Taxation details are making compliance with the approaching rev rec standard that much more complicated.
+Australia mulls modern slavery act - Australia looks at its own rule making to battle modern slavery.
+Mexico anti-corruption - Mexico cracks down on all forms of corruption, but especially that which involves the public sector.
+SCOTUS on whistleblower protections - The Supreme Court weighs in on the perpetually divisive issue of protecting whistleblowers.
+Distilling lessons from FCPA Pilot Program - The lowdown on how the Pilot Program has affected FCPA enforcement and how you can better comply with the law and not get into trouble.
+CFPB courts even more controversy with arbitration rule - Consumer Financial Protection Bureau wants to kill the forced arbitration rule preventing class actions against companies for predatory behavior.
+
+Please let me know soon if you are interested, we’re approaching others.
+
+Thanks for your consideration.
+
+
+
+
+-Julie Van Gelder
+
+
+
+----------------------------------
+Julie Van Gelder
+Advertising &amp; Events
+Compliance Week
+julie.vangelder@complianceweek.com
+(617) 570 8612</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

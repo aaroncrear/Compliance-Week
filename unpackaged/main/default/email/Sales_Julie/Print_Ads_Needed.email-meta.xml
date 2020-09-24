@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>Compliance_Week</letterhead>
+    <name>Print Ads Needed</name>
+    <style>freeForm</style>
+    <subject>Compliance Week Print Edition- Advertising Opportunity</subject>
+    <textOnly>Hi {!Contact.FirstName},
+
+
+We are working to close the December edition of Compliance Week and have space for a full page ad on the outside back cover. The back cover is the most visible position in the magazine, we typically charge a 20% premium for the position.
+
+
+
+I’d like to see if {!Account.Name} would be interested in the position. Because it&apos;s late, we&apos;d waive the premium and include 25k online banner impressions at no additional cost.
+
+
+Rate card for the position is $7,150 but I would reduce to $6,000. It would generate nice print and online exposure for your firm. Materials for the print ad would be due next week Tuesday, November 15th.
+
+
+
+The print edition would reach subscribers the week of December.
+
+Please let me know soon if you have any interest, as we are approaching other companies as well.
+
+
+Thanks for your consideration.</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

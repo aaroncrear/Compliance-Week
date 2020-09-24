@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Sanctions Event</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Sanctions Event</name>
+    <style>none</style>
+    <subject>Compliance Week 2018 Sanctions Risk Management Conference</subject>
+    <textOnly>This fall, Compliance Week will host our third annual event on Sanctions. I would like to approach {!Account.Name} with sponsorship.
+
+
+The 2018 Sanctions Risk &amp; Export Compliance Conference will be held on October 15-16, 2018, at the Princeton Club in NY. Attending the event will be approximately 100 to 150 corporate compliance, legal, audit, AML &amp; sanctions executives at global public companies. It will be a cross industry conference designed to show attendees how to mitigate risks and will bring many top experts to guide you on how to do your sanctions compliance job better. There will be a focus on the strategies and tools that compliance executives can use to do their job better. The 2018 website for the event can be found here. Topics on the agenda include:
+
+
+Keynote – Kelvin Ong, United Nations Sanctions Chief
+
+Stirring the PEP’s Nest: Applying Global Magnitsky Sanctions to Prevent Abuse and Corruption
+
+Government Panel: DOJ, NYDFS &amp; DoS Enforcement of Sanctions and Regulatory Priorities
+
+Sanctions Governance Framework: Driving Compliance Through a Global Organization
+
+List Matching: Best Practices for Screening and Alert Handling
+
+Case Study: Compliance with New Sanctions Targeting Terrorist Networks
+
+Use of AI and Emerging Tech in Your Sanctions Compliance Program
+
+How Sanctions Compliance Fits in with AML, Compliance and the Business
+
+Customer Due Diligence: Uncovering Shell Companies to Detect Hidden Beneficial Owners
+
+Performing Risk-Based Metrics in Auditing the OFAC/Sanctions Compliance Programs
+
+
+We are looking for six presenting sponsors. Each will receive two speaking sessions, a booth, access to the full registration list, etc. The sponsorship package:
+
+
+Presenting Sponsorship: $12,000 (6 spots available)
+
+-Speaking position on a general panel session;
+
+-Leadership of a break out roundtable discussion;
+
+-Exhibit display table;
+
+-Access to the full registration list post event, pre event the companies and titles are shared;
+
+-Recognition announcement in the morning and a thank you at the end of each day;
+
+-Logo on all promotional material, recognition in social media;
+
+-Two (2) conference passes.
+
+
+The event will be co-hosted by Compliance Week and Financial Research Associates (a sister company of Compliance Week who specializes in events) and will be held in cooperation with SanctionsAlert.com.
+
+
+Please let me know if you have questions or would like to discuss. I am happy to send along the agenda if you are interested. Thanks for your consideration.
+
+
+-Doug
+
+
+------------------------------------
+
+Doug Juenemann
+
+Director, Advertising &amp; Sponsorship Sales
+
+Compliance Week
+
+129 Portland Street, 6th Flr
+
+Boston, MA 02114
+
+Phone #: 617 570 -8610
+
+doug@complianceweek.com
+
+https://www.linkedin.com/in/doug-juenemann-3475a5b/</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

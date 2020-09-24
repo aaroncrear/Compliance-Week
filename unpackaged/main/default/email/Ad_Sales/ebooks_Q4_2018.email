@@ -1,0 +1,168 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=us-ascii"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+h2
+	{mso-style-priority:9;
+	mso-style-link:"Heading 2 Char";
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:18.0pt;
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+p.MsoNoSpacing, li.MsoNoSpacing, div.MsoNoSpacing
+	{mso-style-priority:1;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+span.Heading2Char
+	{mso-style-name:"Heading 2 Char";
+	mso-style-priority:9;
+	mso-style-link:"Heading 2";
+	font-family:"Times New Roman",serif;
+	font-weight:bold;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+span.EmailStyle20
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle21
+	{mso-style-type:personal;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+span.EmailStyle22
+	{mso-style-type:personal-reply;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+p.xmsonospacing, li.xmsonospacing, div.xmsonospacing
+	{mso-style-name:x_msonospacing;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:258636878;
+	mso-list-template-ids:87585570;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Times New Roman";}
+@list l0:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=EN-US link="#0563C1" vlink="#954F72"><div class=WordSection1><p class=xmsonospacing><span style='color:black'>Hi {!Contact.FirstName}, <o:p></o:p></span></p><p class=MsoNoSpacing><o:p>&nbsp;</o:p></p><p class=MsoNoSpacing>Compliance Week has identified a number of eBooks that we'd like to release in Q4, we would like to approach your firm with sponsorship. <o:p></o:p></p><p class=MsoNoSpacing><o:p>&nbsp;</o:p></p><p class=MsoNoSpacing>As an eBook sponsor, your firm would be able to contribute a white paper and full page advertisement. Your logo would appear on the front cover and in all promotional materials, and your firm description would appear on the second page. You would also receive all registration information for marketing. eBooks are a great opportunity for both lead generation and branding. They would be actively promoted for about three months. <o:p></o:p></p><p class=MsoNoSpacing><o:p>&nbsp;</o:p></p><p class=MsoNoSpacing>The eBook topics we are ready to release include:<o:p></o:p></p><p class=MsoNoSpacing><o:p>&nbsp;</o:p></p><p class=MsoNoSpacing style='margin-left:.5in'><b><span style='color:blue'>An Industry Perspective of GDPR Compliance<o:p></o:p></span></b></p><p class=MsoNoSpacing style='margin-left:.5in'><b><span style='color:blue'>Navigating the Unchartered Waters of Geopolitical Risk<o:p></o:p></span></b></p><p class=MsoNoSpacing style='margin-left:.5in'><b><span style='color:blue'>Compliance in a High-Tech World<o:p></o:p></span></b></p><p class=MsoNoSpacing style='margin-left:.5in'><b><span style='color:blue'>Answering the call of Environmental, Social &amp; Governance Demands</span></b><span style='color:blue'>&nbsp;<o:p></o:p></span></p><p class=MsoNoSpacing style='margin-left:.5in'><b><span style='color:blue'>Answering the Call of Today&#8217;s Investor Demands&nbsp; <o:p></o:p></span></b></p><p class=MsoNoSpacing style='margin-left:.5in'><b><span style='color:blue'>Preventing Corruption and Legal Risk in Sports</span></b><span style='color:blue'><o:p></o:p></span></p><p class=MsoNoSpacing style='margin-left:.5in'><b><span style='color:blue'>A Global Look at Anti-Corruption Laws <o:p></o:p></span></b></p><p class=MsoNoSpacing style='margin-left:.5in'><b><span style='color:blue'>Third Party Risk Management<p></span></b><span style='color:blue'><o:p></o:p></span></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>Each eBook will be published online and will be released via email to Compliance Week&#8217;s entire active online database of 65,000 corporate financial, legal, audit, risk &amp; compliance executives at global public companies. We will also promote the eBook on our website homepage for three weeks and we&#8217;ll archive the eBook in our online library for one year. The online promotion will generate approximately 300 registrations with all registration information shared with the sponsor. The cost for exclusive sponsorship of an eBook is $15,000 and benefits include: <o:p></o:p></p><ul type=disc><li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-list:l0 level1 lfo1'>Full page advertisement in the eBook<o:p></o:p></li><li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-list:l0 level1 lfo1'>White paper in the eBook (content prepared and formatted by the sponsor)<o:p></o:p></li><li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-list:l0 level1 lfo1'>Logo on all promotional materials including front cover<o:p></o:p></li><li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-list:l0 level1 lfo1'>Company description on page two of the eBook<o:p></o:p></li><li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-list:l0 level1 lfo1'>Ability to cross promote the eBook to own clients<o:p></o:p></li><li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-list:l0 level1 lfo1'>Leads from all promotion (approximately 300 leads)<p><o:p></o:p></li></ul><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>Please let me know if you have questions or would like to see a sample eBook or full story list for any of the eBooks listed above. Thanks for your consideration. <o:p></o:p></p><p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>-Doug <o:p></o:p></p><p class=MsoNormal><span style='color:black'>------------------------------------<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Times New Roman",serif;color:black'>Doug Juenemann<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Times New Roman",serif;color:black'>Director, Advertising &amp; Sponsorship Sales<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Times New Roman",serif;color:black'>Compliance Week<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Times New Roman",serif;color:black'>129 Portland Street, 6<sup>th</sup> Flr<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Times New Roman",serif;color:black'>Boston, MA 02114<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Times New Roman",serif;color:black'>Phone #: 617 570 -8610<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Times New Roman",serif;color:blue'><a href="mailto:doug@complianceweek.com"><span style='color:blue'>doug@complianceweek.com</span></a><o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Times New Roman",serif;color:blue'><a href="https://www.linkedin.com/in/doug-juenemann-3475a5b/"><span style='color:blue'>https://www.linkedin.com/in/doug-juenemann-3475a5b/</span></a><o:p></o:p></span></p><p class=MsoNormal><o:p>&nbsp;</o:p></p></div></body></html>

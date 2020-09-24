@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>eBooks</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>eBooks</name>
+    <style>none</style>
+    <subject>Compliance Week eBook Pipeline - 2017</subject>
+    <textOnly>Hi {!Contact.FirstName},
+
+I hope all is well at {!Account.Name}.
+
+We have identified multiple eBooks which we&apos;d like to release in the second half of 2017, I would like to see if you would be interested in sponsorship.
+
+As a sponsor to an eBook, you would be able to contribute a white paper and full page advertisement. Your logo would appear on the front cover and in all promotional materials, and your firm description would appear on the second page. You would also receive all registration information for marketing purposes.  The ebook topics we are ready to release include (stories are also listed):
+
+
+Auditing, Accounting, SOX, Oh My!
+CPAs Will Get New Marching Orders on Spotting Illegal Acts
+At 15, Sarbanes-Oxley Act Inspires Reflection, Renewed Attacks
+Proposed Rules Would Shore up Auditing of Estimates
+10 Reasons to be Wary of New PCAOB Auditor Disclosure Rules
+Valuation Specialists Rise to Financial Reporting Challenge
+
+A Primer on New Tax Reform Efforts, and How to Prepare
+ACA Filing Deadlines Still Loom Amid Reform Debate
+Add Tax to the Growing List of Revenue Recognition Crises
+Delayed But Not Dead, Tax Reform Waits Behind Healthcare
+Does Tax Reform Mean Tax Risk for Companies with Deferred Positions?
+The U.K. Criminal Finances Act Seeks to Stamp Out Corporate Tax Evasion
+
+Fortifying your Cyber-Security Efforts
+Getting Ready for SEC Cyber-Security Tests
+Choosing a Sound Path Forward for Cyber-Security
+Data Breach Trends Industry-By-Industry
+Data Privacy and Cyber-Security Considerations in M&amp;A
+A Look at China’s Sweeping New Cyber-Security Law
+Identifying Inside Threats to Cyber-Security
+
+A World View of Anti-Corruption Efforts
+Distilling Lessons from the FCPA Pilot Program
+England: Land of Crooks or Land of Enforcement?
+Mexico Unveils New Anti-Corruption Law
+Brazil’s Largest Corruption Investigation in History Hits New Heights
+Sapin II Aims to Challenge France’s Culture of Corruption
+A look at China’s Sweeping new Cyber-Security Law
+Global Anti-Bribery Enforcement on the Rise
+
+Preventing Human Rights Abuses Around the World
+OECD Releases Guidance on Responsible Business Conduct
+BNP Paribas Faces Fresh Accusations over Genocide
+Cruel Britannia? U.K. Grapples with Modern Slavery
+Australia Mulls Modern Slavery Act
+Some Practical Solutions to the Problem of Modern Slavery
+Cement, Compliance, and Crimes Against Humanity in Syria
+Slavery Risks on Compliance Agenda
+Modern slavery: The Global Construction Industry’s Secret
+
+Getting ready for GDPR
+Sweeping changes to the EU’s data protection laws means new compliance headaches for any company that collects and handles data on citizens of the European Union. As part of the EU’s stringent new General Data Protection Regulation (GDPR), which will take effect in under a year, some companies will be required to create and appoint a new Data Protection Officer, while all companies that collect and handle data on EU citizens will have to thoroughly reassess what personally identifiable information rests on their networks on a global scale. Data management techniques and vendor assessments will also need to be reexamined. In this edition, Compliance Week will cut through all this confusion and uncertainty to ensure companies are GDPR ready. This eBook will publish in print and online in October and will have multiple sponsors. Different advertising rates apply.
+
+Trade Sanction Compliance
+Trade sanctions remain a hotly debated topic among compliance officers. In light of the slew of regulatory changes, amendments and new requirements, companies are now tasked with putting their trade sanction compliance programs in order since enforcement actions are on the rise. This ebook will explore what compliance officers need to know about trade sanctions, and will offer some best practices that top companies are using to future proof their programs.
+
+Each eBook will be published online and will be released via email to Compliance Week’s entire active online database of 72,000 corporate financial, legal, audit, risk &amp; compliance executives at global public companies. We will also promote the eBook on our website homepage for three weeks and we’ll archive the eBook in our online library for one year. The online promotion will generate a MINIMUM of 300 registrations with all registration information shared with the sponsor.  The cost for exclusive sponsorship for each eBook is $15,000 and benefits include:
+
+Full page advertisement in the eBook
+White paper in the eBook (content prepared and formatted by the sponsor)
+Logo on all promotional materials including front cover
+Company description on page two of the eBook
+Ability to cross promote the eBook to own clients
+Leads from all promotion (minimum 300 leads guaranteed)
+
+Please let me know if you have questions or would like to see a sample eBook. Thanks for your consideration.
+
+
+
+-Doug
+
+
+
+----------------------------------
+Doug Juenemann
+Advertising &amp; Events
+Compliance Week
+djuenemann@complianceweek.com
+(617) 570 8610</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

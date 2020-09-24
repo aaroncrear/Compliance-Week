@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>To send to Multis if they don&apos;t remember how to manage their account</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Admin Info</name>
+    <style>none</style>
+    <subject>Managing Your Multi-User Subscription to Compliance Week</subject>
+    <textOnly>Welcome to Compliance Week
+
+
+Dear {!Contact.FirstName},
+
+Thank you again for purchasing a multi-user subscription to Compliance Week. Your invoice is attached.
+
+As the internal administrator of {!Account.Name}’s account, you are able to add new users and delete old ones from your account; update contact information for the account users and yourself; and subscribe or remove users from email distribution lists. If there is someone else in your company who handles the maintenance of your subscription, please let us know and we can change the designated administrator on the account.
+
+To change a user&apos;s account, follow these steps:
+
+Log on to Compliance Week as normal;
+Click on My CW
+Select the “Subscription Admin&quot; tab;
+Click update user profile of the user account you wish to edit;
+Change the desired fields (note, asterisked fields are required);
+Click the Update Details button.
+
+Please be aware that your account&apos;s user limit is {!Account.User_Limit__c}. If you wish to add additional users, please contact us via phone at (888) 519-9200 or via email.
+
+Subscriber Information | Please ensure that the following details are correct. If you choose to receive our monthly print magazine, we will use the address on file to service it. Corrections may also be made on the Profile tab of My CW.
+
+{!Contact.FirstName} {!Contact.LastName}
+{!Contact.Title}
+{!Account.Name}
+{!Contact.MailingAddress}
+Email: {!Contact.Email}
+
+Expiration Date: {!Contact.Expiration_Date__c}
+
+Please let us know if you have any questions. And remember, we&apos;re here to help.
+
+Regards,
+Compliance Week
+
+
+Forgot password? | Click “Login” in the top left-hand corner of the site, choose “Forgot your password?” in the resulting dialog box, enter your email address, and a new password will be sent to you.
+
+Terms of Use | When you sign in to the Compliance Week Website for the first time using the above username and password, you are indicating that you agree to Compliance Week&apos;s Terms of Use.</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

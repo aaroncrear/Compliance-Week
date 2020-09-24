@@ -1,0 +1,22 @@
+<messaging:emailTemplate subject="An important message about your Compliance Week subscription" recipientType="Contact" relatedToType="OpportunityLineItem">
+<messaging:plainTextEmailBody ></messaging:plainTextEmailBody>
+ <messaging:htmlEmailBody >
+    <br/>
+    Hello {!relatedTo.Contact__r.Name},
+    <br/>
+    
+    <br/>Your Compliance Week subscription will be expiring soon. I hope you have found your subscription useful and informative, and have utilized all the resources Compliance Week provides for our subscribers.<br/>
+    <br/>Details of your upcoming renewal:<br/>
+    <br/>Minimum users:&nbsp;<apex:outputText value="{!FLOOR(relatedTo.PricebookEntry.Product2.Min_Users__c)}"/>&nbsp;| Max User:&nbsp;<apex:outputText value="{!FLOOR(relatedTo.PricebookEntry.Product2.Max_Users__c)}"/> 
+    <br/>Start Date:&nbsp;<apex:outputText value="{0,date,dd-MM-yyy}"><apex:param value="{!relatedTo.ServiceDate}"/></apex:outputText> &nbsp;
+         | End Date:&nbsp;<apex:outputText value="{0,date,dd-MM-yyy}"><apex:param value="{!relatedTo.Expiry_Date__c}"/></apex:outputText> 
+    <br/>Cost of Renewal: $ {!relatedTo.UnitPrice} <br/>
+    <br/>To renew today and ensure uninterrupted service, simply click the "Accept" below. We will process your renewal immediately and you'll be all set for another year (or two) from the day you are currently set to expire.
+    <br/><br/>
+    <a style="text-decoration:none; padding: 5px 15px;background: #4479BA;color: #FFF;" href="http://test-hmi.cs30.force.com/visualforceemail?id={!relatedto.Id}&action=accept">Accept</a>
+    <a style="text-decoration:none; padding: 5px 15px;background: rgb(238, 63, 63);color: #FFF;" href="http://test-hmi.cs30.force.com/visualforceemail?id={!relatedto.Id}&action=decline">Decline</a>
+    
+     <br/><br/>
+     <br/>The Compliance Week Team
+ </messaging:htmlEmailBody>
+</messaging:emailTemplate>

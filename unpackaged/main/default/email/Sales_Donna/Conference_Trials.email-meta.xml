@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>IIA GAM 2015</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Conference Trials</name>
+    <style>none</style>
+    <subject>Thank You for Visiting the Compliance Week Booth</subject>
+    <textOnly>: Your Compliance Week Trial
+
+Dear {!Contact.FirstName},
+
+Thanks for stopping by our booth at the IIA/GRC conference in Phoenix and signing up for a free 10-day Compliance Week trial. Here’s your log-in info:
+
+Username: {!Contact.Email}
+
+Password: password
+
+I hope you take the time to review all of our resources, including our articles, databases, columns, blogs, and other critical information.
+
+Three weekly email newsletters
+Monthly print magazine
+24/7 access to our Web site, which includes articles, columns, guidance, nine years&apos; of archives, and more
+More than a dozen research databases
+Free CPE credit from our on-demand library
+Expert commentary from exclusive writers like former FASB Chairman Robert Herz and others
+Our Resource Exchange, with checklists, surveys, and other tools used by peers at other subscribing companies
+And much more.
+
+Best regards,
+
+Donna O&apos;Neill
+
+Compliance Week | (617) 570-8617</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

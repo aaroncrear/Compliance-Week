@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Salesforce_Work_Items</fullName>
+    <active>true</active>
+    <businessProcess>Salesforce Work Items</businessProcess>
+    <compactLayoutAssignment>Salesforce_Work_Items</compactLayoutAssignment>
+    <description>Used to request updates, enhancements and fixes in Salesforce.</description>
+    <label>Salesforce Work Items</label>
+    <picklistValues>
+        <picklist>Origin</picklist>
+        <values>
+            <fullName>Email</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Manual</fullName>
+            <default>true</default>
+        </values>
+        <values>
+            <fullName>Phone</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Web</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Priority</picklist>
+        <values>
+            <fullName>High</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Low</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Medium</fullName>
+            <default>true</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Reason</picklist>
+        <values>
+            <fullName>Bug Fix</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>New Request</fullName>
+            <default>true</default>
+        </values>
+        <values>
+            <fullName>Other</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Question</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Type</picklist>
+        <values>
+            <fullName>Automation</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Custom apps%2Fobjects%2Ffields</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Data Loads%2FUpdates</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Integrations</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>New User Setup</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Other</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Reports%2FDasboards</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Security%2FSharing Settings</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>UI%2FLayouts</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>User Support%2FTraining</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+</RecordType>

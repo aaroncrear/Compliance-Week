@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>eBooks</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>eBooks2</name>
+    <style>none</style>
+    <subject>Compliance Week eBook Pipeline - 2018</subject>
+    <textOnly>Hi {!Contact.FirstName},
+
+I hope all is well at {!Account.Name}.
+
+We have identified multiple eBooks which we&apos;d like to release in the first half of 2018, I would like to see if you would be interested in sponsorship.
+
+As a sponsor to an eBook, you would be able to contribute a white paper and full page advertisement. Your logo would appear on the front cover and in all promotional materials, and your firm description would appear on the second page. You would also receive all registration information for marketing.  The eBook topics we are ready to release include:
+
+
+eBook: A global look at anti-corruption laws
+Anti-corruption developments continue at full speed ahead around the globe—from the newly released FCPA Corporate Enforcement Policy to a newly implemented ban on facilitation payments in Canada, to global corruption investigations in countries around the world entangling major international companies, it’s hard for risk, compliance, and audit executives to keep up with it all. This eBook will cover what’s been happening in the world of anti-bribery and anti-corruption, and what due diligence, risk management, compliance lessons can be learned along the way.
+
+eBook: Countdown to Getting ready for GDPR
+The countdown to GDPR implementation is getting closer. In this eBook, we will help companies prepare by exploring five critical steps companies should take to review and amend contracts in advance of the GDPR implementation date; how to merge GDPR compliance with cyber-risk management; how to avoid the compliance complications of GDPR; and so much more. For all those impacted by GDPR, this is a can’t-miss eBook.
+
+eBook: Lease Accounting Update
+New regulations over how companies must account for their revenue and expenses on various kinds of leases are providing a big new challenge for compliance officers. With less than a year to get their houses in order, and with many companies already behind schedule, lease accounting is poised to replace revenue recognition as the next major compliance challenge for which companies have more work to do than they have time to do it in.
+
+eBook: Updates in the world of internal audit
+Internal audit plans for 2018 will reflect more consideration of corporate culture and the risks it might pose to the company’s success. This eBook explores all those issues—from technological solutions to culture to accounting requirements and so much more.
+
+eBook: The opportunities and challenges of FinTech
+New technologies are poised to revolutionize compliance and risk management. Blockchain technology, for example, comes with plenty of anticipated benefits and pitfalls. But are CCOs and CROs ready and up to the challenge. And how might regulations provide a needed imprint of safety and security concerning the future of FinTech?  This eBook will explore answers to these questions.
+
+eBook: Overcoming money laundering risk in Europe
+The European Union has proposed some updates to anti-money laundering rules in an attempt to streamline coordination among member states in fighting terrorism financing and money laundering. And a new law holds that companies active in the U.K. could be subject to U.K. criminal proceedings if an employee anywhere in the world facilitates tax evasion. This eBook takes a look at all the latest regulatory developments in Europe concerning money laundering and tax evasion, and how to avoid this compliance risk.
+
+eBook: Reducing risk in the financial services industry
+Developments in the financial services industry are happening at warp speed. This eBook is designed to help you stay alert, and ahead, of just some of these developments. In this eBook, topics we will cover include how the financial services industry and the government are aiming to work together to more effectively prevent cyber-crime; how risk and compliance professionals in the financial services industry can take the pulse of their BSA/AML compliance programs and better understand how they stack up against their peers; how banks can reduce their costs on managing third-party risk; and what’s on tap for financial regulation—and deregulation—in the industry.
+
+eBook and Special Edition on Third Party Risk Management
+The TPRM special edition is being designed to help subscribers understand the myriad of third-party risks that global companies encounter in their day-to-day operations, and best practices for managing those risks. It will be a stand-alone edition, approximately 40 to 45 pages in length, and with multiple advertisers. The edition will be polybagged with our March print edition. It will also be distributed at the TPRM event in March in Atlanta.  The online eBook will be promoted to our entire active online database of 72,000 corporate legal, financial, audit, risk &amp; compliance executives at global public companies. The cost of a full page ad and access to all leads is $6,200. Edition will have multiple advertisers.
+
+Each eBook will be published online and will be released via email to Compliance Week’s entire active online database of 72,000 corporate financial, legal, audit, risk &amp; compliance executives at global public companies. We will also promote the eBook on our website homepage for three weeks and we’ll archive the eBook in our online library for one year. The online promotion will generate a MINIMUM of 300 registrations with all registration information shared with the sponsor.  The cost for exclusive sponsorship of an eBook is $15,000 and benefits include:
+
+Full page advertisement in the eBook
+White paper in the eBook (content prepared and formatted by the sponsor)
+Logo on all promotional materials including front cover
+Company description on page two of the eBook
+Ability to cross promote the eBook to own clients
+Leads from all promotion (minimum 300 leads guaranteed)
+
+As noted above, the TPRM special edition and eBook has a slightly different model where we are looking for multiple advertisers who each receive a full page advertisement and access to all the leads for $6,200.  All other eBooks will have one exclusive sponsor.
+
+Please let me know if you have questions or would like to see a sample eBook. Thanks for your consideration.
+
+
+
+-Doug
+
+
+
+----------------------------------
+Doug Juenemann
+Advertising &amp; Events
+Compliance Week
+djuenemann@complianceweek.com
+(617) 570 8610</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Payment_Status__c</fullName>
+    <externalId>false</externalId>
+    <formula>IF( Transaction_Paid__c,IF(ISPICKVAL( Payment_Method__c , "Check"),"Check",IF(ISPICKVAL( Payment_Method__c , "Credit Card"),"Credit Card",IF(ISPICKVAL( Payment_Method__c , "Amex"),"Amex",IF(ISPICKVAL( Payment_Method__c , "Visa/MC"),"Visa/MC","Accounts Receivable")))),"Accounts Receivable")</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <label>Payment Status</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

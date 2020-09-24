@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Type --></label>
+        <name>Type__c</name>
+        <picklistValues>
+            <masterLabel>Special Report</masterLabel>
+            <translation><!-- Special Report --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Thought Leadership</masterLabel>
+            <translation><!-- Thought Leadership --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Webcast</masterLabel>
+            <translation><!-- Webcast --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>eConference</masterLabel>
+            <translation><!-- eConference --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

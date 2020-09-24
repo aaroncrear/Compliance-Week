@@ -1,0 +1,23 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Trial Subscription Starts Now</title>
+
+  </head>
+<body>
+<img src="http://media.complianceweek.com/images/2010/12/03/complianceweek_133062.gif" alt="Compliance Week" width="436">
+<p>Dear {!Contact.FirstName},</p>
+<p>Welcome to Compliance Week, the world&#8217;s premier information service on corporate governance, risk and compliance. Every month, more than 60,000 professionals rely on us to help them comprehend and comply with the constantly evolving global regulations and standards to which public companies must adhere. We&#8217;re delighted you&#8217;ve joined them!</p>
+<p>We have set up online access for you at <a href="http://www.complianceweek.com/">complianceweek.com</a>. To ensure security of your account, we have not created a password for you. Please click the &#8220;Forgot Password?&#8221; link at the top of our website, paste your email address and click &#8220;send&#8221; to receive a temporary password.</p>
+<p>Your complimentary subscription includes two weekly newsletters: Tuesday&#8217;s <b>Compliance Week</b> and Friday&#8217;s <b>Compliance Week Weekend</b>. You&#8217;ll also enjoy complete access to all subscriber-only content&#8212;designated with a key symbol&#8212;online. Highlights include a <a href="http://www.complianceweek.com/topics/section/1767/">topic index</a> of recent coverage; <a href="http://www.complianceweek.com/databases/section/1768/">Disclosures</a>: Compliance Week databases and spreadsheets; and an on-demand CPE webcast <a href="http://www.complianceweek.com/on-demand-cpe-library/section/1886/">library</a>.</p> 
+<p>And for a monthly digest of compliance news, you&#8217;ll receive our popular magazine, both <a href="http://mydigimag.rrd.com/publication?i=157577">online</a> and in print. Our digital edition supports sticky notes, PDF creation and bookmarking.</p>
+<p>Please provide your postal address so that we may mail you the next available print magazine.</p>
+<p>Thanks again! And remember, we&#8217;re here to help. You can find answers to several common customer-service questions <a href="http://www.complianceweek.com/customer-service/section/2312/">online</a>, or you may contact us at +1 (617) 570-8600 or info@complianceweek.com.</p>
+<p>Compliance Week</br>
+77 N Washington St Fl 4</br>
+Boston, MA  02114-1908</br>
+United States</br>
++1 (617) 570-8600 | Fax (617) 227-3775</p>
+</body>
+</html>

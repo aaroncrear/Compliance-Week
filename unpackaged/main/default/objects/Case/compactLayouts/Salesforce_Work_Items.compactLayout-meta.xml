@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CompactLayout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Salesforce_Work_Items</fullName>
+    <fields>Subject</fields>
+    <fields>Priority</fields>
+    <fields>Submitted_By__c</fields>
+    <fields>Status</fields>
+    <fields>CaseNumber</fields>
+    <label>Salesforce Work Items</label>
+</CompactLayout>

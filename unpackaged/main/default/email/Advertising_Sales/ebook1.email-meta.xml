@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>false</available>
+    <description>dodd frank</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>DOUG | ebook</name>
+    <style>none</style>
+    <subject>Compliance Week eBooks on FATCA Compliance &amp; Stress Tests</subject>
+    <textOnly>Hi {!Contact.FirstName},
+
+I hope things are well at {!Account.Name}.  I wanted to let you know that we’re releasing a couple of eBooks over the coming months for our subscribers in financial services, and I hope you consider sponsorship.
+
+In March, it will be an eBook on FATCA Compliance which will discuss how you can improve FATCA compliance based upon your anti money laundering program. The eBook will be approximately 20 pages in length with stories that will look at (1) the analysis needed to identify gaps between FATCA compliance and programs you already have in place for anti-money laundering and other rules; (2) the emerging framework of Inter-Governmental Agreements to facilitate compliance; and  (3) how can you better coordinate the processes and oversight you’ll need for effective FATCA and AML compliance.
+
+In April, it will be an eBook on Stress Tests for Financial Institutions which will look at what regulators want to see for risk management. The eBook will be approximately 20 pages in length with stories that will look at (1) bank’s reporting requirements for stress tests, and automating that information capture so the compliance effort can be sustainable; (2) weaknesses in your compliance infrastructure and changes in risk management, modeling, analytics, reporting, etc, that can be made to improve the situation; and (3) the strategic or structural changes your board can make to ease its compliance burdens.
+
+Each eBook will publish online and will be released via email to Compliance Week’s entire active online database of 46,000 corporate financial, legal, audit, risk &amp; compliance executives at global public companies. We will also promote the eBooks on our website homepage for three weeks and we’ll archive the books in our online library for one year. The online promotion will generate approximately 500 registrations for each eBook with all registration information shared with the sponsor.  The cost for exclusive sponsorship is $17,000 per eBook and benefits include:
+
+
+Full page advertisement in the eBook
+White paper in the eBook (content prepared by the sponsor)
+Logo on all promotional materials including front cover
+Company description on page two
+Ability to promote the eBook to own clients
+Leads from all promotion
+
+Please let me know if you are interested in sponsorship of either eBook or have questions.  Thanks for your consideration.
+
+
+
+-Doug
+
+
+----------------------------------
+Doug Juenemann
+Advertising Sales
+Compliance Week
+77 N Washington St.
+Boston, MA 02114
+djuenemann@complianceweek.com
+(617) 570 8610</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

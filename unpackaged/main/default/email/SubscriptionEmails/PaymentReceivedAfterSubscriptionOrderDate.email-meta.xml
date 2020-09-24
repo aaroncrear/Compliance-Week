@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Sends an email when we receive payment after the date of the original transaction</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Payment Received (After Order Date)</name>
+    <style>none</style>
+    <subject>Your Compliance Week Subscription - Payment Received</subject>
+    <type>text</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

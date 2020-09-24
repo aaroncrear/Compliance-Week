@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>photo signature</name>
+    <style>none</style>
+    <subject>photo signature</subject>
+    <textOnly>Donna M.H. O&apos;Neill
+donna.oneill@complianceweek.com
+
+Compliance Week
+77 N. Washington St., Boston MA 02114
+617-570-8617 | f 800-675-1887 | www.complianceweek.com</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

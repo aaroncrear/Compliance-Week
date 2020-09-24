@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Print</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Dec Back Cover</name>
+    <style>none</style>
+    <subject>Compliance Week June Print Edition</subject>
+    <textOnly>Hi {!Contact.FirstName},
+
+We are working to close the December print edition of Compliance Week and have space available for a full page advertisement on the outside back cover. The back cover is the most visible position in the magazine, we typically charge a 20% premium.
+
+I’d like to see if {!Account.Name} would be interested in the position. Because it&apos;s late and we need to fill the position we&apos;d be willing to give a reduced rate and include complimentary online banner impressions.
+
+The rate card cost for the position is $7,150. I will reduce the cost to $6,000 and include 25,000 online banner impressions as added value. Materials for the print ad would be due by EOD Thursday next week, Nov 9th. The edition  would reach subscribers the first week of December.
+
+Please let me know soon if you are interested, we’re approaching others.
+
+Thanks for your consideration.
+
+
+
+
+-Doug
+
+
+
+----------------------------------
+Doug Juenemann
+Advertising &amp; Events
+Compliance Week
+doug@complianceweek.com
+(617) 570 8610</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Advertising</fullName>
+    <active>true</active>
+    <label>Advertising</label>
+    <picklistValues>
+        <picklist>Account_Name__c</picklist>
+        <values>
+            <fullName>Banner</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>CPE Self Study</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>CPE Webcasts</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Direct Email</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Directory Listing</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Display</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Event Listings</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Event Newsletter Sponsorships</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Event Sponsorship</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Inserts</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Job Listing</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Key Word</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>List Rentals</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Newsletter Sponsorships</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Other</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Reports%2FSurvey</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Reprints</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Supplements</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Webcast Sponsorships</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Whitepapers</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Budget_Category__c</picklist>
+        <values>
+            <fullName>Event</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Lead Generation</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Publishing</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Business_Unit__c</picklist>
+        <values>
+            <fullName>Compliance Week</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Family</picklist>
+        <values>
+            <fullName>Event</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Online</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Print</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+</RecordType>

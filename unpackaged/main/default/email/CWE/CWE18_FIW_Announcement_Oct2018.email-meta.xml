@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>CWE18 &amp; FIW Announcement - Oct2018</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>Compliance_Week</letterhead>
+    <name>CWE18 &amp; FIW Announcement - Oct2018</name>
+    <style>freeForm</style>
+    <subject>Identify Human Trafficking Indicators within Financial Data - New Workshop!</subject>
+    <textOnly>New! Financial Intelligence Workshop;
+Detect, Disrupt, and Deter Human Trafficking
+14 November | Barbizon Palace Hotel | Amsterdam
+
+Dear {!Contact.FirstName},
+
+Following Compliance Week Europe*, this one-day experiential deep-dive programme focusing on banking data will equip you with an increased understanding of how to monitor, identify, investigate, and report transactions related to terrorism financing, human trafficking, and money laundering.
+
+Why Attend?
+
+Enhance proficiency in analysis and recognition of terrorist financing and human trafficking indicators;
+Participate in hands-on live scenarios and group exercises utilizing banking data from recent attacks from around the world;
+Learn how to identify and effectively report suspicious activities for actionable results;
+Understand how financial intelligence can be used in identifying and disrupting Foreign Fighter;
+Network with like-minded peers in the financial intelligence space during this unique workshop.
+
+Please see here to register, or contact me directly for more information on this workshop designed to give compliance practitioners practical insights to be better prepared in recognizing human trafficking and money laundering risks in your organization.
+
+
+Best Regards,
+
+{!User.Name}
+{!User.Title}
+{!User.CompanyName}
+{!User.Email}
+{!User.Phone}
+
+Compliance Week Europe | 12-13 November 2018 | Amsterdam
+
+» Agenda
+» Registration
+» Speakers
+» Venue
+» Sponsorship opportunities
+» Continuing Education</textOnly>
+    <type>html</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

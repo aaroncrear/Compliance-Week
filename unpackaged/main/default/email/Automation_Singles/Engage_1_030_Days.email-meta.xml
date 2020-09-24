@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Engagement outreach 11 months before expire</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Engage 1 @ 030 Days</name>
+    <style>none</style>
+    <subject>Welcome! Important details about your membership</subject>
+    <textOnly>Dear {!Opportunity.Primary_Subscription_Contact__c},
+
+By becoming a member of Compliance Week, you’ve joined a growing community of compliance professionals who look to us for news, real-world best practices, informed opinion, and research to make a positive impact on your program, company, and career.
+
+Here’s a quick guide to help you maximize all the great benefits that come with your membership.
+
+Login: Make sure to visit complianceweek.com to create or update your login credentials. Much of the content available online is only accessible to members. To sign on, click the SIGN IN link in the right-hand corner of all our pages online.
+Newsletters and preferences: Click on the unsubscribe link in the footer of any email to sign up for newsletters and to confirm your content preferences.
+CPE credits: Leverage your membership privileges by accessing our extensive library of Webcasts of live and on-demand options to earn free CPE credits. Exclusively available to members.
+In-person events: Member discounts are also available to our in-person conferences where you are able to maximize peer-to-peer networking opportunities. Make sure to visit our constantly evolving line-up of events.
+
+If you have specific questions about your subscription or need assistance setting-up your online access, feel free to contact me either via phone at (617) 570-8605 or email.
+
+Thank you,
+
+
+
+Best regards,
+
+Angela Ruggiero
+Business Development Associate
+(617) 570-8608
+angela.ruggiero@complianceweek.com</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

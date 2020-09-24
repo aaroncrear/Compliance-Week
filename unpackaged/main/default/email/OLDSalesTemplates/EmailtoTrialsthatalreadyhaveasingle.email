@@ -1,0 +1,16 @@
+Dear {!Contact.FirstName}:
+
+Thank you so much for trying Compliance Week.  We really appreciate your interest.
+
+As you may know, someone else in your company has a single-user subscription, and for a limited time, we are offering additional subscriptions for $599 ($999 is the normal price).
+
+That means you can get a Compliance Week subscription for a 40% discount off our annual rate.
+
+Please reply to this email or call me to get your subscription today.
+
+Thanks, and best regards, 
+
+{!Account.OwnerFullName}
+{!Account.OwnerTitle}
+{!Account.OwnerPhone}
+{!Account.OwnerEmail}

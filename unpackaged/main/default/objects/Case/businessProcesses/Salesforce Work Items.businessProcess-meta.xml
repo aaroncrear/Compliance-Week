@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BusinessProcess xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Salesforce Work Items</fullName>
+    <description>Used to request updates, enhancements and fixes in Salesforce.</description>
+    <isActive>true</isActive>
+    <values>
+        <fullName>Build</fullName>
+        <default>false</default>
+    </values>
+    <values>
+        <fullName>Closed</fullName>
+        <default>false</default>
+    </values>
+    <values>
+        <fullName>Design</fullName>
+        <default>false</default>
+    </values>
+    <values>
+        <fullName>New</fullName>
+        <default>true</default>
+    </values>
+    <values>
+        <fullName>On Hold</fullName>
+        <default>false</default>
+    </values>
+    <values>
+        <fullName>Ready to Deploy</fullName>
+        <default>false</default>
+    </values>
+    <values>
+        <fullName>Testing</fullName>
+        <default>false</default>
+    </values>
+    <values>
+        <fullName>UAT</fullName>
+        <default>false</default>
+    </values>
+</BusinessProcess>

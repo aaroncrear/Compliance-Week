@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Qualification_Source__c</fullName>
+    <externalId>false</externalId>
+    <label>Qualification Source</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Personal Direct Request</fullName>
+                <default>false</default>
+                <label>Personal Direct Request</label>
+            </value>
+            <value>
+                <fullName>Direct Request From Company (Member of Multi)</fullName>
+                <default>false</default>
+                <label>Direct Request From Company (Member of Multi)</label>
+            </value>
+            <value>
+                <fullName>Other</fullName>
+                <default>false</default>
+                <label>Other</label>
+            </value>
+            <value>
+                <fullName>Paid Subscription</fullName>
+                <default>false</default>
+                <label>Paid Subscription</label>
+            </value>
+            <value>
+                <fullName>Fax</fullName>
+                <default>false</default>
+                <label>Fax</label>
+            </value>
+            <value>
+                <fullName>Mail</fullName>
+                <default>false</default>
+                <label>Mail</label>
+            </value>
+            <value>
+                <fullName>Email</fullName>
+                <default>false</default>
+                <label>Email</label>
+            </value>
+            <value>
+                <fullName>Phone</fullName>
+                <default>false</default>
+                <label>Phone</label>
+            </value>
+            <value>
+                <fullName>Trial</fullName>
+                <default>false</default>
+                <label>Trial</label>
+            </value>
+            <value>
+                <fullName>Profile Update</fullName>
+                <default>false</default>
+                <label>Profile Update</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

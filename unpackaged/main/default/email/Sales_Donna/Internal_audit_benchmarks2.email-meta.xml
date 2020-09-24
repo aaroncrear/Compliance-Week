@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>$799 sub offer for April (from 4-3-14 promo email)</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Internal audit benchmarks</name>
+    <style>none</style>
+    <subject>Internal audit benchmarks—what people are saying</subject>
+    <textOnly>Recently we covered the results of several benchmark surveys detailing the challenges internal auditors face—like unclear duties, strategic risk, and increased regulatory complexity that border on alarming.
+
+See it here:
+http://www.complianceweek.com/internal-audit-facing-multiple-challenges-surveys-say/article/339227/
+
+Access benchmark coverage like this—email Angela to begin your subscription for just $799*.
+Or call (617) 570-8617
+
+	
+*offer is for a single-user subscription and available to first-time subscribers only through July 30, 2014.</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

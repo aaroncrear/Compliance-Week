@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Email sent to subscriber containing renewal invoice.</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Renewal Multi #2 @ –60 Days: Sub Invoice</name>
+    <style>none</style>
+    <subject>Your Compliance Week Membership is Renewing and Payment is Now Due</subject>
+    <textOnly>My Account | Contact Us | Terms &amp; Conditions
+Log-In Required
+
+Renewal Invoice
+
+Invoice Number: {!Opportunity.Invoice__c}  Payment Due: {!Opportunity.Subscription_Starts__c}
+Issued To:  Issued By:
+{!Opportunity.Primary_Subscription_Contact__c}  Accounts Receivable
+{!Account.Name}  Wilmington Compliance Week
+{!Account.BillingStreet}  129 Portland St Fl 6
+{!Account.BillingCity}, {!Account.BillingStateCode} {!Account.BillingPostalCode}  Boston MA  02114-2014
+
+One-Year Membership to Compliance Week   . . .  {!Opportunity.Amount}
+{!Opportunity.Subscription_Starts__c} through {!Opportunity.Subscription_Expires__c}
+
+Your corporate membership is expiring in 60 days. We ask that you pay this invoice by {!Opportunity.CloseDate} to ensure uninterrupted service and continued access to ComplianceWeek.com. If you wish to renew, please respond to this email with “I agree to renew.” We will then follow up for payment, which may be made by credit card, check or via wire.
+
+Payments:   Vimaly Ruiz
+Customer Service:   Angela Ruggiero</textOnly>
+    <type>custom</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>
